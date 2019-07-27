@@ -1,7 +1,6 @@
 # BlisteringBlockchain
 Blockchain codefundo project for cloud deployment on Azure
 
+The use of blockchain to secure the voter database is possible. Distrbuted ledger technology or blockchain can be hyperlocalised solutions to enable voter verification and addition to voter eligibility list. This represents an exciting solution to the problem of eligible voters being left out due to delay in updation in ID.
 
-The idea of blockchain deployment in healthcare is what excites me most. This does not necessarily have to have a finance/accounting section to it.
-
-Some out of the head ideas are tracking organs during a organ donor retrieval list and make sure it is transported and used within the viable time period (which varies among organs).
+This is better in that faster updation of voter details just before election is possible, with potentially faster and cheaper verification. Today, the ECI spends millions in setting up voter registration desks all over the country. This cost can be cutdown by moving this exercise online and via blockchain.
