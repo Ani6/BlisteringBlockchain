@@ -1,0 +1,41 @@
+{
+  "palette": {
+    "navy": "0F1A2E",
+    "navyText": "1B2A4A",
+    "blue": "2563EB",
+    "blueDark": "1D4ED8",
+    "blueLight": "DBEAFE",
+    "blueTint": "EFF5FF",
+    "green": "22C55E",
+    "greenText": "15803D",
+    "slate": "475569",
+    "rule": "D6E0EE",
+    "ink": "0F172A",
+    "white": "FFFFFF",
+    "warn": "B45309"
+  },
+  "fonts": {
+    "head": "Arial",
+    "body": "Arial"
+  },
+  "contact": {
+    "website": "https://www.dhruvlabs.com/",
+    "websiteLabel": "www.dhruvlabs.com",
+    "email": "dhruvlabs@gmail.com",
+    "hours": "Mon-Sat 7 AM-9 PM  |  Sun 7 AM-5 PM",
+    "branches": [
+      {
+        "name": "Laxmi Nagar",
+        "address": "J-11, West High Court Road, Laxmi Nagar, Nagpur 440022",
+        "phone": "+91 89282 95328",
+        "maps": "https://maps.google.com/?q=Dhruv+Diagnostics,+Laxmi+Nagar,+Nagpur"
+      },
+      {
+        "name": "Ramdaspeth",
+        "address": "3rd Floor, Aditya Enclave, Central Bazar Road, Ramdaspeth, Nagpur 440010",
+        "phone": "+91 99224 16303",
+        "maps": "https://maps.google.com/?q=Dhruv+Diagnostics,+Ramdaspeth,+Nagpur"
+      }
+    ]
+  }
+}
