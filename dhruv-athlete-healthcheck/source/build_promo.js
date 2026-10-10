@@ -116,20 +116,25 @@ const bullets = (s, items, o) => T(s, items.map((t, i) => ({ text: t, options: {
   // 6. Plans
   s = pres.addSlide({ masterName: "CONTENT", sectionTitle: "Offer" });
   s.addText("Three plans", { placeholder: "title" });
+  const PR = require("./brand.json").pricing;
+  const inr = (n) => "\u20B9" + Number(n).toLocaleString("en-IN");
   const plans = [
-    ["Base", "Members starting out or under 35", ["Full blood panel and ECG", "CK muscle marker", "Physician review"], H.tint, H.navyText, H.slate],
-    ["Performance", "Regular lifters, runners, members on a cut or bulk", ["Everything in Base", "Apo B, Lp(a), NT-proBNP", "Hormone and full muscle panel", "One ultrasound region"], H.blue, H.white, "E1EBFF"],
-    ["Elite", "Competitors, bodybuilders, members over 35 starting high-intensity work", ["Everything in Performance", "Treadmill stress test", "hs-troponin, IGF-1, cortisol", "Up to three ultrasound regions"], H.navy, H.white, H.soft],
+    ["Base", "Members starting out or under 35", ["Full blood panel and ECG", "CK muscle marker", "Physician review"], H.tint, H.navyText, H.slate, H.blue],
+    ["Performance", "Regular lifters, runners, members on a cut or bulk", ["All of Base", "Apo B, Lp(a), NT-proBNP", "Hormone and muscle panel", "1 ultrasound region"], H.blue, H.white, "E1EBFF", H.white],
+    ["Elite", "Competitors, bodybuilders, over-35s starting high-intensity work", ["All of Performance", "Treadmill stress test", "hs-troponin, IGF-1, cortisol", "Up to 3 ultrasound regions"], H.navy, H.white, H.soft, H.green],
   ];
-  plans.forEach(([name, who, items, bg, hc, tc], i) => {
-    const x = 0.5 + i * 3.05;
-    panel(s, x, 1.15, 2.85, 3.85, bg);
-    T(s, name, { x: x + 0.22, y: 1.32, w: 2.45, h: 0.45, fontSize: 22, bold: true, color: hc });
-    T(s, who, { x: x + 0.22, y: 1.82, w: 2.45, h: 0.75, fontSize: 12, italic: true, color: tc });
-    T(s, items.map((t, j) => ({ text: t, options: { bullet: true, breakLine: j < items.length - 1 } })), { x: x + 0.22, y: 2.6, w: 2.45, h: 1.75, fontSize: 13, color: hc, paraSpaceAfter: 4 });
-    T(s, "Partner price on request", { x: x + 0.22, y: 4.55, w: 2.45, h: 0.3, fontSize: 12, bold: true, color: [H.blue, H.white, H.green][i] });
+  plans.forEach(([name, who, items, bg, hc, tc, pc], i) => {
+    const x = 0.5 + i * 3.05, pr = PR.plans[i];
+    panel(s, x, 1.15, 2.85, 3.62, bg);
+    T(s, name, { x: x + 0.22, y: 1.3, w: 2.45, h: 0.42, fontSize: 21, bold: true, color: hc });
+    T(s, who, { x: x + 0.22, y: 1.74, w: 2.45, h: 0.62, fontSize: 11, italic: true, color: tc });
+    T(s, items.map((t, j) => ({ text: t, options: { bullet: true, breakLine: j < items.length - 1 } })), { x: x + 0.22, y: 2.4, w: 2.45, h: 1.35, fontSize: 12, color: hc, paraSpaceAfter: 3 });
+    T(s, inr(pr.price), { x: x + 0.22, y: 3.6, w: 2.45, h: 0.5, fontSize: 28, bold: true, color: pc });
+    T(s, "Gym-partner members " + inr(pr.partner), { x: x + 0.22, y: 4.12, w: 2.45, h: 0.25, fontSize: 11, bold: true, color: hc });
+    T(s, [{ text: "Tests bought separately " }, { text: inr(pr.value), options: { strike: "sngStrike" } }], { x: x + 0.22, y: 4.4, w: 2.45, h: 0.25, fontSize: 10, color: tc });
   });
-  s.addNotes("Fill in partner prices before the meeting. A urine drugs-of-abuse screen can be added to any plan.");
+  T(s, "Add-ons: " + PR.addons.map((a) => a.name + " " + inr(a.price)).join("   |   "), { x: 0.5, y: 4.88, w: 9, h: 0.22, fontSize: 10, color: H.slate });
+  s.addNotes("Prices are proposed launch prices set from 2026 market rates for each test in Nagpur and national chains; the struck-through figure is the sum of the same tests bought one by one. Confirm with Dhruv management before external use.");
 
   // 7. Partnership
   pres.addSection({ title: "Partnership" });

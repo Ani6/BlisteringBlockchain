@@ -1,10 +1,13 @@
 const fs = require("fs");
 const { chromium } = require("/opt/node22/lib/node_modules/playwright");
 const B = require("./brand.json");
+const inr = (n) => "\u20B9" + Number(n).toLocaleString("en-IN");
 let html = fs.readFileSync("flyer_tpl.html", "utf8");
 for (const [k, v] of Object.entries(B.palette)) html = html.split("{{" + k + "}}").join(v);
 const c = B.contact;
 html = html.replace("{{branches}}", c.branches.map((b) => `<div class="br"><b>${b.name}</b><span class="ph">${b.phone}</span><div>${b.address}</div></div>`).join(""))
+  .replace("{{priceCells}}", B.pricing.plans.map((p) => `<td class="p">${inr(p.price)} <span class="m">(${inr(p.partner)})</span></td>`).join(""))
+  .replace("{{addons}}", "Add-ons: " + B.pricing.addons.map((a) => `${a.name.toLowerCase()} ${inr(a.price)}`).join("; ") + ".")
   .replace("{{hours}}", c.hours).replace("{{email}}", c.email).replace("{{websiteLabel}}", c.websiteLabel);
 fs.writeFileSync("flyer.html", html);
 (async () => {

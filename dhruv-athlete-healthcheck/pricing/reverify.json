@@ -1,0 +1,752 @@
+[
+ {
+  "name": "NT-proBNP",
+  "verdict": "confirmed",
+  "low_inr": 1299,
+  "typical_inr": 3200,
+  "high_inr": 4300,
+  "reason": "I found seven credible current listings, three of them on Nagpur pages: Metropolis at 3250, Max Lab at 3640 and Agilus at 4300. National listings were Redcliffe at 3000 and Tata 1mg at 3009 to 3420 depending on city. The median of one price per lab is 3200, within 2% of the earlier 3250. The low end is discount aggregators: PharmEasy shows 1299 against a 2999 list price, and Thyrocare (via a reseller) shows 1800. Max@Home showed conflicting figures (2290, 2976, 3720), so I left it out. None of the pages carried a clear 2026 date.",
+  "sources": [
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Nagpur",
+    "price_inr": 3250,
+    "url": "https://www.metropolisindia.com/parameter/nagpur/nt-pro-bnp-serum"
+   },
+   {
+    "lab": "Max Lab",
+    "city": "Nagpur",
+    "price_inr": 3640,
+    "url": "https://www.maxlab.co.in/lab-tests/nt-probnp"
+   },
+   {
+    "lab": "Agilus Diagnostics",
+    "city": "Nagpur",
+    "price_inr": 4300,
+    "url": "https://agilusdiagnostics.com/test/nagpur/100009745/nt-probnp"
+   },
+   {
+    "lab": "PharmEasy (aggregator, offer price; list 2999)",
+    "city": "Nagpur",
+    "price_inr": 1299,
+    "url": "https://pharmeasy.in/diagnostics/tests/ntprobnp-694"
+   },
+   {
+    "lab": "Thyrocare (via diagnosticcentres.in)",
+    "city": "National",
+    "price_inr": 1800,
+    "url": "https://www.diagnosticcentres.in/health-checkup-packages/nt-probnp"
+   },
+   {
+    "lab": "Redcliffe Labs",
+    "city": "Mumbai",
+    "price_inr": 3000,
+    "url": "https://redcliffelabs.com/mumbai/tests/nterminal-pro-b-type-natriuretic-peptide-ntpro-bnp"
+   },
+   {
+    "lab": "Tata 1mg Labs",
+    "city": "Mumbai",
+    "price_inr": 3200,
+    "url": "https://www.1mg.com/labs/test/nt-pro-bnp-1548/mumbai/price"
+   }
+  ]
+ },
+ {
+  "name": "High-sensitivity troponin I (hs-TnI) or T",
+  "verdict": "confirmed",
+  "low_inr": 572,
+  "typical_inr": 1750,
+  "high_inr": 2000,
+  "reason": "For hs-TnI and quantitative troponin I, the listings ran from 572 to 2000, and the median is 1750, within 3% of the earlier 1700. Three Nagpur listings fall in the same band: Redcliffe at 1499 (via Bookmerilab), Max Lab at 1750 and Diagnopein at 1800 for quantitative troponin I. Max Lab and Diagnopein do not say whether their assay is high-sensitivity. Prices for hs-TnT are similar: Redcliffe 1499, Lupin 1500, Aster about 1800 and Metropolis 1975. I excluded the PharmEasy Nagpur 'Troponin I Rapid Test' (949, list 1749) because it is a rapid card test, not hs. The low end is Thyrocare at 572 through a reseller; Healthcareontime's 503 listing is about 469 days old, so I set it aside. The Tata 1mg listing at 1619 is about two years old.",
+  "sources": [
+   {
+    "lab": "Redcliffe Labs (via Bookmerilab Nagpur listing)",
+    "city": "Nagpur",
+    "price_inr": 1499,
+    "url": "https://bookmerilab.com/nagpur/troponin-i--508"
+   },
+   {
+    "lab": "Max Lab (Troponin I; hs not stated)",
+    "city": "Nagpur",
+    "price_inr": 1750,
+    "url": "https://www.maxlab.co.in/lab-tests/trop-i-test"
+   },
+   {
+    "lab": "Diagnopein (Troponin I quantitative)",
+    "city": "Nagpur",
+    "price_inr": 1800,
+    "url": "https://www.diagnopein.com/pathology-test/Nagpur/TROPONIN-I-Quantative"
+   },
+   {
+    "lab": "Redcliffe Labs (hs-TnI; list 3500)",
+    "city": "Delhi",
+    "price_inr": 1499,
+    "url": "https://redcliffelabs.com/delhi/tests/troponin-i-quantitative"
+   },
+   {
+    "lab": "Thyrocare hs-TnI (via diagnosticcentres.in)",
+    "city": "National",
+    "price_inr": 572,
+    "url": "https://www.diagnosticcentres.in/health-checkup-packages/high-sensitivity-troponin-i"
+   },
+   {
+    "lab": "Aster Labs hs-TnI (range 1430-1710 by city)",
+    "city": "National",
+    "price_inr": 1430,
+    "url": "https://www.asterlabs.in/tests/troponin-i-high-sensitive-test"
+   },
+   {
+    "lab": "Tata 1mg Labs hs-TnI quantitative (listing ~2 yrs old)",
+    "city": "New Delhi",
+    "price_inr": 1619,
+    "url": "https://www.1mg.com/labs/test/high-sensitive-troponin-i-quantitative-35155/new-delhi/price"
+   },
+   {
+    "lab": "DNA Labs India hs-TnI",
+    "city": "National",
+    "price_inr": 1872,
+    "url": "https://dnalabsindia.com/test/troponin-i-high-sensitive-hstni-test"
+   },
+   {
+    "lab": "Agilus Diagnostics hs-TnI",
+    "city": "Pune",
+    "price_inr": 2000,
+    "url": "https://agilusdiagnostics.com/test/pune/100005627/h-s-troponin-i-serum"
+   },
+   {
+    "lab": "Metropolis Healthcare Troponin I serum",
+    "city": "National",
+    "price_inr": 2000,
+    "url": "https://www.metropolisindia.com/parameter/troponin-i-serum"
+   },
+   {
+    "lab": "Metropolis Healthcare hs-TnT",
+    "city": "National",
+    "price_inr": 1975,
+    "url": "https://www.metropolisindia.com/parameter/troponin-tserum"
+   },
+   {
+    "lab": "Lupin Diagnostics Troponin T",
+    "city": "National",
+    "price_inr": 1500,
+    "url": "https://www.lupindiagnostics.com/test/troponin-t-test"
+   }
+  ]
+ },
+ {
+  "name": "IGF-1 (insulin-like growth factor 1)",
+  "verdict": "confirmed",
+  "low_inr": 2800,
+  "typical_inr": 4150,
+  "high_inr": 5500,
+  "reason": "Only one Nagpur price turned up: Diagnopein at 2800. Metropolis, Agilus, Redcliffe, Max Lab and Tata 1mg had no Nagpur IGF-1 page in the results. Taking one price per lab, and the Maharashtra city page where there was one, the median is about 4150, 13.6% above the earlier 3650. That is within the 15% band, but only barely. The earlier 3650 is exactly Metropolis's price in Mumbai, Thane and Chennai. Several big chains charge more: Redcliffe, Max Lab and Pathkind are at 4300, and Agilus is at 4500 to 4700 outside Mumbai, where it charges 3150. If I keep only Nagpur and Maharashtra pages (2800, 3089, 3150, 3650, 4300, 4400), the median is about 3400. The 5500 high is DNA Labs, a small lab whose listing may be stale; Orange Health in Bangalore is 5000.",
+  "sources": [
+   {
+    "lab": "Diagnopein",
+    "city": "Nagpur",
+    "price_inr": 2800,
+    "url": "https://www.diagnopein.com/pathology-test/Nagpur/IGF---1-(Insulin-Like-Growth-Factor---1)"
+   },
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Mumbai",
+    "price_inr": 3650,
+    "url": "https://www.metropolisindia.com/parameter/mumbai/igf-1somatomedin-cserum"
+   },
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Delhi",
+    "price_inr": 4000,
+    "url": "https://www.metropolisindia.com/parameter/delhi/igf-1somatomedin-cserum"
+   },
+   {
+    "lab": "Tata 1mg Labs",
+    "city": "Pune",
+    "price_inr": 3089,
+    "url": "https://www.1mg.com/labs/test/igf-1-somatomedin-c-1871/pune/price"
+   },
+   {
+    "lab": "Agilus Diagnostics (Mumbai 3150; most other cities 4500)",
+    "city": "Chennai",
+    "price_inr": 4700,
+    "url": "https://agilusdiagnostics.com/test/chennai/100004065/insulin-like-growth-factor-1-igf-1"
+   },
+   {
+    "lab": "Aster Labs",
+    "city": "Kasargod",
+    "price_inr": 3990,
+    "url": "https://www.asterlabs.in/kasargod/tests/igf-1-somatomedin-c-test"
+   },
+   {
+    "lab": "Redcliffe Labs",
+    "city": "National",
+    "price_inr": 4300,
+    "url": "https://redcliffelabs.com/insulin-like-growth-factor1-igf1"
+   },
+   {
+    "lab": "Max Lab",
+    "city": "Pune",
+    "price_inr": 4300,
+    "url": "https://www.maxlab.co.in/lab-test/profile/pune/igf-i-somatomedin-c"
+   },
+   {
+    "lab": "Pathkind Labs",
+    "city": "National",
+    "price_inr": 4300,
+    "url": "https://www.pathkindlabs.com/diagnostic/insulin-like-growth-factor-1-igf-1"
+   },
+   {
+    "lab": "Orange Health",
+    "city": "Bangalore",
+    "price_inr": 5000,
+    "url": "https://www.orangehealth.in/lab-test-bangalore/insulin-like-growth-factor-1-igf-1-somatomedin-c-serum-test"
+   },
+   {
+    "lab": "DNA Labs India",
+    "city": "National",
+    "price_inr": 5500,
+    "url": "https://dnalabsindia.com/test/igf-i-somatomedin-c-test"
+   }
+  ]
+ },
+ {
+  "name": "SHBG (sex hormone binding globulin)",
+  "verdict": "confirmed",
+  "low_inr": 1230,
+  "typical_inr": 2400,
+  "high_inr": 2900,
+  "reason": "I found three Nagpur listings: Diagnopein at 2300, Redcliffe (Gaddi Godam) at 2600 against a 4680 list price, and Metropolis at 2900. National chains sit close to these: Tata 1mg at 2249 to 2499 by city (2439 in Mumbai), Lupin at 2300 and Max Lab at 2500. The median of one price per lab is about 2370, roughly 2400, within 4% of the earlier 2460. Thyrocare through resellers is 1000 to 1230, and I used 1230 as the low. PharmEasy's 699 looks like an outlier promotional price and is not Nagpur-specific, so I left it out of the low.",
+  "sources": [
+   {
+    "lab": "Diagnopein",
+    "city": "Nagpur",
+    "price_inr": 2300,
+    "url": "https://www.diagnopein.com/pathology-test/Nagpur/SHBG-SEX-HORMONE-BINDING-GLOBULIN"
+   },
+   {
+    "lab": "Redcliffe Labs (Gaddi Godam; list 4680)",
+    "city": "Nagpur",
+    "price_inr": 2600,
+    "url": "https://redcliffelabs.com/nagpur/gaddi-godam/tests/sex-hormone-binding-globulin-shbg"
+   },
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Nagpur",
+    "price_inr": 2900,
+    "url": "https://www.metropolisindia.com/parameter/nagpur/shbg-sex-hormone-binding-globulin-serum"
+   },
+   {
+    "lab": "Tata 1mg Labs (Mumbai 2439; Delhi 2249)",
+    "city": "Mumbai",
+    "price_inr": 2439,
+    "url": "https://www.1mg.com/labs/test/sex-hormone-binding-globulin-2490"
+   },
+   {
+    "lab": "Lupin Diagnostics",
+    "city": "National",
+    "price_inr": 2300,
+    "url": "https://www.lupindiagnostics.com/test/sex-hormone-binding-globulin-shbg"
+   },
+   {
+    "lab": "Max Lab",
+    "city": "National",
+    "price_inr": 2500,
+    "url": "https://www.maxlab.co.in/lab-tests/sex-hormone-binding-globulin-shbg-l"
+   },
+   {
+    "lab": "Thyrocare (via diagnosticcentres.in)",
+    "city": "National",
+    "price_inr": 1230,
+    "url": "https://www.diagnosticcentres.in/health-checkup-packages/sex-hormone-binding-globulin-"
+   },
+   {
+    "lab": "PharmEasy (outlier offer price, excluded from low)",
+    "city": "National",
+    "price_inr": 699,
+    "url": "https://pharmeasy.in/diagnostics/tests/sex-hormone-binding-globuline-shbg-128"
+   }
+  ]
+ },
+ {
+  "name": "Serum myoglobin",
+  "verdict": "adjusted",
+  "low_inr": 1576,
+  "typical_inr": 3000,
+  "high_inr": 4300,
+  "sources": [
+   {
+    "lab": "Max At Home (Max Healthcare), Birla Nagar",
+    "city": "Nagpur",
+    "price_inr": 1576,
+    "url": "https://www.maxathome.in/services/pathology/tests/serum-myoglobin/nagpur/birla-nagar"
+   },
+   {
+    "lab": "Diagnopein",
+    "city": "Nagpur",
+    "price_inr": 2800,
+    "url": "https://www.diagnopein.com/pathology-test/Nagpur/SERUM-MYOGLOBIN"
+   },
+   {
+    "lab": "Lupin Diagnostics",
+    "city": "National (several cities)",
+    "price_inr": 2500,
+    "url": "https://www.lupindiagnostics.com/test/serum-myoglobin-test"
+   },
+   {
+    "lab": "DDRC Agilus",
+    "city": "Nagercoil",
+    "price_inr": 2500,
+    "url": "https://ddrcagilus.com/test/nagercoil/100013757/myoglobin-serum"
+   },
+   {
+    "lab": "Agilus Diagnostics",
+    "city": "National (city not stated)",
+    "price_inr": 3000,
+    "url": "https://agilusdiagnostics.com/test/100013757/myoglobin-serum"
+   },
+   {
+    "lab": "AMPATH",
+    "city": "Hyderabad (Nagpur listed among cities)",
+    "price_inr": 3100,
+    "url": "https://ampath.com/hyderabad/lab-test/myoglobin-serum"
+   },
+   {
+    "lab": "Apollo 24|7",
+    "city": "National (city not stated)",
+    "price_inr": 3100,
+    "url": "https://www.apollo247.com/lab-tests/myoglobulin-serum"
+   },
+   {
+    "lab": "Dr Lal PathLabs",
+    "city": "Chennai",
+    "price_inr": 4240,
+    "url": "https://www.lalpathlabs.com/test/pathology/myoglobin-serum/chennai"
+   },
+   {
+    "lab": "Pathkind Labs",
+    "city": "National",
+    "price_inr": 4300,
+    "url": "https://www.pathkindlabs.com/diagnostic/myoglobin-serum"
+   },
+   {
+    "lab": "Max Lab",
+    "city": "National",
+    "price_inr": 4300,
+    "url": "https://www.maxlab.co.in/lab-tests/myoglobin"
+   }
+  ],
+  "reason": "The median of 10 credible listings is about Rs 3,050, roughly 18-20% above the earlier Rs 2,550, so I adjusted it to Rs 3,000. Only two prices are clearly Nagpur-specific, and both are lower: Max At Home at Rs 1,576 (a discount from its Rs 1,970 list price) and Diagnopein at Rs 2,800. If only Nagpur prices count, about Rs 2,200-2,800 is defensible. National chains run from Rs 2,500 (Lupin, DDRC Agilus) to Rs 3,000-3,100 (Agilus, AMPATH, Apollo) and Rs 4,240-4,300 (Lal PathLabs Chennai, Pathkind, Max Lab). Excluded: Apollo's 'MRP 7750', which is an inflated list price; DNA Labs' Rs 5,500, an outlier; Lybrate's generic Rs 800-4,000 range; and a Metropolis Rs 1,250 reseller listing whose page mixes up serum and urine samples. Diagnopein's Rs 1,100 'urine myoglobin' is a different test. Max At Home (Rs 1,970 list) and Max Lab (Rs 4,300) list very different prices for what appears to be the same Max test."
+ },
+ {
+  "name": "Free testosterone (direct)",
+  "verdict": "confirmed",
+  "low_inr": 1300,
+  "typical_inr": 1900,
+  "high_inr": 2100,
+  "sources": [
+   {
+    "lab": "Diagnopein",
+    "city": "Nagpur",
+    "price_inr": 1300,
+    "url": "https://www.diagnopein.com/pathology-test/Nagpur/FREE-TESTOSTERONE"
+   },
+   {
+    "lab": "Thyrocare (via diagnosticcentres.in)",
+    "city": "Nagpur",
+    "price_inr": 1599,
+    "url": "https://www.diagnosticcentres.in/health-checkup-packages/free-testosterone/nagpur"
+   },
+   {
+    "lab": "Thyrocare (via healthcheckup.co.in)",
+    "city": "Nagpur",
+    "price_inr": 1599,
+    "url": "https://www.healthcheckup.co.in/package/free-testosterone/nagpur"
+   },
+   {
+    "lab": "Tata 1mg Labs",
+    "city": "Nagpur",
+    "price_inr": 1649,
+    "url": "https://www.1mg.com/labs/test/testosterone-free-1565/nagpur/price"
+   },
+   {
+    "lab": "Max Lab",
+    "city": "Nagpur",
+    "price_inr": 1900,
+    "url": "https://www.maxlab.co.in/lab-test/profile/nagpur/free-testosterone-serum"
+   },
+   {
+    "lab": "Dr Lal PathLabs",
+    "city": "Indore / Agra",
+    "price_inr": 1970,
+    "url": "https://www.lalpathlabs.com/test/pathology/testosterone-free/indore"
+   },
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Nagpur",
+    "price_inr": 2000,
+    "url": "https://www.metropolisindia.com/parameter/nagpur/testosterone-free-test"
+   },
+   {
+    "lab": "Agilus Diagnostics (page lists Agilus Nagpur as a performing lab)",
+    "city": "Ahmedabad / national",
+    "price_inr": 2100,
+    "url": "https://agilusdiagnostics.com/test/ahmedabad/100004353/testosterone-free"
+   }
+  ],
+  "reason": "The median of 8 listings is Rs 1,900, about 9% above the earlier Rs 1,750, which is within 15%. Six of the eight are Nagpur pages: Diagnopein Rs 1,300, Thyrocare Rs 1,599, Tata 1mg Rs 1,649, Max Lab Rs 1,900 and Metropolis Rs 2,000. Lal PathLabs charges Rs 1,970 (Indore/Agra) and Agilus Rs 1,900-2,100 depending on city. Excluded because they are different products: Lal's free testosterone + SHBG bundle (Rs 4,240), its free/bioavailable/total panel (Rs 20,400) and Redcliffe's free + total package (Rs 1,999). None of the listings states the assay method, so I cannot confirm they are all direct immunoassays rather than calculated free testosterone."
+ },
+ {
+  "name": "Cystatin C",
+  "verdict": "confirmed",
+  "low_inr": 1100,
+  "typical_inr": 1300,
+  "high_inr": 1800,
+  "sources": [
+   {
+    "lab": "Diagnopein",
+    "city": "Nagpur",
+    "price_inr": 1100,
+    "url": "https://www.diagnopein.com/pathology-test/Nagpur/CYSTATIN-C"
+   },
+   {
+    "lab": "Tata 1mg Labs",
+    "city": "Nagpur",
+    "price_inr": 1170,
+    "url": "https://www.1mg.com/labs/test/cystatin-c-33410/nagpur/price"
+   },
+   {
+    "lab": "Lupin Diagnostics",
+    "city": "National",
+    "price_inr": 1100,
+    "url": "https://www.lupindiagnostics.com/test/cystatin-c-serum-test"
+   },
+   {
+    "lab": "Dr Lal PathLabs",
+    "city": "Mumbai / Pune / Kolkata / Hyderabad / Bengaluru",
+    "price_inr": 1280,
+    "url": "https://www.lalpathlabs.com/test/pathology/cystatin-c/pune"
+   },
+   {
+    "lab": "Max Lab",
+    "city": "National",
+    "price_inr": 1300,
+    "url": "https://www.maxlab.co.in/lab-tests/cystatin-c-l"
+   },
+   {
+    "lab": "DDRC Agilus",
+    "city": "Kochi",
+    "price_inr": 1450,
+    "url": "https://ddrcagilus.com/test/kochi/100002985/cystatin-c-quantitative"
+   },
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Indore",
+    "price_inr": 1455,
+    "url": "https://www.metropolisindia.com/parameter/indore/cystatin-cserum"
+   },
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Mumbai",
+    "price_inr": 1600,
+    "url": "https://www.metropolisindia.com/parameter/mumbai/cystatin-cserum"
+   },
+   {
+    "lab": "Agilus Diagnostics",
+    "city": "New Delhi",
+    "price_inr": 1800,
+    "url": "https://agilusdiagnostics.com/test/new-delhi/100002985/cystatin-c-quantitative"
+   }
+  ],
+  "reason": "The median of 9 credible listings is Rs 1,300, about 8% above the earlier Rs 1,200, which is within 15%. Only two prices are Nagpur-specific: Diagnopein Rs 1,100 and Tata 1mg Rs 1,170. National chains are higher: Lal PathLabs Rs 1,280 (the same in several cities), Max Lab Rs 1,300, Metropolis Rs 1,455-1,600 and Agilus Rs 1,450-1,800. I found no Agilus or Metropolis price for Nagpur itself. Excluded: PharmEasy Rs 449 (a discount from Rs 799) and Mediyaar Rs 562, which are coupon or aggregator prices not tied to a lab; Metropolis's 'GFR with Cystatin C' panel (Rs 1,200-1,435), a different product; and DNA Labs Rs 1,404, of uncertain currency."
+ },
+ {
+  "name": "Vitamin D 25-hydroxy (established NABL labs, non-coupon)",
+  "verdict": "adjusted",
+  "low_inr": 1300,
+  "typical_inr": 1530,
+  "high_inr": 1840,
+  "sources": [
+   {
+    "lab": "Thyrocare (via diagnosticcentres.in)",
+    "city": "Nagpur",
+    "price_inr": 1300,
+    "url": "https://www.diagnosticcentres.in/health-checkup-packages/25-oh-vitamin-d-total/nagpur"
+   },
+   {
+    "lab": "Agilus Diagnostics",
+    "city": "Nagpur",
+    "price_inr": 1500,
+    "url": "https://agilusdiagnostics.com/test/nagpur/100003379/vitamin-d-25-hydroxy"
+   },
+   {
+    "lab": "Max Lab",
+    "city": "Nagpur",
+    "price_inr": 1500,
+    "url": "https://www.maxlab.co.in/lab-test/profile/nagpur/25-hydroxy-vitamin-d-level-serum"
+   },
+   {
+    "lab": "Apollo 24|7 (Omkar Nagar)",
+    "city": "Nagpur",
+    "price_inr": 1529,
+    "url": "https://www.apollo247.com/lab-tests/25-hydroxy-vitamin-d-d2d3-l-omkar-nagar-c-nagpur"
+   },
+   {
+    "lab": "Dr Lal PathLabs",
+    "city": "Chennai",
+    "price_inr": 1530,
+    "url": "https://www.lalpathlabs.com/test/pathology/vitamin-d-25-hydroxy/chennai"
+   },
+   {
+    "lab": "Max Lab (Anand Nagar)",
+    "city": "Nagpur",
+    "price_inr": 1600,
+    "url": "https://www.maxlab.co.in/lab-test/profile/nagpur/anand-nagar/25-hydroxy-vitamin-d-level-serum"
+   },
+   {
+    "lab": "Apollo 24|7 (Parvati Nagar)",
+    "city": "Nagpur",
+    "price_inr": 1659,
+    "url": "https://www.apollo247.com/lab-tests/25-hydroxy-vitamin-d-d2d3-l-parvati-nagar-c-nagpur"
+   },
+   {
+    "lab": "Agilus Diagnostics (second Nagpur page)",
+    "city": "Nagpur",
+    "price_inr": 1750,
+    "url": "https://agilusdiagnostics.com/test/nagpur/100003379/vitamin-d-25-hydroxy-"
+   },
+   {
+    "lab": "Metropolis Healthcare",
+    "city": "Nagpur",
+    "price_inr": 1840,
+    "url": "https://www.metropolisindia.com/parameter/nagpur/vitamin-d-blood-test"
+   }
+  ],
+  "reason": "The median of 9 non-coupon listings from established chains is about Rs 1,530, roughly 22% above the earlier Rs 1,250, so I adjusted it. Eight of the nine are Nagpur pages: Thyrocare Rs 1,300, Agilus Rs 1,500 (another Agilus Nagpur page says Rs 1,750), Max Lab Rs 1,500-1,600, Apollo Rs 1,529-1,659 by area and Metropolis Rs 1,840. Lal PathLabs' standard test is Rs 1,530 in Chennai; I found no Nagpur page for it. Excluded as coupon or promotional prices: Redcliffe Rs 425, Healthians Rs 440 (cut from Rs 1,467), Tata 1mg Rs 308, a Thyrocare reseller's Rs 399 and SecondMedic's Lal price of Rs 1,100 (cut from Rs 1,550). Also excluded as different tests: Lal's ultrasensitive LC-MS/MS version (Rs 1,970), the 1,25-dihydroxy vitamin D test (Rs 3,200-3,450) and the 1mg vitamin D + B12 combo (Rs 649). Medifee's 'Nagpur average Rs 1,407' does not name labs or test variants. Even counting only the cheaper chain listings (Rs 1,300-1,530), Rs 1,250 looks low for an established NABL lab's non-coupon price."
+ },
+ {
+  "name": "TMT / treadmill stress test in Nagpur",
+  "verdict": "confirmed",
+  "low_inr": 1239,
+  "typical_inr": 1500,
+  "high_inr": 2085,
+  "reason": "The only Nagpur price I found is from Healthians: Mahanagar Diagnostic & Research Centre in Manewada at Rs 1,239. The same page also shows an estimate of Rs 1,369 and a '70% off' banner, so the list price there looks inflated. Bajaj Finserv Health lists single-test prices of Rs 1,500 in Nashik, Rs 1,700 in Ahmedabad and Rs 1,789 in Noida. National starting prices are Rs 1,700 (diagnosticcentres.in) and Rs 2,085 (Apollo 24|7). Across all sources the median is about Rs 1,700. The Nagpur figures alone are Rs 1,239-1,369. I set the typical at Rs 1,500, between those two, leaning towards Nagpur. That is 0% from the earlier figure, and both the Nagpur-only and national medians are within 15%. I left out two things: Wockhardt Nagpur's cardiac package (Rs 3,599, which bundles ECG, TMT/Echo) because it is a package price, and LabsAdvisor's national average of Rs 750 because it is a platform-booking average. Patna (Rs 4,500) is an outlier. None of the pages show a date, so they may be crawled snapshots.",
+  "sources": [
+   {
+    "lab": "Mahanagar Diagnostic & Research Centre (via Healthians)",
+    "city": "Nagpur",
+    "price_inr": 1239,
+    "url": "https://www.healthians.com/scans/nagpur/tmt-test"
+   },
+   {
+    "lab": "Bajaj Finserv Health listing",
+    "city": "Nashik",
+    "price_inr": 1500,
+    "url": "https://www.bajajfinservhealth.in/lab-tests/nashik/treadmill-test-tmt"
+   },
+   {
+    "lab": "Bajaj Finserv Health listing",
+    "city": "Ahmedabad",
+    "price_inr": 1700,
+    "url": "https://www.bajajfinservhealth.in/lab-tests/ahmedabad-city/treadmill-test-tmt"
+   },
+   {
+    "lab": "diagnosticcentres.in (starting price)",
+    "city": "India (national)",
+    "price_inr": 1700,
+    "url": "https://www.diagnosticcentres.in/stress-test"
+   },
+   {
+    "lab": "Bajaj Finserv Health listing",
+    "city": "Noida",
+    "price_inr": 1789,
+    "url": "https://www.bajajfinservhealth.in/lab-tests/noida/treadmill-test-tmt"
+   },
+   {
+    "lab": "Apollo 24|7 (starting price)",
+    "city": "India (national)",
+    "price_inr": 2085,
+    "url": "https://www.apollo247.com/radiology/tmt"
+   }
+  ]
+ },
+ {
+  "name": "Musculoskeletal / high-resolution ultrasound of one joint (knee or shoulder) in Nagpur",
+  "verdict": "confirmed",
+  "low_inr": 900,
+  "typical_inr": 1550,
+  "high_inr": 1900,
+  "reason": "I found four Nagpur prices for a single-joint ultrasound: Rs 900 for a knee (Diagnopein), Rs 1,500 at Malviya Pathology in Gandhi Bagh (Medifee), Rs 1,599 for a shoulder (Medifyhome) and Rs 1,875 for a single knee (Diagnoplus via Bajaj Finserv Health). Their median is about Rs 1,550, roughly 3% above the earlier Rs 1,500. Caveats: the Malviya Rs 1,500 is one rate covering several scan regions including shoulder. The Diagnoplus listing is filed under Savner, though the lab's address is in Dharampeth, Nagpur. Diagnopein's Rs 900 is undated. Medifyhome Nagpur also lists a hip joint at Rs 1,899, which sets the high. Nationally, LabsAdvisor puts the average knee ultrasound at Rs 1,650 (Rs 1,020-1,600 by city), and Medifyhome charges Rs 1,599 for a knee in other cities. These are standard joint ultrasound (USG) prices. A dedicated high-resolution scan by a musculoskeletal radiologist may cost more: Cadabams in Bangalore lists Rs 2,700. I found no Nagpur listing priced specifically as 'high-resolution MSK'.",
+  "sources": [
+   {
+    "lab": "Diagnopein (USG Knee)",
+    "city": "Nagpur",
+    "price_inr": 900,
+    "url": "https://www.diagnopein.com/sonography/Nagpur"
+   },
+   {
+    "lab": "Malviya Pathology, Gandhi Bagh (via Medifee, one rate for several regions incl. shoulder)",
+    "city": "Nagpur",
+    "price_inr": 1500,
+    "url": "https://www.medifee.com/tests/sonography-cost-in-nagpur/"
+   },
+   {
+    "lab": "Medifyhome (Ultrasound Shoulder)",
+    "city": "Nagpur",
+    "price_inr": 1599,
+    "url": "https://medifyhome.com/ultrasound-scan/nagpur/"
+   },
+   {
+    "lab": "Diagnoplus Pathology Laboratory via Bajaj Finserv Health (USG Single Knee)",
+    "city": "Savner / Nagpur",
+    "price_inr": 1875,
+    "url": "https://www.bajajfinservhealth.in/lab-tests/savner/usg-single-knee"
+   },
+   {
+    "lab": "Medifyhome (USG Hip Joint)",
+    "city": "Nagpur",
+    "price_inr": 1899,
+    "url": "https://medifyhome.com/ultrasound-scan/nagpur/"
+   },
+   {
+    "lab": "LabsAdvisor (national average, knee)",
+    "city": "India (national)",
+    "price_inr": 1650,
+    "url": "https://www.labsadvisor.com/cost-of-ultrasound-knee-in-india"
+   }
+  ]
+ },
+ {
+  "name": "Urine drugs-of-abuse panel (about 10 drugs) in India",
+  "verdict": "adjusted",
+  "low_inr": 1719,
+  "typical_inr": 6000,
+  "high_inr": 9000,
+  "reason": "Prices fall into two tiers. The budget tier is Thyrocare's 'Drug Panel 10', sold through resellers at Rs 1,719 (Bookmytest), Rs 1,725 (diagnosticcentres.in) and Rs 1,900 (thyro-tech). The full-service chains charge much more: Redcliffe Rs 3,400 for 9 drugs, Apollo 24|7 Rs 6,000 for 10 drugs (shown against an inflated MRP of Rs 15,000), Medtech Diagnostics Delhi Rs 7,500 and Agilus Rs 9,000 for 10 drugs (Rs 9,630 in Mumbai). I took one price per lab, counting Thyrocare once at about Rs 1,725, which gives a median of Rs 6,000. If each listing is counted separately, the median falls to Rs 3,400-4,700. Either way it is far above the earlier Rs 1,900, which matches only Thyrocare's budget price. Max Lab's 'Urine Drug Assay Panel' at Rs 6,000 is consistent with this, but it is not in the source list because its drug count is not stated. The Apollo listing gives the sample type as blood, which contradicts its own urine description. Lal PathLabs only showed a 7-drug screen (Rs 4,240-4,300), so I did not count it as a match. A Tata 1mg price of about Rs 1,800 appears only in a doctor's social post, not a listing, so I did not use it. I excluded rapid kits (Rs 160-449 per kit) because they are not lab tests. For pricing: the national budget benchmark is about Rs 1,700-1,900, and the big chains charge Rs 6,000-9,000.",
+  "sources": [
+   {
+    "lab": "Thyrocare Drug Panel 10 (via Bookmytest)",
+    "city": "India (national, home collection)",
+    "price_inr": 1719,
+    "url": "https://bookmytest.co.in/health-checkup-packages/drug-panel-10"
+   },
+   {
+    "lab": "Thyrocare Drug Panel 10 (via diagnosticcentres.in)",
+    "city": "Kolkata / multiple cities",
+    "price_inr": 1725,
+    "url": "https://www.diagnosticcentres.in/health-checkup-packages/drug-panel-10/kolkata"
+   },
+   {
+    "lab": "Thyrocare Drug Panel 10 (via thyro-tech reseller)",
+    "city": "India (national)",
+    "price_inr": 1900,
+    "url": "https://thyro-tech.com/shop/laboratory/routine-profile-laboratory/drug-panel-10/"
+   },
+   {
+    "lab": "Redcliffe Labs (Drugs of Abuse Urine, 9 drugs)",
+    "city": "India (national)",
+    "price_inr": 3400,
+    "url": "https://redcliffelabs.com/drugs-of-abuse-urine-9-drugs"
+   },
+   {
+    "lab": "Apollo 24|7 (DOA Panel 10 drugs; MRP shown Rs 15,000)",
+    "city": "India (national)",
+    "price_inr": 6000,
+    "url": "https://www.apollo247.com/lab-tests/drug-of-abuse-doa-panel-10-drugs"
+   },
+   {
+    "lab": "Medtech Diagnostics (Urine Drug of Abuse Panel 10 drugs)",
+    "city": "Delhi",
+    "price_inr": 7500,
+    "url": "https://medtechdiagnostics.in/delhi/test/urine-drug-of-abuse-panel-10-drugs-"
+   },
+   {
+    "lab": "Agilus Diagnostics (Urine Drugs of Abuse Panel-10)",
+    "city": "New Delhi (same price in most cities; Mumbai Rs 9,630)",
+    "price_inr": 9000,
+    "url": "https://agilusdiagnostics.com/package/new-delhi/200023255/urine-drugs-of-abuse-panel-10-drug-panel"
+   }
+  ]
+ },
+ {
+  "name": "Physician or sports-medicine consultation fee in Nagpur",
+  "verdict": "confirmed",
+  "low_inr": 300,
+  "typical_inr": 600,
+  "high_inr": 1500,
+  "reason": "Nagpur in-clinic fees on Practo, Lybrate and Apollo 24|7 run from about Rs 300 to Rs 1,500. The median of the listed sources is Rs 600, about 14% below the earlier Rs 700, so it is just within the threshold. Sports-injury and sports-medicine listings cluster at Rs 500-1,000. Examples: Dr. Akash Saoji Rs 1,000 on Practo, and Dr. Gunjan Kolhe (MBBS, D.Ortho, sports medicine fellowship) Rs 500 on Lybrate. Other sports-page names were listed at Rs 500-800, but I could not confirm they are physicians rather than physiotherapists, so I left them out. General physicians and internists range from Rs 300 to Rs 1,800, with Dr. Ashwinikumar Khandekar at Rs 1,800 as the high outlier. I ignored very low listings (Rs 30-150) and 'free' listings because they look incomplete or atypical. The same doctor can show different fees on different platforms: Dr. Nirmal Jaiswal is Rs 600 on Lybrate and Rs 1,500 on Practo. These are crawled listing snapshots with no dates. A sports-medicine specialist visit at about Rs 700 is well supported.",
+  "sources": [
+   {
+    "lab": "Dr. Amol Kadu (Practo, sports injury)",
+    "city": "Nagpur",
+    "price_inr": 300,
+    "url": "https://www.practo.com/nagpur/treatment-for-sports-injury"
+   },
+   {
+    "lab": "Dr. Nawaid Ahmed (Practo, sports injury)",
+    "city": "Nagpur",
+    "price_inr": 500,
+    "url": "https://www.practo.com/nagpur/treatment-for-sports-injury"
+   },
+   {
+    "lab": "Dr. Akash Saoji (Practo, sports injury)",
+    "city": "Nagpur",
+    "price_inr": 1000,
+    "url": "https://www.practo.com/nagpur/treatment-for-sports-injury"
+   },
+   {
+    "lab": "Dr. Gunjan Kolhe, sports medicine fellowship (Lybrate)",
+    "city": "Nagpur",
+    "price_inr": 500,
+    "url": "https://www.lybrate.com/nagpur/sports-injury"
+   },
+   {
+    "lab": "Dr. Pragati Bhole, Laxmi Nagar (Practo, general physician)",
+    "city": "Nagpur",
+    "price_inr": 500,
+    "url": "https://www.practo.com/nagpur/general-physician"
+   },
+   {
+    "lab": "Dr. Shailesh Kelkar, Dharampeth (Practo, general physician)",
+    "city": "Nagpur",
+    "price_inr": 1000,
+    "url": "https://www.practo.com/nagpur/general-physician"
+   },
+   {
+    "lab": "Dr. Abhishek Pande (Lybrate, general physician)",
+    "city": "Nagpur",
+    "price_inr": 500,
+    "url": "https://www.lybrate.com/nagpur/doctor/dr-abhishek-pande-general-physician"
+   },
+   {
+    "lab": "Dr. Nirmal Jaiswal, Suretech Hospital Dhantoli (Lybrate)",
+    "city": "Nagpur",
+    "price_inr": 600,
+    "url": "https://www.lybrate.com/nagpur/doctor/dr-nirmal-jaiswal-internal-medicine-specialist"
+   },
+   {
+    "lab": "Dr. Nirmal Jaiswal, Dhantoli (Practo)",
+    "city": "Nagpur",
+    "price_inr": 1500,
+    "url": "https://www.practo.com/nagpur/general-physician/nagpur-gpo"
+   },
+   {
+    "lab": "Dr. Amul Dhande (Lybrate, internal medicine)",
+    "city": "Nagpur",
+    "price_inr": 1000,
+    "url": "https://www.lybrate.com/nagpur/doctor/dr-amul-dhande-internal-medicine-specialist"
+   },
+   {
+    "lab": "Dr. Sachin Shelke (Practo, internal medicine)",
+    "city": "Nagpur",
+    "price_inr": 300,
+    "url": "https://www.practo.com/nagpur/internal-medicine"
+   },
+   {
+    "lab": "Apollo 24|7 listed Nagpur doctor",
+    "city": "Nagpur",
+    "price_inr": 600,
+    "url": "https://www.apollo247.com/doctors/doctors-in-nagpur-dcity"
+   }
+  ]
+ }
+]

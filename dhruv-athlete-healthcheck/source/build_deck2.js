@@ -17,6 +17,8 @@ const THEME = {
 const H = { ink: "0F172A", deep: "0F1A2E", pale: "EFF5FF", teal: "2563EB", rust: "B45309", slate: "475569", mist: "A9BFE8", rule: "D6E0EE", white: "FFFFFF", green: "22C55E" };
 const ART = __dirname + "/art/";
 const BR = require("./brand.json").contact;
+const PRC = require("./brand.json").pricing;
+const inr = (n) => "\u20B9" + Number(n).toLocaleString("en-IN");
 
 const pres = new pptxgen();
 pres.layout = "LAYOUT_16x9"; // 10 x 5.625 in
@@ -105,10 +107,12 @@ const chartBase = () => ({
     [tdB("hs-troponin, cortisol, IGF-1, urine albumin:creatinine"), N, N, Y],
     [tdB("Treadmill stress test (TMT)"), N, N, Y],
     [tdB("Tendon and ligament ultrasound by an MSK radiologist"), N, tx("1 region"), tx("Up to 3 regions")],
-    [tdB("Urine drugs-of-abuse screen"), tx("Add-on"), tx("Add-on"), tx("Add-on")],
+    [tdB("Urine drugs-of-abuse screen (add-on)"), ...PRC.plans.map(() => tx(inr(PRC.addons[0].price)))],
     [tdB("Physician review of the full report"), Y, Y, Y],
-  ], { y: 1.15, w: 9, colW: [5.1, 1.1, 1.3, 1.5], rowH: 0.29 });
-  s.addNotes("Proposed structure. Final inclusions, ultrasound region counts and prices to be confirmed by the Dhruv clinical team.");
+    [th("Package price"), ...PRC.plans.map((p) => th(inr(p.price), { align: "center", fontSize: 12.5 }))],
+    [tdB("Gym-partner member price"), ...PRC.plans.map((p) => tx(inr(p.partner)))],
+  ], { y: 1.1, w: 9, colW: [5.1, 1.1, 1.3, 1.5], rowH: 0.262 });
+  s.addNotes("Proposed structure and launch prices, set from 2026 market rates for each test. Final inclusions, ultrasound region counts and prices to be confirmed by Dhruv management. Extra ultrasound region: " + inr(PRC.addons[1].price) + ".");
 
   // ============ 4. TMT ============
   pres.addSection({ title: "Heart and lipids" });

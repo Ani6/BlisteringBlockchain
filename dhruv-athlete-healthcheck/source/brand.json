@@ -37,5 +37,38 @@
         "maps": "https://maps.google.com/?q=Dhruv+Diagnostics,+Ramdaspeth,+Nagpur"
       }
     ]
+  },
+  "pricing": {
+    "note": "Proposed launch prices. 'value' is the sum of the same tests at typical 2026 Nagpur/national walk-in prices, rounded to Rs 100.",
+    "plans": [
+      {
+        "name": "Base",
+        "price": 2999,
+        "partner": 2699,
+        "value": 8800
+      },
+      {
+        "name": "Performance",
+        "price": 8999,
+        "partner": 8099,
+        "value": 29000
+      },
+      {
+        "name": "Elite",
+        "price": 12999,
+        "partner": 11699,
+        "value": 40700
+      }
+    ],
+    "addons": [
+      {
+        "name": "Urine drug screen",
+        "price": 1999
+      },
+      {
+        "name": "Extra ultrasound region",
+        "price": 999
+      }
+    ]
   }
 }
