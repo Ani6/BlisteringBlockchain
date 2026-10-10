@@ -34,7 +34,8 @@ pres.defineSlideMaster({
   background: { color: C.background1 },
   objects: [
     { placeholder: { options: { name: "title", type: "title", x: 0.5, y: 0.3, w: 9, h: 0.65, fontSize: 28, bold: true, color: C.text2, fontFace: "Arial", align: "left", valign: "middle", margin: 0 }, text: "" } },
-    { text: { text: FOOT, options: { x: 0.5, y: 5.22, w: 6.5, h: 0.22, fontSize: 9, color: C.accent4, margin: 0 } } },
+    { image: { x: 0.5, y: 5.15, w: 0.27, h: 0.335, path: ART + "logo_mark.png" } },
+    { text: { text: FOOT, options: { x: 0.86, y: 5.22, w: 6.2, h: 0.22, fontSize: 9, color: C.accent4, margin: 0 } } },
   ],
   slideNumber: { x: 9.0, y: 5.22, w: 0.5, h: 0.22, fontSize: 9, color: C.accent4, align: "right" },
 });
@@ -60,8 +61,9 @@ const chartBase = () => ({
   // ============ 1. Title ============
   pres.addSection({ title: "Introduction" });
   let s = pres.addSlide({ masterName: "DARK", sectionTitle: "Introduction" });
-  s.background = { path: ART + "bg_run.png" };
-  s.addText([{ text: "DHRUV", options: { bold: true, fontSize: 22, color: H.white, breakLine: true, charSpacing: 1 } }, { text: "DIAGNOSTICS", options: { fontSize: 11, color: "93B4F5", charSpacing: 4 } }], { x: 0.6, y: 0.5, w: 3, h: 0.7, margin: 0, valign: "top", isTextBox: true });
+  s.background = { path: ART + "bg_hero.png" };
+  s.addImage({ path: ART + "logo_mark.png", x: 0.6, y: 0.4, w: 0.65, h: 0.806, altText: "Dhruv Diagnostics logo" });
+  s.addText([{ text: "DHRUV", options: { bold: true, fontSize: 22, color: H.white, breakLine: true, charSpacing: 1 } }, { text: "DIAGNOSTICS", options: { fontSize: 11, color: "93B4F5", charSpacing: 4 } }], { x: 1.38, y: 0.5, w: 3, h: 0.7, margin: 0, valign: "top", isTextBox: true });
   s.addText("Athlete and Physique Health Check-Up", { x: 0.6, y: 1.55, w: 5.2, h: 1.6, fontSize: 36, bold: true, color: H.white, margin: 0, valign: "top", isTextBox: true });
   s.addText("Cardiac, muscle, hormone, longevity and tendon assessment for athletes and bodybuilders.", { x: 0.6, y: 3.2, w: 4.6, h: 0.8, fontSize: 15, color: "C9D8F5", margin: 0, valign: "top", isTextBox: true });
   s.addText([{ text: "NABL accredited since 2011", options: { bold: true, color: H.green } }, { text: "   |   Technical overview for clinicians and coaches", options: { color: "C9D8F5" } }], { x: 0.6, y: 4.75, w: 6, h: 0.3, fontSize: 11, margin: 0, isTextBox: true });
@@ -328,7 +330,8 @@ const chartBase = () => ({
   // ============ 16. Close ============
   s = pres.addSlide({ masterName: "DARK", sectionTitle: "Sources" });
   s.background = { path: ART + "bg_lift.png" };
-  s.addText([{ text: "DHRUV", options: { bold: true, fontSize: 18, color: H.white, breakLine: true } }, { text: "DIAGNOSTICS", options: { fontSize: 9, color: "93B4F5", charSpacing: 4 } }], { x: 0.6, y: 0.45, w: 3, h: 0.55, margin: 0, valign: "top", isTextBox: true });
+  s.addImage({ path: ART + "logo_mark.png", x: 0.6, y: 0.36, w: 0.52, h: 0.645, altText: "Dhruv Diagnostics logo" });
+  s.addText([{ text: "DHRUV", options: { bold: true, fontSize: 18, color: H.white, breakLine: true } }, { text: "DIAGNOSTICS", options: { fontSize: 9, color: "93B4F5", charSpacing: 4 } }], { x: 1.22, y: 0.45, w: 3, h: 0.55, margin: 0, valign: "top", isTextBox: true });
   s.addText("Call to confirm your appointment", { x: 0.6, y: 1.2, w: 5.4, h: 0.5, fontSize: 24, bold: true, color: H.white, margin: 0, isTextBox: true });
   BR.branches.forEach((b, i) => {
     const y = 1.85 + i * 0.85;

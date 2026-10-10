@@ -98,11 +98,13 @@ async function compose(fn, o) {
   await sharp(Buffer.from(bgSvg(o))).composite(comps).png().toFile("art/" + fn);
 }
 
-(async () => {
+async function main() {
   await compose("bg_run.png", { W: 1920, H: 1080, fig: sprinter, fx: 1000, fy: 210, fw: 860, vpx: 1450, horizon: 760, glowx: 0.74, glowy: 0.48, ecgY: 760, seed: 3, trail: true, streaks: true });
   await compose("bg_lift.png", { W: 1920, H: 1080, fig: lifter, fx: 1130, fy: 50, fw: 720, vpx: 1500, horizon: 870, glowx: 0.76, glowy: 0.42, ecgY: 900, seed: 11, trail: false, streaks: true });
   await compose("flyer_head.png", { W: 2480, H: 1180, fig: sprinter, fx: 1380, fy: 200, fw: 1050, vpx: 1950, horizon: 880, glowx: 0.78, glowy: 0.48, ecgY: 880, seed: 5, trail: true, streaks: true });
   await sharp("art/bg_lift.png").extract({ left: 1060, top: 0, width: 860, height: 1080 }).toFile("art/lift_portrait.png");
   await sharp("art/bg_run.png").extract({ left: 1000, top: 0, width: 900, height: 1080 }).toFile("art/run_portrait.png");
   console.log("ok");
-})();
+}
+module.exports = { renderFigure, compose, bgSvg, shadeSvg, ecg, track, streaks };
+if (require.main === module) main();

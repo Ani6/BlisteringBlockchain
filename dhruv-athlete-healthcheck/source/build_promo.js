@@ -30,13 +30,14 @@ pres.defineSlideMaster({
   background: { color: C.background1 },
   objects: [
     { placeholder: { options: { name: "title", type: "title", x: 0.5, y: 0.3, w: 9, h: 0.65, fontSize: 28, bold: true, color: C.text2, fontFace: "Arial", align: "left", valign: "middle", margin: 0 }, text: "" } },
-    { text: { text: "Dhruv Diagnostics, Nagpur  ·  " + BR.websiteLabel, options: { x: 0.5, y: 5.22, w: 6.5, h: 0.22, fontSize: 9, color: C.accent4, margin: 0 } } },
+    { image: { x: 0.5, y: 5.15, w: 0.27, h: 0.335, path: ART + "logo_mark.png" } },
+    { text: { text: "Dhruv Diagnostics, Nagpur  ·  " + BR.websiteLabel, options: { x: 0.86, y: 5.22, w: 6.2, h: 0.22, fontSize: 9, color: C.accent4, margin: 0 } } },
   ],
   slideNumber: { x: 9.0, y: 5.22, w: 0.5, h: 0.22, fontSize: 9, color: C.accent4, align: "right" },
 });
 
 const T = (s, text, o) => s.addText(text, { margin: 0, isTextBox: true, valign: "top", ...o });
-const wordmark = (s, x, y, big = 22) => T(s, [{ text: "DHRUV", options: { bold: true, fontSize: big, color: H.white, breakLine: true, charSpacing: 1 } }, { text: "DIAGNOSTICS", options: { fontSize: big * 0.5, color: "93B4F5", charSpacing: 4 } }], { x, y, w: 3, h: 0.8 });
+const wordmark = (s, x, y, big = 22) => { const mh = big * 0.037; s.addImage({ path: ART + "logo_mark.png", x, y: y - mh * 0.12, w: mh * 0.806, h: mh, altText: "Dhruv Diagnostics logo" }); x += mh * 0.806 + 0.13; return T(s, [{ text: "DHRUV", options: { bold: true, fontSize: big, color: H.white, breakLine: true, charSpacing: 1 } }, { text: "DIAGNOSTICS", options: { fontSize: big * 0.5, color: "93B4F5", charSpacing: 4 } }], { x, y, w: 3, h: 0.8 }); };
 const panel = (s, x, y, w, h, color) => s.addShape(pres.ShapeType.rect, { x, y, w, h, fill: { color }, line: { color, width: 0 } });
 const bullets = (s, items, o) => T(s, items.map((t, i) => ({ text: t, options: { bullet: true, breakLine: i < items.length - 1 } })), { fontSize: 14, color: C.text1, paraSpaceAfter: 6, ...o });
 
@@ -44,7 +45,7 @@ const bullets = (s, items, o) => T(s, items.map((t, i) => ({ text: t, options: {
   // 1. Cover
   pres.addSection({ title: "Opening" });
   let s = pres.addSlide({ masterName: "DARK", sectionTitle: "Opening" });
-  s.background = { path: ART + "bg_run.png" };
+  s.background = { path: ART + "bg_hero.png" };
   wordmark(s, 0.6, 0.5);
   T(s, "Health check-ups for people who train", { x: 0.6, y: 1.55, w: 5.3, h: 1.6, fontSize: 38, bold: true, color: H.white });
   T(s, "A proposal for gyms, coaches and fitness communities in Nagpur", { x: 0.6, y: 2.95, w: 4.8, h: 0.8, fontSize: 16, color: H.soft });
@@ -72,7 +73,7 @@ const bullets = (s, items, o) => T(s, items.map((t, i) => ({ text: t, options: {
   // 3. About Dhruv
   s = pres.addSlide({ masterName: "CONTENT", sectionTitle: "Why" });
   s.addText("Dhruv Diagnostics, Nagpur", { placeholder: "title" });
-  s.addImage({ path: ART + "run_portrait.png", x: 6.1, y: 0, w: 3.9, h: 4.68, sizing: { type: "cover", w: 3.9, h: 4.68 }, altText: "Illustration of a sprinter" });
+  s.addImage({ path: ART + "helix_portrait.png", x: 6.1, y: 0, w: 3.9, h: 4.68, sizing: { type: "cover", w: 3.9, h: 4.68 }, altText: "DNA double helix illustration" });
   const stats = [["30+", "years of diagnostics in Nagpur"], ["2011", "NABL accredited since"], ["2", "branches: Laxmi Nagar and Ramdaspeth"], ["7", "days a week, from 7 AM"]];
   stats.forEach(([n, l], i) => {
     const x = 0.5 + (i % 2) * 2.75, y = 1.2 + Math.floor(i / 2) * 1.55;
@@ -150,7 +151,7 @@ const bullets = (s, items, o) => T(s, items.map((t, i) => ({ text: t, options: {
   // 8. Enthusiasts
   s = pres.addSlide({ masterName: "CONTENT", sectionTitle: "Partnership" });
   s.addText("For members who feel fine", { placeholder: "title" });
-  s.addImage({ path: ART + "run_portrait.png", x: 6.1, y: 0, w: 3.9, h: 4.68, sizing: { type: "cover", w: 3.9, h: 4.68 }, altText: "Illustration of a sprinter" });
+  s.addImage({ path: ART + "helix_portrait2.png", x: 6.1, y: 0, w: 3.9, h: 4.68, sizing: { type: "cover", w: 3.9, h: 4.68 }, altText: "DNA double helix illustration" });
   const why = [["Know your baseline", "Your own normal, so future changes stand out"], ["Find silent problems early", "High Apo B, low iron or a heart-rhythm issue rarely causes symptoms at first"], ["Train with numbers", "Fitness in METs and recovery markers guide how hard to push"], ["Stay safe on supplements", "Liver, kidney, blood count and hormones checked in confidence"]];
   why.forEach(([h, t], i) => {
     const y = 1.2 + i * 0.92;
