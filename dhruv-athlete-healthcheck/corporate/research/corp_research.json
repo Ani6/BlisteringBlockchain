@@ -1,0 +1,2069 @@
+[
+ {
+  "topic": "blood-bank",
+  "research": {
+   "facts": [
+    {
+     "topic": "Jeevan Jyoti Blood Bank - address",
+     "claim": "Jeevan Jyoti Blood Bank & Components is at J-12, West High Court Road, Laxminagar, Nagpur 440022, Maharashtra (address on its NABH accreditation certificate).",
+     "value": "J-12, West High Court Road, Laxmi Nagar, Nagpur 440022",
+     "confirmed": true,
+     "url": "https://portal.nabh.co/Documents/AccreditedList/Blood Bank/BB-2011-0033.pdf",
+     "source_title": "NABH accredited list - BB-2011-0033",
+     "note": "The official site jeevanjyotibloodbankandcomponents.com gives the same address and says the bank moved here."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - landmark",
+     "claim": "Directory listings describe the location as J-12, beside Dhruv Diagnostics, opposite Bank of Baroda, Laxminagar, Nagpur 440022 (one Justdial listing adds 'near Mate Square, Abhyankar Nagar').",
+     "value": "Beside Dhruv Diagnostics, opp. Bank of Baroda",
+     "confirmed": true,
+     "url": "https://yappe.in/maharashtra/nagpur/jeevan-jyoti-blood-bank/667462",
+     "source_title": "Yappe - Jeevan Jyoti Blood Bank",
+     "note": "Also https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Beside-Dhruv-DiagnosticsOpposite-Bank-Of-Baroda-Near-Mate-Square-Abhyankar-Nagar/0712PX712-X712-170924163615-N8W2_BZDET"
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - old address",
+     "claim": "Older listings give J P Chambers (1st Floor, Wing 2), Madhav Nagar, South Ambazari Road, Nagpur. The bank's own site says it moved to J-12, Laxmi Nagar, so this address appears to be out of date.",
+     "value": "J P Chambers, Madhav Nagar (old)",
+     "confirmed": false,
+     "url": "https://www.nagpuronline.in/guide/blood-banks-in-nagpur",
+     "source_title": "Blood Banks in Nagpur - nagpuronline",
+     "note": "Do not use in the deck. getblood.in and healthiply also show the Madhav Nagar address."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - phone",
+     "claim": "The bank's own website lists 0712-2230876 and +91-9822477282.",
+     "value": "0712-2230876; +91-9822477282",
+     "confirmed": true,
+     "url": "http://jeevanjyotibloodbankandcomponents.com/",
+     "source_title": "Jeevan Jyoti Blood Bank & Components (official site)",
+     "note": "Taken from a search-result summary of the official site; I could not open the page. Check by phone before printing."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - alternate phones/email",
+     "claim": "Directory listings also give 0712-2231660, mobile 9422113811 and the email jjbb21@hotmail.com.",
+     "value": "0712-2231660; 9422113811; jjbb21@hotmail.com",
+     "confirmed": false,
+     "url": "https://www.sulekha.com/jeevan-jyoti-blood-bank-laxmi-nagar-nagpur-contact-address",
+     "source_title": "Sulekha listing",
+     "note": "Directory data only, possibly out of date. 0712-2231660 also appears on nagpuronline.in with the old Madhav Nagar address."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - hours",
+     "claim": "Directory listings show the blood bank as open 24 hours.",
+     "value": "24 hours",
+     "confirmed": true,
+     "url": "https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Beside-Dhruv-DiagnosticsOpposite-Bank-Of-Baroda-Near-Mate-Square-Abhyankar-Nagar/0712PX712-X712-170924163615-N8W2_BZDET",
+     "source_title": "Justdial - Jeevan Jyoti Blood Bank",
+     "note": "Third-party listing. Several listings agree, but the bank's own site was not seen confirming it."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - history (components)",
+     "claim": "The official site says it was the first blood bank in Nagpur to prepare all blood components, starting in April 1997.",
+     "value": "April 1997",
+     "confirmed": true,
+     "url": "http://jeevanjyotibloodbankandcomponents.com/",
+     "source_title": "Jeevan Jyoti Blood Bank & Components (official site)",
+     "note": "The bank's own claim. This is the start of component preparation, not the founding date."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - RBTC status",
+     "claim": "The official site says the Government of Maharashtra made it a Regional Blood Transfusion Centre (RBTC) on 6 September 1999, the first in the region.",
+     "value": "6 Sept 1999",
+     "confirmed": true,
+     "url": "http://jeevanjyotibloodbankandcomponents.com/",
+     "source_title": "Jeevan Jyoti Blood Bank & Components (official site)",
+     "note": "The bank's own claim. Under the Drugs and Cosmetics Rules, a licensed RBTC is one of the bodies allowed to hold outdoor camps."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - NABH accreditation date",
+     "claim": "The official site says it was first in the region to get NABH accreditation, on 27 September 2011. Its Facebook page calls it the first blood bank in Central India with NABH accreditation and gives 8 October 2011.",
+     "value": "2011 (27 Sept per website; 8 Oct per Facebook)",
+     "confirmed": true,
+     "url": "http://jeevanjyotibloodbankandcomponents.com/",
+     "source_title": "Jeevan Jyoti Blood Bank & Components (official site)",
+     "note": "Facebook: https://www.facebook.com/laxminagarnagpur/ . The year 2011 is safe to use. The exact day differs between the two sources."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - current NABH certificate",
+     "claim": "NABH certificate BB-2011-0033 for Jeevan Jyoti Blood Bank & Components is valid from 5 April 2024 to 4 April 2027.",
+     "value": "BB-2011-0033, valid 05-04-2024 to 04-04-2027",
+     "confirmed": true,
+     "url": "https://portal.nabh.co/Documents/AccreditedList/Blood Bank/BB-2011-0033.pdf",
+     "source_title": "NABH accredited list - BB-2011-0033"
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - services",
+     "claim": "The NABH certificate lists red blood cells, platelets, apheresis platelets and fresh frozen plasma (FFP) among the accredited services.",
+     "value": "PRBC, platelets, apheresis (SDP) platelets, FFP",
+     "confirmed": true,
+     "url": "https://portal.nabh.co/Documents/AccreditedList/Blood Bank/BB-2011-0033.pdf",
+     "source_title": "NABH accredited list - BB-2011-0033",
+     "note": "Whole blood is not named in the search summary. Dhruv Labs' sister-organisation page also says the bank has component and apheresis facilities."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - drug licence",
+     "claim": "A getblood.in listing shows a licence date of 1 January 2008 (with the old Madhav Nagar address). No FDA/CDSCO licence number was found.",
+     "value": "Licence date 1/1/2008 (unverified)",
+     "confirmed": false,
+     "url": "https://www.getblood.in/BloodBank/Jeevan-Jyoti-Blood-Bank-and-Component-in-Nagpur/",
+     "source_title": "GetBlood.in listing",
+     "note": "Third-party data only. Do not quote a licence number or date in the deck without the bank's confirmation."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - leadership",
+     "claim": "Dr Sheela S. Mundhada (MBBS, MD) is the nodal officer in a blood-bank directory, and a 2023 Hitavada article calls her Director of Jeevan Jyoti Blood Bank and Components.",
+     "value": "Dr Sheela Mundhada, Director",
+     "confirmed": true,
+     "url": "https://www.thehitavada.com/Encyc/2023/1/25/Criticare-Hospital-holds-blood-donation-camp.html",
+     "source_title": "The Hitavada - Criticare Hospital holds blood donation camp",
+     "note": "Also getblood.in. MOHAN Foundation spells it 'Dr. Shila Mundala', probably a typo."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - link to Dhruv Diagnostics",
+     "claim": "The 'Sister Organization' page on dhruvlabs.com presents Jeevan Jyoti Blood Bank as the premier blood component facility in Nagpur, with component and apheresis facilities and NABH accreditation.",
+     "value": "Sister organisation of Dhruv Pathology/Dhruv Diagnostics",
+     "confirmed": true,
+     "url": "http://www.dhruvlabs.com/sister_organization.html",
+     "source_title": "Dhruv Pathology and Molecular Diagnostic Lab - Sister Organization"
+    },
+    {
+     "topic": "Jeevan Jyoti Health Care & Research Trust",
+     "claim": "Dhruv Pathology & Molecular Diagnostic Laboratory is managed by Jeevan Jyoti Health Care & Research Trust. It has centres at Ramdaspeth and Laxmi Nagar, is NABL accredited (M-0411), and had completed 24 years of service in January 2013.",
+     "value": "Trust manages Dhruv Pathology; NABL M-0411",
+     "confirmed": true,
+     "url": "https://www.indiamart.com/dhruv-pathology-laboratory/aboutus.html",
+     "source_title": "IndiaMART - Dhruv Pathology Laboratory About Us",
+     "note": "No source says outright that the same trust holds the blood bank's licence. The tie is shown only by the 'sister organization' page and the shared Laxmi Nagar site. The NABL number and centre list are old (c. 2013) and may have changed."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - possible link to Face n Figure",
+     "claim": "A Justdial listing URL for 'Jeevan Jyoti Blood Bank & Components' gives the location as 'Beside Face And Figure Gym Parlour And Spa, Wardhaman Nagar', which suggests an outlet next to a Face n Figure branch.",
+     "value": "Wardhaman Nagar, beside Face And Figure",
+     "confirmed": false,
+     "url": "https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Components-Beside-Face-And-Figure-Gym-Parlour-And-Spa-Wardhaman-Nagar/0712P712STD2000619_BZDET",
+     "source_title": "Justdial - Jeevan Jyoti Blood Bank & Components, Wardhaman Nagar",
+     "note": "Based only on the listing URL text. Ask the client whether a Wardhaman Nagar centre exists."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - camps (institutions)",
+     "claim": "In December 2022 a camp at GNIT, held with HDFC Bank Nagpur and Jeevan Jyoti Blood Bank, collected more than 100 units from staff and students.",
+     "value": "100+ units",
+     "confirmed": true,
+     "url": "https://www.nagpurtoday.in/blood-donation-camp-was-organized-with-hdfc-bank-nagpur-jeevan-jyoti-blood-bank/12061712",
+     "source_title": "Nagpur Today - Blood Donation Camp organized with HDFC Bank Nagpur - Jeevan Jyoti Blood Bank"
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - camps (school/corporate)",
+     "claim": "In December 2024 GIIS Nagpur held a blood donation camp with HDFC and Jeevan Jyoti Blood Bank. The blood bank supplied the medical staff and equipment, and more than 20 donors took part.",
+     "value": "20+ donors, Dec 2024",
+     "confirmed": true,
+     "url": "https://thelivenagpur.com/2024/12/08/giis-nagpur-collaborates-with-hdfc-and-jeevan-jyoti-blood-bank-for-a-life-saving-blood-donation-camp-2/",
+     "source_title": "The Live Nagpur - GIIS Nagpur collaborates with HDFC and Jeevan Jyoti Blood Bank"
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - camps (clubs)",
+     "claim": "Jeevan Jyoti Blood Bank collected the blood at a camp run by Nagpur Spirits Round Table 258, which drew 162 donors.",
+     "value": "162 donors",
+     "confirmed": true,
+     "url": "https://www.nagpurtoday.in/nsrt-258-organised-blood-donation-camp/11191602",
+     "source_title": "Nagpur Today - Nagpur Spirits Round Table holds blood donation camp"
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - camps (hospital/professional bodies)",
+     "claim": "Jeevan Jyoti Blood Bank worked with Criticare Hospital, Nagpur, on a blood donation drive in January 2023. A Nagpur camp on 1 July 2021 run with Lokmat Group, Hedgewar Blood Bank and Jeevan Jyoti Blood Bank had about 110 participants.",
+     "value": "2023 Criticare drive; 2021 camp ~110 participants",
+     "confirmed": true,
+     "url": "https://www.thehitavada.com/Encyc/2023/1/25/Criticare-Hospital-holds-blood-donation-camp.html",
+     "source_title": "The Hitavada",
+     "note": "The 2021 camp is from the ICAI CSR activity page https://app.csr.icai.org/eventDetails/860 (Nagpur branch), as summarised by search."
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - other activities",
+     "claim": "MOHAN Foundation gave an organ-donation awareness talk at Jeevan Jyoti Blood Bank on 31 December 2021, and also ran an awareness stall there.",
+     "value": "31 Dec 2021",
+     "confirmed": true,
+     "url": "https://www.mohanfoundation.org/activities/Organ-Donation-Awareness-at-Jeevan-Jyoti-Blood-Bank-Nagpur-7910.htm",
+     "source_title": "MOHAN Foundation - Organ Donation Awareness at Jeevan Jyoti Blood Bank, Nagpur"
+    },
+    {
+     "topic": "Jeevan Jyoti Blood Bank - public rating",
+     "claim": "Justdial shows about 4.0/5 from 73 ratings. Reviewers praise the staff and cleanliness, and one complains about being charged for platelets.",
+     "value": "~4.0/5 (73 ratings)",
+     "confirmed": true,
+     "url": "https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Beside-DhruvDiagnosticsOpposite-Bank-Of-Baroda-Near-Mate-Square-Abhyankar-Nagar/0712PX712-X712-170924163615-N8W2_BZDET/reviews",
+     "source_title": "Justdial reviews",
+     "note": "For background only. The rating changes over time. The URL is as shown in the search result: https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Beside-Dhruv-DiagnosticsOpposite-Bank-Of-Baroda-Near-Mate-Square-Abhyankar-Nagar/0712PX712-X712-170924163615-N8W2_BZDET/reviews"
+    },
+    {
+     "topic": "Donor eligibility - age",
+     "claim": "Under the Drugs and Cosmetics (Second Amendment) Rules, 2020 (G.S.R. 166(E), 11 March 2020), donors must be 18 to 65. First-time donors must not be over 60, and repeat donors can give up to 65.",
+     "value": "18-65 (first-time donors up to 60)",
+     "confirmed": true,
+     "url": "https://drugscontrol.py.gov.in/sites/default/files/GSR-166-E.pdf",
+     "source_title": "Gazette of India - G.S.R. 166(E)",
+     "note": "NBTC's eligibility page also says 18-65. A CDSCO guideline PDF merged with GSR 166E still shows 18-60, which is older text."
+    },
+    {
+     "topic": "Donor eligibility - weight",
+     "claim": "G.S.R. 166(E) ties weight to collection volume: 45 kg for 350 ml and more than 55 kg for 450 ml.",
+     "value": "45 kg (350 ml); >55 kg (450 ml)",
+     "confirmed": true,
+     "url": "https://drugscontrol.py.gov.in/sites/default/files/GSR-166-E.pdf",
+     "source_title": "Gazette of India - G.S.R. 166(E)",
+     "note": "The CDSCO Blood Centre Division FAQ says the same: https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadBloodBank/Blood%20Centre%20Division_FAQs.pdf"
+    },
+    {
+     "topic": "Donor eligibility - haemoglobin",
+     "claim": "Whole-blood donors need haemoglobin of at least 12.5 g/dL. People below this level are not treated as healthy donors.",
+     "value": ">=12.5 g/dL",
+     "confirmed": true,
+     "url": "http://nbtc.naco.gov.in/faq",
+     "source_title": "NBTC - FAQs on Blood Donation",
+     "note": "The CDSCO Blood Centre Division FAQ also gives >=12.5 g/dL. One non-official guide gives 13.0 for men, which conflicts with this."
+    },
+    {
+     "topic": "Donor eligibility - donation interval",
+     "claim": "Per NBTC, men can donate whole blood once every three months and women once every four months (90 and 120 days).",
+     "value": "Men 3 months (90 days); women 4 months (120 days)",
+     "confirmed": true,
+     "url": "http://nbtc.naco.gov.in/page/eligibility/",
+     "source_title": "NBTC - Eligibility",
+     "note": "Blood Centre Rashtrotthana (https://bloodcentre.rashtrotthana.org/criteria-for-blood-donation/) and a summary of the 2025 NBTC/DGHS guidelines give the same figures."
+    },
+    {
+     "topic": "Donor eligibility - permanent exclusions",
+     "claim": "NBTC requires normal blood pressure. It excludes people with HIV, hepatitis B or C, tuberculosis, certain blood disorders, high-risk behaviour or intravenous drug use.",
+     "value": "HIV, HBV, HCV, TB, IV drug use, high-risk behaviour, abnormal BP",
+     "confirmed": true,
+     "url": "http://nbtc.naco.gov.in/page/eligibility/",
+     "source_title": "NBTC - Eligibility",
+     "note": "NBTC pages are several years old, but their core criteria match the 2020 rules."
+    },
+    {
+     "topic": "Donor eligibility - temporary deferrals",
+     "claim": "No official Indian source was found for the exact temporary deferral periods (tattoo/piercing, recent malaria, pregnancy/breastfeeding, alcohol, recent illness or vaccination). Secondary sources disagree, e.g. tattoo 6-12 months, alcohol 12-48 hours.",
+     "value": "Not confirmed",
+     "confirmed": false,
+     "url": "https://nss.kongu.edu/assets/docs/blood-donation-guide.html",
+     "source_title": "Kongu NSS blood donation guide (non-official)",
+     "note": "For the deck, say 'temporary deferrals apply (e.g. recent tattoo, illness, pregnancy, alcohol); the blood bank medical officer decides on the day' and give no numbers."
+    },
+    {
+     "topic": "Donor eligibility - 2025 revised guidelines",
+     "claim": "A secondary summary says NBTC and DGHS (MoHFW) issued revised blood donor selection guidelines in February 2025. It keeps whole-blood Hb at >=12.5 g/dL, sets >=14.0 g/dL for double red cell donation, and keeps the 3-month (men) and 4-month (women) intervals.",
+     "value": "Feb 2025 guidelines",
+     "confirmed": false,
+     "url": "https://lifesaversunited.org/blog-revised-blood-donation-rules-india-2025",
+     "source_title": "Blood Donor Selection Criteria India 2025 (secondary)",
+     "note": "The primary NBTC document was not found. Its figures agree with NBTC on Hb and intervals."
+    },
+    {
+     "topic": "India blood need vs collection",
+     "claim": "In Parliament (Rajya Sabha), the government put India's annual blood requirement at 14.6 million units and said 14,601,147 units were collected in 2024-25, about 15% more than in 2023.",
+     "value": "Need 14.6 million units; collected 14,601,147 units (2024-25)",
+     "confirmed": true,
+     "url": "https://www.indiaspend.com/health/govt-claims-it-is-blood-sufficient-but-is-it-980833",
+     "source_title": "IndiaSpend - Govt Claims It Is Blood-Sufficient. But Is It?",
+     "note": "Secondary reporting of the government reply. The original parliamentary reply was not found."
+    },
+    {
+     "topic": "India blood need - caveat",
+     "claim": "The 14.6 million-unit requirement seems to come from a 2018 NBTC-commissioned study that used a 2017 population of 1.31 billion, against about 1.46 billion in 2025. On that reading, real need is likely higher than collection.",
+     "value": "Requirement based on 2017 population",
+     "confirmed": true,
+     "url": "https://www.indiaspend.com/health/govt-claims-it-is-blood-sufficient-but-is-it-980833",
+     "source_title": "IndiaSpend"
+    },
+    {
+     "topic": "India - voluntary donation share",
+     "claim": "About 70% of India's 2024-25 blood supply came from voluntary, unpaid donors (ORF).",
+     "value": "~70% (2024-25)",
+     "confirmed": true,
+     "url": "https://www.orfonline.org/expert-speak/securing-india-s-lifeblood-for-a-reliable-national-blood-supply",
+     "source_title": "ORF - Securing India's Lifeblood For A Reliable National Blood Supply",
+     "note": "A peer-reviewed review using e-RaktKosh data gives 74.55% voluntary donation: https://pubmed.ncbi.nlm.nih.gov/42344650/ . The two may use different bases or years."
+    },
+    {
+     "topic": "India - voluntary donation share (alt)",
+     "claim": "A review of Indian policy documents and e-RaktKosh data ('Safe blood, strong nation') puts voluntary blood donation at 74.55%.",
+     "value": "74.55%",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42344650/",
+     "source_title": "PubMed - Safe blood, strong nation: The journey of India's blood transfusion services",
+     "note": "Full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC13290265/"
+    },
+    {
+     "topic": "India - regional shortage",
+     "claim": "ORF describes 'blood deserts' in northern India, with median stock of 0.6 units per 1,000 people, far below the WHO benchmark of 10 donations per 1,000 people.",
+     "value": "0.6 units/1,000 vs WHO 10/1,000",
+     "confirmed": true,
+     "url": "https://www.orfonline.org/expert-speak/securing-india-s-lifeblood-for-a-reliable-national-blood-supply",
+     "source_title": "ORF",
+     "note": "This applies to northern districts, not to Nagpur specifically."
+    },
+    {
+     "topic": "WHO benchmark",
+     "claim": "WHO says at least 1-2% of a population needs to donate blood to meet national needs, and most countries have not reached that level.",
+     "value": "1-2% of population",
+     "confirmed": true,
+     "url": "https://who.int/campaigns/world-blood-donor-day/2026",
+     "source_title": "WHO - World Blood Donor Day 2026",
+     "note": "An older UN News piece quotes WHO saying 1% donating regularly would meet basic needs: https://news.un.org/en/node/613872"
+    },
+    {
+     "topic": "Key date - World Blood Donor Day",
+     "claim": "World Blood Donor Day is 14 June each year and honours voluntary, unpaid donors. The 2026 theme was 'One Drop of Humanity. Give Blood. Save Lives.'",
+     "value": "14 June",
+     "confirmed": true,
+     "url": "https://who.int/campaigns/world-blood-donor-day/2026",
+     "source_title": "WHO - World Blood Donor Day 2026",
+     "note": "The date is Karl Landsteiner's birthday. He discovered the ABO blood groups (https://en.bahiana.edu.br/noticia/23844/14-de-junho--dia-mundial-do-doador-de-sangue/)."
+    },
+    {
+     "topic": "Key date - National Voluntary Blood Donation Day",
+     "claim": "India marks National Voluntary Blood Donation Day on 1 October each year. The Indian Society of Blood Transfusion and Immunohaematology started it in 1975.",
+     "value": "1 October (since 1975)",
+     "confirmed": true,
+     "url": "https://www.easternmirrornagaland.com/october-1-is-national-voluntary-blood-donation-day",
+     "source_title": "Eastern Mirror Nagaland - October 1 is National Voluntary Blood Donation Day",
+     "note": "NACO is reported to have backed the day since 1996. Also see https://iccbba.org/?p=5655"
+    },
+    {
+     "topic": "Camp regulation - who may hold camps",
+     "claim": "Under the Drugs and Cosmetics Rules, outdoor blood donation camps may be held only by a licensed designated Regional Blood Transfusion Centre, a licensed government blood bank, the Indian Red Cross Society, or a licensed blood bank run by a registered voluntary or charitable organisation recognised by the State/UT Blood Transfusion Council.",
+     "value": "Licensed RBTC / govt BB / IRCS / recognised voluntary BB",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97776&reg=48&lang=2",
+     "source_title": "PIB - Regulatory Framework for Organizing Blood Donation Camps",
+     "note": "Also https://corporatelawreporter.com/regulatory-framework-for-organizing-blood-donation-camps/ . Jeevan Jyoti says it holds RBTC status, so it should qualify."
+    },
+    {
+     "topic": "Camp regulation - premises",
+     "claim": "Camp premises (Schedule F, Part XII-B) must be large enough and hygienic enough to run, maintain and clean properly. They need a continuous electricity supply for the camp equipment and enough light for all activities.",
+     "value": "Adequate, hygienic space; uninterrupted power; lighting",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97776&reg=48&lang=2",
+     "source_title": "PIB - Regulatory Framework for Organizing Blood Donation Camps"
+    },
+    {
+     "topic": "Camp regulation - reporting",
+     "claim": "Within seven days of a camp, the organising blood bank must report the venue and the units collected by blood group to the licensing authority.",
+     "value": "7 days",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97776&reg=48&lang=2",
+     "source_title": "PIB - Regulatory Framework for Organizing Blood Donation Camps",
+     "note": "This is the blood bank's job, not the host company's."
+    },
+    {
+     "topic": "Camp - what host organisation provides",
+     "claim": "Blood Centre Rashtrotthana asks camp hosts for a space of at least 20 x 30 ft with good ventilation, drinking water, at least one plug point, 3-4 tables and 20-25 chairs, plus at least 200 ml of drink per donor (light refreshments optional).",
+     "value": "20x30 ft room, water, 1+ plug point, 3-4 tables, 20-25 chairs, 200 ml drink/donor",
+     "confirmed": true,
+     "url": "https://bloodcentre.rashtrotthana.org/?p=907",
+     "source_title": "Blood Centre Rashtrotthana - camp checklist",
+     "note": "One Bengaluru blood centre's checklist, not a regulation. Confirm Jeevan Jyoti's own requirements."
+    },
+    {
+     "topic": "Camp - venue conditions",
+     "claim": "The Assam State Blood Transfusion Council's camp guidance says the bleeding area needs good lighting and ventilation, and overcrowding must be avoided.",
+     "value": "Lighting, ventilation, no overcrowding",
+     "confirmed": true,
+     "url": "https://asbtc.assam.gov.in/frontimpotentdata/vbd-camps",
+     "source_title": "ASBTC - VBD Camps"
+    },
+    {
+     "topic": "Camp - staffing by blood bank",
+     "claim": "CDSCO's Blood Centre Division FAQ says a centre that holds blood donation camps should have a counsellor or medical social worker, along with a medical officer, blood centre technician and registered nurse.",
+     "value": "MO, technician, nurse, counsellor/MSW",
+     "confirmed": true,
+     "url": "https://cdsco.gov.in/opencms/resources/UploadCDSCOWeb/2018/UploadBloodBank/Blood%20Centre%20Division_FAQs.pdf",
+     "source_title": "CDSCO - Blood Centre Division FAQs"
+    },
+    {
+     "topic": "Camp - minimum donors",
+     "claim": "Non-official Indian guides disagree on the minimum: some say blood banks want 80-100 potential donors, others 40-50, and one NGO asks for at least 80-90 donors. No regulatory minimum was found.",
+     "value": "40-100 (varies; no official minimum)",
+     "confirmed": false,
+     "url": "https://www.thebloodapp.com/blogs/how-to-organise-a-blood-donation-camp-in-your-college-or-office-a-stepbystep-guide-KC6vlPQ4LoIC1E2v7elW",
+     "source_title": "TheBloodApp - How to Organise a Blood Donation Camp in Your College or Office",
+     "note": "Also https://donormeetup.com/blog/how-to-organise-blood-donation-camp-india and https://www.donateinkind.in/blood-donation . Ask Jeevan Jyoti for its own minimum."
+    },
+    {
+     "topic": "Camp - duration",
+     "claim": "No Indian blood bank or regulator source giving a standard camp duration was found.",
+     "value": "Not found",
+     "confirmed": false,
+     "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97776&reg=48&lang=2",
+     "source_title": "PIB - Regulatory Framework for Organizing Blood Donation Camps",
+     "note": "Leave the duration out or confirm it with Jeevan Jyoti. One guide says the blood bank team arrives about an hour before the scheduled start."
+    },
+    {
+     "topic": "Camp - corporate logistics",
+     "claim": "Practical guides say an office camp can be held on a working day at the workplace, with written HR approval, confirmation from a partner blood bank, and a venue with electricity and water.",
+     "value": "HR approval, working-day onsite camp, power and water",
+     "confirmed": true,
+     "url": "https://www.thebloodapp.com/blogs/how-to-organise-a-blood-donation-camp-in-your-college-or-office-a-stepbystep-guide-KC6vlPQ4LoIC1E2v7elW",
+     "source_title": "TheBloodApp guide (non-official)",
+     "note": "Non-official practical guidance. The search summary drew on several guides, including https://donormeetup.com/blog/how-to-organise-blood-donation-camp-india"
+    }
+   ],
+   "gaps": "I used all 18 WebSearch calls and could not open any page, so every fact comes from search-result summaries.\n\nNot found:\n(1) Jeevan Jyoti's founding year. The earliest dated claims are component preparation in April 1997 and RBTC status in Sept 1999. The linked Dhruv Pathology appears to date from about 1989.\n(2) Jeevan Jyoti's FDA/CDSCO blood-bank licence number. Only a third-party 'licence date 1/1/2008' was found.\n(3) Whether Jeevan Jyoti Health Care & Research Trust formally owns the blood bank. It is confirmed only that the trust manages Dhruv Pathology and that dhruvlabs.com lists the blood bank as a sister organisation.\n(4) Whether whole blood is listed in the NABH scope (the summary named red cells, platelets, apheresis platelets and FFP).\n(5) Exact temporary deferral periods (tattoo, malaria, pregnancy, alcohol, vaccination) from an official Indian source.\n(6) A regulatory or Jeevan Jyoti-specific minimum number of donors or camp duration.\n(7) The primary NBTC February 2025 guideline document and the original parliamentary reply on the 2024-25 collection figures. Both are cited through secondary sources.\n\nPhone numbers differ between the official site and directories, and an old Madhav Nagar address still appears in many listings. Use J-12, West High Court Road, Laxmi Nagar and 0712-2230876 / 9822477282, and confirm with the client.\n\nA Justdial URL suggests a Jeevan Jyoti outlet beside Face And Figure in Wardhaman Nagar. This is unverified, and the client should be asked about it."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "Jeevan Jyoti Blood Bank & Components is at J-12, West High Court Road, Laxmi Nagar, Nagpur 440022.",
+     "verdict": "confirmed",
+     "reason": "A fresh search turned up the same J-12 West High Court Road, Laxmi Nagar, Nagpur-440022 address on the bank's own site. The bank's older blog (jeevanjyotibloodbanknagpur.webs.com) says the bank has moved there, and a Nagpur directory gives the same address with 'Opp. Bank of Baroda'. One problem: the Sulekha listing title gives the PIN as 440010, not 440022. Print 440022 (the official site) and confirm it with the client.",
+     "url": "http://jeevanjyotibloodbankandcomponents.com/"
+    },
+    {
+     "claim": "Landmark: beside Dhruv Diagnostics, opposite Bank of Baroda, Laxmi Nagar.",
+     "verdict": "confirmed",
+     "reason": "The search summary again gives the J-12 address as 'besides Dhruv Diagnostics, opposite Bank of Baroda, Laxminagar, Nagpur'. A separate directory also says 'Opp. Bank of Baroda'.",
+     "url": "https://yappe.in/maharashtra/nagpur/jeevan-jyoti-blood-bank/667462"
+    },
+    {
+     "claim": "The J P Chambers, Madhav Nagar / South Ambazari Road address is out of date.",
+     "verdict": "confirmed",
+     "reason": "The bank's older blog page says it has moved to the J-12 Laxmi Nagar address. Directories still show the Madhav Nagar address with two different PINs, 440010 and 440001. Do not use the Madhav Nagar address.",
+     "url": "https://jeevanjyotibloodbanknagpur.webs.com/"
+    },
+    {
+     "claim": "The official site lists 0712-2230876 and +91-9822477282.",
+     "verdict": "confirmed",
+     "reason": "A second search again attributes 0712-2230876 and +91-9822477282 to the company's own site for the J-12 address. Like the original, this comes from a search summary; the page itself could not be opened. Ring the numbers to check them before printing.",
+     "url": "http://jeevanjyotibloodbankandcomponents.com/"
+    },
+    {
+     "claim": "Alternate contacts: 0712-2231660, mobile 9422113811, email jjbb21@hotmail.com.",
+     "verdict": "unverifiable",
+     "reason": "0712-2231660 has some support. A Nagpur directory lists it next to 2230876 for the J-12 address, and the bank's own older blog lists 0712-2230876 / 2231660 / 9130002271. 9422113811 shows up only in a blood-bank directory. The blog's mobile number (9130002271) is different from both 9822477282 and 9422113811. I did not check the email. Leave all of these out of the deck unless the client confirms them.",
+     "url": "https://jeevanjyotibloodbanknagpur.webs.com/"
+    },
+    {
+     "claim": "The blood bank is open 24 hours.",
+     "verdict": "confirmed",
+     "reason": "The search summary now says the company's own site describes the service as available 24 hours, so this is no longer based only on directories. It still comes from a summary, and the search itself said this should be checked.",
+     "url": "http://jeevanjyotibloodbankandcomponents.com/"
+    },
+    {
+     "claim": "NABH certificate BB-2011-0033 is valid from 5 April 2024 to 4 April 2027.",
+     "verdict": "confirmed",
+     "reason": "The NABH portal's table of accredited blood banks lists 'Jeevan Jyoti Blood Bank & Components, Nagpur, Maharashtra, India | BB-2011-0033 | 05 Apr 2024 | 04 Apr 2027'. The table also has a status column (some entries are suspended or withdrawn), and I could not see this entry's status. Recheck the portal close to printing. The certificate expires in April 2027, about six months after today.",
+     "url": "https://portal.nabh.co/frmViewAccreditedBloodBank.aspx"
+    },
+    {
+     "claim": "First NABH accreditation was in 2011 (27 Sept 2011 per the website; 8 Oct 2011 per Facebook).",
+     "verdict": "confirmed",
+     "reason": "A fresh search found both dates: 'Sept 27th 2011' on one source, and on another 'the first Blood Bank in Central India to be given NABH accreditation ... 8th Oct 2011'. The certificate number BB-2011-0033 also fits a 2011 start. Use the year 2011 only.",
+     "url": "https://www.facebook.com/laxminagarnagpur/"
+    },
+    {
+     "claim": "No FDA/CDSCO licence number was found; a third-party listing shows licence date 1/1/2008.",
+     "verdict": "unverifiable",
+     "reason": "A licence number has now turned up: one third-party listing in my search results gives 'License No: ND/BB/11 (NGP/005)', a state licence number. The search summary did not say which directory page it came from (the results included getblood.in, bloodlinks.in, lifebloodcouncil.org and justdoctors.in), and no official source confirms it. Do not quote any licence number or date unless the bank confirms it.",
+     "url": "https://www.getblood.in/BloodBank/Jeevan-Jyoti-Blood-Bank-and-Component-in-Nagpur/"
+    },
+    {
+     "claim": "Under G.S.R. 166(E) (11 March 2020), donors must be 18-65; first-time donors must not be over 60, and repeat donors can give up to 65.",
+     "verdict": "confirmed",
+     "reason": "The Gazette text, the Drugs and Cosmetics (Second Amendment) Rules, 2020, says 'First time donor shall not be over 60 years of age, for repeat donor upper limit is 65 years'. The NBTC eligibility page gives 18 to 65. The same Gazette sets 18 to 60 for apheresis donors. The 1999 rules said 18 to 60, so older documents still show that figure. I did not check for amendments made after 2020.",
+     "url": "https://drugscontrol.py.gov.in/sites/default/files/GSR-166-E.pdf"
+    },
+    {
+     "claim": "Whole-blood donors need haemoglobin of at least 12.5 g/dL.",
+     "verdict": "confirmed",
+     "reason": "The G.S.R. 166(E) Gazette text gives haemoglobin of 12.5 g/dL or more, and says donors with thalassemia trait may be accepted if their haemoglobin is acceptable.",
+     "url": "https://drugscontrol.py.gov.in/sites/default/files/GSR-166-E.pdf"
+    },
+    {
+     "claim": "Per NBTC, men can donate whole blood every 3 months (90 days) and women every 4 months (120 days).",
+     "verdict": "confirmed",
+     "reason": "A copy of the 2017 'Revised NBTC Guidelines' (blood donor selection) gives 'once in three months (90 days) for males and four months (120 days) for females'. The WHO-based international guidelines say 12 weeks for men and 16 weeks for women, which matches. The source is a SlideShare copy, not the official NBTC PDF, so the evidence is moderate. A plain Wikipedia summary says only 'more than 90 days', without separate figures for men and women.",
+     "url": "https://www.slideshare.net/slideshow/blood-donor-selection-guidelines-2017/182369567"
+    },
+    {
+     "claim": "In Rajya Sabha, the government put India's annual need at 14.6 million units, with 14,601,147 units collected in 2024-25, about 15% more than in 2023.",
+     "verdict": "confirmed",
+     "reason": "Re-searching found the same figures: 14,601,147 units in 2024-25, up 15% from 2023, against a need of 14.6 million (1.46 crore) units. They came in a reply to a question from MP Ashok Chavan, and collection the year before was 12,695,363 units. These numbers may now be stale. A later Rajya Sabha reply reports about 1.58 crore units collected in 2025, with more than 17.4 lakh components thrown away, but another report gives 15.71 million for 2025. Until the 2025 figure is settled from the original reply, either quote 2024-25 and label it clearly, or leave the number out.",
+     "url": "https://www.orfonline.org/expert-speak/securing-india-s-lifeblood-for-a-reliable-national-blood-supply"
+    },
+    {
+     "claim": "About 70% of India's 2024-25 blood supply came from voluntary, unpaid donors.",
+     "verdict": "confirmed",
+     "reason": "ORF confirms that the government says about 70% came from voluntary, unpaid donors. ORF also says experts dispute this figure. In the deck, call it the government's figure ('around 70%, per the government'), not an established fact.",
+     "url": "https://www.orfonline.org/expert-speak/securing-india-s-lifeblood-for-a-reliable-national-blood-supply"
+    },
+    {
+     "claim": "National Voluntary Blood Donation Day is on 1 October and was started by ISBTI in 1975.",
+     "verdict": "confirmed",
+     "reason": "Several sources agree it began on 1 October 1975 on ISBTI's initiative, led by Dr J. G. Jolly and Mrs K. Swaroop Krishen. India issued a commemorative stamp on 1 October 1976. Note for timing: the 2026 day was 1 October, ten days ago.",
+     "url": "https://en.wikipedia.org/wiki/Blood_donation_in_India"
+    },
+    {
+     "claim": "World Blood Donor Day is 14 June, and the 2026 theme was 'One Drop of Humanity. Give Blood. Save Lives.'",
+     "verdict": "confirmed",
+     "reason": "The WHO campaign page and the WHO Africa regional office both confirm 14 June 2026 and the theme 'One Drop of Humanity. Give Blood. Save Lives.'",
+     "url": "https://www.who.int/campaigns/world-blood-donor-day/2026"
+    },
+    {
+     "claim": "Outdoor camps may be held only by a licensed designated RBTC, a licensed government blood bank, IRCS, or a licensed blood bank run by a registered voluntary/charitable organisation recognised by the State/UT BTC.",
+     "verdict": "confirmed",
+     "reason": "The PIB release says this word for word. It is a 2013 release that points to Schedule F, Part XII-B of the Drugs and Cosmetics Rules, 1945. Those Rules were amended in 2020, so the deck should not present the PIB wording as the current text without checking it. Jeevan Jyoti's eligibility rests on its own claim to RBTC status, which I did not re-check here.",
+     "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97776&reg=48&lang=2"
+    },
+    {
+     "claim": "Within 7 days of a camp, the organising blood bank must report the venue and units collected by blood group to the licensing authority.",
+     "verdict": "corrected",
+     "corrected_value": "Within 7 days, the designated RBTC, government blood bank or IRCS must tell both the State Licensing Authority and the Central Licence Approving Authority the camp venue and the units collected by blood group. A later summary also mentions monthly camp reports to NACO. The source is a 2013 PIB release, so the rule may have changed since.",
+     "reason": "The 7-day rule is right, but the claim leaves out the Central Licence Approving Authority as a recipient. It also does not say that the PIB annexure names the RBTC, government blood bank or IRCS as the bodies with the duty, or that the source dates from 2013. In either case the duty falls on the blood bank, not the host company, so for the deck: 'the blood bank handles all regulatory reporting'.",
+     "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?relid=97776&reg=48&lang=2"
+    }
+   ]
+  }
+ },
+ {
+  "topic": "face-n-figure",
+  "research": {
+   "facts": [
+    {
+     "topic": "Business name",
+     "claim": "Justdial lists a women-only gym called 'Face and Figure Gym (Only For Ladies)' in Laxmi Nagar, Nagpur, beside Jeevan Jyoti Blood Bank.",
+     "confirmed": true,
+     "value": "Face and Figure Gym (Only For Ladies)",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET",
+     "source_title": "Face and Figure Gym (Only For Ladies) in Laxmi Nagar Nagpur - Justdial"
+    },
+    {
+     "topic": "Business name",
+     "claim": "A second Justdial listing, at the same spot, uses the name 'Face & Figure Ladies Gym Parlour Spa' (Women Gyms category).",
+     "confirmed": true,
+     "value": "Face & Figure Ladies Gym Parlour Spa",
+     "url": "https://www.justdial.com/Nagpur/Face-Figure-Ladies-Gym-Parlour-Spa-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-140808140612-R2K1_BZDET",
+     "source_title": "Face & Figure Ladies Gym Parlour Spa in Laxmi Nagar Nagpur - Justdial"
+    },
+    {
+     "topic": "Business name",
+     "claim": "A third Justdial listing, for the beauty parlour, uses the name 'Face And Figure Beauty Parlour' at Ath Rasta Chowk, beside Jeevan Jyoti Blood Bank, Laxmi Nagar.",
+     "confirmed": true,
+     "value": "Face And Figure Beauty Parlour",
+     "url": "https://www.justdial.com/Nagpur/Face-And-Figure-Beauty-Parlour-Ath-Rasta-Chowk-Beside-Jeevan-Jyoti-Blood-Bank-Laxminagar-Laxmi-Nagar-Nagpur/0712PX712-X712-180616215501-G8E3_BZDET",
+     "source_title": "Face And Figure Beauty Parlour in Laxmi Nagar Nagpur - Justdial"
+    },
+    {
+     "topic": "Business name",
+     "claim": "magicpin lists the business as 'Face and Figure Gym, Parlour and Spa' under Fitness, with the locality given as Bajaj Nagar, Nagpur.",
+     "confirmed": true,
+     "value": "Face and Figure Gym, Parlour and Spa",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b",
+     "note": "The magicpin address is also J-11, opposite Bank of Baroda, Laxminagar, 440022. 'Bajaj Nagar' looks like a locality label for the same site, not a second branch.",
+     "source_title": "Face and Figure Gym, Parlour and Spa, Bajaj Nagar, Nagpur - magicpin"
+    },
+    {
+     "topic": "Business name",
+     "claim": "The business's Facebook page is titled 'Face and Figure'. In search snippets it describes itself as one of Nagpur's iconic women's fitness centres, 'Since '78'.",
+     "confirmed": true,
+     "value": "facebook.com/faceandfigure",
+     "url": "https://www.facebook.com/faceandfigure",
+     "note": "Seen only in search snippets. The page itself could not be opened (WebFetch unavailable). A later, more specific search did not bring the page back.",
+     "source_title": "Face and Figure - Facebook"
+    },
+    {
+     "topic": "Address",
+     "claim": "The address is Plot No. J-11, West High Court Road (WHC Road), 8 Rasta Chowk, Laxmi Nagar, Nagpur 440022, beside Jeevan Jyoti Blood Bank.",
+     "confirmed": true,
+     "value": "Plot J-11, West High Court Road, 8 Rasta Chowk, Laxmi Nagar, Nagpur 440022",
+     "url": "https://www.justdial.com/Nagpur/Face-Figure-Ladies-Gym-Parlour-Spa-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-140808140612-R2K1_BZDET",
+     "source_title": "Face & Figure Ladies Gym Parlour Spa - Justdial"
+    },
+    {
+     "topic": "Address",
+     "claim": "magicpin gives the landmark as opposite Bank of Baroda, Laxminagar, Nagpur, Maharashtra 440022.",
+     "confirmed": true,
+     "value": "J-11, opp. Bank of Baroda, Laxminagar, Nagpur 440022",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b",
+     "source_title": "magicpin"
+    },
+    {
+     "topic": "Phone",
+     "claim": "Justdial shows the phone number 08511610782.",
+     "confirmed": false,
+     "value": "08511610782",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET",
+     "note": "The directories list three different numbers. Which one is current could not be checked. Call to confirm before printing.",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Phone",
+     "claim": "magicpin shows the phone number +91 7741021509.",
+     "confirmed": false,
+     "value": "+91 7741021509",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b",
+     "note": "Not checked against an official source.",
+     "source_title": "magicpin"
+    },
+    {
+     "topic": "Phone",
+     "claim": "Fitmasto shows the phone number 7947236464.",
+     "confirmed": false,
+     "value": "7947236464",
+     "url": "https://fitmasto.com/en/face-and-figure-gym-only-for-ladies-in-laxmi-nagar-nagpur-nagpur/gym3771",
+     "note": "Third-party aggregator. Not checked.",
+     "source_title": "Face And Figure Gym (Only For Ladies) - Fitmasto"
+    },
+    {
+     "topic": "Women-only",
+     "claim": "The gym is women-only. Justdial names it 'Only For Ladies', its listings use 'Ladies Gym', and Facebook calls it a women's fitness centre.",
+     "confirmed": true,
+     "value": "Women only",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Years in business",
+     "claim": "Facebook says 'Since '78' (1978).",
+     "confirmed": false,
+     "value": "1978",
+     "url": "https://www.facebook.com/faceandfigure",
+     "note": "Conflicts with Justdial. Seen in a search snippet only.",
+     "source_title": "Face and Figure - Facebook"
+    },
+    {
+     "topic": "Years in business",
+     "claim": "The Justdial gym listing says 'Established in the year 1979' and also shows '46 Years in Business', which would point to about 1980. The listing contradicts itself.",
+     "confirmed": false,
+     "value": "1979 (Justdial)",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET",
+     "note": "Facebook (1978) and Justdial (1979) both point to the late 1970s, so 'over 45 years' is fairly safe. The exact year is not confirmed.",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Years in business",
+     "claim": "The Justdial beauty parlour listing says it was established in 1982.",
+     "confirmed": false,
+     "value": "1982 (parlour listing)",
+     "url": "https://www.justdial.com/Nagpur/Face-And-Figure-Beauty-Parlour-Ath-Rasta-Chowk-Beside-Jeevan-Jyoti-Blood-Bank-Laxminagar-Laxmi-Nagar-Nagpur/0712PX712-X712-180616215501-G8E3_BZDET",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Years in business",
+     "claim": "The Justdial 'Face & Figure Ladies Gym Parlour Spa' listing shows '24 Years in Business'.",
+     "confirmed": false,
+     "value": "24 years (one listing)",
+     "url": "https://www.justdial.com/Nagpur/Face-Figure-Ladies-Gym-Parlour-Spa-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-140808140612-R2K1_BZDET",
+     "note": "Probably counts from when the listing was created, not when the business was founded. Conflicts with the other sources.",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Services - gym",
+     "claim": "Justdial lists gym, Zumba, Pilates and CrossFit. It describes advanced gym equipment, steam baths and a range of fitness workshops for women.",
+     "confirmed": true,
+     "value": "Gym, Zumba, Pilates, CrossFit, steam bath, fitness workshops",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Services - yoga",
+     "claim": "Fitmasto lists yoga classes, including power yoga and meditation.",
+     "confirmed": true,
+     "value": "Yoga, power yoga, meditation",
+     "url": "https://fitmasto.com/en/face-and-figure-gym-only-for-ladies-in-laxmi-nagar-nagpur-nagpur/gym3771",
+     "source_title": "Fitmasto"
+    },
+    {
+     "topic": "Services - broad",
+     "claim": "One directory description says it offers 'all kind of ladies gym, dance, aerobics, yoga, beauty parlor, hair treatments', with a ladies-only gym and parlour that has a vibratory belt and a lipolyser.",
+     "confirmed": false,
+     "value": "Aerobics, dance, yoga, beauty parlour, hair treatments, vibratory belt, lipolyser",
+     "url": "https://www.justdial.com/Nagpur/Face-Figure-Ladies-Gym-Parlour-Spa-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-140808140612-R2K1_BZDET",
+     "note": "This text came back in the results for one search, but the summary did not say which page it was on. It could be this Justdial page or the UrbanPro listing (https://www.urbanpro.com/nagpur/face-figure-laxmi-nagar/3024280). Check before use.",
+     "source_title": "Justdial / UrbanPro (unclear)"
+    },
+    {
+     "topic": "Services - beauty parlour",
+     "claim": "The Justdial beauty parlour listing is tagged for home services, facials and bridal makeup.",
+     "confirmed": true,
+     "value": "Facials, bridal makeup, home services",
+     "url": "https://www.justdial.com/Nagpur/Face-And-Figure-Beauty-Parlour-Ath-Rasta-Chowk-Beside-Jeevan-Jyoti-Blood-Bank-Laxminagar-Laxmi-Nagar-Nagpur/0712PX712-X712-180616215501-G8E3_BZDET",
+     "note": "No prices or package details were found.",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Services - spa/sauna",
+     "claim": "'Spa' is part of the listing name ('Ladies Gym Parlour Spa' / 'Gym, Parlour and Spa'), and Justdial mentions steam baths. No source confirmed a sauna or specific spa treatments.",
+     "confirmed": false,
+     "value": "Steam bath confirmed; sauna not confirmed",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b",
+     "source_title": "magicpin"
+    },
+    {
+     "topic": "Hours",
+     "claim": "Justdial shows it open until 8:00 pm. Fitmasto gives Monday to Saturday hours split into a morning and an evening session, closing at 8:00 PM.",
+     "confirmed": false,
+     "value": "Mon-Sat, split session, closes 8 pm",
+     "url": "https://fitmasto.com/en/face-and-figure-gym-only-for-ladies-in-laxmi-nagar-nagpur-nagpur/gym3771",
+     "note": "The exact opening times were not given.",
+     "source_title": "Fitmasto"
+    },
+    {
+     "topic": "Ratings",
+     "claim": "Justdial rates the 'Gym (Only For Ladies)' listing 4.2 stars. The review count was reported as about 78 to 85, varying by page and date.",
+     "confirmed": true,
+     "value": "4.2 / ~78-85 reviews (Justdial)",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Ratings",
+     "claim": "Justdial rates the 'Face & Figure Ladies Gym Parlour Spa' listing 4.1, based on 101 customer reviews. Its review page title says '101 Ratings'.",
+     "confirmed": true,
+     "value": "4.1 / 101 ratings (Justdial)",
+     "url": "https://www.justdial.com/Nagpur/Face-Figure-Ladies-Gym-Parlour-Spa-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-140808140612-R2K1_BZDET/reviews/page-3",
+     "source_title": "Face & Figure Ladies Gym Parlour Spa Reviews - 101 Ratings - Justdial"
+    },
+    {
+     "topic": "Ratings",
+     "claim": "Justdial rates the 'Face And Figure Beauty Parlour' listing 4.3, from 77 to 78 ratings.",
+     "confirmed": true,
+     "value": "4.3 / 77-78 ratings (Justdial)",
+     "url": "https://www.justdial.com/Nagpur/Face-And-Figure-Beauty-Parlour-Ath-Rasta-Chowk-Beside-Jeevan-Jyoti-Blood-Bank-Laxminagar-Laxmi-Nagar-Nagpur/0712PX712-X712-180616215501-G8E3_BZDET",
+     "note": "Reviews are mixed. One reviewer called it the 'worst ever experience', while another wrote 'Great facility. Well equipped.'",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Ratings",
+     "claim": "magicpin shows a rating of 4.4 from 6 reviews.",
+     "confirmed": true,
+     "value": "4.4 / 6 reviews (magicpin)",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b",
+     "source_title": "magicpin"
+    },
+    {
+     "topic": "Ratings",
+     "claim": "No Google Maps rating or review count was found.",
+     "confirmed": false,
+     "value": "Not found",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET",
+     "note": "No search returned Google Maps data. The URL given is the main Justdial listing, for reference only."
+    },
+    {
+     "topic": "Link to Jeevan Jyoti Blood Bank",
+     "claim": "Justdial's Jeevan Jyoti Blood Bank listing names it 'Jeevan Jyoti Blood Bank & Components, Beside Face And Figure Gym Parlour And Spa'. The two are next-door neighbours on WHC Road.",
+     "confirmed": true,
+     "value": "Next-door neighbours",
+     "url": "https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Components-Beside-Face-And-Figure-Gym-Parlour-And-Spa-Wardhaman-Nagar/0712P712STD2000619_BZDET",
+     "note": "Directories put the blood bank at J-12 WHC Road and Face and Figure at J-11. Its pincode is given variously as 440010, 440022 or 440008, and its locality as Laxmi Nagar or Wardhaman Nagar.",
+     "source_title": "Jeevan Jyoti Blood Bank & Components - Justdial"
+    },
+    {
+     "topic": "Link to Jeevan Jyoti Blood Bank",
+     "claim": "Jeevan Jyoti Blood Bank is listed as open 24 hours, with the phone number +91 712 223 0876.",
+     "confirmed": false,
+     "value": "24 hours; +91 712 223 0876",
+     "url": "https://www.sulekha.com/jeevan-jyoti-blood-bank-laxmi-nagar-nagpur-contact-address",
+     "note": "Taken from a summary of directory results. The summary did not say which of the Sulekha, Yappe or Proceed pages gave the phone number.",
+     "source_title": "Jeevan Jyoti Blood Bank in Laxmi Nagar - Sulekha"
+    },
+    {
+     "topic": "Link to Dhruv Diagnostics",
+     "claim": "Dhruv Diagnostics Private Limited (CIN U85100MH2020PTC349763) has its registered office at J11, West High Court Road, Laxmi Nagar, Nagpur 440022. That is the same plot number as Face and Figure.",
+     "confirmed": true,
+     "value": "Same plot J-11 WHC Road",
+     "url": "https://www.zaubacorp.com/company/DHRUV-DIAGNOSTICS-PRIVATE-LIMITED/U85100MH2020PTC349763",
+     "note": "This shows the two share an address. No source confirms common ownership or a formal link.",
+     "source_title": "DHRUV DIAGNOSTICS PRIVATE LIMITED - Zauba Corp"
+    },
+    {
+     "topic": "Link to Dhruv Diagnostics",
+     "claim": "Justdial lists 'Dhruv Pathology And Molecular Diagnostic Laboratory' beside Jeevan Jyoti Blood Bank, WHC Road, 8 Rasta Chowk, Laxmi Nagar. That is the same landmark Face and Figure uses.",
+     "confirmed": true,
+     "value": "Same landmark",
+     "url": "https://www.justdial.com/Nagpur/Dhruv-Pathology-And-Molecular-Diagnostic-Laboratory-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-000298217278-H6K1_BZDET",
+     "source_title": "Dhruv Pathology And Molecular Diagnostic Laboratory - Justdial"
+    },
+    {
+     "topic": "Link to Dhruv Diagnostics",
+     "claim": "No source names an owner or founder of Face and Figure, and no source states a corporate or family link with Dhruv Diagnostics, Dhruv Labs or a Jeevan Jyoti trust. The only link found is the shared J-11 WHC Road address.",
+     "confirmed": false,
+     "value": "Ownership link not confirmed",
+     "url": "https://www.facebook.com/faceandfigure",
+     "note": "A search for owner or founder names returned nothing relevant. The user's brief treats the three as related brands, but this needs the client to confirm."
+    },
+    {
+     "topic": "Same-name businesses (unrelated)",
+     "claim": "'Face N Figure Beauty Parlour' (facenfigure.in) is in Tirunelveli, Tamil Nadu. It is not the Nagpur business.",
+     "confirmed": true,
+     "value": "Unrelated - Tirunelveli",
+     "url": "https://facenfigure.in/",
+     "note": "Do not use facenfigure.in in the deck.",
+     "source_title": "Face N Figure"
+    },
+    {
+     "topic": "Same-name businesses (unrelated)",
+     "claim": "'Figure N Face Studio' is a beauty studio in Gautam Nagar, New Delhi, listed on Salonist. It is not the Nagpur business.",
+     "confirmed": true,
+     "value": "Unrelated - New Delhi",
+     "url": "https://salonist.io/cs/s/FigureNFaceStudio",
+     "source_title": "Figure N Face Studio - Salonist"
+    },
+    {
+     "topic": "Same-name businesses (Nagpur)",
+     "claim": "No unrelated Nagpur business with the same name was found. Every Nagpur listing points to one ladies gym, parlour and spa at J-11 WHC Road, Laxmi Nagar, beside Jeevan Jyoti Blood Bank. That is the ladies gym and beauty parlour in the brief.",
+     "confirmed": true,
+     "value": "Single Nagpur entity",
+     "url": "https://www.justdial.com/Nagpur/Face-Figure-Ladies-Gym-Parlour-Spa-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-140808140612-R2K1_BZDET",
+     "source_title": "Justdial"
+    },
+    {
+     "topic": "Website / social",
+     "claim": "No official website or Instagram account for the Nagpur Face and Figure was found. Facebook is the only owned channel seen.",
+     "confirmed": false,
+     "value": "Website/Instagram not found",
+     "url": "https://www.facebook.com/faceandfigure"
+    }
+   ],
+   "gaps": "I used 16 WebSearch calls. WebFetch was not available, so every fact comes from search-result summaries and snippets, not from opening the pages. Not found or not confirmed: (1) a Google Maps rating or review count; (2) the name of the owner or founder; (3) any formal ownership link to Dhruv Diagnostics, Dhruv Labs or a Jeevan Jyoti trust. The only link found is that all three use the J-11 WHC Road address or the 'beside Jeevan Jyoti Blood Bank' landmark. (4) The founding year conflicts: Facebook says '78, Justdial says 1979 and also '46 years in business', the parlour listing says 1982, and another listing says 24 years. (5) Directories give three different phone numbers (08511610782, 7741021509, 7947236464), and none could be checked as current. (6) Aerobics, the weight-loss programme, sauna, spa treatments, bridal packages and prices could not be confirmed against a page I could identify. The aerobics, dance, vibratory belt and lipolyser text could not be pinned to one URL. (7) No website or Instagram was found. Before putting phone numbers, the founding year or a claim of shared ownership in the deck, confirm them with the client."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "Address: Plot No. J-11, West High Court Road (WHC Road), Laxmi Nagar, Nagpur 440022, beside Jeevan Jyoti Blood Bank.",
+     "verdict": "confirmed",
+     "reason": "A separate search shows Justdial listing 'Plot No J-11, Beside Jeevan Jyoti Blood Bank, West High Court Road, Laxmi Nagar, Nagpur-440022'. Fitmasto gives the same plot, and magicpin gives 'J, 11, W High Ct Rd ... Laxminagar, Nagpur 440022'. Dhruv Diagnostics' own contact page gives the same plot for its Laxmi Nagar branch: 'J-11, West High Court Road, Near Jeevan Jyoti Blood Center, Laxmi Nagar, Nagpur 440022'. '8 Rasta Chowk' appears only in the parlour listing's name. It is safe to use as a landmark but was not checked separately.",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET"
+    },
+    {
+     "claim": "magicpin gives the landmark as opposite Bank of Baroda, Laxminagar, Nagpur 440022.",
+     "verdict": "confirmed",
+     "reason": "Two separate searches show the magicpin listing with 'J, 11, W High Ct Rd, opposite Bank Of Baroda, Laxminagar, Nagpur, Maharashtra 440022'.",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b"
+    },
+    {
+     "claim": "Justdial shows the phone number 08511610782 for the gym.",
+     "verdict": "confirmed",
+     "reason": "A search on the number matched it to the Justdial 'Face and Figure Gym (Only For Ladies)' listing. The same number appears on a second Justdial listing with 84 ratings. This only shows the directory lists it. No official source confirms the number is current. Do not print it without calling first.",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET"
+    },
+    {
+     "claim": "magicpin shows the phone number +91 7741021509.",
+     "verdict": "confirmed",
+     "reason": "A search on the number matched it to the magicpin 'Face and Figure Gym, Parlour and Spa' listing. This is a directory listing only, not an official source, and whether it is current is unverified.",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b"
+    },
+    {
+     "claim": "Fitmasto shows the phone number 7947236464.",
+     "verdict": "confirmed",
+     "reason": "A separate search shows Fitmasto listing 7947236464 for this address. It is a third-party aggregator, and no source shows the number belongs to the business. My own inference, which no source supports: the number may be a directory call-routing number, not the gym's own line. This is the weakest of the three numbers. Leave it out of the deck.",
+     "url": "https://fitmasto.com/en/face-and-figure-gym-only-for-ladies-in-laxmi-nagar-nagpur-nagpur/gym3771"
+    },
+    {
+     "claim": "Facebook page 'Face and Figure' (facebook.com/faceandfigure) describes a Nagpur women's fitness centre, 'Since '78'.",
+     "verdict": "confirmed",
+     "reason": "A search limited to facebook.com and instagram.com brought the page back. The snippet describes a women's fitness centre in Nagpur, gives 'Since '78', and shows about 686 likes and 50 check-ins. This comes from a search snippet only. The page itself was not opened.",
+     "url": "https://www.facebook.com/faceandfigure"
+    },
+    {
+     "claim": "The Justdial gym listing says 'Established in the year 1979' but also shows '46 Years in Business' (pointing to about 1980), so the listing contradicts itself.",
+     "verdict": "corrected",
+     "corrected_value": "The current Justdial listing shows a 47-year history (2026 - 47 = 1979), which matches 'established 1979'. The 'years in business' figure goes up each year, so '46' was probably read on an earlier date. Facebook says '78 and Justdial says 1979, so the exact founding year is still unconfirmed. 'Serving Nagpur women for over 45 years' / 'since the late 1970s' is safe to use.",
+     "reason": "A search in October 2026 reported Justdial's listing as mentioning 'a 47-year history'. No search found a news article or official source giving the founding year. A search for 'since 1978 OR 1979' found no confirmation.",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET"
+    },
+    {
+     "claim": "Exact founding year (1978 per Facebook vs 1979 per Justdial).",
+     "verdict": "unverifiable",
+     "reason": "No primary source was found, such as a news feature, an official website or a registration record. Two directory or social sources disagree by one year. Confirm with the client before printing a specific year.",
+     "url": "https://www.facebook.com/faceandfigure"
+    },
+    {
+     "claim": "Justdial rates the 'Gym (Only For Ladies)' listing 4.2 stars from about 78 to 85 reviews.",
+     "verdict": "corrected",
+     "corrected_value": "4.2 from 85 ratings on the current Justdial listing. Justdial's own 2023 'Year Ender' collection showed the gym at 4.3 from 106 ratings.",
+     "reason": "Two separate searches return 'Rated 4.2 based on 85 Customer Reviews and Ratings'. The Justdial 2023 top gyms collection lists 'Face and Figure Gym (Only For Ladies) 4.3, 106 ratings'. The counts differ between Justdial pages, so if a rating goes in the deck, quote it as 'rated 4+ on Justdial' rather than an exact count.",
+     "url": "https://justdial.com/list/yearender-2023-stay-fit-with-the-best-gyms-and-fitness-centres-in-nagpur?amp=&wkwebview=1"
+    },
+    {
+     "claim": "Justdial rates the 'Face & Figure Ladies Gym Parlour Spa' listing 4.1 from 101 ratings.",
+     "verdict": "confirmed",
+     "reason": "A separate search shows the Justdial reviews page titled '101 Ratings' with a 4.1 rating. The reviews are mixed: one reviewer called the parlour the 'worst experience', while another called it a 'great facility, well equipped'.",
+     "url": "https://www.justdial.com/Nagpur/Face-Figure-Ladies-Gym-Parlour-Spa-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-140808140612-R2K1_BZDET/reviews/page-3"
+    },
+    {
+     "claim": "magicpin shows a rating of 4.4 from 6 reviews.",
+     "verdict": "confirmed",
+     "reason": "Two separate searches show magicpin at 4.4 from 6 ratings. The sample is too small to be worth quoting in a deck.",
+     "url": "https://magicpin.in/Nagpur/Bajaj-Nagar/Fitness/Face-And-Figure-Gym,-Parlour-And-Spa/store/1b7c78b"
+    },
+    {
+     "claim": "Hours: Justdial open until 8:00 pm. Fitmasto gives Mon-Sat split morning and evening sessions closing at 8 pm, with exact opening times not given.",
+     "verdict": "corrected",
+     "corrected_value": "Fitmasto: Monday to Saturday, 7:00 AM to 8:00 PM, with an afternoon break. Justdial: open until 8:00 pm.",
+     "reason": "A separate search reports Fitmasto as giving 'Monday to Saturday hours of 7:00 AM to 8:00 PM with a break in the afternoon'. Fitmasto is an aggregator, so confirm the hours with the business.",
+     "url": "https://fitmasto.com/en/face-and-figure-gym-only-for-ladies-in-laxmi-nagar-nagpur-nagpur/gym3771"
+    },
+    {
+     "claim": "Gym services: gym, Zumba, Pilates, CrossFit (Justdial); yoga, power yoga, meditation (Fitmasto).",
+     "verdict": "confirmed",
+     "reason": "Separate searches show Justdial listing Zumba and CrossFit, and listing Pilates, aerobics and CrossFit among the gym's services. Fitmasto lists yoga for women, power yoga, stress-management yoga and meditation. Aerobics is also on Justdial's service list, so it can be used. Steam bath was not checked again.",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET"
+    },
+    {
+     "claim": "Directory text: 'all kind of ladies gym, dance, aerobics, yoga, beauty parlor, hair treatments', with a vibratory belt and a lipolyser.",
+     "verdict": "unverifiable",
+     "reason": "Two searches with different wording, one quoting 'vibratory belt' and lipolyser and one aimed at UrbanPro, did not bring this text back from any page. Do not quote the vibratory belt or lipolyser, which are also medical-sounding claims. Aerobics alone is supported by Justdial's service list.",
+     "url": "https://www.urbanpro.com/nagpur/face-figure-laxmi-nagar/3024280"
+    },
+    {
+     "claim": "The gym is women-only.",
+     "verdict": "confirmed",
+     "reason": "The Justdial listing name is 'Face and Figure Gym (Only For Ladies)', and the Facebook snippet describes a women's fitness centre in Nagpur.",
+     "url": "https://www.justdial.com/Nagpur/Face-and-Figure-Gym-Only-For-Ladies-Beside-Jeevan-Jyoti-Blood-Bank-Laxmi-Nagar-Nagpur/0712PX712-X712-180407183515-V4T1_BZDET"
+    },
+    {
+     "claim": "Justdial lists 'Face And Figure Beauty Parlour' at J-11 WHC Road, beside Jeevan Jyoti Blood Bank, Laxmi Nagar.",
+     "verdict": "confirmed",
+     "reason": "A separate search brought back the Justdial parlour listing at J-11 on the same road. The search summary called it 'a different business from the gym', but that is the summarizer's own reading. The address and landmark are the same, so it reads as the parlour arm of the same site.",
+     "url": "https://www.justdial.com/Nagpur/Face-And-Figure-Beauty-Parlour-Ath-Rasta-Chowk-Beside-Jeevan-Jyoti-Blood-Bank-Laxminagar-Laxmi-Nagar-Nagpur/0712PX712-X712-180616215501-G8E3_BZDET"
+    },
+    {
+     "claim": "Justdial names the blood bank 'Jeevan Jyoti Blood Bank & Components, Beside Face And Figure Gym Parlour And Spa', at J-12 WHC Road. The two are next-door neighbours.",
+     "verdict": "confirmed",
+     "reason": "A separate search shows the Justdial listing placing Jeevan Jyoti Blood Bank & Components at J-12, beside Face and Figure Gym, Parlour and Spa, WHC Road, with the locality given as Wardhaman Nagar. The listing also gives 1997 as a date, probably the year listed or founded. The blood bank's own site gives 'J-12, Laxmi Nagar'.",
+     "url": "https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Components-Beside-Face-And-Figure-Gym-Parlour-And-Spa-Wardhaman-Nagar/0712P712STD2000619_BZDET"
+    },
+    {
+     "claim": "Jeevan Jyoti Blood Bank is open 24 hours, phone +91 712 223 0876 (from a Sulekha, Yappe or Proceed directory summary).",
+     "verdict": "confirmed",
+     "corrected_value": "Better source: the blood bank's own website gives J-12, Laxmi Nagar; phone 0712-2230876; second contact +91 9822477282; 24-hour service.",
+     "reason": "The official site jeevanjyotibloodbanknagpur.webs.com lists 0712-2230876 and +91-9822477282 and says service is available 24 hours at the Laxmi Nagar location. Yappe and ThreeBestRated also list it as open 24 hours. Some directories, such as webindia123 Yellow Pages and Justdoctors, give an older or second address at J P Chambers, South Ambazari Road, Madhav Nagar, with 0712-2231660. Use the J-12 Laxmi Nagar address. There is also a second site, jeevanjyotibloodbankandcomponents.com, so check with the client which one is current.",
+     "url": "https://jeevanjyotibloodbanknagpur.webs.com/"
+    },
+    {
+     "claim": "Dhruv Diagnostics Private Limited (CIN U85100MH2020PTC349763) has its registered office at J11, West High Court Road, Laxmi Nagar, Nagpur 440022, the same plot as Face and Figure.",
+     "verdict": "confirmed",
+     "reason": "A separate search shows Zauba Corp listing that CIN with registered address J11, West High Court Road, Laxmi Nagar, Nagpur 440022. It also shows status Active, incorporation on 9 November 2020, RoC Mumbai and email dhruvlabs@gmail.com. Zauba's filing data stops at the March 2022 balance sheet, so it may be stale. dhruvlabs.com's contact page confirms a Laxmi Nagar branch at J-11 WHC Road, 'Near Jeevan Jyoti Blood Center'. The NABL certificate names Dhruv Diagnostics Pvt Ltd at a different address: 3A, Third Floor, Aditya Enclave, Central Bazaar Road, Nagpur. A shared address is not proof of shared ownership. Do not confuse this company with 'Disha Dhruv Diagnostics Pvt Ltd' (U85110UP2020PTC125672), an unrelated UP company.",
+     "url": "https://www.zaubacorp.com/company/DHRUV-DIAGNOSTICS-PRIVATE-LIMITED/U85100MH2020PTC349763"
+    },
+    {
+     "claim": "No source names an owner or founder of Face and Figure, or states a corporate or family link with Dhruv Diagnostics or Jeevan Jyoti.",
+     "verdict": "unverifiable",
+     "reason": "A separate search for owner, founder, Dhruv or Jeevan Jyoti family found nothing beyond the neighbouring Justdial listings. The only links found are the shared J-11 address (Dhruv) and the neighbouring J-12 plot (Jeevan Jyoti). The client must confirm any 'group' or common-ownership wording.",
+     "url": "https://www.justdial.com/Nagpur/Jeevan-Jyoti-Blood-Bank-Components-Beside-Face-And-Figure-Gym-Parlour-And-Spa-Wardhaman-Nagar/0712P712STD2000619_BZDET"
+    },
+    {
+     "claim": "No official website or Instagram account for the Nagpur Face and Figure was found. Facebook is the only owned channel seen.",
+     "verdict": "confirmed",
+     "reason": "A search limited to facebook.com and instagram.com brought back only facebook.com/faceandfigure for this business, with no Instagram account. Another search noted that no official gym website was found. This is a repeat finding that nothing was found, not proof that no website or Instagram exists.",
+     "url": "https://www.facebook.com/faceandfigure"
+    }
+   ]
+  }
+ },
+ {
+  "topic": "evidence-regulation",
+  "research": {
+   "facts": [
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "The ICMR-INDIAB national study (ICMR-INDIAB-17) was published in The Lancet Diabetes & Endocrinology (Vol 11, July 2023; press coverage dated it June 2023). It surveyed 113,043 adults aged 20 and over in urban and rural areas of 31 states and union territories between 2008 and 2020.",
+     "value": "n = 113,043; age 20+; 31 states/UTs; 2008-2020",
+     "confirmed": true,
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/",
+     "source_title": "Metabolic non-communicable disease health report of India: the ICMR-INDIAB national cross-sectional study (Manipal research portal)",
+     "note": "Also reproduced in https://consumer-voice.org/wp-content/uploads/2026/07/ICMR-IEC.pdf, a copy on a third-party site."
+    },
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "National weighted prevalence of diabetes among adults in India was 11.4%.",
+     "value": "11.4% (95% CI 10.2-12.5)",
+     "confirmed": true,
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/",
+     "source_title": "Metabolic NCD health report of India: ICMR-INDIAB",
+     "note": "Diagnosis used WHO criteria."
+    },
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "National weighted prevalence of prediabetes was 15.3%, which is higher than the prevalence of diabetes.",
+     "value": "15.3% (95% CI 13.9-16.6)",
+     "confirmed": true,
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/",
+     "source_title": "Metabolic NCD health report of India: ICMR-INDIAB"
+    },
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "National prevalence of hypertension was 35.5%.",
+     "value": "35.5% (95% CI 33.8-37.3)",
+     "confirmed": true,
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/",
+     "source_title": "Metabolic NCD health report of India: ICMR-INDIAB",
+     "note": "Hypertension was defined using JNC 8 guidelines."
+    },
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "Generalised obesity prevalence was 28.6% and abdominal obesity prevalence was 39.5%.",
+     "value": "Generalised obesity 28.6%; abdominal obesity 39.5%",
+     "confirmed": true,
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/",
+     "source_title": "Metabolic NCD health report of India: ICMR-INDIAB",
+     "note": "Obesity was defined using WHO Asia Pacific cut-offs."
+    },
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "Dyslipidaemia (any lipid abnormality) prevalence was 81.2%.",
+     "value": "81.2% (95% CI 77.9-84.5)",
+     "confirmed": true,
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/",
+     "source_title": "Metabolic NCD health report of India: ICMR-INDIAB",
+     "note": "Defined by NCEP ATP III. The denominator for the lipid sub-sample was garbled in the search snippet, so the lipid sample size is unconfirmed."
+    },
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "Press coverage of the study estimated about 101 million Indians with diabetes and 315 million with hypertension.",
+     "value": "101 million diabetes; 315 million hypertension",
+     "confirmed": true,
+     "url": "https://morungexpress.com/315-mn-indians-suffer-from-hypertension-101-mn-are-diabetic-icmr-study",
+     "source_title": "315 mn Indians suffer from hypertension, 101 mn are diabetic: ICMR study (Morung Express)",
+     "note": "This is a news report (secondary). Other absolute-number estimates often quoted, such as prediabetes, obesity and cholesterol counts, were not confirmed in this research."
+    },
+    {
+     "topic": "1. ICMR-INDIAB (national)",
+     "claim": "All metabolic NCDs except prediabetes were more common in urban areas than in rural areas. The authors say the diabetes epidemic is stabilising in the more developed states but still rising in most other states.",
+     "confirmed": true,
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/",
+     "source_title": "Metabolic NCD health report of India: ICMR-INDIAB"
+    },
+    {
+     "topic": "1. ICMR-INDIAB (Maharashtra)",
+     "claim": "Maharashtra-specific prevalence figures from the 2023 Lancet ICMR-INDIAB paper could not be found. They are likely in the paper's state-wise appendix on thelancet.com, which was not retrieved.",
+     "confirmed": false,
+     "url": "https://consumer-voice.org/wp-content/uploads/2026/07/ICMR-IEC.pdf",
+     "source_title": "ICMR IEC (copy of ICMR-INDIAB findings)",
+     "note": "Do not quote a 2023 Maharashtra figure in the deck until it is checked against the Lancet supplementary appendix."
+    },
+    {
+     "topic": "1. ICMR-INDIAB (Maharashtra, older phase)",
+     "claim": "In the earlier ICMR-INDIAB Phase I (2008-2010, published in Diabetologia in 2011), weighted diabetes prevalence in Maharashtra was 8.4% and prediabetes was 12.8%. The paper projected about 6 million people with diabetes and 9.2 million with prediabetes in Maharashtra in 2011.",
+     "value": "Diabetes 8.4%; prediabetes 12.8% (Phase I, 2008-10)",
+     "confirmed": true,
+     "url": "https://www.doi.org/10.1007/S00125-011-2291-5",
+     "source_title": "Prevalence of diabetes and prediabetes in urban and rural India: Phase I results of ICMR-INDIAB (Diabetologia 2011)",
+     "note": "This data is more than 15 years old. If used, label it as an older Phase I estimate, not the 2023 figure. Also summarised at https://www.springermedicine.com/prevalence-of-diabetes-and-prediabetes-impaired-fasting-glucose-/20561550"
+    },
+    {
+     "topic": "2. NFHS-5 (India)",
+     "claim": "Under NFHS-5 (2019-21), 57% of women aged 15-49 in India were anaemic, up from about 53% in NFHS-4 (2015-16).",
+     "value": "57% (NFHS-4: 53.1%)",
+     "confirmed": true,
+     "url": "https://www.dtnext.in/lifestyle/wellbeing/anaemia-a-preventable-health-threat-in-girls-women-in-india-784398",
+     "source_title": "Anaemia a preventable health threat in girls, women in India (DT Next / IANS)",
+     "note": "Cross-checked by a BMC Public Health paper (Feb 2024) reporting a rise from 53% to 57%: https://doaj.org/article/11e6d4ca17714c05ac2e2efbebfd579f. Sources give the NFHS-4 baseline as 53.1% or 53.2%. The official fact-sheet decimal (57.0%) was not retrieved directly."
+    },
+    {
+     "topic": "2. NFHS-5 (India)",
+     "claim": "Under NFHS-5 (2019-21), 25% of men aged 15-49 in India were anaemic, up from 22.7% in NFHS-4.",
+     "value": "25% (NFHS-4: 22.7%)",
+     "confirmed": true,
+     "url": "https://www.dtnext.in/lifestyle/wellbeing/anaemia-a-preventable-health-threat-in-girls-women-in-india-784398",
+     "source_title": "Anaemia a preventable health threat in girls, women in India (DT Next / IANS)",
+     "note": "This is a secondary news source. A PIB release was not found."
+    },
+    {
+     "topic": "2. NFHS-5 (Maharashtra)",
+     "claim": "Under NFHS-5, about 54% of women and 22% of men aged 15-49 in Maharashtra were anaemic.",
+     "value": "Women ~54%; men ~22%",
+     "confirmed": true,
+     "url": "https://ruralindiaonline.org/en/library/resource/national-family-health-survey-nfhs-5-2019-21-maharashtra/",
+     "source_title": "National Family Health Survey (NFHS-5) 2019-21: Maharashtra (PARI Library)",
+     "note": "These rounded figures come from a commentary or library summary. Check the exact decimals in the official Maharashtra fact sheet (copy at https://data.opencity.in/dataset/530ee93a-d24c-43df-b90b-272a067d5a4e/resource/62689870-65b9-4d5c-9e0d-90f483560413/download/maharashtra-nhfs.pdf). The men's sample covered ages 15-54, so confirm the men's figure is the 15-49 one."
+    },
+    {
+     "topic": "2. NFHS-5 (Maharashtra)",
+     "claim": "NFHS-5 Maharashtra fieldwork ran from 19 June 2019 to 30 December 2019 and covered 33,755 women aged 15-49 and 5,497 men aged 15-54.",
+     "confirmed": true,
+     "url": "https://data.opencity.in/dataset/530ee93a-d24c-43df-b90b-272a067d5a4e/resource/62689870-65b9-4d5c-9e0d-90f483560413/download/maharashtra-nhfs.pdf",
+     "source_title": "Maharashtra NFHS-5 fact sheet (hosted by OpenCity)"
+    },
+    {
+     "topic": "2. NFHS-5 (Maharashtra)",
+     "claim": "In Maharashtra, 69% of children aged 6-59 months were anaemic in NFHS-5, up from 54% in NFHS-4.",
+     "value": "69% (NFHS-4: 54%)",
+     "confirmed": true,
+     "url": "https://ruralindiaonline.org/en/library/resource/national-family-health-survey-nfhs-5-2019-21-maharashtra/",
+     "source_title": "NFHS-5 2019-21: Maharashtra (PARI Library)",
+     "note": "Context only; this figure does not concern working adults."
+    },
+    {
+     "topic": "3. Labour codes: commencement",
+     "claim": "All four labour codes (Code on Wages, Industrial Relations Code, Code on Social Security, and Occupational Safety, Health and Working Conditions Code) came into force on 21 November 2025, replacing 29 central labour laws.",
+     "value": "In force from 21 November 2025",
+     "confirmed": true,
+     "url": "https://ddnews.gov.in/en/centre-implements-four-labour-codes-overhauling-29-existing-laws/",
+     "source_title": "Four Labour Codes come into force from today, reforming 29 existing laws (DD News)",
+     "note": "Also reported by All India Radio: https://www.newsonair.gov.in/government-implements-four-new-labour-codes/"
+    },
+    {
+     "topic": "3. Labour codes: health check-up (government messaging)",
+     "claim": "Government messaging at launch said the labour codes would ensure free annual health check-ups for workers above 40 years of age.",
+     "confirmed": true,
+     "url": "https://www.newsonair.gov.in/government-implements-four-new-labour-codes/",
+     "source_title": "Government implements four new Labour Codes (News On AIR, 21 Nov 2025)",
+     "note": "This is a headline policy claim. The binding scope comes from the Code plus the Rules (see later entries) and is narrower than this messaging suggests. KPMG summarises it the same way: https://assets.kpmg.com/content/dam/kpmgsites/xx/pdf/2025/12/fa25-267.pdf.coredownload.pdf"
+    },
+    {
+     "topic": "3. Labour codes: health check-up (PIB)",
+     "claim": "A PIB factsheet dated 11 December 2025, on workers in hazardous sectors, refers to a free annual health check-up for all workers in those sectors, with no age threshold.",
+     "confirmed": true,
+     "url": "https://pib.gov.in/FactsheetDetails.aspx?Id=150573",
+     "source_title": "PIB Factsheet (11 Dec 2025)",
+     "note": "Seen only through a search summary, not the full text. It applies to hazardous-sector workers only."
+    },
+    {
+     "topic": "3. OSH Code 2020: statutory duty",
+     "claim": "Section 6 of the OSH Code, 2020 requires employers to provide a free-of-cost annual health examination or test to employees of the age, class or establishments that the appropriate government prescribes. The Code also bars charging employees for such workplace health and safety measures.",
+     "confirmed": true,
+     "url": "https://www.uno.care/blog/osh-code-health-checkup-rules/",
+     "source_title": "OSH Code 2020: Health Checkup Rules Every Employer Should Know (Uno Care)",
+     "note": "This is a vendor blog. The commonly cited provision is section 6(1)(c), but the exact clause number was not confirmed from the statute text. Because the duty depends on the Rules, its practical scope is set by Central and State rules."
+    },
+    {
+     "topic": "3. OSH Central Rules 2026",
+     "claim": "The Occupational Safety, Health and Working Conditions (Central) Rules, 2026 were notified on 8 May 2026 as G.S.R. 345(E). The draft had been published as G.S.R. 934(E) on 30 December 2025.",
+     "value": "Notified 8 May 2026; G.S.R. 345(E)",
+     "confirmed": true,
+     "url": "https://simpliance.in/India/LEI/govt_notification/Central/final-notification-of-the-occupational-safety-health-and-working-conditions-central-rules2026-9356",
+     "source_title": "Final Notification of the OSH (Central) Rules, 2026 (Simpliance)",
+     "note": "Also reported by SCC Online: https://www.scconline.com/blog/post/2026/05/13/osh-central-rules-2026-key-highlights-and-compliance-guide/"
+    },
+    {
+     "topic": "3. OSH Central Rules 2026: Rule 5 (annual check-up)",
+     "claim": "Rule 5 of the Central Rules, as quoted by a secondary source, reads: 'Every employer of dock work, building or other construction work shall arrange to conduct free of cost, medical examination for employee, who has completed forty years of age.' The examination must be done by a qualified medical practitioner, and a certificate in Form VIII goes to both employer and employee.",
+     "value": "Age 40+; dock work and building/construction work; annual; free",
+     "confirmed": true,
+     "url": "https://www.taxheal.com/occupational-safety-health-and-working-conditions-central-rules-2026.html",
+     "source_title": "Occupational Safety Health and Working Conditions Central Rules 2026 (Taxheal)",
+     "note": "The text is quoted secondhand; the gazette itself was not read. JSA and SCC Online also describe the 40+ duty as limited to dock and construction work."
+    },
+    {
+     "topic": "3. OSH Central Rules 2026: scope dispute",
+     "claim": "Commentators disagree on scope. Shiftelio says factories were in the draft but dropped from the final Rule 5, and mines are covered separately under rule 109. Legal500 lists mines alongside dock and construction work. Some HR and vendor blogs claim every employee over 40 in every establishment is covered, but the Central Rules text quoted above does not support that.",
+     "confirmed": false,
+     "url": "https://www.shiftelio.com/blog/annual-health-checkup-employees-over-40-india",
+     "source_title": "The Free Health Check-Up for Employees Over 40: Rule 5 Covers Three Sectors, Your State Draft Covers Everyone (Shiftelio)",
+     "note": "Legal500's reading: https://www.legal500.com/intelligence/india/employment-and-hr/notified-occupational-safety-health-and-working-conditions-(central)-rules-2026-what-employers-need-to-know. Before the deck says 'mandatory for all employees over 40', check the gazette text of G.S.R. 345(E). For most private establishments in Nagpur the appropriate government is likely the State, which makes the Maharashtra rules decisive. That point is not confirmed in these sources."
+    },
+    {
+     "topic": "3. Maharashtra OSH Rules 2026 (draft)",
+     "claim": "Maharashtra has published only draft OSH rules: the Draft Maharashtra Occupational Safety, Health and Working Conditions (Labour) Rules, 2026. Commentators say the draft extends the free annual medical examination for employees aged 40 and over to every establishment. One tracker reported that final rules had not been notified and were expected around August-November 2026.",
+     "confirmed": false,
+     "url": "https://www.teamleaseregtech.com/updates/article/55645/draft-maharashtra-occupational-safety-health-and-working-conditions-la/",
+     "source_title": "Draft Maharashtra OSH and Working Conditions (Labour) Rules, 2026 (TeamLease RegTech)",
+     "note": "Sources disagree on the draft date: TeamLease says 30 April 2026, while another tracker says it was gazetted 6 May 2026. Objection deadlines are also given differently, as 14 June 2026 or around 20 June 2026. TeamLease reports the first check-up within 30 days of appointment. Whether final Maharashtra rules have been notified by 11 Oct 2026 is NOT confirmed; check the Maharashtra Government Gazette. See also https://tmservices.co.in/maharashtra-osh-draft-rules-2026/ and https://lexplosion.in/maharashtra-government-issues-the-draft-maharashtra-occupational-safety-health-and-working-conditions-labour-rules-2026/"
+    },
+    {
+     "topic": "4. DPDP Act 2023 / Rules 2025: status",
+     "claim": "The Digital Personal Data Protection Rules, 2025 were notified by MeitY on 13 November 2025, which operationalised the DPDP Act, 2023. They phase in over 18 months.",
+     "value": "Notified 13 Nov 2025",
+     "confirmed": true,
+     "url": "https://ssrana.in/articles/meity-notifies-final-digital-personal-data-protection-rules-2025/",
+     "source_title": "MeitY Notifies Final Digital Personal Data Protection Rules 2025 (S.S. Rana & Co.)",
+     "note": "Also covered by Bar & Bench: https://www.barandbench.com/view-point/meity-notifies-final-digital-personal-data-protection-rules-2025. Commentators cite the gazette references as G.S.R. 846(E) for the Rules and G.S.R. 843(E) for commencement; these were not read directly."
+    },
+    {
+     "topic": "4. DPDP: phased dates",
+     "claim": "The phases are: from 13 Nov 2025, the Data Protection Board provisions; from 13 Nov 2026, the Consent Manager framework; from 13 May 2027, the remaining substantive obligations on data fiduciaries (notice, consent, security safeguards, breach reporting and others).",
+     "value": "13 Nov 2025 / 13 Nov 2026 / 13 May 2027",
+     "confirmed": true,
+     "url": "https://www.sansalegal.com/post/dpdp-act-2023-and-rules-2025-phased-implementation-timeline-and-business-compliance-deadlines",
+     "source_title": "DPDP Act 2023 and Rules 2025: Phased Implementation Timeline (Sansa Legal)",
+     "note": "One source gives 14 Nov 2026 and 14 May 2027, so the exact day should be checked against the gazette. Sources also disagree on which rule numbers took effect on day one."
+    },
+    {
+     "topic": "4. DPDP: proposed acceleration",
+     "claim": "MeitY consulted stakeholders on 23 January 2026 about shortening the compliance window from 18 to 12 months, which would make 13 November 2026 the core deadline. As of the latest sources (6 September 2026), this had not been notified, so 13 May 2027 remains the operative deadline.",
+     "confirmed": false,
+     "url": "https://chambers.com/articles/meity-plans-to-cut-short-dpdp-compliance-timeline-and-notify-cross-border-restrictions-for-sdfs",
+     "source_title": "MeitY plans to cut short DPDP Compliance Timeline (Chambers)",
+     "note": "Whether anything was notified between 6 Sep and 11 Oct 2026 is not confirmed."
+    },
+    {
+     "topic": "4. DPDP: employee data (legitimate use)",
+     "claim": "Section 7(i) of the DPDP Act lets employers process personal data without consent 'for the purposes of employment' or to safeguard the employer from loss or liability. The statutory examples are defensive, such as preventing corporate espionage and protecting trade secrets. Commentators disagree on how far it reaches, and its application to employee medical or health-test data is untested.",
+     "confirmed": true,
+     "url": "https://www.barandbench.com/view-point/navigating-legitimate-use-exemption-employee-data-digital-personal-data-protection-act-2023",
+     "source_title": "Navigating Legitimate Use Exemption for Employee Data under DPDP Act 2023 (Bar & Bench)",
+     "note": "No source confirmed that health check-up results fall under 7(i). For the pitch, the safe position is to get explicit consent from each employee for the check-up and for any report shared with the employer."
+    },
+    {
+     "topic": "4. DPDP: consent and purpose limitation",
+     "claim": "Under the DPDP Act, consent must be for a specified purpose and limited to the personal data necessary for that purpose. Data principals must know what they are consenting to.",
+     "confirmed": true,
+     "url": "https://www.mondaq.com/india/privacy-protection/1359398/dpdp-act-balancing-employee-data--privacy-rights",
+     "source_title": "DPDP Act: Balancing Employee Data & Privacy Rights (Mondaq / PSA Legal)",
+     "note": "Implication for the deck: Dhruv Diagnostics should collect consent from the employee, give individual results to the employee, and share only aggregated or anonymised data with the employer unless the employee consents. This is a recommendation, not a quoted rule."
+    },
+    {
+     "topic": "4. DPDP: overlap with SPDI Rules",
+     "claim": "Commentary raises the open question of whether employers must still get written consent for data classed as sensitive personal data under the older IT Act SPDI Rules (which include medical records) where DPDP legitimate use also applies. No answer was found.",
+     "confirmed": false,
+     "url": "https://www.barandbench.com/amp/story/law-firms/view-point/from-consent-to-compliance-navigating-the-implications-of-dpdp-act-on-employment-practices",
+     "source_title": "From Consent to Compliance: Implications of DPDP Act on Employment Practices (Bar & Bench)",
+     "note": "Unresolved in the sources found."
+    },
+    {
+     "topic": "5. CSR: Schedule VII",
+     "claim": "Item (i) of Schedule VII to the Companies Act, 2013 covers 'eradicating hunger, poverty and malnutrition, promoting health care including preventive health care and sanitation', including contributions to the Swachh Bharat Kosh, and making safe drinking water available.",
+     "confirmed": true,
+     "url": "https://ca2013.com/schedule/schedule7-3/",
+     "source_title": "Companies Act - Schedule VII (ca2013.com)",
+     "note": "The same list appears in a Lok Sabha answer: https://eparlib.nic.in/bitstream/123456789/958172/1/AU2315.pdf. The mca.gov.in text was not retrieved."
+    },
+    {
+     "topic": "5. CSR: employee exclusion",
+     "claim": "Rule 2(1)(d) of the Companies (CSR Policy) Rules, 2014, as amended in 2021, excludes from CSR any activity that benefits the company's employees as defined in section 2(k) of the Code on Wages, 2019. Commentators read this as meaning activities exclusively for employees and their families do not qualify as CSR.",
+     "confirmed": true,
+     "url": "https://khaitanco.com/thought-leaderships/Ushering-a-new-CSR-Regime",
+     "source_title": "Ushering a new CSR Regime (Khaitan & Co)",
+     "note": "Also covered by iPleaders: https://blog.ipleaders.in/analysis-new-csr-regime/ and NGO Experts: https://ngoexperts.com/blogs/csr-expenditure-rules. These are secondary sources; the gazette text was not read. Implication: employee health check-ups are an HR/OSH cost, not CSR. Community health camps open to the public could be CSR under item (i)."
+    },
+    {
+     "topic": "5. CSR: blood donation",
+     "claim": "No official MCA statement was found saying blood donation camps are eligible CSR. Treating a community blood donation drive as 'preventive health care' under Schedule VII item (i) is a reasonable reading but is NOT confirmed. A drive limited to employees would likely fall under the employee-benefit exclusion.",
+     "confirmed": false,
+     "url": "https://blog.ipleaders.in/looking-beyond-strict-lines-corporate-social-responsibility-amidst-pandemic/",
+     "source_title": "Looking beyond strict lines: CSR amidst pandemic (iPleaders)",
+     "note": "iPleaders reports that MCA circulars treat enabling access to, or better delivery of, public health systems as preventive health care. Check against the MCA CSR FAQs before claiming CSR eligibility in the deck."
+    },
+    {
+     "topic": "5. Blood donation camps: regulation",
+     "claim": "The premises, personnel, equipment and organisations allowed to conduct a blood donation camp are governed by Schedule F (Part XII-B, Sub-part II) of the Drugs and Cosmetics Rules, 1945.",
+     "confirmed": true,
+     "url": "https://corporatelawreporter.com/regulatory-framework-for-organizing-blood-donation-camps/",
+     "source_title": "Regulatory framework for organizing blood donation camps (Corporate Law Reporter)",
+     "note": "Relevant to Jeevan Jyoti Blood Bank: a company should run camps through a licensed blood centre. That is an inference, not quoted text."
+    },
+    {
+     "topic": "6. Workplace wellness evidence (India): Deloitte 2022",
+     "claim": "Deloitte's 2022 report 'Mental health and well-being in the workplace' estimates that poor employee mental health costs Indian employers about US$14 billion (about Rs 1.1 lakh crore) a year. The breakdown is roughly Rs 14,000 crore from absenteeism, Rs 51,000 crore from presenteeism and Rs 45,000 crore from attrition.",
+     "value": "~US$14 bn/yr; presenteeism is the largest component",
+     "confirmed": true,
+     "url": "https://www.peoplematters.in/article/employee-relations/unhealthy-cost-poor-employee-mental-health-costs-india-inc-around-14-billion-yearly-35231",
+     "source_title": "'Unhealthy cost': Poor employee mental health costs India Inc around $14 billion yearly (People Matters)",
+     "note": "The Deloitte press release was returned as https://www2.deloitte.com/in/en/pages/life-sciences-and-healthcare/articles/mental-health-press-release-2022.html (the search result had a stray trailing backslash). These are modelled estimates from a survey of 3,995 employees, released 8 Sep 2022. They measure the cost of poor mental health, NOT the ROI of wellness programmes or check-ups."
+    },
+    {
+     "topic": "6. Workplace wellness evidence (India): Deloitte 2022",
+     "claim": "In the Deloitte survey, about 80% of Indian respondents reported mental health issues in the past year, and 47% named workplace stress as the top factor. When their mental health was poor, 33% kept working, 29% took time off and 20% resigned.",
+     "confirmed": true,
+     "url": "https://www.peoplematters.in/article/employee-relations/unhealthy-cost-poor-employee-mental-health-costs-india-inc-around-14-billion-yearly-35231",
+     "source_title": "People Matters (reporting Deloitte 2022)",
+     "note": "Also reported by British Safety Council India: https://www.britsafe.in/safety-management-news/2022/deloitte-study-shows-80-per-cent-of-employees-report-poor-mental-health"
+    },
+    {
+     "topic": "6. Workplace wellness evidence (India): INDIA-WORKS",
+     "claim": "INDIA-WORKS (INtegrating DIAbetes prevention in WORKplaceS) is a peer-reviewed worksite diabetes-prevention programme in India. It ran at 11 worksites in 5 states (Kerala, Tamil Nadu, Jharkhand, Chhattisgarh, Odisha), aimed at about 2,000 adults with prediabetes or unmedicated diabetes, used peer educators and text messages, and had HbA1c as its primary outcome. The 2023 paper in Implementation Science Communications reports how the programme was adapted and implemented, not whether it reduced HbA1c.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10642065/",
+     "source_title": "Adapting and scaling a proven diabetes prevention program across 11 worksites in India: the INDIA-WORKS trial (PMC)",
+     "note": "Emory's study page (https://diabetes.emory.edu/research/worksite.html) describes eight worksites, which differs from the 11 in the paper. No published primary-effectiveness results (HbA1c, diabetes incidence) were found, so the deck should not claim it worked. It is fair to say Indian employers and researchers are testing workplace diabetes prevention."
+    },
+    {
+     "topic": "6. Workplace wellness evidence (India): absenteeism/productivity",
+     "claim": "No credible peer-reviewed Indian study was found that quantifies reduced absenteeism or higher productivity from workplace wellness or health check-up programmes. RAND and other international evidence was not searched because the search budget ran out.",
+     "confirmed": false,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10642065/",
+     "source_title": "INDIA-WORKS implementation paper (closest Indian peer-reviewed workplace evidence found)",
+     "note": "Avoid ROI or absenteeism-reduction claims in the deck unless a source is added."
+    }
+   ],
+   "gaps": "All 18 WebSearch calls were used. WebFetch was unavailable, so no primary text was read directly: no gazette, no Lancet appendix, no MCA page. Every fact comes from search-result summaries of secondary or official-news pages.\n\nOpen items:\n(a) Maharashtra-specific ICMR-INDIAB 2023 figures were not found. Only Phase I (2008-10) state figures are available.\n(b) Official NFHS-5 Maharashtra decimals for anaemia were not checked against the fact sheet. The 54% (women) and 22% (men) figures come from a secondary summary.\n(c) The exact scope of the OSH Central Rules 2026 Rule 5 is contested. As quoted, it covers dock work and building/construction work for employees aged 40 and over. Whether mines are included and whether factories were dropped differs between sources. Final Maharashtra OSH Rules are not confirmed as notified by 11 Oct 2026; the draft extends the 40+ check-up to every establishment. It was also not confirmed which government (Centre or State) is the appropriate government for typical Nagpur private employers.\n(d) It was not confirmed whether MeitY's proposed 12-month DPDP acceleration was notified after 6 Sep 2026.\n(e) The application of DPDP s.7(i) to employee health-test data is untested.\n(f) CSR eligibility of blood donation camps was not confirmed by any MCA document, and the MCA CSR FAQ and Rules text were not retrieved.\n(g) No Indian peer-reviewed evidence was found on absenteeism or productivity gains from wellness programmes. RAND and other international studies were not searched. The INDIA-WORKS effectiveness results were not found.\n\nRecommended deck wording: say 'mandatory free annual check-ups for workers 40+ in notified sectors (dock, construction), and proposed for all establishments under Maharashtra's draft rules' rather than 'mandatory for all employees over 40'."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "ICMR-INDIAB national study: 113,043 adults aged 20+, 31 states/UTs, surveyed 2008-2020, published in The Lancet Diabetes & Endocrinology (Vol 11, July 2023; press coverage June 2023).",
+     "verdict": "confirmed",
+     "reason": "A fresh search returned BioSpectrum coverage giving the same sample (113,043: 79,506 rural, 33,537 urban), age 20+, 31 states/UTs/NCT, 2008-2020. Press coverage of the release is dated 10 June 2023 (EastMojo). The journal page itself was not reached.",
+     "url": "https://www.biospectrumindia.com/news/98/23191/largest-epidemiological-study-on-diabetes-and-ncds-in-india-with-wide-differences-across-states.html"
+    },
+    {
+     "claim": "National prevalence: diabetes 11.4%, prediabetes 15.3%, hypertension 35.5%, dyslipidaemia 81.2%.",
+     "verdict": "confirmed",
+     "reason": "Independent press coverage gives the same four figures. It also confirms the definitions used: WHO criteria for diabetes, JNC 8 for hypertension and NCEP ATP III for dyslipidaemia.",
+     "url": "https://eastmojo.com/health/2023/06/10/over-11-indians-diabetic-36-have-hypertension-lancet-survey/"
+    },
+    {
+     "claim": "Generalised obesity 28.6%; abdominal obesity 39.5% (ICMR-INDIAB 2023).",
+     "verdict": "unverifiable",
+     "reason": "My re-check search did not show these two figures, so they rest only on the original Manipal portal citation. They match my prior knowledge of the paper but were not independently re-seen. Confirm against the Lancet abstract before quoting.",
+     "url": "https://researcher.manipal.edu/en/publications/metabolic-non-communicable-disease-health-report-of-india-the-icm/"
+    },
+    {
+     "claim": "Press coverage estimated about 101 million Indians with diabetes and 315 million with hypertension.",
+     "verdict": "confirmed",
+     "reason": "The press headline is the claim, and it appeared again in results. It is a news-derived absolute estimate, not a figure from the paper's abstract; label it 'as reported'.",
+     "url": "https://morungexpress.com/315-mn-indians-suffer-from-hypertension-101-mn-are-diabetic-icmr-study"
+    },
+    {
+     "claim": "All metabolic NCDs except prediabetes were more common in urban than rural areas.",
+     "verdict": "confirmed",
+     "reason": "Re-confirmed in the search summary of the study coverage.",
+     "url": "https://www.biospectrumindia.com/news/98/23191/largest-epidemiological-study-on-diabetes-and-ncds-in-india-with-wide-differences-across-states.html"
+    },
+    {
+     "claim": "NFHS-5 Maharashtra: about 54% of women aged 15-49 are anaemic.",
+     "verdict": "confirmed",
+     "reason": "The exact official figure is 54.2% (all women 15-49). It appears in the MoHFW state fact sheet compendium row for Maharashtra (68.9 / 54.5 / 45.7 / 54.2 / 57.2 ...), and the DHS/IIPS Maharashtra state report says '54 percent of women'. Use 54.2% if a decimal is wanted.",
+     "corrected_value": "54.2% (all women 15-49, NFHS-5 Maharashtra)",
+     "url": "https://dhsprogram.com/pubs/pdf/FR374/FR374_Maharashtra.pdf"
+    },
+    {
+     "claim": "NFHS-5 Maharashtra: about 22% of men aged 15-49 are anaemic.",
+     "verdict": "confirmed",
+     "reason": "The DHS/IIPS Maharashtra state report says 'over one-fifth (22%) of men in Maharashtra are anaemic'. The exact decimal was not seen; a compendium row shows a 27.9 value whose column could not be identified, so quote it only as '22%' and do not invent a decimal. The national men's figure in the PIB release is 25.0%.",
+     "url": "https://dhsprogram.com/pubs/pdf/FR374/FR374_Maharashtra.pdf"
+    },
+    {
+     "claim": "NFHS-5 India: 25% of men aged 15-49 are anaemic.",
+     "verdict": "confirmed",
+     "reason": "The official PIB release (Anaemia Mukt Bharat) gives 25.0% for men aged 15-49. This upgrades the source from the IANS/DT Next secondary report to an official one. The women's 57% figure was not re-seen in my searches.",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1795421"
+    },
+    {
+     "claim": "NFHS-5 Maharashtra: 69% of children aged 6-59 months are anaemic.",
+     "verdict": "confirmed",
+     "reason": "The MoHFW compendium row for Maharashtra NFHS-5 starts with 68.9, which is the children's indicator (the first anaemia row in the fact sheet). Rounds to 69%. The NFHS-4 comparison (54%) was not re-checked. Context only.",
+     "corrected_value": "68.9%",
+     "url": "https://nhm.gov.in/uhc-day/Session%202/NFHS-5%20State%20Factsheet%20Compendium_Phase-I%20(1).pdf"
+    },
+    {
+     "claim": "All four labour codes came into force on 21 November 2025, replacing 29 central labour laws.",
+     "verdict": "confirmed",
+     "reason": "Mondaq and Fox Mandal confirm commencement on 21 Nov 2025 through four Gazette notifications. One nuance: the codes came into force in their entirety except certain provisions on repeal of the EPF & MP Act, 1952.",
+     "url": "https://www.mondaq.com/india/employee-benefits-compensation/1730372/cracking-the-code-the-new-labour-laws-at-a-glance"
+    },
+    {
+     "claim": "A PIB factsheet dated 11 December 2025 on hazardous-sector workers refers to a free annual health check-up for all workers in those sectors.",
+     "verdict": "confirmed",
+     "reason": "The PIB document is dated 11 Dec 2025 (file doc20251211...) and titled 'Labour Codes Upgrade Safety for Hazardous Sector Workers'. It lists a free annual health check-up for all hazardous-sector workers, with no age threshold, plus pre-employment, periodic and post-exposure exams.",
+     "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/dec/doc20251211728001.pdf"
+    },
+    {
+     "claim": "Government messaging said the labour codes would ensure free annual health check-ups for workers above 40.",
+     "verdict": "confirmed",
+     "reason": "Confirmed, with an important new detail for the pitch. On 7 May 2026 Labour Minister Mansukh Mandaviya launched a nationwide free annual health check-up initiative for workers aged 40+ under the Labour Codes, run through ESIC hospitals (launched at ESIC Basaidarapur, Delhi and 11 other ESIC hospitals). Treatment and medicines are provided through ESIC. ESIC-covered workers can therefore get a government-provided free check-up. The deck should present Dhruv Diagnostics as a convenient on-site or comprehensive option for employers, not as the only way to comply.",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2258662&reg=3&lang=3"
+    },
+    {
+     "claim": "OSH (Central) Rules, 2026 notified 8 May 2026 as G.S.R. 345(E).",
+     "verdict": "confirmed",
+     "reason": "StaffNews reproduces the notification title 'G.S.R. 345(E) dated 08.05.2026', and Sansa Legal and other trackers agree.",
+     "url": "https://www.staffnews.in/2026/05/the-occupational-safety-health-and-working-conditions-central-rules-2026.html"
+    },
+    {
+     "claim": "Rule 5 of the OSH Central Rules: free annual medical examination for employees aged 40+ in dock work and building/other construction work, by a qualified medical practitioner, with a Form VIII certificate.",
+     "verdict": "confirmed",
+     "reason": "Shiftelio and Taxheal both quote the rule 5 text as limited to dock and building/construction work. One search summary also said employers may use ESIC facilities, but I could not tie that to a specific source, so treat it as unverified. The deck must not say 'mandatory for all employees over 40' under central law.",
+     "url": "https://www.shiftelio.com/blog/annual-health-checkup-employees-over-40-india"
+    },
+    {
+     "claim": "Commentators dispute whether mines are within rule 5 and whether factories were dropped from the final rule.",
+     "verdict": "unverifiable",
+     "reason": "The dispute persists. Shiftelio says mines fall under rule 109 and factories were dropped from the final rule 5, while Lexology and Legal500 summaries list mines alongside dock and construction. The gazette text was not readable through search, so this cannot be resolved.",
+     "url": "https://www.lexology.com/library/detail.aspx?g=3eee4547-bc17-4fee-84cf-ef126131c3e1"
+    },
+    {
+     "claim": "Maharashtra has only draft OSH rules (Draft Maharashtra OSH and Working Conditions (Labour) Rules, 2026), which would extend the free annual check-up for 40+ employees to every establishment. Final rules not notified.",
+     "verdict": "unverifiable",
+     "reason": "The draft status is confirmed: TeamLease dates the draft 30 April 2026, and TMS Services, updated early September 2026, says final rules were not yet notified and expects them around August-November 2026. Whether final rules were notified between early September and 11 October 2026 could not be confirmed. The deck should say 'proposed under Maharashtra's draft rules', not 'mandatory in Maharashtra'.",
+     "url": "https://www.teamleaseregtech.com/updates/article/55645/draft-maharashtra-occupational-safety-health-and-working-conditions-la/"
+    },
+    {
+     "claim": "DPDP phased dates: Consent Manager framework from 13 Nov 2026; remaining obligations from 13 May 2027.",
+     "verdict": "confirmed",
+     "reason": "MirvoLegal (as at September 2026) states that Rule 4 commences one year after publication (13 Nov 2026), and that Rules 3, 5-16, 22 and 23 commence 18 months after publication (13 May 2027). This implies publication on 13 Nov 2025, consistent with the Rules being notified that day.",
+     "url": "https://www.mirvolegal.com/insights/dpdp-rules-2025-compliance-timeline/"
+    },
+    {
+     "claim": "MeitY's proposal to shorten the DPDP compliance window from 18 to 12 months had not been notified; 13 May 2027 remains operative.",
+     "verdict": "confirmed",
+     "reason": "This now holds later than the researcher's 6 Sep date. MirvoLegal (as at 20 Sep 2026) found no amending notification, and a status update dated 28 Sep 2026 also found none. Nothing between 28 Sep and 11 Oct 2026 was checked.",
+     "url": "https://www.mirvolegal.com/insights/dpdp-rules-2025-compliance-timeline/"
+    },
+    {
+     "claim": "CSR Rules (2021 amendment) rule 2(1)(d) exclude activities benefiting the company's employees as defined in s.2(k) of the Code on Wages, 2019.",
+     "verdict": "confirmed",
+     "reason": "Taxguru and Vinod Kothari confirm that this is one of six exclusions in the rule 2(1)(d) CSR definition. Vinod Kothari's FAQ reads it as excluding programmes aimed solely at employees; community programmes where employees have no special status are not automatically excluded. Employee-only check-ups are therefore not CSR, while public community health or blood donation camps may be, subject to MCA guidance (not confirmed).",
+     "url": "https://vinodkothari.com/2021/01/faqs-on-csr-2021-amendments/"
+    },
+    {
+     "claim": "Deloitte 2022: poor employee mental health costs Indian employers about US$14 bn (~Rs 1.1 lakh crore) a year: absenteeism ~Rs 14,000 cr, presenteeism ~Rs 51,000 cr, attrition ~Rs 45,000 cr; 3,995 respondents; 80% reported mental health issues; 47% cite workplace stress; 33% kept working, 29% took time off, 20% resigned.",
+     "verdict": "confirmed",
+     "reason": "All figures were re-confirmed (press release 8 Sep 2022, People Matters coverage). Some outlets wrongly describe the Rs 1.1 lakh crore as 'more than last year'; use the annual-cost framing. It is a modelled estimate of the cost of poor mental health, not evidence of wellness-programme ROI.",
+     "url": "https://www.peoplematters.in/article/employee-relations/unhealthy-cost-poor-employee-mental-health-costs-india-inc-around-14-billion-yearly-35231"
+    }
+   ]
+  }
+ },
+ {
+  "topic": "corporate-pricing",
+  "research": {
+   "facts": [
+    {
+     "topic": "Corporate package benchmark - India",
+     "claim": "A 2026 cost guide says a basic full-body health check-up package in India usually costs Rs 500-2,000 and a comprehensive package about Rs 1,500-5,000.",
+     "value": "Basic Rs 500-2,000; comprehensive Rs 1,500-5,000",
+     "confirmed": true,
+     "url": "https://surveyheart.com/explore/common-health-checkups-india-cost-2026",
+     "source_title": "Common Health Checkups in India and What They Cost in 2026",
+     "note": "Low-authority blog estimate, not a vendor price list."
+    },
+    {
+     "topic": "Corporate package benchmark - India",
+     "claim": "An employee health check-up guide gives tiers per employee: basic Rs 800-2,500, comprehensive Rs 2,500-6,000, premium with specialist consultations Rs 6,000-20,000.",
+     "value": "Rs 800-2,500 / Rs 2,500-6,000 / Rs 6,000-20,000 per employee",
+     "confirmed": false,
+     "url": "https://onehealthassist.com/blog/blog/annual-health-checkup-for-employees-2/",
+     "source_title": "Annual Health Checkup for Employees: Benefits, Tests & Packages",
+     "note": "The search summary quoted these tiers without naming which result page they came from. This page is the most likely source, but that is not verified."
+    },
+    {
+     "topic": "Apollo 24|7 corporate packages",
+     "claim": "Apollo 24|7's corporate health package page is titled 'Corporate Health Packages Starting at Rs 1499'. It lists a comprehensive annual check-up at Rs 3,799 (MRP Rs 9,497, 60% off), another annual check-up at Rs 2,399 (MRP Rs 5,998) and a 65-test package at Rs 1,299 (MRP Rs 3,247).",
+     "value": "Rs 1,299 / Rs 2,399 / Rs 3,799 (60% off MRP)",
+     "confirmed": true,
+     "url": "https://www.apollo247.com/lab-tests-category//corporates",
+     "source_title": "Corporate Health Packages Starting at Rs 1499 - Apollo 24|7",
+     "note": "These are consumer-platform list prices. Package inclusions were not retrieved."
+    },
+    {
+     "topic": "Corporate package benchmark - India",
+     "claim": "IndiaMART vendor listings show corporate health check-up services at Rs 500 per person and, from another vendor, Rs 6,000 per pack.",
+     "value": "Rs 500/person; Rs 6,000/pack",
+     "confirmed": false,
+     "url": "https://dir.indiamart.com/impcat/corporate-health-check-up.html",
+     "source_title": "Corporate Health Check Up in India",
+     "note": "The listing page is old, so these prices may be stale."
+    },
+    {
+     "topic": "Regulatory driver",
+     "claim": "Wikipedia says organisations are now required to provide free annual health check-ups for all workers above age 40.",
+     "value": "Free annual check-up for workers 40+",
+     "confirmed": false,
+     "url": "https://en.wikipedia.org/wiki/Employee_benefits_in_India",
+     "source_title": "Employee benefits in India",
+     "note": "Not checked against the primary labour code text. Verify before using in the deck."
+    },
+    {
+     "topic": "Thyrocare packages",
+     "claim": "Thyrocare Aarogyam 1.1 is listed at Rs 1,499 for 63 tests with home collection (Bajaj Finserv Health, Etah listing).",
+     "value": "Rs 1,499 / 63 tests",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/etah/aarogyam-11",
+     "source_title": "Bajaj Finserv Health - Aarogyam 1.1",
+     "note": "Retail aggregator price for another city, not a corporate rate."
+    },
+    {
+     "topic": "Thyrocare packages",
+     "claim": "Thyrocare Aarogyam 1.2 is listed at Rs 1,999 for 89 tests with home collection (Hisar listing).",
+     "value": "Rs 1,999 / 89 tests",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/hisar/aarogyam-12",
+     "source_title": "Bajaj Finserv Health - Aarogyam 1.2",
+     "note": "Retail aggregator price, not Nagpur-specific."
+    },
+    {
+     "topic": "Thyrocare packages",
+     "claim": "Thyrocare Aarogyam 1.6 is listed at Rs 4,499 with home collection (Arki listing).",
+     "value": "Rs 4,499",
+     "confirmed": true,
+     "url": "https://bajajfinservhealth.in/lab-tests/arki/aarogyam-16",
+     "source_title": "Bajaj Finserv Health - Aarogyam 1.6",
+     "note": "Retail aggregator price. The test count was not given in the summary."
+    },
+    {
+     "topic": "Thyrocare packages",
+     "claim": "Thyrocare Aarogyam Female is listed at Rs 2,600 with home collection, covering 101 tests, with a 48-hour report time and 8-12 hours of fasting.",
+     "value": "Rs 2,600 / 101 tests",
+     "confirmed": true,
+     "url": "https://bajajfinservhealth.in/lab-tests/thane/aarogyam-female",
+     "source_title": "Bajaj Finserv Health - Aarogyam Female",
+     "note": "Another listing describes it as 95 parameters, so the test count differs between pages."
+    },
+    {
+     "topic": "Thyrocare packages",
+     "claim": "A coupon site lists Thyrocare Aarogyam X (139 tests) at Rs 5,500, Aarogyam XL (149 tests) at Rs 6,600 and Aarogyam 1.8 (121 tests, including vitamin D3 and electrolytes) at Rs 4,200, with sample collection included.",
+     "value": "X Rs 5,500; XL Rs 6,600; 1.8 Rs 4,200",
+     "confirmed": false,
+     "url": "https://www.upto75.com/discount-deals/7026/Thyrocare-Vitamin-B12-D-Testing-coupons.html",
+     "source_title": "Thyrocare Offers - Aarogyam X Price - Rs.5500 and XL - Rs.6600",
+     "note": "Discount-deal page, so prices may be outdated."
+    },
+    {
+     "topic": "Dr Lal PathLabs - Nagpur",
+     "claim": "A Bajaj Finserv Health Nagpur listing shows a Dr Lal PathLabs 'Total Wellbeing Full Body - Silver' package at Rs 1,221, with a collection point at Dhantoli, Wardha Road, Nagpur.",
+     "value": "Rs 1,221",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/nagpur/pathology-category/full-body-checkup",
+     "source_title": "Bajaj Finserv Health - full body checkup, Nagpur",
+     "note": "Aggregator listing. The package is not labelled Swasthfit."
+    },
+    {
+     "topic": "Dr Lal PathLabs",
+     "claim": "Dr Lal PathLabs' Swasthfit Full Body Silver Package is listed at Rs 699 in Bhagalpur.",
+     "value": "Rs 699",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/bhagalpur/swasthfit-screen-package",
+     "source_title": "Bajaj Finserv Health - Swasthfit, Bhagalpur",
+     "note": "Another city's price. Not confirmed for Nagpur."
+    },
+    {
+     "topic": "Dr Lal PathLabs - Nagpur",
+     "claim": "Dr Lal PathLabs' Nagpur (Manish Nagar) offers page describes the Swasthfit Complete Package as including lipid and thyroid profiles, LFT and KFT, HbA1c, CBC and vitamins. No price is shown.",
+     "value": "Inclusions only",
+     "confirmed": true,
+     "url": "https://labs.lalpathlabs.com/dr-lal-pathlabs-patient-service-centre-diagnostic-centre-manish-nagar-nagpur-288844/Offers",
+     "source_title": "Dr Lal PathLabs PSC Manish Nagar Nagpur - Offers",
+     "note": "Competitor presence in Nagpur. The search also showed a Faras, Mankapur Road PSC: https://labs.lalpathlabs.com/dr-lal-pathlabs-patient-service-centre-diagnostic-centre-faras-nagpur-290442/Offers"
+    },
+    {
+     "topic": "Family pricing model",
+     "claim": "Dr Lal PathLabs runs a 'Family 1+1 Offer' on its patient service centre offer pages (seen for Aurangabad, Ludhiana and Thane).",
+     "value": "1+1 family offer",
+     "confirmed": true,
+     "url": "https://labs.lalpathlabs.com/dr-lal-pathlabs-patient-service-centre-medical-laboratory-samarth-nagar-aurangabad-289025/Offers/Family-1-1-Offer-2466146",
+     "source_title": "Dr Lal PathLabs - Family 1+1 Offer",
+     "note": "Only the offer's name and URL were seen. Price and terms were not retrieved."
+    },
+    {
+     "topic": "Family pricing model",
+     "claim": "Redcliffe Labs Nagpur (Pachpaoli) lists a 'One Plus One Fit India Full Body Checkup with Vitamin Screening with free hsCRP' package, a two-person bundle.",
+     "value": "1+1 bundle",
+     "confirmed": true,
+     "url": "https://redcliffelabs.com/nagpur/pachpaoli/package/one-plus-one-fit-india-full-body-checkup-with-vitamin-screening-with-free-hscrp",
+     "source_title": "Redcliffe Labs Nagpur - Package Details",
+     "note": "Seen only as a URL and title in the results. Price not retrieved."
+    },
+    {
+     "topic": "Wockhardt Hospital Nagpur",
+     "claim": "Wockhardt Hospitals Nagpur lists a Premium Executive Health Checkup at Rs 7,199, offered at Rs 5,999 for all age groups. It needs a prior appointment and 10-12 hours of fasting. Booking phone: 0712-6624100.",
+     "value": "Rs 5,999 (list Rs 7,199)",
+     "confirmed": true,
+     "url": "https://wockhardthospitals.com/nagpur-multispeciality/health-package/premium-health-checkup/",
+     "source_title": "Premium Health Checkup Package in Nagpur",
+     "note": "Official hospital page. Inclusions were not captured in the summary."
+    },
+    {
+     "topic": "Wockhardt Hospital Nagpur",
+     "claim": "The Wockhardt Nagpur health-package directory lists a Basic Executive Health Checkup at Rs 3,999.",
+     "value": "Rs 3,999",
+     "confirmed": true,
+     "url": "https://www.wockhardthospitals.com/nagpur-multispeciality/health-package/",
+     "source_title": "Best Health Checkup Packages in Nagpur",
+     "note": "No discounted price found."
+    },
+    {
+     "topic": "Wockhardt Hospital Nagpur",
+     "claim": "Policybazaar lists an 'Executive Whole Body Check' at Wockhardt Nagpur at Rs 15,000-22,000.",
+     "value": "Rs 15,000-22,000",
+     "confirmed": false,
+     "url": "https://www.policybazaar.com/hospitals/wockhardt/nagpur/",
+     "source_title": "Wockhardt Hospital Nagpur: Multi-Specialty Excellence",
+     "note": "Conflicts sharply with the hospital's own prices, so likely unreliable."
+    },
+    {
+     "topic": "KIMS-Kingsway Nagpur",
+     "claim": "KIMS-Kingsway Hospitals Nagpur Basic health check is Rs 3,000 (male) and Rs 3,100 (female), and includes abdominal ultrasound, chest X-ray and ECG.",
+     "value": "Rs 3,000 M / Rs 3,100 F",
+     "confirmed": true,
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/",
+     "source_title": "Preventive Health Checkup Packages at KIMS-Kingsway Hospitals",
+     "note": "Official page, but undated. Confirm current rates. Phone shown: 74999 13052."
+    },
+    {
+     "topic": "KIMS-Kingsway Nagpur",
+     "claim": "The KIMS-Kingsway Nagpur Bronze package is Rs 4,600 (male) and Rs 4,500 (female), and adds a treadmill test (TMT).",
+     "value": "Rs 4,600 M / Rs 4,500 F",
+     "confirmed": true,
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/",
+     "source_title": "Preventive Health Checkup Packages at KIMS-Kingsway Hospitals",
+     "note": "Executive-tier benchmark with TMT."
+    },
+    {
+     "topic": "KIMS-Kingsway Nagpur",
+     "claim": "KIMS-Kingsway Nagpur Silver is Rs 6,300 (male) and Rs 7,300 (female) and adds spirometry. Gold is Rs 8,500 (male) and Rs 9,500 (female).",
+     "value": "Silver Rs 6,300/7,300; Gold Rs 8,500/9,500",
+     "confirmed": true,
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/",
+     "source_title": "Preventive Health Checkup Packages at KIMS-Kingsway Hospitals",
+     "note": "Undated page."
+    },
+    {
+     "topic": "KIMS-Kingsway Nagpur",
+     "claim": "KIMS-Kingsway Nagpur Titanium is offered at a promotional Rs 11,000 (male) and Rs 12,000 (female), and includes PFT with or without bronchodilator and a pure-tone audiogram.",
+     "value": "Rs 11,000 M / Rs 12,000 F (promo)",
+     "confirmed": true,
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/",
+     "source_title": "Preventive Health Checkup Packages at KIMS-Kingsway Hospitals",
+     "note": "The promotional price may have expired."
+    },
+    {
+     "topic": "KIMS-Kingsway Nagpur",
+     "claim": "KIMS-Kingsway Nagpur women's packages are promotionally priced at Rs 2,900 (under 30), Rs 3,900 (30-40) and Rs 5,200 (above 40). The older tiers add breast or mammography imaging and an echocardiogram.",
+     "value": "Rs 2,900 / Rs 3,900 / Rs 5,200",
+     "confirmed": true,
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/",
+     "source_title": "Preventive Health Checkup Packages at KIMS-Kingsway Hospitals",
+     "note": "Useful benchmark for a women's wellness tier (Face n Figure tie-in). The promotion may have expired."
+    },
+    {
+     "topic": "Redcliffe Labs - Nagpur",
+     "claim": "Redcliffe Labs Nagpur lists a 'Smart Plus Full Body Checkup with Vitamin Screening' at Rs 1,799 (MRP Rs 6,525), covering vitamin D, thyroid profile (T3, T4, TSH), vitamin B12, HbA1c, lipid profile and CBC, among other tests.",
+     "value": "Rs 1,799 (MRP Rs 6,525)",
+     "confirmed": true,
+     "url": "https://redcliffelabs.com/nagpur/tests/smart-plus-full-body-checkup-vitamin-screening",
+     "source_title": "Redcliffe Labs Nagpur - Package Details",
+     "note": "Retail price, a close benchmark for a basic-plus corporate tier."
+    },
+    {
+     "topic": "Redcliffe Labs",
+     "claim": "A company-profile aggregator lists Redcliffe retail packages: Smart Full Body Checkup Rs 799, Annual Health Checkup Rs 1,599, Advance Plus Full Body Checkup Rs 2,199 and Vital Screening Package Lite Rs 399.",
+     "value": "Rs 399 / Rs 799 / Rs 1,599 / Rs 2,199",
+     "confirmed": false,
+     "url": "https://www.extruct.ai/hub/redcliffelabs-com-funding",
+     "source_title": "redcliffelabs com funding",
+     "note": "Sales-lead site, not an official source. No corporate pricing found for Redcliffe."
+    },
+    {
+     "topic": "Redcliffe / other packages",
+     "claim": "A Bajaj Finserv Health Mumbai listing shows full-body packages such as Good Health Full Body Silver Rs 499, Total Wellbeing Full Body Bronze Rs 614, Annual Health Full Body Checkup Rs 1,899 and Preventive Health Checkup Comprehensive Rs 4,000. The search summary attributed these to Redcliffe.",
+     "value": "Rs 499 - Rs 4,000",
+     "confirmed": false,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/mumbai/pathology-category/full-body-checkup",
+     "source_title": "Bajaj Finserv Health - full body checkup, Mumbai",
+     "note": "The lab attribution is doubtful: 'Total Wellbeing Full Body' appears as a Dr Lal package on the Nagpur page."
+    },
+    {
+     "topic": "PharmEasy corporate packages",
+     "claim": "PharmEasy lists an 'Annual Corporate Screening' package of 42 tests at about Rs 4,999 MRP, Rs 1,749 with a pre-applied coupon, with reports in 24 hours and no fasting needed.",
+     "value": "Rs 1,749 (MRP ~Rs 4,999) / 42 tests",
+     "confirmed": true,
+     "url": "https://pharmeasy.in/diagnostics/package/annual-corporate-screening-2257",
+     "source_title": "PharmEasy - Annual Corporate Screening",
+     "note": "The individual test list was not captured."
+    },
+    {
+     "topic": "PharmEasy corporate packages",
+     "claim": "PharmEasy's Annual Health Checkup (61 tests) is Rs 1,749 after a coupon and includes CBC, HbA1c, lipid profile, LFT, kidney profile, vitamin D, vitamin B12 and T3/T4/ultrasensitive TSH. It needs 10-12 hours of fasting.",
+     "value": "Rs 1,749 / 61 tests",
+     "confirmed": true,
+     "url": "https://pharmeasy.in/diagnostics/packages/annual-health-checkup-2297",
+     "source_title": "PharmEasy - Annual Health Checkup",
+     "note": "The MRP text was garbled (possibly Rs 5,599). Prices vary by pincode."
+    },
+    {
+     "topic": "PharmEasy corporate packages",
+     "claim": "PharmEasy offers a 'Corporate Annual Health Checkup' package with free sample collection.",
+     "value": "Free sample collection",
+     "confirmed": true,
+     "url": "https://pharmeasy.in/diagnostics/packages/corporate-annual-health-checkup-2228",
+     "source_title": "Book Corporate Annual Health Checkup, get free Sample Collection",
+     "note": "Individual booking. Price and test list were not captured."
+    },
+    {
+     "topic": "Metropolis corporate offering",
+     "claim": "Metropolis Healthcare says it offers corporates pre-employment check-ups, employee health plans and annual check-ups, and that its Executive Health Check-up Program can be personalised to organisational and employee needs.",
+     "value": "Service description",
+     "confirmed": true,
+     "url": "https://stagingafrica.metropolisindia.com/aboutus/services",
+     "source_title": "Metropolis services (staging site)",
+     "note": "Staging-domain page. The main corporate page (https://www.metropolisindia.com/corporates) pitches tailored corporate wellness packages. No prices, headcount minimums or onsite-camp terms were found."
+    },
+    {
+     "topic": "Onsite camps",
+     "claim": "Express Clinics offers corporates onsite health check-ups, an onsite medical room and a 24x7 sample-processing lab for faster report turnaround, with packages customised per client.",
+     "value": "Onsite camp model",
+     "confirmed": true,
+     "url": "https://expressclinics.in/corporate-camps-employee-health-checkup-program-express-clinics/",
+     "source_title": "Corporate Camps - Express Clinics",
+     "note": "No minimum headcount stated."
+    },
+    {
+     "topic": "Volume discounts",
+     "claim": "LabsAdvisor says it offers corporates and intermediaries negotiated rates that depend on volume.",
+     "value": "Volume-based negotiated rates",
+     "confirmed": true,
+     "url": "https://www.labsadvisor.com/",
+     "source_title": "India's Largest Medical Test Platform - LabsAdvisor",
+     "note": "No published tiers or thresholds."
+    },
+    {
+     "topic": "Onsite camps",
+     "claim": "A Pazcare blog says onsite screenings work best for large employee counts at a single location.",
+     "value": "Qualitative guidance",
+     "confirmed": true,
+     "url": "https://www.pazcare.com/blog/top-companies-offering-on-site-corporate-health-screenings-for-employees-in-india",
+     "source_title": "What are corporate health screenings?",
+     "note": "No numeric headcount threshold given."
+    },
+    {
+     "topic": "Onsite camps",
+     "claim": "Orange Health provides on-site diagnostic testing to corporate partners, and MDRC lists on-site health camps at the office as part of its corporate tie-up.",
+     "value": "Competitor onsite offerings",
+     "confirmed": true,
+     "url": "https://www.orangehealth.in/corporate-partners?p=6367",
+     "source_title": "Orange Health corporate partners",
+     "note": "MDRC source: https://www.mdrcindia.com/corporate-tieup. Neither states a minimum headcount or fee for collection."
+    },
+    {
+     "topic": "Onsite camps",
+     "claim": "MCUBE ran a 2025 employee health camp with Manipal Hospital covering blood pressure, diabetes checks, BMI and lipid profile.",
+     "value": "Example camp scope",
+     "confirmed": true,
+     "url": "https://mcube.com/?p=25549652",
+     "source_title": "MCUBE Health Camp 2025",
+     "note": "Example of a typical onsite camp format in India."
+    },
+    {
+     "topic": "Healthians",
+     "claim": "Healthians advertises free home sample collection within 60 minutes of booking.",
+     "value": "Free home collection",
+     "confirmed": true,
+     "url": "https://www.healthians.com/",
+     "source_title": "Healthians: India's Trusted At-Home Diagnostic Lab",
+     "note": "Consumer offer. An AmbitionBox profile says within 24 hours plus a free doctor consultation (https://www.ambitionbox.com/overview/healthians-overview). Corporate camp terms were not found."
+    },
+    {
+     "topic": "Single test - USG abdomen (Nagpur)",
+     "claim": "Bajaj Finserv Health lists a USG Abdomen in Nagpur at Rs 1,800 at Spectrum Imaging And Radiology Solutions.",
+     "value": "Rs 1,800",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/nagpur/radiology-category/ultrasound/abdominal-usg",
+     "source_title": "Bajaj Finserv Health - abdominal USG, Nagpur",
+     "note": "Aggregator listing. Not stated whether this is whole abdomen."
+    },
+    {
+     "topic": "Single test - USG abdomen and pelvis (Nagpur)",
+     "claim": "Bajaj Finserv Health lists a USG Abdomen and Pelvis in Nagpur at Rs 1,650 at Adsum Hospital. The same Nagpur listings show USG KUB at Rs 1,500 (Diagnoplus Pathology Laboratory) and USG Abdomen Doppler at Rs 4,000 (Adsum Hospital).",
+     "value": "Rs 1,650 (KUB Rs 1,500; Doppler Rs 4,000)",
+     "confirmed": true,
+     "url": "https://bajajfinservhealth.in/lab-tests/nagpur/radiology-category/ultrasound",
+     "source_title": "Bajaj Finserv Health - ultrasound, Nagpur",
+     "note": "The summary grouped these with the abdominal USG page, so the exact page may differ."
+    },
+    {
+     "topic": "Single test - USG lower abdomen (Nagpur)",
+     "claim": "The regular cost of a USG Lower Abdomen test in Nagpur is Rs 1,650.",
+     "value": "Rs 1,650",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/nagpur/usg-lower-abdomen",
+     "source_title": "Bajaj Finserv Health - USG lower abdomen, Nagpur",
+     "note": ""
+    },
+    {
+     "topic": "Single test - USG abdomen (national)",
+     "claim": "Bajaj Finserv Health's guide says abdominal ultrasound costs Rs 250 to Rs 3,000 across India, with most centres charging Rs 800 to Rs 1,500 for a complete whole-abdomen scan.",
+     "value": "Rs 250-3,000; typical Rs 800-1,500",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/guide/abdominal-ultrasound-test",
+     "source_title": "Abdominal ultrasound test guide (updated 1 May 2026)",
+     "note": "National range."
+    },
+    {
+     "topic": "Single test - USG whole abdomen (other cities)",
+     "claim": "Tata 1mg lists USG Whole Abdomen at Rs 990 in Mumbai, Rs 900 in Noida and Rs 1,200 in Bhopal.",
+     "value": "Rs 900-1,200",
+     "confirmed": false,
+     "url": "https://stag.1mg.com/labs/test/usg-whole-abdomen-3184",
+     "source_title": "1mg - USG whole abdomen",
+     "note": "Staging-domain page. No Nagpur figure shown."
+    },
+    {
+     "topic": "Single test - urine routine (Nagpur)",
+     "claim": "Redcliffe Labs lists Urine Routine and Microscopic Examination at Rs 199 in Nagpur (Gokulpeth, Pachpaoli, Chaoni), with home sample collection at a nominal extra cost.",
+     "value": "Rs 199",
+     "confirmed": true,
+     "url": "https://redcliffelabs.com/nagpur/gokulpeth/tests/urine-routine-microscopic-examination",
+     "source_title": "Redcliffe Labs Nagpur - Test Details",
+     "note": ""
+    },
+    {
+     "topic": "Single test - urine routine (Nagpur)",
+     "claim": "Max@Home lists Urine Routine and Microscopy in Nagpur at Rs 184 (down from Rs 230), with free home sample collection, and estimates Rs 150-400 in Nagpur depending on the lab.",
+     "value": "Rs 184 (MRP Rs 230)",
+     "confirmed": true,
+     "url": "https://www.maxathome.in/services/pathology/tests/urine-routine-analysis/nagpur/city",
+     "source_title": "Urine Routine and Microscopy Test Near Me in City, Nagpur",
+     "note": "The summary also mentions a Max Lab Nagpur comparison table showing Rs 120, but no URL was identified for it."
+    },
+    {
+     "topic": "Single test - PSA (Nagpur)",
+     "claim": "Tata 1mg lists PSA Total in Nagpur at Rs 619, with results typically in 24 hours.",
+     "value": "Rs 619",
+     "confirmed": true,
+     "url": "https://www.1mg.com/labs/test/psa-prostate-specific-antigen-total-1994/nagpur/price",
+     "source_title": "1mg - PSA Total, Nagpur",
+     "note": "1mg's 3-test PSA Profile in Nagpur is listed at Rs 989: https://www.1mg.com/labs/test/psa-profile-32560/nagpur/price"
+    },
+    {
+     "topic": "Single test - PSA (Nagpur)",
+     "claim": "PharmEasy says the typical PSA test price in Nagpur is Rs 369 to Rs 720.",
+     "value": "Rs 369-720",
+     "confirmed": true,
+     "url": "https://pharmeasy.in/diagnostics/tests/119/nagpur-169",
+     "source_title": "Prostate Specific Antigen Test (PSA For Men) In Nagpur - Price & Details",
+     "note": ""
+    },
+    {
+     "topic": "Single test - PSA (Nagpur)",
+     "claim": "SecondMedic lists PSA in Nagpur at Rs 600, with the final price confirmed at booking.",
+     "value": "Rs 600",
+     "confirmed": true,
+     "url": "https://www.secondmedic.com/diagnostic/prostate-specific-antigen/nagpur",
+     "source_title": "SecondMedic - PSA, Nagpur",
+     "note": ""
+    },
+    {
+     "topic": "Single test - PSA (Nagpur)",
+     "claim": "Max@Home lists PSA Total in Nagpur at Rs 1,050. Max Lab lists Free PSA at Rs 850 and Free PSA plus Total PSA at Rs 1,450 in Nagpur.",
+     "value": "Rs 1,050 / Rs 850 / Rs 1,450",
+     "confirmed": true,
+     "url": "https://www.maxathome.in/services/pathology/tests/prostate-specific-antigen-psa-total/nagpur",
+     "source_title": "PSA Test - Total Prostate Specific Antigen Near Me in Nagpur",
+     "note": "Max Lab sources: https://www.maxlab.co.in/lab-test/profile/nagpur/free-psa-prostate-specific-antigen and https://www.maxlab.co.in/lab-test/profile/nagpur/fort/free-psa-percent-free-psa-total-psa-serum"
+    },
+    {
+     "topic": "Single test - Pap smear (Nagpur)",
+     "claim": "Hexahealth puts the Pap smear cost in Nagpur at roughly Rs 200-500 at a super-speciality hospital, Rs 500-1,000 at a multi-speciality hospital and Rs 1,000-1,500 at a small clinic, but the same page also says the cost 'starts from 1,000'.",
+     "value": "Approx. Rs 200-1,500",
+     "confirmed": false,
+     "url": "https://www.hexahealth.com/treatment/pap-smear-test-cost-in-nagpur",
+     "source_title": "Pap smear test cost in Nagpur - Hexahealth",
+     "note": "Internally inconsistent aggregator page. Treat as a rough guide only."
+    },
+    {
+     "topic": "Single test - mammography",
+     "claim": "HCG says a standard screening mammogram in India can cost Rs 1,600 to Rs 12,700, depending on type, city and screening versus diagnostic use. Government hospitals charge less, and some screening camps offer it free.",
+     "value": "Rs 1,600-12,700",
+     "confirmed": true,
+     "url": "https://www.hcgoncology.com/blog/mammography-test-price-in-india-cost-types-factors/",
+     "source_title": "Mammography test price in India: cost, types, factors",
+     "note": "National range. No Nagpur-specific mammography price was found."
+    },
+    {
+     "topic": "Single test - ECG and TMT (Nagpur)",
+     "claim": "Bajaj Finserv Health lists a resting ECG in Nagpur at Rs 350 at Femiscan Diagnostics & Intervention, Achraj Tower 2, Chhaoni Road, with a 6-hour report time and no fasting.",
+     "value": "Rs 350",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/nagpur/electocardiogram-ecg",
+     "source_title": "Bajaj Finserv Health - ECG, Nagpur",
+     "note": "The same lab lists a treadmill test (TMT) at Rs 2,000: https://www.bajajfinservhealth.in/lab-tests/nagpur/radiology-category/conditional-scans/cardiac-ailments"
+    },
+    {
+     "topic": "Single test - HbA1c (Nagpur)",
+     "claim": "A Bajaj Finserv Health Nagpur HbA1c listing shows Healthians home collection at Rs 273 (Rs 260 after 5% off), Redcliffe Rs 299, Thyrocare Rs 300 and Dr Lal PathLabs Rs 440. Prices across labs in the listing run up to Rs 780.",
+     "value": "Rs 260-780",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/nagpur/hba1c",
+     "source_title": "Bajaj Finserv Health - HbA1c, Nagpur",
+     "note": "Undated aggregator listing."
+    },
+    {
+     "topic": "Single test - vitamin B12 (Nagpur)",
+     "claim": "Bajaj Finserv Health lists vitamin B12 in Nagpur at Rs 294 regular, Rs 280 discounted.",
+     "value": "Rs 280-294",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/nagpur/vitamin-b12",
+     "source_title": "Bajaj Finserv Health - Vitamin B12, Nagpur",
+     "note": "The low end of the Nagpur range."
+    },
+    {
+     "topic": "Single test - vitamin B12 (Nagpur)",
+     "claim": "Other Nagpur vitamin B12 prices: SecondMedic Rs 999, Max Lab (Fort) Rs 1,100, Max@Home Rs 1,224 (MRP Rs 1,530).",
+     "value": "Rs 999-1,224",
+     "confirmed": true,
+     "url": "https://www.maxathome.in/services/pathology/tests/vitamin-b12-serum/nagpur",
+     "source_title": "Vitamin B12 (Cyanocobalamin) Test Near Me in Nagpur",
+     "note": "SecondMedic: https://www.secondmedic.com/diagnostic/vitamin-b-12/nagpur ; Max Lab Fort: https://www.maxlab.co.in/lab-test/profile/nagpur/fort/vitamin-b12-serum . Another Max page shows Rs 1,600, discounted to Rs 1,280."
+    },
+    {
+     "topic": "Single test - CBC, lipid, thyroid, vitamin D (Nagpur)",
+     "claim": "A Max Healthcare Nagpur listing shows CBC Rs 270, lipid profile Rs 600, total thyroid profile Rs 500 and vitamin D Rs 1,600, with a flat 25% off on all tests advertised.",
+     "value": "CBC Rs 270; lipid Rs 600; thyroid Rs 500; vit D Rs 1,600",
+     "confirmed": false,
+     "url": "https://www.maxathome.in/our-centers/nagpur",
+     "source_title": "Max@Home Nagpur centres",
+     "note": "The search summary did not say which Max page these prices came from (possibly https://www.maxathome.in/health-risks/vitamins/nagpur). No standalone TSH price was found."
+    },
+    {
+     "topic": "Bundles (Nagpur)",
+     "claim": "Max Lab Nagpur lists a 'Health Screen' of 3 tests, including HbA1c and TSH, at Rs 399, and a 'Fatigue Monitoring Panel' of 10 tests, including vitamin B12 and vitamin D, at Rs 2,499.",
+     "value": "Rs 399 / Rs 2,499",
+     "confirmed": true,
+     "url": "https://www.maxlab.co.in/lab-test/profile/nagpur/health-screen",
+     "source_title": "Max Lab Nagpur - Health Screen",
+     "note": "Fatigue panel: https://www.maxlab.co.in/lab-test/profile/nagpur/fatigue-monitoring-panel"
+    },
+    {
+     "topic": "Bundles (Nagpur)",
+     "claim": "Dr Lal PathLabs' Diabetes Panel Basic (3 tests) is listed in Nagpur at Rs 450, with a 48-hour report time and 8-12 hours of fasting.",
+     "value": "Rs 450",
+     "confirmed": true,
+     "url": "https://www.bajajfinservhealth.in/lab-tests/nagpur/diabetes-panel-basic-test",
+     "source_title": "Bajaj Finserv Health - Diabetes Panel Basic, Nagpur",
+     "note": ""
+    },
+    {
+     "topic": "Pricing model - PEPM wellness subscription",
+     "claim": "Mantra Care says its employee wellness plans in India start from Rs 500 per employee per month, with significant discounts for larger organisations and annual commitments.",
+     "value": "From Rs 500 PEPM",
+     "confirmed": true,
+     "url": "https://mantra.care/india/",
+     "source_title": "#1 Employee Wellness Program in India",
+     "note": "Vendor's own claim."
+    },
+    {
+     "topic": "Pricing model - PEPM wellness subscription",
+     "claim": "Zimyo's 2026 guide puts a basic structured wellbeing programme (EAP access plus screening) under Rs 500 per employee per month. Mid-market programmes run Rs 500-1,500 PEPM, and comprehensive versions with mental health and dependent cover cost more.",
+     "value": "<Rs 500 PEPM basic; Rs 500-1,500 PEPM mid-market",
+     "confirmed": true,
+     "url": "https://www.zimyo.com/insights/employee-wellbeing-programs/",
+     "source_title": "Employee Wellbeing Programs in India: A Practical, Low-Cost Playbook for 2026",
+     "note": "The guide says dependent (parental) cover is highly valued in India because employees already pay for parents' healthcare out of pocket."
+    },
+    {
+     "topic": "Pricing model - OPD/wellness insurance add-on",
+     "claim": "PolicyBazaar describes group OPD and wellness cover as an add-on bought on top of an existing group health insurance policy. It says Rs 1 lakh of cover starts at Rs 110 per month per employee.",
+     "value": "From Rs 110/month/employee",
+     "confirmed": true,
+     "url": "https://www.policybazaar.com/commercial-insurance/employee-wellness-programs/",
+     "source_title": "Employee Wellness Program : OPD and Wellness",
+     "note": "Does not say whether family members are included or priced separately."
+    },
+    {
+     "topic": "Pricing model - global benchmark",
+     "claim": "A 2026 article titled 'Employee Wellness Program Cost in 2026: $3-$5/Employee/Month Explained' benchmarks wellness programmes at $3-5 per employee per month.",
+     "value": "$3-5 PEPM",
+     "confirmed": true,
+     "url": "https://avidonhealth.com/hr-people-operations/employee-wellness-program-cost/",
+     "source_title": "Employee Wellness Program Cost in 2026: $3-$5/Employee/Month Explained",
+     "note": "US benchmark, taken from the article title."
+    },
+    {
+     "topic": "Pricing model - global benchmark",
+     "claim": "Global benchmarks: digital-only wellness platforms run about $3-12 PEPM, full-service enterprise programmes $100-200+ PEPM, and biometric screenings are add-ons priced separately at $36-80 per employee.",
+     "value": "$3-12 / $100-200+ PEPM; screening $36-80",
+     "confirmed": false,
+     "url": "https://www.vantagefit.io/en/blog/corporate-wellness-programs-cost/",
+     "source_title": "Corporate Wellness Programs Cost: 2026 Pricing Benchmarks",
+     "note": "The summary did not say which result (vantagefit, wellsteps or cashort) each figure came from. US-centric."
+    }
+   ],
+   "gaps": "I used all 18 searches; WebFetch was unavailable, so every figure comes from search-result summaries, not from reading the pages. Not found: (1) Published corporate rate cards, volume-discount tiers, minimum headcount for onsite camps, or whether onsite collection is free for corporate camps, from Dr Lal, Metropolis, Thyrocare, Redcliffe, Healthians, Apollo or Tata 1mg. Every source says to ask for a quote. (2) Any Nagpur-specific mammography price; only the national HCG range (Rs 1,600-12,700) was found. (3) A standalone TSH price in Nagpur; only a thyroid profile (Rs 500 at Max, page unclear) and a Rs 399 bundle that includes HbA1c and TSH. (4) Vitamin D, CBC and lipid single prices in Nagpur came only from Max, and the exact page is unclear. (5) Apollo 24|7 corporate package inclusions; prices only. (6) Explicit per-dependant or family add-on prices; only 1+1 bundle offers (Dr Lal Family 1+1, Redcliffe One Plus One in Nagpur) without prices. (7) Inclusions for Wockhardt Nagpur's executive packages. (8) The rule requiring free annual check-ups for workers 40+ (Wikipedia) is not checked against the primary text. Most retail prices are aggregator listings (Bajaj Finserv Health, PharmEasy, 1mg, Max) with no update date, so treat them as indicative and confirm before putting them in the deck."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "Organisations are now required to provide free annual health check-ups for all workers above age 40 (Wikipedia).",
+     "verdict": "corrected",
+     "corrected_value": "The four labour codes took effect on 21 Nov 2025. Government (PIB) material says employers must give workers above 40 a free annual health check-up, and a PIB release of 7 May 2026 announces a nationwide annual check-up initiative, including an ESIC programme for insured persons above 40. However, a more careful reading of the OSH Central Rules 2026 says rule 5 applies to dock work and building/construction employers, with mines under rule 109. On that reading, IT, services, BFSI and general manufacturing are not yet clearly covered nationally, and state rules may differ. Suggested deck wording: 'India's new labour codes (in force since 21 Nov 2025) provide for free annual health check-ups for workers over 40 - we help you comply.' Avoid saying 'all employers must'.",
+     "reason": "The PIB sources support the headline. Two independent analyses say the operative central rule is limited to specific sectors. The scope is disputed and still evolving, so the blanket 'all workers' wording is overstated.",
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2192463&reg=48&lang=2 ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2258662&reg=3&lang=3 ; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2258702&reg=3&lang=2 ; https://www.shiftelio.com/blog/annual-health-checkup-employees-over-40-india ; https://www.loophealth.com/post/india-labour-codes-mandatory-health-checkups-2026"
+    },
+    {
+     "claim": "Wockhardt Hospitals Nagpur Premium Executive Health Checkup: list Rs 7,199, offered at Rs 5,999; prior appointment mandatory; 10-12 h fasting; booking phone 0712-6624100.",
+     "verdict": "confirmed",
+     "reason": "Re-search found the same figures on Wockhardt's own Nagpur pages: Premium Rs 7,199, 'just Rs 5999' offer, mandatory prior appointment, 10-12 h fasting, phone 0712-6624100. The site also says Nagpur packages start at Rs 1,200. The list and offer prices on the official pages differ, so confirm before quoting.",
+     "url": "https://wockhardthospitals.com/nagpur-multispeciality/health-package/premium-health-checkup/"
+    },
+    {
+     "claim": "Wockhardt Nagpur Basic Executive Health Checkup is Rs 3,999.",
+     "verdict": "confirmed",
+     "reason": "Wockhardt's Nagpur executive health checkup page lists Basic at Rs 3,999 and Premium at Rs 7,199.",
+     "url": "https://www.wockhardthospitals.com/nagpur-multispeciality/health-package/executive-health-checkup/"
+    },
+    {
+     "claim": "Policybazaar lists an 'Executive Whole Body Check' at Wockhardt Nagpur at Rs 15,000-22,000.",
+     "verdict": "confirmed",
+     "reason": "The Policybazaar listing does show this range, but it is about 185 days old and conflicts sharply with Wockhardt's own prices (Rs 3,999-7,199). Do not use it in the deck; use the hospital's own figures.",
+     "url": "https://www.policybazaar.com/hospitals/wockhardt/nagpur/"
+    },
+    {
+     "claim": "KIMS-Kingsway Nagpur: Basic Rs 3,000 M / Rs 3,100 F; Bronze Rs 4,600 M / Rs 4,500 F; Silver Rs 6,300 M / Rs 7,300 F; Gold Rs 8,500 M / Rs 9,500 F; phone 74999 13052.",
+     "verdict": "confirmed",
+     "reason": "The official KIMS Nagpur health-checks page shows exactly these tier prices, says they apply to the Nagpur unit only, and gives 74999 13052. The page is undated. A separate, much older Kingsway page shows different tiers (for example Basic Male Rs 2,000), so cite the KIMS page only.",
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/"
+    },
+    {
+     "claim": "KIMS-Kingsway Nagpur Titanium promotional price Rs 11,000 (male) / Rs 12,000 (female).",
+     "verdict": "confirmed",
+     "reason": "The same official page lists Titanium as a promotional offer at Rs 11,000 M / Rs 12,000 F. The promotion may have ended, and the page is undated.",
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/"
+    },
+    {
+     "claim": "KIMS-Kingsway Nagpur women's packages are promotionally priced at Rs 2,900 (<30), Rs 3,900 (30-40) and Rs 5,200 (>40).",
+     "verdict": "unverifiable",
+     "reason": "Re-search confirmed only that the page has women's wellness packages by age bracket. The individual prices were not visible in my results.",
+     "url": "https://www.kimshospitals.com/nagpur/health-checks/"
+    },
+    {
+     "claim": "Apollo 24|7 corporate page: comprehensive annual check-up Rs 3,799 (MRP Rs 9,497), another annual check-up Rs 2,399 (MRP Rs 5,998), 65-test package Rs 1,299 (MRP Rs 3,247).",
+     "verdict": "corrected",
+     "corrected_value": "The packages are named and mostly employer-specific: 'Uber Health Check' (82 tests) Rs 3,799 (MRP Rs 9,497); 'Xpert Annual Health Check-Up with Smart Report' (88 tests) Rs 2,399 (MRP Rs 5,998); 'Hitachi Health Package' (65 tests) Rs 1,299 (MRP Rs 3,247). All are 60% off MRP. The page title says 'Starting at Rs 1499', which conflicts with the Rs 1,299 listing on the same page.",
+     "reason": "Re-search showed the Rs 3,799 and Rs 1,299 items are employer-branded packages (Uber, Hitachi), not generic 'comprehensive annual' packages. That is useful as a benchmark for negotiated corporate packages, but they should be described accurately.",
+     "url": "https://www.apollo247.com/lab-tests-category//corporates"
+    },
+    {
+     "claim": "Thyrocare Aarogyam 1.1 is Rs 1,499 for 63 tests.",
+     "verdict": "confirmed",
+     "reason": "Most sources agree on 63 tests. Rs 1,499 appears on reseller sites (Aarogyalabs, Healthcare Offers), but other resellers list Rs 1,150-1,199 (marked price Rs 2,000). Quote it as about Rs 1,150-1,499 retail.",
+     "url": "https://aarogyalabs.in/thyrocare-packages/"
+    },
+    {
+     "claim": "Thyrocare Aarogyam 1.2 is Rs 1,999 for 89 tests.",
+     "verdict": "unverifiable",
+     "reason": "No re-search result showed Rs 1,999. Resellers list Rs 1,399 (UPto75), Rs 1,599 (HealthcareOnTime), Rs 1,649 (Healthcare Offers) and Rs 1,849 (Aarogyalabs, 93 tests). Test counts range from 89 to 95.",
+     "url": "https://www.healthcareontime.com/test/aarogyam-12/"
+    },
+    {
+     "claim": "Thyrocare Aarogyam 1.6 is Rs 4,499.",
+     "verdict": "corrected",
+     "corrected_value": "Thyrocare's own page lists Aarogyam 1.6 at Rs 4,999 with 108 tests (its test list shows 112). Resellers list Rs 3,399-3,899.",
+     "reason": "The official Thyrocare price differs from the Rs 4,499 aggregator figure.",
+     "url": "https://www.thyrocare.com/profile/aarogyam-1_6-with-utsh"
+    },
+    {
+     "claim": "Redcliffe Labs Nagpur Smart Plus Full Body Checkup with Vitamin Screening is Rs 1,799 (MRP Rs 6,525).",
+     "verdict": "confirmed",
+     "reason": "The Redcliffe Nagpur page shows Rs 1,799 against MRP Rs 6,525 (72% off, limited period), 91 test parameters, 10-12 h fasting and home collection.",
+     "url": "https://redcliffelabs.com/nagpur/package/smart-plus-full-body-checkup-vitamin-screening"
+    },
+    {
+     "claim": "PolicyBazaar group OPD and wellness add-on: Rs 1 lakh cover starts at Rs 110 per month per employee, bought on top of group health insurance.",
+     "verdict": "confirmed",
+     "reason": "The Policybazaar page banner reads 'Rs 1 Lakh cover starts at Rs 110/month/employee+', and the page describes it as an add-on over an existing group health policy. The '+' marks it as a starting price.",
+     "url": "https://www.policybazaar.com/commercial-insurance/employee-wellness-programs/"
+    },
+    {
+     "claim": "PharmEasy 'Annual Corporate Screening': 42 tests, about Rs 4,999 MRP, Rs 1,749 with a coupon, 24-hour reports, no fasting.",
+     "verdict": "confirmed",
+     "reason": "Re-search confirmed 42 tests, blood-only sample, no fasting, 24-hour reports and Rs 1,749 against Rs 4,999. Another snapshot showed a 'Buy 1 Get 1 Free' offer at Rs 1,399 against Rs 4,899. Prices vary by date and pincode, and no bulk or corporate rate was shown.",
+     "url": "https://pharmeasy.in/diagnostics/package/annual-corporate-screening-2257"
+    },
+    {
+     "claim": "Mantra Care employee wellness plans in India start from Rs 500 per employee per month.",
+     "verdict": "unverifiable",
+     "reason": "Mantra's India page in the results shows no price. Its Nigeria page says PEPM rates start from NGN 2,500 with custom pricing, and a third-party listing (FitGap) says from $20 per employee. The Rs 500 PEPM figure could not be found, so do not quote it.",
+     "url": "https://mantra.care/india/"
+    },
+    {
+     "claim": "Employee health check-up tiers per employee: basic Rs 800-2,500, comprehensive Rs 2,500-6,000, premium Rs 6,000-20,000 (attributed to onehealthassist).",
+     "verdict": "unverifiable",
+     "reason": "A targeted re-search found no source with these tiers. The nearest figure was an HR blog in the results (likely Onsurity's employee check-up guide) saying an annual check-up typically costs Rs 3,000-8,000 per person. Also found: a Maharashtra government circular caps secretariat staff check-up reimbursement at Rs 5,000 per employee. Neither confirms the claimed tiers.",
+     "url": "https://www.onsurity.com/blog/annual-health-checkups-for-employees ; https://www.ocacademy.in/blogs/maharashtra-medical-checkup-reimbursement-secretariat-staff"
+    }
+   ]
+  }
+ }
+]

@@ -1,0 +1,822 @@
+[
+ {
+  "topic": "it-health-evidence",
+  "research": {
+   "facts": [
+    {
+     "topic": "Metabolic syndrome / fatty liver - Hyderabad IT employees",
+     "claim": "Cross-sectional study of 345 IT employees in Hyderabad (July 2023 - July 2024, Scientific Reports 2025;15:10124): MAFLD (fatty liver) in 290 (84.06%), metabolic syndrome in 118 (34.20%).",
+     "confirmed": true,
+     "url": "https://www.nature.com/articles/s41598-025-91482-2",
+     "source_title": "Prevalence of metabolic dysfunction-associated fatty liver disease among information technology employees in India (Scientific Reports, 2025)",
+     "value": "n=345; MAFLD 84.06%; MetS 34.20%",
+     "note": "Also indexed at PubMed https://pubmed.ncbi.nlm.nih.gov/40128210. 363 employees visited the clinic; 345 analysed. University of Hyderabad study per press coverage (siasat.com)."
+    },
+    {
+     "topic": "Obesity / dyslipidaemia / blood sugar - Hyderabad IT employees",
+     "claim": "Same Hyderabad study (n=345, median age 38): 244 (70.72%) obese by BMI; 264 (76.52%) had high LDL cholesterol; 72 (20.87%) had elevated fasting blood glucose. No separate diabetes prevalence or overall dyslipidaemia rate reported in what the search returned.",
+     "confirmed": true,
+     "url": "https://www.nature.com/articles/s41598-025-91482-2",
+     "source_title": "Scientific Reports 2025 - MAFLD among IT employees in India",
+     "value": "Obese 70.72%; high LDL 76.52%; elevated FBG 20.87%",
+     "note": "Figures came from search-result summaries of the paper (WebFetch unavailable); obesity likely uses Asian BMI cut-offs - verify in full text before quoting on a slide. Press: https://thesouthfirst.com/health/study-finds-84-percent-of-hyderabad-it-employees-have-fatty-liver/"
+    },
+    {
+     "topic": "Metabolic risk - South India corporate IT employees (earlier study)",
+     "claim": "An earlier South India study of corporate IT employees (cited in the Hyderabad paper) estimated metabolic syndrome at 29.87%, with 44.02% overweight, 16.85% obese, 3.86% diabetic and 64.93% with low HDL-C.",
+     "confirmed": false,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10421222/",
+     "source_title": "Diets, Lifestyles and Metabolic Risk Factors among Corporate Information Technology (IT) Employees in South India",
+     "value": "MetS 29.87%; overweight 44.02%; obese 16.85%; diabetes 3.86%; low HDL 64.93%",
+     "note": "The search summary attributed these numbers to the Nature paper's discussion of prior work; the original study appears to be PMC10421222, but sample size and city were not confirmed. Verify before use."
+    },
+    {
+     "topic": "Metabolic syndrome - Delhi NCR IT professionals",
+     "claim": "Cross-sectional study (2023-2024) of IT professionals attending preventive health check-ups in Delhi and NCR: metabolic syndrome in 162 participants (40.60%) by NCEP-ATP III criteria; 88 males (43.56%) and 74 females (37.56%).",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13241169/",
+     "source_title": "Proportion of metabolic syndrome and gender differences among information technology professionals undergoing preventive health check-up in Delhi and NCR (J Family Med Prim Care)",
+     "value": "MetS 40.60% overall; men 43.56%; women 37.56%",
+     "note": "Total sample size not stated in snippet; 162/40.6% implies about 399 (derived, not stated). PubMed: https://pubmed.ncbi.nlm.nih.gov/42257130/"
+    },
+    {
+     "topic": "Cardiometabolic risk - young IT employees (Pune)",
+     "claim": "Study of 1,350 young IT employees (mean age 33): diabetes 2.5%, hypertension 13.5%, overweight or obesity 51.4%, low HDL cholesterol 70.1% (most common lipid abnormality); two or more risk factors clustered in 63.5%, rising with age.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27390483/",
+     "source_title": "High prevalence of cardiometabolic risk factors in young employees of Information Technology industry (2016)",
+     "value": "n=1,350; DM 2.5%; HTN 13.5%; overweight/obese 51.4%; low HDL 70.1%; >=2 risk factors 63.5%",
+     "note": "City given as Pune by the search summary only; not independently confirmed from the abstract text."
+    },
+    {
+     "topic": "Hypertension / diabetes / dyslipidaemia / obesity - IT and BPO employees",
+     "claim": "Single-centre study of about 1,000 IT and BPO employees: 22% newly diagnosed hypertension, 10% diabetes, 36% dyslipidaemia, 40% obesity.",
+     "confirmed": true,
+     "url": "https://www.ovid.com/jnls/jpbs/fulltext/10.4103/0975-7406.155764~health-problems-and-stress-in-information-technology-and-business-process-outsourcing-employees",
+     "source_title": "Health problems and stress in Information Technology and Business Process Outsourcing employees (J Pharm Bioallied Sci, 2015)",
+     "value": "HTN 22%; DM 10%; dyslipidaemia 36%; obesity 40%",
+     "note": "Sample size 'about 1,000' per search summary; city not confirmed (possibly Chennai - unverified)."
+    },
+    {
+     "topic": "Prediabetes / diabetes - urban working professionals (not IT-only)",
+     "claim": "Workforce Health Index 2026: of 7,088 HbA1c results from corporate employees and covered family members in urban India, about 25.4% were in the prediabetes range and 13.3% in the diabetes range; elevated HbA1c roughly twice as common in people in their 30s (about 33%) as in their 20s.",
+     "confirmed": true,
+     "url": "https://www.medboundtimes.com/medicine/workforce-health-index-2026-recent-findings",
+     "source_title": "Workforce Health Index 2026: Blood Sugar, Stress and Vitamin D Risks Among India's Urban Working Professionals (MedBound Times)",
+     "value": "Prediabetes 25.4%; diabetes 13.3%; n=7,088 HbA1c tests",
+     "note": "Industry/vendor report via secondary news source, not peer-reviewed; not IT-specific. No IT-specific prediabetes study found."
+    },
+    {
+     "topic": "Vitamin B12 / D deficiency - company executives (Mumbai)",
+     "claim": "Study of 75 male senior company executives (Mumbai): 65% had vitamin B12 deficiency (<193 pg/ml) and 28% had vitamin D deficiency (<7.6 ng/ml).",
+     "confirmed": true,
+     "url": "https://www.ovid.com/jnls/ijoe/fulltext/10.4103/0019-5278.34535~incidence-of-vitamin-b12-d3-deficiency-among-company",
+     "source_title": "Incidence of vitamin B12/D3 deficiency among company executives (Indian Journal of Occupational and Environmental Medicine)",
+     "value": "n=75; B12 deficiency 65%; vitamin D deficiency 28%",
+     "note": "Office executives, not specifically IT; older study (about 2007). Mumbai location per search summary."
+    },
+    {
+     "topic": "Vitamin B12 deficiency - IT professionals (Pune)",
+     "claim": "A single-centre observational study in Pune (April-July 2013) of IT professionals presenting for routine health check-up concluded vitamin B12 deficiency is prevalent among IT professionals despite high income and varied diets.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4717757",
+     "source_title": "Opportunistic Screening of Vitamin B12 Deficiency in IT Professionals Presenting for Routine Health Check-up (J Clin Diagn Res, 2015; DOI 10.7860/jcdr/2015/16191.6866)",
+     "value": "Headline prevalence NOT found",
+     "note": "Overall deficiency percentage and sample size could not be retrieved; do not quote a number from this study without checking full text."
+    },
+    {
+     "topic": "Vitamin D / B12 deficiency - Pune general population",
+     "claim": "Observational study around Pune: vitamin B12 deficiency 52.2% urban and 64.8% rural; vitamin D deficiency 34.3% urban and 13% rural.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12088579/",
+     "source_title": "Prevalence of deficiencies of serum vitamin D3 and vitamin B12 among urban and rural population in and around Pune, India",
+     "value": "Urban B12 def 52.2%; urban vit D def 34.3%",
+     "note": "General population, not IT employees; sample size not captured."
+    },
+    {
+     "topic": "Vitamin D deficiency - Indian healthcare professionals (comparator)",
+     "claim": "Among 2,119 medical and paramedical staff across 18 Indian cities, 79% were vitamin D deficient, 15% insufficient and only 6% sufficient.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23225296/",
+     "source_title": "Widespread vitamin D deficiency among Indian health care professionals",
+     "value": "79% deficient; n=2,119",
+     "note": "Indoor-working professionals comparator, not IT."
+    },
+    {
+     "topic": "Vitamin B12 deficiency - urban professionals (vendor data)",
+     "claim": "Loop Health page reports clinical B12 deficiency (<200 pg/mL) in 32.2% of 1,399 urban professionals.",
+     "confirmed": false,
+     "url": "https://whi.loophealth.com/labs/vitamin-b12",
+     "source_title": "Vitamin B12 - Loop Health Workforce Health Index",
+     "value": "32.2%; n=1,399",
+     "note": "Methodology unclear; vendor data, not peer-reviewed."
+    },
+    {
+     "topic": "Musculoskeletal pain - Indian IT professionals (meta-analysis)",
+     "claim": "2025 systematic review and meta-analysis: pooled prevalence of work-related musculoskeletal pain among Indian IT professionals 66% (95% CI 56-75%); lower back 55% (95% CI 46-63%); neck 50% (95% CI 41-58%).",
+     "confirmed": true,
+     "url": "https://link.springer.com/article/10.1186/s12982-025-01315-w",
+     "source_title": "Common pain sites, prevalence and predictors of work-related musculoskeletal pain among Indian information technology professionals: a systematic review and meta-analysis",
+     "value": "Any MSK pain 66%; low back 55%; neck 50%",
+     "note": "Strongest single source for the deck; number of pooled studies/participants not captured."
+    },
+    {
+     "topic": "Musculoskeletal pain - software professionals in MNCs (2024)",
+     "claim": "Cross-sectional study of software professionals in multinational companies (May-October 2024): lower back pain 66.7%, neck pain 56.9%.",
+     "confirmed": true,
+     "url": "https://www.ovid.com/jnls/jfmpc/fulltext/10.4103/jfmpc.jfmpc_191_25~exploring-musculoskeletal-disorders-and-ergonomic-challenges",
+     "source_title": "Exploring musculoskeletal disorders and ergonomic challenges among software professionals: A cross sectional study (J Family Med Prim Care, 2025)",
+     "value": "Low back 66.7%; neck 56.9%",
+     "note": "Sample size and city not captured."
+    },
+    {
+     "topic": "Musculoskeletal pain incl. wrist - IT professionals India",
+     "claim": "An Indian study of IT professionals reported neck pain 64.9%, low back pain 56.5%, shoulder pain 42.1%, arm pain 34.5% and wrist pain 19.8%.",
+     "confirmed": false,
+     "url": "https://www.msjonline.org/index.php/ijrms/article/view/8604",
+     "source_title": "Prevalence of work-related musculoskeletal disorders among IT professionals in India - a literature review (IJRMS)",
+     "value": "Neck 64.9%; LBP 56.5%; shoulder 42.1%; wrist 19.8%",
+     "note": "Search summary called it 'an older study' without clearly naming which source; attribution to this review is uncertain. Verify before use."
+    },
+    {
+     "topic": "Musculoskeletal disorders - software professionals (12-month)",
+     "claim": "Cross-sectional study of software professionals: neck (29.56%) and lower back (22.89%) were the most common sites of work-related MSD in the past 12 months.",
+     "confirmed": true,
+     "url": "https://www.ijcmph.com/index.php/ijcmph/article/view/982",
+     "source_title": "A cross sectional study on work related musculoskeletal disorders among software professionals (IJCMPH)",
+     "value": "Neck 29.56%; low back 22.89%",
+     "note": "Sample size and city not captured; shows wide range across studies."
+    },
+    {
+     "topic": "Burnout, effort-reward imbalance and poor sleep - software engineers",
+     "claim": "Raju, Nithiya & Tipandjan (J Educ Health Promot, 2022): 200 software engineers (mean age 29.3, 32% women); effort-reward imbalance 72%, burnout 60%, poor sleep quality 70%; 12% slept under 6 hours; women scored higher on all three.",
+     "confirmed": true,
+     "url": "https://www.ovid.com/jnls/jehp/fulltext/10.4103/jehp.jehp_1809_21~relationship-between-burnout-effort-reward-imbalance-and",
+     "source_title": "Relationship between burnout, effort-reward imbalance, and insomnia among Information Technology professionals",
+     "value": "n=200; ERI 72%; burnout 60%; poor sleep 70%; <6h sleep 12%",
+     "note": "City not confirmed. Also at https://www.academia.edu/92526951/"
+    },
+    {
+     "topic": "Employer benefits - Infosys",
+     "claim": "Infosys runs HALE (Health Assessment & Lifestyle Enrichment) as a benefit for all employees, including an annual health week with master health checks on a co-payment basis; many health checks, camps, expert sessions and workshops are also offered to family members, and most are employee-paid while the rest are free.",
+     "confirmed": true,
+     "url": "https://www.infosys.com/about/esg/social/employee-wellbeing/health-assessment.html",
+     "source_title": "HALE - The Health Assessment & Lifestyle Enrichment (Infosys)",
+     "value": "Annual health week; master health checks on co-pay; family members included",
+     "note": "Strong pitch angle: Infosys already uses co-paid master health checks, so a local diagnostic partner fits the model."
+    },
+    {
+     "topic": "Employer benefits - Infosys parents insurance",
+     "claim": "Anonymous employee posts say Infosys India group cover (about Rs 5 lakh default) covers employee, spouse and 2 children free, while parents need a separate policy with premium paid by the employee.",
+     "confirmed": false,
+     "url": "https://www.glassdoor.co.in/Community/consulting-india/h-e-l-l-o-fishes-how-is-infosys-health-insurance-what-all-benifits-they-will-provide-also-please-let-me-know-how-much-they-will",
+     "source_title": "Glassdoor community post on Infosys health insurance",
+     "value": "Rs 5 lakh default; parents employee-paid",
+     "note": "Anonymous and several years old; not an official source."
+    },
+    {
+     "topic": "Employer benefits - Persistent Systems",
+     "claim": "Persistent's FY2024-25 employee benefits document lists an occupational health centre and paid annual health check-ups, plus sports and fitness facilities at select sites.",
+     "confirmed": true,
+     "url": "https://www.persistent.com/wp-content/uploads/2025/07/Employee-Benefits-FY2025.pdf",
+     "source_title": "Employee Benefits FY 2024-25 (Persistent Systems)",
+     "value": "Paid annual health check-ups; occupational health centre",
+     "note": "Details of check-up package and site coverage (e.g., Nagpur) not captured."
+    },
+    {
+     "topic": "Employer benefits - Persistent Systems family/parents",
+     "claim": "Persistent's careers page says its insurance covers group term life, personal accident and hospitalisation for employees' families including spouse, children and parents or in-laws; the Persistent Employees Benefit Trust offers zero-interest financial aid for medical emergencies for immediate and extended family.",
+     "confirmed": true,
+     "url": "https://www.persistent.com/careers/benefits/",
+     "source_title": "Benefits of Working at Persistent Systems",
+     "value": "Hospitalisation cover incl. parents/in-laws",
+     "note": "Official page; current limits not captured."
+    },
+    {
+     "topic": "HR industry - share of employers covering parents and check-ups (India)",
+     "claim": "Survey reported December 2023: 70% of companies offer health insurance to employees' families but only 25% extend it to parents; 57% offer discounted health check-ups; only 10% offer mental-wellbeing benefits; under 30% of employees participate in company wellbeing initiatives; median sum insured Rs 3 lakh; under 5% offer a comprehensive healthcare plan.",
+     "confirmed": true,
+     "url": "https://www.business-standard.com/finance/personal-finance/less-than-5-firms-offer-comprehensive-healthcare-plan-to-employees-report-123112100500_1.html",
+     "source_title": "Rs 3 lakh is the median sum insured offered by India's employers: survey (Business Standard, Dec 2023)",
+     "value": "Family 70%; parents 25%; discounted check-ups 57%; mental wellness 10%",
+     "note": "Commissioning firm of the survey not captured; 'discounted check-ups' is not the same as employer-funded."
+    },
+    {
+     "topic": "HR industry - Plum report 2026",
+     "claim": "Plum report (BusinessToday, 7 Oct 2026): median health-benefit spend per employee grew at 14.7% CAGR over three years; share of employers offering more than Rs 5 lakh cover up 53% since FY22; Rs 5 lakh becoming the new baseline.",
+     "confirmed": true,
+     "url": "https://www.businesstoday.in/personal-finance/story/rs5-lakh-health-cover-is-becoming-the-new-baseline-as-employers-deepen-employee-benefits-559875-2026-10-07",
+     "source_title": "Rs 5 lakh health cover is becoming the new baseline as employers deepen employee benefits (BusinessToday)",
+     "value": "14.7% CAGR; +53% since FY22",
+     "note": "Vendor report via news coverage."
+    },
+    {
+     "topic": "Regulation - mandatory annual health check-ups (OSH Code)",
+     "claim": "Under India's Occupational Safety, Health and Working Conditions Code (labour codes effective 21 November 2025), employers must provide free annual health check-ups for workers above a specified age (commonly reported as 40).",
+     "confirmed": false,
+     "url": "https://www.loophealth.com/post/india-labour-codes-mandatory-health-checkups-2026",
+     "source_title": "India's Health Checkup Mandate: What HRs Must Do Now (Loop Health)",
+     "value": "Age 40+ (reported); effective 21 Nov 2025",
+     "note": "Sources disagree on the age threshold (some say it depends on state notification) and whether it applies to IT establishments; also see https://getvisitapp.com/blog/employee-wellness-programmes/new-ahc-law-2025-explained-impact-on-employee-wellness-programs/ . Verify against the gazette before putting on a slide."
+    },
+    {
+     "topic": "ROI - annual health check-ups and hospitalisation",
+     "claim": "CII-MediBuddy study of 10,551 employees: those who completed three annual health check-ups had a 2.41% hospitalisation rate vs 7.27% among those who attended none (about threefold).",
+     "confirmed": true,
+     "url": "https://ascendants.in/industry_events/medibuddy-report-skipping-health-checkups-3x-hospitalisation-risk/",
+     "source_title": "Employees Skipping Annual Health Checks Face Nearly Threefold Hospitalisation Risk, CII-MediBuddy Study Finds",
+     "value": "2.41% vs 7.27%; n=10,551",
+     "note": "Secondary news source for an industry report; useful ROI slide."
+    }
+   ],
+   "gaps": "I used all 12 searches. WebFetch was unavailable, so every figure comes from search-result summaries and should be checked against the full papers before going on slides. Not found: (1) the headline vitamin B12 deficiency percentage and sample size of the Pune IT study (JCDR 2015, PMC4717757); (2) any vitamin D prevalence study specific to IT staff (only executive, healthcare-worker and general-population comparators); (3) any peer-reviewed prediabetes study specific to IT staff (only the vendor Workforce Health Index 2026); (4) a dedicated insomnia or stress prevalence study other than Raju et al. 2022 (n=200, city unknown); (5) the cities for the Pune 2016 (n=1,350), IT/BPO (n=about 1,000), MSK and burnout studies, which are unconfirmed; (6) the total sample size of the Delhi NCR study (about 399 is my own calculation); (7) any Nagpur-specific data, and whether Persistent's or Infosys's Nagpur campuses run on-site check-ups; (8) TCS, Wipro and other employers' check-up policies, which I did not search; (9) any current, official Infosys India policy on check-ups for parents or spouses (only HALE co-pay plus anonymous Glassdoor posts); (10) the exact OSH Code age threshold and whether it applies to IT offices. Nothing was found on breakfast or nutrition offerings at executive check-ups, and I did not search for it."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "Hyderabad IT employees study (Scientific Reports 2025;15:10124): n=345, July 2023 to July 2024; MAFLD (fatty liver) in 290 (84.06%); metabolic syndrome in 118 (34.20%).",
+     "verdict": "confirmed",
+     "reason": "Search of the Nature paper and press coverage matches every figure. Researchers were from the University of Hyderabad and the Asian Institute of Gastroenterology. MAFLD was diagnosed by FibroScan (vibration-controlled transient elastography), and recruitment ran from July 2023 to July 2024. Press coverage (South First, Siasat, Hans India) reports the same headline numbers.",
+     "url": "https://www.nature.com/articles/s41598-025-91482-2"
+    },
+    {
+     "claim": "Same Hyderabad study: 244 (70.72%) obese; 264 (76.52%) high LDL cholesterol.",
+     "verdict": "confirmed",
+     "reason": "The search summary of the paper gives 244 (70.72%) obese and 264 (76.52%) high LDL-C. Press rounds obesity to about 71%. The exact LDL and BMI cut-offs were not seen, so say 'by the study's criteria' on a slide.",
+     "url": "https://www.nature.com/articles/s41598-025-91482-2"
+    },
+    {
+     "claim": "Same Hyderabad study: 72 (20.87%) had elevated fasting blood glucose; median age 38.",
+     "verdict": "unverifiable",
+     "reason": "Neither the 20.87% FBG figure nor the median age of 38 came up in this re-check. Both still rest only on the first researcher's search summary.",
+     "url": "https://www.nature.com/articles/s41598-025-91482-2"
+    },
+    {
+     "claim": "Earlier South India corporate IT employee study: 44.02% overweight, 16.85% obese, 64.93% low HDL-C.",
+     "verdict": "confirmed",
+     "reason": "The study is 'Diets, Lifestyles and Metabolic Risk Factors among Corporate IT Employees in South India' (Nutrients 2023;15(15):3404, doi 10.3390/nu15153404, PMC10421222). Search results directly attribute 44.02% overweight and 16.85% obese to it, and give low HDL-C as 'about 65%', which fits 64.93%. Sample size and city were still not confirmed.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10421222/"
+    },
+    {
+     "claim": "Same South India study: metabolic syndrome 29.87%; diabetes 3.86%.",
+     "verdict": "unverifiable",
+     "reason": "No re-check result confirmed the 29.87% MetS or 3.86% diabetes figures. Leave them off slides unless checked against the full text.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10421222/"
+    },
+    {
+     "claim": "Delhi NCR IT professionals at preventive health check-ups (2023-2024): metabolic syndrome 162 (40.60%) by NCEP-ATP III; males 88 (43.56%), females 74 (37.56%).",
+     "verdict": "confirmed",
+     "reason": "All three percentages and counts match. The exact study period was August 2023 to July 2024. Participants were aged 18-60, had worked in IT for at least a year, and were chosen by random systematic sampling of preventive check-up attendees. Journal: J Family Med Prim Care, DOI 10.4103/jfmpc.jfmpc_2296_25. Total sample size is still not stated; 'about 399' is a derived figure and should not be quoted. Separate corroboration: a 2026 study of white-collar private-sector employees in Delhi and Bengaluru (BMC/Springer, s12982-026-02195-4) found MetS in 40.51%.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13241169/"
+    },
+    {
+     "claim": "Young IT employees (2016), city reported as Pune: n=1,350, mean age 33; diabetes 2.5%, hypertension 13.5%, overweight/obesity 51.4%, low HDL 70.1%; 2+ risk factors 63.5%, rising with age.",
+     "verdict": "confirmed",
+     "reason": "The city is now confirmed. The paper is Limaye, Kulkarni, Deokar & Kumaran, Indian J Occup Environ Med 2016;20(1):64-67 (PMC4922281). It used health-check records from two IT firms in Pune: 1,350 of 5,800 employees, mean age 33 \u00b1 6, 78% men. All quoted percentages match, and prediabetes was 6.5%.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27390483/"
+    },
+    {
+     "claim": "IT and BPO employees (J Pharm Bioallied Sci 2015): about 1,000 employees; 22% newly diagnosed hypertension, 10% diabetes, 36% dyslipidaemia, 40% obesity.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked because of the search budget. The sample size and city were already marked unconfirmed by the original researcher.",
+     "url": "https://www.ovid.com/jnls/jpbs/fulltext/10.4103/0975-7406.155764~health-problems-and-stress-in-information-technology-and-business-process-outsourcing-employees"
+    },
+    {
+     "claim": "Workforce Health Index 2026: of 7,088 HbA1c results, 25.4% prediabetes and 13.3% diabetes range; elevated HbA1c about twice as common in 30s (about 33%) as in 20s.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. This is vendor data (Loop Health) reported by a secondary news site, not peer-reviewed and not IT-specific. If used, label it 'vendor data'.",
+     "url": "https://www.medboundtimes.com/medicine/workforce-health-index-2026-recent-findings"
+    },
+    {
+     "claim": "75 male senior company executives (Mumbai, about 2007): 65% vitamin B12 deficient, 28% vitamin D deficient.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. The study is old and covers office executives, not IT staff, and the Mumbai location is unconfirmed.",
+     "url": "https://www.ovid.com/jnls/ijoe/fulltext/10.4103/0019-5278.34535~incidence-of-vitamin-b12-d3-deficiency-among-company"
+    },
+    {
+     "claim": "Pune IT professionals B12 study (JCDR 2015): vitamin B12 deficiency prevalent among IT professionals.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked, and no headline percentage or sample size was ever retrieved. Do not quote a number from it.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4717757"
+    },
+    {
+     "claim": "Pune general population: B12 deficiency 52.2% urban / 64.8% rural; vitamin D deficiency 34.3% urban / 13% rural.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. This is general-population data, not IT employees, and the sample size was not captured.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12088579/"
+    },
+    {
+     "claim": "2,119 Indian medical/paramedical staff across 18 cities: 79% vitamin D deficient, 15% insufficient, 6% sufficient.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. It is a comparator group, not IT staff.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/23225296/"
+    },
+    {
+     "claim": "Loop Health: clinical B12 deficiency (<200 pg/mL) in 32.2% of 1,399 urban professionals.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. Vendor data with unclear methodology, already marked unconfirmed.",
+     "url": "https://whi.loophealth.com/labs/vitamin-b12"
+    },
+    {
+     "claim": "2025 meta-analysis: pooled prevalence of work-related musculoskeletal pain among Indian IT professionals 66% (95% CI 56-75%).",
+     "verdict": "confirmed",
+     "reason": "Confirmed: 20 studies with a combined sample of 15,709 (from 707 screened). Pooled prevalence was 66% (95% CI 56-75), with very high heterogeneity (I\u00b2 = 99.16%), and the authors urge caution. 'About two in three IT professionals' is a fair slide phrasing.",
+     "url": "https://link.springer.com/article/10.1186/s12982-025-01315-w"
+    },
+    {
+     "claim": "Same 2025 meta-analysis: lower back pain 55% (95% CI 46-63%); neck pain 50% (95% CI 41-58%).",
+     "verdict": "unverifiable",
+     "reason": "The site-specific pooled figures did not appear in the retrieved abstract text, which only notes variation across body sites. Do not mix this up with a different 2024 meta-analysis of all Indian occupational workers (J Occup Health 2025;67(1):uiae077, PubMed 39688540), which reported 76% overall, 60% low back and 40% neck.",
+     "url": "https://link.springer.com/article/10.1186/s12982-025-01315-w"
+    },
+    {
+     "claim": "Software professionals in MNCs (May-Oct 2024, JFMPC 2025): lower back pain 66.7%, neck pain 56.9%.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. Sample size and city were not captured.",
+     "url": "https://www.ovid.com/jnls/jfmpc/fulltext/10.4103/jfmpc.jfmpc_191_25~exploring-musculoskeletal-disorders-and-ergonomic-challenges"
+    },
+    {
+     "claim": "Indian IT professionals: neck 64.9%, low back 56.5%, shoulder 42.1%, arm 34.5%, wrist 19.8% (attributed to IJRMS literature review).",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. The original researcher already flagged the attribution as uncertain, so do not use it.",
+     "url": "https://www.msjonline.org/index.php/ijrms/article/view/8604"
+    },
+    {
+     "claim": "Software professionals (IJCMPH): neck 29.56% and lower back 22.89% most common 12-month WMSD sites.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. Sample size and city not captured.",
+     "url": "https://www.ijcmph.com/index.php/ijcmph/article/view/982"
+    },
+    {
+     "claim": "Raju et al. 2022 (J Educ Health Promot): 200 software engineers; effort-reward imbalance 72%, burnout 60%, poor sleep 70%, 12% under 6 h sleep.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked because of the search budget. City unconfirmed.",
+     "url": "https://www.ovid.com/jnls/jehp/fulltext/10.4103/jehp.jehp_1809_21~relationship-between-burnout-effort-reward-imbalance-and"
+    },
+    {
+     "claim": "Infosys HALE: annual health week with master health checks on co-payment basis; family members included; most employee-paid, rest free.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked in this pass. It rests on an official Infosys page, so the risk is low, but the page should be opened before quoting. Nothing found says whether HALE runs at the Nagpur campus.",
+     "url": "https://www.infosys.com/about/esg/social/employee-wellbeing/health-assessment.html"
+    },
+    {
+     "claim": "Infosys India group cover about Rs 5 lakh; parents need employee-paid policy (Glassdoor posts).",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. These are anonymous, old posts and should not go on a pitch slide.",
+     "url": "https://www.glassdoor.co.in/Community/consulting-india/h-e-l-l-o-fishes-how-is-infosys-health-insurance-what-all-benifits-they-will-provide-also-please-let-me-know-how-much-they-will"
+    },
+    {
+     "claim": "Persistent FY2024-25 benefits document: occupational health centre and paid annual health check-ups; sports/fitness at select sites.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked in this pass. Official PDF, so the risk is low. Nagpur site coverage is still unknown.",
+     "url": "https://www.persistent.com/wp-content/uploads/2025/07/Employee-Benefits-FY2025.pdf"
+    },
+    {
+     "claim": "Persistent careers page: insurance covers families incl. spouse, children, parents/in-laws; Employees Benefit Trust offers zero-interest medical emergency loans.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked in this pass. Official page, so the risk is low. Current limits not captured.",
+     "url": "https://www.persistent.com/careers/benefits/"
+    },
+    {
+     "claim": "Survey reported December 2023: 70% of companies cover employees' families, only 25% cover parents; median sum insured Rs 3 lakh; under 5% offer comprehensive healthcare plan; under 30% employee participation in wellbeing initiatives.",
+     "verdict": "corrected",
+     "reason": "The figures are confirmed (70% family, 25% parents, Rs 3 lakh median, under 5% comprehensive, under 30% participation). The missing source is Plum's 'Health Report of Corporate India 2023'. The Business Standard URL code (123112100500) points to 21 November 2023, not December. That date is inferred from the URL pattern, not read from the article.",
+     "corrected_value": "Source: Plum, Health Report of Corporate India 2023, via Business Standard, about 21 Nov 2023 (date inferred from URL).",
+     "url": "https://www.business-standard.com/finance/personal-finance/less-than-5-firms-offer-comprehensive-healthcare-plan-to-employees-report-123112100500_1.html"
+    },
+    {
+     "claim": "Same 2023 survey: 57% of companies offer discounted health check-ups; only 10% offer mental-wellbeing benefits.",
+     "verdict": "unverifiable",
+     "reason": "The re-check search returned nothing supporting the 57% or 10% figures. Check them against the full Plum report (plumhq.com/corporate-health-report-2023) before use.",
+     "url": "https://www.plumhq.com/corporate-health-report-2023"
+    },
+    {
+     "claim": "Plum report (BusinessToday, 7 Oct 2026): median health-benefit spend per employee up 14.7% CAGR over three years; employers offering more than Rs 5 lakh cover up 53% since FY22.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked because of the search budget. It is a vendor report covered by news.",
+     "url": "https://www.businesstoday.in/personal-finance/story/rs5-lakh-health-cover-is-becoming-the-new-baseline-as-employers-deepen-employee-benefits-559875-2026-10-07"
+    },
+    {
+     "claim": "OSH Code (labour codes effective 21 Nov 2025): employers must provide free annual health check-ups for workers above about 40.",
+     "verdict": "unverifiable",
+     "reason": "Many HR-vendor and law-firm sources report the 40+ age threshold and the 21 Nov 2025 date. Whether it applies to IT is disputed. One source reports that Labour Minister Mansukh Mandaviya told Parliament (12 Feb 2026) that check-ups will be required for all workers aged 40+. Another guide says the OSH (Central) Rules 2026 (reportedly notified 8 May 2026) limit the free annual exam to notified high-risk sectors, so IT/services staff are not yet covered nationally, though state rules may apply. The gazette text was not checked. Suggested slide wording: 'The new labour codes push employers towards annual check-ups for staff aged 40+'. Do not claim it is mandatory for IT firms.",
+     "url": "https://www.loophealth.com/post/india-labour-codes-mandatory-health-checkups-2026"
+    },
+    {
+     "claim": "CII-MediBuddy study of 10,551 employees: 2.41% hospitalisation rate with three annual check-ups vs 7.27% with none (about threefold).",
+     "verdict": "confirmed",
+     "reason": "Several outlets confirm this; the source is the third edition of the CII-MediBuddy Workplace Health Report (ANI coverage around 2 Aug 2026, per its URL). Other findings: about 25% of employees skipped every annual check-up but made up 46% of inpatient claims and 43% of insurance payouts, and 52% do not act on check-up findings. These are associations from a sponsor-linked corporate dataset, not proof that check-ups cause the difference. Phrase it as 'associated with'.",
+     "url": "https://www.indianpharmapost.com/healthcare/lite/employees-skipping-annual-health-check-ups-face-3x-higher-risk-ciimedibuddy-report-21178"
+    }
+   ]
+  }
+ },
+ {
+  "topic": "nagpur-it",
+  "research": {
+   "facts": [
+    {
+     "topic": "Infosys Nagpur (MIHAN)",
+     "claim": "Infosys inaugurated its new development center in MIHAN SEZ, Nagpur, on 16 December 2023. Union Minister Nitin Gadkari and Deputy CM Devendra Fadnavis performed the inauguration.",
+     "confirmed": true,
+     "url": "https://www.infosys.com/newsroom/press-releases/2023/inaugurates-new-development-center-nagpur.html",
+     "source_title": "Infosys Inaugurates New Development Center in Nagpur (Infosys press release)",
+     "value": "Opened 16 Dec 2023, MIHAN SEZ",
+     "note": "Also filed with stock exchanges: https://nsearchives.nseindia.com/corporate/INFY_16122023164920_PR_16122023.pdf"
+    },
+    {
+     "topic": "Infosys Nagpur (MIHAN)",
+     "claim": "Infosys put more than INR 230 crore into a 265,000 sq ft building that can hold more than 3,000 employees under its hybrid workplace model.",
+     "confirmed": true,
+     "url": "https://www.infosys.com/newsroom/press-releases/2023/inaugurates-new-development-center-nagpur.html",
+     "source_title": "Infosys press release, Dec 2023",
+     "value": "INR 230+ crore; 265,000 sq ft; 3,000+ employee capacity",
+     "note": "This is seating capacity, not current headcount. No current Nagpur headcount was found."
+    },
+    {
+     "topic": "Infosys Nagpur (MIHAN)",
+     "claim": "The center handles cloud, AI and digital work for clients in banking, retail, automobile and manufacturing.",
+     "confirmed": true,
+     "url": "https://www.infosys.com/newsroom/press-releases/2023/inaugurates-new-development-center-nagpur.html",
+     "source_title": "Infosys press release, Dec 2023"
+    },
+    {
+     "topic": "Infosys Nagpur (MIHAN)",
+     "claim": "According to the architect's project profile, Phase 1 holds more than 2,000 employees on 33 of the site's 142 acres, with more phases planned. The campus is IGBC Platinum certified and was completed in January 2023.",
+     "confirmed": true,
+     "url": "https://www.archdaily.com/1024179/infosys-campus-morphogenesis",
+     "source_title": "Infosys Campus / Morphogenesis (ArchDaily)",
+     "value": "142-acre site; Phase 1 = 33 acres, 2,000+ employees",
+     "note": "This is a secondary architecture source. Its 2,000 figure differs from Infosys's own 3,000+ capacity figure."
+    },
+    {
+     "topic": "Infosys Nagpur (MIHAN)",
+     "claim": "A social media post says the 142-acre site will be built in three phases, with a total employment target of 50,000.",
+     "confirmed": false,
+     "url": "https://x.com/haldilal/status/1798217424451596716",
+     "source_title": "Haldilal on X - Update on Infosys Mihan Campus",
+     "note": "UNCONFIRMED. The post is user-generated and about 2 years old. No 2025-26 news on Phase 2 was found."
+    },
+    {
+     "topic": "Persistent Systems Nagpur",
+     "claim": "Persistent's own website lists two Nagpur sites, both in the IT Park at MIDC Parsodi: Gargi-Maitreyi (Plot No. 8 and 9) and the 2nd and 3rd floors of Infotech Tower, Nagpur 440022.",
+     "confirmed": true,
+     "url": "https://www.persistent.com/company-overview/",
+     "source_title": "About Persistent Systems (persistent.com)",
+     "value": "IT Park, MIDC Parsodi, Nagpur 440022 (2 buildings)",
+     "note": "Persistent is in IT Park Parsodi, not MIHAN. One aggregator listicle puts Persistent in MIHAN, but Persistent's own site does not support that."
+    },
+    {
+     "topic": "Persistent Systems Nagpur",
+     "claim": "A company history timeline says Persistent's Nagpur development center became operational in 2004.",
+     "confirmed": false,
+     "url": "https://www.goodreturns.in/company/persistent-systems/history.html",
+     "source_title": "History of Persistent Systems Ltd. - Goodreturns",
+     "value": "2004",
+     "note": "Partly confirmed. A Glassdoor photo caption about '20 years in Nagpur' fits this date. A Justdial listing gives 2007, but it is a less reliable directory entry."
+    },
+    {
+     "topic": "Persistent Systems Nagpur",
+     "claim": "No published headcount exists for the Nagpur site. Glassdoor rates Persistent Nagpur 4.2 out of 5, from 553 reviews.",
+     "confirmed": true,
+     "url": "https://www2.glassdoor.co.in/Location/Persistent-Systems-N%C4%81gpur-Location-EI_IE150639.0,18_IL.19,25_IC2951950.htm",
+     "source_title": "Persistent Systems Nagpur office (Glassdoor)",
+     "note": "The number of reviews suggests a sizeable site, but this is not a headcount."
+    },
+    {
+     "topic": "Persistent Systems (company-wide)",
+     "claim": "Persistent was founded in 1990 and is headquartered in Pune. It had 23,941 employees in December 2024.",
+     "confirmed": true,
+     "url": "https://en.wikipedia.org/wiki/Persistent_Systems",
+     "source_title": "Persistent Systems - Wikipedia",
+     "value": "23,941 employees (Dec 2024)",
+     "note": "LinkedIn shows 27,500+ team members across 18 countries (https://in.linkedin.com/company/persistent-systems). These are company-wide totals, not Nagpur figures."
+    },
+    {
+     "topic": "TCS Nagpur (MIHAN)",
+     "claim": "TCS announced its Nagpur campus on 19 December 2011. Chief Minister Prithviraj Chavan laid the foundation stone for Phase I, which carried a Rs 600 crore investment, on a 54-acre plot in MIHAN SEZ. The plan was for 16,000 associates once both phases were complete.",
+     "confirmed": true,
+     "url": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-software-development-campus-nagpur",
+     "source_title": "TCS to set up large software development campus in Nagpur (TCS press release)",
+     "value": "54 acres; Rs 600 crore Phase I; 16,000 planned capacity",
+     "note": "The capacity figures are 2011 plans, not current headcount."
+    },
+    {
+     "topic": "TCS Nagpur (MIHAN)",
+     "claim": "The architect's project page lists the TCS MIHAN campus as completed in 2018.",
+     "confirmed": false,
+     "url": "https://www.hafeezcontractor.com/projects/tcs-mihan-nagpur",
+     "source_title": "TCS Campus Mihan - Hafeez Contractor",
+     "value": "Completed 2018",
+     "note": "This is a completion date, not a formal inauguration date. No inauguration date was confirmed."
+    },
+    {
+     "topic": "TCS Nagpur (MIHAN)",
+     "claim": "A 2020 college industrial-visit report says TCS Nagpur had about 5,000 employees and planned to grow to 10,000.",
+     "confirmed": false,
+     "url": "https://www.rcert.ac.in/fckimagefile/REPORT%20TCS%20Visit%2010%20Feb%202020.pdf",
+     "source_title": "RCERT Chandrapur - TCS visit report, 10 Feb 2020",
+     "value": "~5,000 employees (2020)",
+     "note": "UNCONFIRMED. This is a student report, not a company figure, and it is out of date."
+    },
+    {
+     "topic": "TCS Nagpur (MIHAN)",
+     "claim": "Employee reviews mention a gym, Strider sessions and yoga sessions at TCS Nagpur.",
+     "confirmed": false,
+     "url": "https://in.indeed.com/cmp/Tata-Consultancy-Services-(tcs)/reviews?fcountry=IN&floc=Nagpur, Maharashtra",
+     "source_title": "Indeed reviews - TCS Nagpur",
+     "note": "These are anonymous 2019-2021 reviews. They suggest some in-house wellness already exists, which matters when positioning the pitch."
+    },
+    {
+     "topic": "HCLTech Nagpur (MIHAN)",
+     "claim": "HCLTech's 50-acre MIHAN campus started operations in April 2018 and aimed to create more than 2,000 jobs. Nitin Gadkari and Devendra Fadnavis attended the launch.",
+     "confirmed": true,
+     "url": "https://techobserver.in/news/business/hcl-mihan-campus-create-2000-software-jobs-nagpur-12922/",
+     "source_title": "HCL Mihan Campus launched, to create 2000 IT and Software jobs in Nagpur - Tech Observer",
+     "value": "50 acres; operational Apr 2018"
+    },
+    {
+     "topic": "HCLTech Nagpur (MIHAN)",
+     "claim": "HCLTech signed an agreement with MADC for about 90 more acres in MIHAN, which was expected to create more than 8,000 jobs.",
+     "confirmed": true,
+     "url": "https://www.peoplematters.in/news/recruiting-and-onboarding/hcl-tech-to-create-8000-jobs-in-nagpur-maharashtra-22769",
+     "source_title": "HCL Tech to create 8,000 jobs in Nagpur - People Matters",
+     "value": "~90 additional acres; 8,000+ jobs planned",
+     "note": "This is an announced plan. Its current status was not verified."
+    },
+    {
+     "topic": "HCLTech Nagpur (MIHAN)",
+     "claim": "An HCL-hosted media item says HCL planned to hire 1,500 more people at the MIHAN unit by 2024, which would bring headcount there to 5,000.",
+     "confirmed": false,
+     "url": "https://www.hcltechbee.com/media/hcl-to-hire-1-5k-employees-for-mihan-unit-by-2024/",
+     "source_title": "HCL to hire 1.5k employees for Mihan unit by 2024 - HCL TechBee",
+     "value": "Target ~5,000 by 2024",
+     "note": "This was a target. Whether it was reached is not confirmed."
+    },
+    {
+     "topic": "Tech Mahindra Nagpur (MIHAN)",
+     "claim": "Tech Mahindra's contact page lists a SEZ unit in MIHAN SEZ, Telhara Village, Nagpur 441108, phone +91 712 667 2000.",
+     "confirmed": true,
+     "url": "https://www.techmahindra.com/contact-us/",
+     "source_title": "Contact Us - Tech Mahindra",
+     "note": "No headcount or opening date was found."
+    },
+    {
+     "topic": "Tech Mahindra / T-Systems Nagpur",
+     "claim": "T-Systems opened a delivery centre in MIHAN SEZ, Nagpur, in partnership with Tech Mahindra. The centre has a gymnasium, cafeteria and recreation centre for employees.",
+     "confirmed": true,
+     "url": "https://www.t-systems.com/in/en/insights/newsroom/news/t-systems-opens-delivery-center-at-nagpur-984432",
+     "source_title": "T-Systems opens Delivery Centre at Nagpur in partnership with Tech Mahindra",
+     "note": "This is roughly 4 years old (about 2022). The exact date was not confirmed."
+    },
+    {
+     "topic": "Hexaware Nagpur (MIHAN)",
+     "claim": "Hexaware's Nagpur office is in MIHAN SEZ, at Survey No. 38 Part and 39 Part in Khapri village and 43 Part and 94 Part in Dahegaon village, Nagpur 441108.",
+     "confirmed": true,
+     "url": "https://hexaware.com/location/india/",
+     "source_title": "Hexaware Office Locations in India",
+     "note": "The site includes a BPS (HRO process) operation (https://www.freshersworld.com/jobs/hro-process-jobs-in-nagpur-hexaware-bps-mihan-391563). No headcount or opening date was found."
+    },
+    {
+     "topic": "Hexaware Nagpur (MIHAN)",
+     "claim": "Glassdoor shows 154 reviews for Hexaware Nagpur, a 3.1 out of 5 work-life balance rating, and 71% of employees who would recommend it. Reviews mention transport, a canteen and 10-hour shifts.",
+     "confirmed": false,
+     "url": "https://www.glassdoor.co.in/Reviews/Hexaware-Technologies-N%C4%81gpur-Reviews-EI_IE29098.0,21_IL.22,28_IC2951950.htm",
+     "source_title": "Hexaware Technologies Reviews in Nagpur (Glassdoor)",
+     "note": "These are anonymous reviews and only indicative. Long shifts and BPS work could support a wellness pitch."
+    },
+    {
+     "topic": "MIHAN SEZ overall",
+     "claim": "MADC data obtained through an RTI request showed 24 companies working in MIHAN SEZ, including HCL Technologies, TCS and Infosys. The MIHAN project accounted for 116,435 direct and indirect jobs: 78,771 in the SEZ and 37,664 outside it.",
+     "confirmed": true,
+     "url": "https://www.nagpurtoday.in/mihan-project-creates-over-1-16-lakh-jobs-in-nagpur-rti-reveals/11081322",
+     "source_title": "MIHAN Project Creates Over 1.16 Lakh Jobs in Nagpur: RTI Reveals - Nagpur Today",
+     "value": "24 operating companies; 1,16,435 jobs",
+     "note": "The report is about 11 months old (around late 2025). The job counts cover all of MIHAN, not just IT."
+    },
+    {
+     "topic": "MIHAN SEZ overall",
+     "claim": "After four new approvals in February 2025, the number of companies in MIHAN SEZ reached 50.",
+     "confirmed": true,
+     "url": "https://thelivenagpur.com/2025/02/12/four-new-companies-approved-for-mihan-sez-bringing-total-to-50/",
+     "source_title": "Four New Companies Approved for MIHAN SEZ, Bringing Total to 50 - The Live Nagpur",
+     "value": "50 (approved/allotted)",
+     "note": "This probably counts approved or allotted firms, so it does not conflict with the RTI figure of 24 operating companies."
+    },
+    {
+     "topic": "MIHAN SEZ overall",
+     "claim": "The official MIHAN SEZ overview says the SEZ is operational and names Infosys, TCS and Tech Mahindra among its IT occupants.",
+     "confirmed": true,
+     "url": "https://www.mihansez.org/Pages/details/mihan-project-an-overview",
+     "source_title": "MIHAN Project an Overview (mihansez.org)"
+    },
+    {
+     "topic": "MIHAN SEZ overall",
+     "claim": "MIHAN is an SEZ with a residential zone, covering 40.25 sq km at the southern end of Nagpur.",
+     "confirmed": true,
+     "url": "https://en.wikipedia.org/wiki/Multi-modal_International_Cargo_Hub_and_Airport_at_Nagpur",
+     "source_title": "Multi-modal International Cargo Hub and Airport at Nagpur - Wikipedia",
+     "value": "40.25 sq km"
+    },
+    {
+     "topic": "IT Park Parsodi - other employers",
+     "claim": "InfoCepts Technologies' registered office is at Plot No 11/1, IT Park, Parsodi, Nagpur 440022. The company was incorporated in 2004.",
+     "confirmed": true,
+     "url": "https://www.zaubacorp.com/INFOCEPTS-TECHNOLOGIES-PRIVATE-LIMITED-U72900MH2004PTC147168",
+     "source_title": "INFOCEPTS TECHNOLOGIES PRIVATE LIMITED - Zauba Corp",
+     "note": "The incorporation year is inferred from the CIN (U72900MH2004...). No headcount was found."
+    },
+    {
+     "topic": "MIHAN - other employers",
+     "claim": "A local directory lists an Ebix office at C-Wing (South), MIHAN SEZ, Khapri (Rly), Nagpur 441108.",
+     "confirmed": false,
+     "url": "https://ournagpur.com/it-companies-at-mihan-it-park-nagpur/",
+     "source_title": "IT Companies at MIHAN & IT park Nagpur - ournagpur.com",
+     "note": "UNCONFIRMED. The directory listing is about 2.5 years old."
+    },
+    {
+     "topic": "Other employers - GlobalLogic",
+     "claim": "A 2026 listicle says GlobalLogic has a Centre of Excellence in MIHAN SEZ, Nagpur. An older list gives an office in Harihar Nagar, Besa instead.",
+     "confirmed": false,
+     "url": "https://www.registerkaro.in/post/top-it-software-companies-in-nagpur",
+     "source_title": "Top 20 IT Software Companies in Nagpur: 2026 List - RegisterKaro",
+     "note": "UNCONFIRMED. The sources conflict and no GlobalLogic page was found."
+    }
+   ],
+   "gaps": "I used all 12 WebSearch calls. WebFetch was not available, so every finding rests on search snippets. No current (2025-26) Nagpur headcount was found for any company: Infosys, TCS, HCLTech, Persistent, Tech Mahindra or Hexaware. The figures above are design capacities, announced targets, or old indicative numbers. Persistent's Nagpur start year (2004) comes from a secondary history page, and a directory gives 2007. Persistent's own site puts it only in IT Park MIDC Parsodi, not MIHAN. The formal inauguration date for TCS MIHAN was not confirmed; it was announced in 2011 and the architect lists it as completed in 2018. Opening dates were not found for Tech Mahindra or Hexaware in MIHAN. I found no 2025-26 news on Infosys Phase 2. I did not check whether 'IT Park Parsodi' and 'Gayatri Nagar IT Park' are the same place; they are commonly treated as one, but no source here confirms it. I also did not cover STPI Nagpur or other possible Nagpur employers such as Wipro, LTIMindtree, Capgemini, Atos, Zensar or Mphasis. The Ebix and GlobalLogic locations rest only on directory or listicle sources. For anything that goes on a pitch slide, check headcounts and addresses against company annual reports, MADC (mihansez.org) or local press before using them."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "Infosys inaugurated its new development center in MIHAN SEZ, Nagpur, on 16 December 2023. Union Minister Nitin Gadkari and Deputy CM Devendra Fadnavis performed the inauguration.",
+     "verdict": "confirmed",
+     "reason": "Infosys's own press release is dated 16 Dec 2023. Business Standard (article ID 123121600852, also 16 Dec 2023) reports the inauguration by Gadkari and Fadnavis at MIHAN-SEZ.",
+     "url": "https://www.business-standard.com/companies/news/infosys-inaugurates-rs-230-cr-development-centre-mihan-sez-in-nagpur-123121600852_1.html"
+    },
+    {
+     "claim": "Infosys put more than INR 230 crore into a 265,000 sq ft building that can hold more than 3,000 employees under its hybrid workplace model.",
+     "verdict": "confirmed",
+     "reason": "The Infosys press release, BW Businessworld and IndianWeb2 all give INR 230+ crore, 265,000 sq ft and capacity for more than 3,000 employees under the hybrid model. On a slide, call this design capacity, not headcount. The campus also has low-energy cooling, rainwater harvesting and 100% wastewater recycling.",
+     "url": "https://www.infosys.com/newsroom/press-releases/2023/inaugurates-new-development-center-nagpur.html"
+    },
+    {
+     "claim": "The center handles cloud, AI and digital work for clients in banking, retail, automobile and manufacturing.",
+     "verdict": "confirmed",
+     "reason": "Confirmed, but the claim lists only some of the industries. The press release names cloud, AI and digital work for telecommunications, banking, retail, aerospace, automobile, logistics and manufacturing.",
+     "url": "https://www.infosys.com/newsroom/press-releases/2023/inaugurates-new-development-center-nagpur.html"
+    },
+    {
+     "claim": "ArchDaily: Infosys Nagpur Phase 1 holds 2,000+ employees on 33 of 142 acres, is IGBC Platinum certified and was completed in January 2023.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked within the search budget, so it rests on one secondary architecture source. Its 2,000 figure also conflicts with Infosys's own 3,000+ capacity. For the deck, use the Infosys press release figures.",
+     "url": "https://www.archdaily.com/1024179/infosys-campus-morphogenesis"
+    },
+    {
+     "claim": "Infosys MIHAN 142-acre site will be built in three phases, with a total employment target of 50,000 (social media post).",
+     "verdict": "unverifiable",
+     "reason": "The only source is a user-generated X post. No official source was found. Do not quote it on a slide.",
+     "url": "https://x.com/haldilal/status/1798217424451596716"
+    },
+    {
+     "claim": "Persistent's two Nagpur sites are both in IT Park, MIDC Parsodi: Gargi-Maitreyi (Plot No. 8 and 9) and the 2nd and 3rd floors of Infotech Tower, Nagpur 440022.",
+     "verdict": "confirmed",
+     "reason": "Persistent's company-overview page lists Gargi-Maitreyi, Plot 8 and 9, IT Park, MIDC Parsodi, Nagpur 440022. Persistent's LinkedIn page lists the 2nd and 3rd floors of Infotech Tower, IT Park, MIDC Parsodi. Persistent is in IT Park Parsodi, not MIHAN.",
+     "url": "https://www.persistent.com/company-overview/"
+    },
+    {
+     "claim": "Persistent's Nagpur development center became operational in 2004.",
+     "verdict": "unverifiable",
+     "reason": "The only source is the old (about 9-year-old) Goodreturns company-history page. A Glassdoor caption mentions '20 years in Nagpur' but gives no date. No Persistent press release or annual report confirmed the year. If used, write 'for about two decades', not '2004'.",
+     "url": "https://www.goodreturns.in/company/persistent-systems/history.html"
+    },
+    {
+     "claim": "No published Nagpur headcount for Persistent. Glassdoor rates Persistent Nagpur 4.2/5 from 553 reviews.",
+     "verdict": "unverifiable",
+     "reason": "The Glassdoor location page appeared in search results, but the snippets did not show the 4.2 rating or the 553 review count, and these numbers change over time. That no published Nagpur headcount exists is consistent with what I found.",
+     "url": "https://www2.glassdoor.co.in/Location/Persistent-Systems-N%C4%81gpur-Location-EI_IE150639.0,18_IL.19,25_IC2951950.htm"
+    },
+    {
+     "claim": "Persistent was founded in 1990, is headquartered in Pune, and had 23,941 employees in December 2024.",
+     "verdict": "corrected",
+     "reason": "The 23,941 figure is out of date. Persistent's Q2 FY26 earnings call reported 26,224 employees at the end of Sept 2025, up from 25,314 at the end of Q1 FY26. Its Q3 FY26 press release boilerplate says 'over 26,500 employees in 18 countries'. Revelio Labs, a third party, estimates about 27,069 for March 2026. All are company-wide figures. Founding year and HQ were not re-checked.",
+     "corrected_value": "26,224 employees at end of Q2 FY26 (Sept 2025, company-reported); 'over 26,500 employees in 18 countries' per Q3 FY26 release",
+     "url": "https://www.alphaspread.com/security/nse/persistent/investor-relations/earnings-call/q2-2026"
+    },
+    {
+     "claim": "TCS announced its Nagpur campus on 19 December 2011. CM Prithviraj Chavan laid the foundation stone for Phase I (Rs 600 crore) on a 54-acre MIHAN SEZ plot. The plan was for 16,000 associates once both phases were complete.",
+     "verdict": "confirmed",
+     "reason": "The TCS press release, Business Standard (published 20 Dec 2011) and domain-b confirm Rs 600 crore for Phase I, 54 acres in MIHAN SEZ, Chavan laying the foundation stone, and 16,000 planned capacity (Phase I has 8,200 seats). The snippets did not show the exact day of 19 Dec, but the date fits the coverage. 'December 2011' is safe to use. 16,000 is a 2011 plan, not current headcount.",
+     "url": "https://www.tcs.com/who-we-are/newsroom/press-release/tcs-software-development-campus-nagpur"
+    },
+    {
+     "claim": "The architect lists the TCS MIHAN campus as completed in 2018.",
+     "verdict": "confirmed",
+     "reason": "The Hafeez Contractor project page shows 'Completed | 2018' and a built-up area of 9,63,000 sq ft. This is a completion date, not an inauguration date.",
+     "url": "https://www.hafeezcontractor.com/projects/tcs-mihan-nagpur"
+    },
+    {
+     "claim": "A 2020 college visit report says TCS Nagpur had about 5,000 employees and planned to grow to 10,000.",
+     "verdict": "unverifiable",
+     "reason": "This is a student report and was not re-checked. A landscape-award notice gives 'over 4,000 IT professionals in phase-1' (undated). Neither is a company figure. Do not quote a TCS Nagpur headcount.",
+     "url": "https://greenspacealliance.com/american-society-of-landscape-architects-potomac-chapter-awarded-merit-award-in-design-built-category-for-tata-consultancy-services-campus-nagpur-india/"
+    },
+    {
+     "claim": "Employee reviews mention a gym, Strider sessions and yoga at TCS Nagpur.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. These are anonymous 2019-2021 reviews. Use only as internal background, not on a slide.",
+     "url": "https://in.indeed.com/cmp/Tata-Consultancy-Services-(tcs)/reviews?fcountry=IN&floc=Nagpur, Maharashtra"
+    },
+    {
+     "claim": "HCLTech's MIHAN campus (50 acres) started operations in April 2018.",
+     "verdict": "confirmed",
+     "reason": "People Matters and CXOToday, reporting the Aug 2019 MoU, say HCL began Nagpur operations in April 2018 on its existing 50-acre MIHAN campus and had 800+ employees at that point.",
+     "url": "https://www.peoplematters.in/news/recruiting-and-onboarding/hcl-tech-to-create-8000-jobs-in-nagpur-maharashtra-22769"
+    },
+    {
+     "claim": "HCL's 2018 MIHAN launch was attended by Nitin Gadkari and Devendra Fadnavis and aimed to create 2,000+ jobs.",
+     "verdict": "unverifiable",
+     "reason": "Only Tech Observer reports this. A fresh search found no corroborating report of the launch ceremony or the 2,000-job target. Gadkari is quoted only in the 2019 MoU coverage.",
+     "url": "https://techobserver.in/news/business/hcl-mihan-campus-create-2000-software-jobs-nagpur-12922/"
+    },
+    {
+     "claim": "HCLTech signed an agreement with MADC for about 90 more acres in MIHAN, expected to create more than 8,000 jobs.",
+     "verdict": "confirmed",
+     "reason": "People Matters, CXOToday and VARIndia report the Aug 2019 MoU: 90 acres added to the 50-acre campus, with more than 8,000 jobs once fully operational. Later coverage calls it a 140-acre campus. The 8,000 figure is a build-out projection, not current headcount.",
+     "url": "https://cxotoday.com/hardware-software-development/hcl-signs-mou-with-madc-to-create-8k-local-jobs/"
+    },
+    {
+     "claim": "HCL planned to hire 1,500 more at MIHAN by 2024, bringing headcount to 5,000.",
+     "verdict": "unverifiable",
+     "reason": "The HCL TechBee item quotes the target ('take our headcount to 5,000'), but its headline says 2024 and its summary says 2026, so the date is unclear. No source confirms the target was reached.",
+     "url": "https://www.hcltechbee.com/media/hcl-to-hire-1-5k-employees-for-mihan-unit-by-2024/"
+    },
+    {
+     "claim": "Tech Mahindra's contact page lists a SEZ unit in MIHAN SEZ, Telhara Village, Nagpur 441108, phone +91 712 667 2000.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked within the search budget, so it rests on the original researcher's snippet only. Check the address on the contact page before printing it.",
+     "url": "https://www.techmahindra.com/contact-us/"
+    },
+    {
+     "claim": "T-Systems opened a MIHAN SEZ delivery centre with Tech Mahindra, with a gymnasium, cafeteria and recreation centre.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. Its date is still unconfirmed. The in-house gym detail is useful for positioning but rests on one T-Systems newsroom page.",
+     "url": "https://www.t-systems.com/in/en/insights/newsroom/news/t-systems-opens-delivery-center-at-nagpur-984432"
+    },
+    {
+     "claim": "Hexaware's Nagpur office is in MIHAN SEZ, Khapri/Dahegaon survey numbers, Nagpur 441108.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked within the search budget. It rests on Hexaware's location page as reported by the original researcher.",
+     "url": "https://hexaware.com/location/india/"
+    },
+    {
+     "claim": "Glassdoor shows Hexaware Nagpur with 154 reviews, a 3.1 work-life balance rating and 71% recommend, and reviews mention 10-hour shifts.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. These are anonymous, changing review figures. Do not quote them on a slide.",
+     "url": "https://www.glassdoor.co.in/Reviews/Hexaware-Technologies-N%C4%81gpur-Reviews-EI_IE29098.0,21_IL.22,28_IC2951950.htm"
+    },
+    {
+     "claim": "An RTI reply from MADC showed 24 companies operating in MIHAN SEZ, including HCL, TCS and Infosys, with 1,16,435 jobs: 78,771 in the SEZ and 37,664 outside it.",
+     "verdict": "confirmed",
+     "reason": "Nagpur Today (about 337 days old, so roughly Nov 2025; RTI filed by Abhay Kolarkar) gives 78,771 SEZ jobs, 37,664 non-SEZ jobs and 24 operating SEZ companies. Mahabharti gives the same count and adds 28 non-SEZ companies. A later Nagpur Today fact-check, however, says about 30 units are operating in the SEZ and puts total employment at 1.1 to 1.2 lakh. On a slide, write 'about 1.16 lakh jobs (RTI, late 2025)' and note that the count covers all sectors, not just IT.",
+     "url": "https://www.nagpurtoday.in/mihan-project-creates-over-1-16-lakh-jobs-in-nagpur-rti-reveals/11081322"
+    },
+    {
+     "claim": "After four new approvals in February 2025, the number of companies in MIHAN SEZ reached 50.",
+     "verdict": "confirmed",
+     "reason": "The Live Nagpur and Nagpur Updates both report this. The approvals came from the Unit Approval Committee meeting on 28 Jan 2025 and were reported on 12 Feb 2025. The four firms are Perla IT, Cloud Science Labs, People Global Services and Master Medical Solutions, together worth about Rs 4.5 crore and about 170 jobs. The 50 counts approved units, not operating ones, so it does not conflict with the RTI's 24 or the fact-check's ~30 operating units.",
+     "url": "https://thelivenagpur.com/2025/02/12/four-new-companies-approved-for-mihan-sez-bringing-total-to-50/"
+    },
+    {
+     "claim": "The official MIHAN SEZ overview names Infosys, TCS and Tech Mahindra among IT occupants.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. Separately, the RTI coverage confirms that HCL, TCS and Infosys operate in the SEZ.",
+     "url": "https://www.mihansez.org/Pages/details/mihan-project-an-overview"
+    },
+    {
+     "claim": "MIHAN covers 40.25 sq km at the southern end of Nagpur.",
+     "verdict": "unverifiable",
+     "reason": "The Wikipedia page appeared in search results, but the 40.25 sq km figure was not visible in any snippet. The only source would be Wikipedia.",
+     "url": "https://en.wikipedia.org/wiki/Multi-modal_International_Cargo_Hub_and_Airport_at_Nagpur"
+    },
+    {
+     "claim": "InfoCepts' registered office is at Plot 11/1, IT Park, Parsodi, Nagpur 440022, and the company was incorporated in 2004.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. The incorporation year is inferred from the CIN on Zauba Corp, which is a plausible inference but not confirmed.",
+     "url": "https://www.zaubacorp.com/INFOCEPTS-TECHNOLOGIES-PRIVATE-LIMITED-U72900MH2004PTC147168"
+    },
+    {
+     "claim": "A local directory lists an Ebix office at C-Wing (South), MIHAN SEZ, Khapri, Nagpur 441108.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. The only source is an old directory listing.",
+     "url": "https://ournagpur.com/it-companies-at-mihan-it-park-nagpur/"
+    },
+    {
+     "claim": "GlobalLogic has a Centre of Excellence in MIHAN SEZ, Nagpur (2026 listicle); an older list gives an office in Harihar Nagar, Besa.",
+     "verdict": "unverifiable",
+     "reason": "Not re-checked. The sources conflict and both are listicles or directories. Leave GlobalLogic out of the deck.",
+     "url": "https://www.registerkaro.in/post/top-it-software-companies-in-nagpur"
+    }
+   ]
+  }
+ }
+]

@@ -71,3 +71,29 @@ function lifter() {
   return { near, far: "", rigid, vb: [40, 20, 920, 1040], blur: 6, ground: [500, 1040, 230, 14] };
 }
 module.exports = { sprinter, lifter };
+
+// Woman in tree pose (vrksasana), front view, palms joined overhead.
+function treePose() {
+  const near = [
+    // head with top-knot bun, neck
+    E(500, 205, 38, 48, 0), C(500, 146, 22), cap([500, 250, 18], [500, 292, 22]),
+    // torso: shoulders, waist, hips
+    `<path d="M438 298 L562 298 L548 410 L538 468 L566 556 L434 556 L462 468 L452 410 Z"/>`,
+    E(500, 345, 62, 50, 0), E(500, 548, 74, 46, 0), C(442, 306, 24), C(558, 306, 24),
+    // arms overhead, palms together
+    cap([442, 306, 17], [402, 198, 13]), M([442, 306], [402, 198], 0.4, 4, 44, 17),
+    cap([402, 198, 13], [492, 96, 9]),
+    cap([558, 306, 17], [598, 198, 13]), M([558, 306], [598, 198], 0.4, -4, 44, 17),
+    cap([598, 198, 13], [508, 96, 9]), E(500, 86, 14, 22, 0),
+    // standing leg
+    cap([472, 566, 38], [474, 782, 24]), M([472, 566], [474, 782], 0.35, -4, 80, 36),
+    cap([474, 782, 23], [474, 985, 13]), M([474, 782], [474, 985], 0.28, 3, 58, 25),
+    cap([474, 990, 12], [436, 1004, 9]), cap([474, 990, 12], [500, 1004, 9]),
+    // bent leg, sole against the standing thigh
+    cap([530, 566, 36], [684, 690, 23]), M([530, 566], [684, 690], 0.42, 6, 74, 32),
+    cap([684, 690, 22], [512, 724, 12]), M([684, 690], [512, 724], 0.3, 5, 52, 21),
+    E(504, 704, 13, 30, -8),
+  ].join("");
+  return { near, far: "", rigid: "", vb: [330, 50, 420, 980], blur: 5, ground: [474, 1010, 120, 10] };
+}
+module.exports.treePose = treePose;

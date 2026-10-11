@@ -70,5 +70,138 @@
         "price": 999
       }
     ]
+  },
+  "corporate": {
+    "packages": [
+      {
+        "name": "Essential",
+        "who": "All employees",
+        "price": 999,
+        "value": 3159,
+        "items": [
+          "CBC, blood sugar and HbA1c",
+          "Lipid profile",
+          "Liver and kidney function",
+          "Thyroid (TSH)",
+          "Urine routine",
+          "BP, BMI and a doctor's summary"
+        ]
+      },
+      {
+        "name": "Comprehensive",
+        "who": "Staff over 30",
+        "price": 2499,
+        "value": 7819,
+        "items": [
+          "Everything in Essential",
+          "Vitamin D and B12",
+          "Ferritin and hs-CRP",
+          "Resting ECG",
+          "Physician consultation"
+        ]
+      },
+      {
+        "name": "Executive",
+        "who": "Staff over 40 and leadership",
+        "price": 5499,
+        "value": 13128,
+        "items": [
+          "Everything in Comprehensive",
+          "Treadmill stress test",
+          "Ultrasound of abdomen and pelvis",
+          "Apo B, Lp(a), and PSA or Pap smear",
+          "Tasty breakfast included"
+        ]
+      }
+    ],
+    "packagesIT": [
+      {
+        "name": "Essential",
+        "who": "All employees",
+        "price": 1499,
+        "value": 5489,
+        "items": [
+          "CBC, blood sugar and HbA1c",
+          "Lipid, liver, kidney and thyroid",
+          "Vitamin D and B12 (desk workers run low)",
+          "Urine routine",
+          "BP, BMI and a doctor's summary"
+        ]
+      },
+      {
+        "name": "Comprehensive",
+        "who": "Staff over 30",
+        "price": 2499,
+        "value": 7819,
+        "items": [
+          "Everything in Essential",
+          "Ferritin and hs-CRP",
+          "Resting ECG",
+          "Physician consultation"
+        ]
+      },
+      {
+        "name": "Executive",
+        "who": "Staff over 40 and leadership",
+        "price": 5499,
+        "value": 13128,
+        "items": [
+          "Everything in Comprehensive",
+          "Treadmill stress test",
+          "Ultrasound of abdomen and pelvis",
+          "Apo B, Lp(a), and PSA or Pap smear",
+          "Tasty breakfast included"
+        ]
+      }
+    ],
+    "addons": [
+      {
+        "key": "women",
+        "name": "Women's health add-on",
+        "price": 1499
+      },
+      {
+        "key": "msk",
+        "name": "Neck, shoulder or wrist ultrasound",
+        "price": 999
+      }
+    ],
+    "volumeNote": "Per-employee prices for groups of 50 or more; family members at the same rate.",
+    "volumeTerms": "Free on-site camp for 50+ employees at one location",
+    "jj": {
+      "phone": "0712 223 0876",
+      "address": "J-12, West High Court Road, Laxmi Nagar, Nagpur 440022",
+      "web": "https://www.jeevanjyotitrust.in"
+    },
+    "fnf": {
+      "contact": "book through Dhruv Diagnostics",
+      "address": "J-11, West High Court Road, Laxmi Nagar, Nagpur 440022"
+    },
+    "sources": [
+      "Anjana RM et al. Metabolic non-communicable disease health report of India: the ICMR-INDIAB national cross-sectional study. Lancet Diabetes Endocrinol 2023.",
+      "International Institute for Population Sciences. National Family Health Survey (NFHS-5), 2019-21: Maharashtra fact sheet.",
+      "CII and MediBuddy. Workplace Health Report, 3rd edition, 2026.",
+      "Plum. Health Report of Corporate India 2023 (reported by Business Standard, November 2023).",
+      "Ministry of Labour and Employment. Notifications bringing the four labour codes into force, 21 November 2025; Occupational Safety, Health and Working Conditions (Central) Rules 2026, G.S.R. 345(E), 8 May 2026.",
+      "Ministry of Electronics and IT. Digital Personal Data Protection Rules 2025, notified 13 November 2025.",
+      "Companies (Corporate Social Responsibility Policy) Rules 2014 as amended in 2021, rule 2(1)(d); Companies Act 2013, Schedule VII.",
+      "Drugs and Cosmetics (Second Amendment) Rules 2020, G.S.R. 166(E); National Blood Transfusion Council donor selection guidelines.",
+      "NABH accredited blood banks list: Jeevan Jyoti Blood Bank & Components, BB-2011-0033, valid 5 April 2024 to 4 April 2027.",
+      "Package benchmarks: Wockhardt Hospitals Nagpur and KIMS-Kingsway Nagpur health check-up price lists; national lab package listings, October 2026."
+    ],
+    "sourcesIT": [
+      "Musculoskeletal pain among Indian IT professionals: systematic review and meta-analysis of 20 studies (15,709 participants), 2025.",
+      "Metabolic syndrome among IT professionals undergoing preventive health check-up in Delhi and NCR. J Family Med Prim Care, 2025.",
+      "Limaye T et al. High prevalence of cardiometabolic risk factors in young employees of the IT industry (Pune, n=1,350). Indian J Occup Environ Med 2016;20(1):64-67.",
+      "Prevalence of metabolic dysfunction-associated fatty liver disease among IT employees in India (Hyderabad, n=345). Scientific Reports 2025;15:10124.",
+      "CII and MediBuddy. Workplace Health Report, 3rd edition, 2026.",
+      "Plum. Health Report of Corporate India 2023 (reported by Business Standard, November 2023).",
+      "Ministry of Labour and Employment. Notifications bringing the four labour codes into force, 21 November 2025; Occupational Safety, Health and Working Conditions (Central) Rules 2026, G.S.R. 345(E), 8 May 2026.",
+      "Ministry of Electronics and IT. Digital Personal Data Protection Rules 2025, notified 13 November 2025.",
+      "Companies (Corporate Social Responsibility Policy) Rules 2014 as amended in 2021, rule 2(1)(d); Companies Act 2013, Schedule VII.",
+      "Drugs and Cosmetics (Second Amendment) Rules 2020, G.S.R. 166(E); National Blood Transfusion Council donor selection guidelines.",
+      "NABH accredited blood banks list: Jeevan Jyoti Blood Bank & Components, BB-2011-0033, valid 5 April 2024 to 4 April 2027.",
+      "Package benchmarks: Wockhardt Hospitals Nagpur and KIMS-Kingsway Nagpur health check-up price lists; national lab package listings, October 2026."
+    ]
   }
 }
