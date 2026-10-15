@@ -1,0 +1,2334 @@
+[
+ {
+  "topic": "instruments",
+  "research": {
+   "facts": [
+    {
+     "topic": "1. ARCHITECT - published validation",
+     "claim": "Searches did not find any published study validating Abbott ARCHITECT hormone immunoassays (total T4, free T4, cortisol, progesterone, insulin) for dog or cat samples. Three targeted searches returned only studies on other platforms (Immulite, Catalyst, enzyme immunoassays) or human-only ARCHITECT evaluations.",
+     "confirmed": false,
+     "url": "https://journals.sagepub.com/doi/full/10.1177/221106829900400204",
+     "source_title": "Abbott Architect i2000 Analyzer: An Evaluation of the Reproductive Peptide Hormone Assays (Wheeler & Rossi, 1999) - human only",
+     "note": "This is a negative finding from a limited search budget, not proof that no study exists. Before launch, ask Abbott India for any veterinary data, or run an in-house validation."
+    },
+    {
+     "topic": "1. ARCHITECT - technology",
+     "claim": "ARCHITECT i2000 chemiluminescent immunoassays use a patented acridinium-derivative tracer. The 1999 evaluation covered human LH, FSH, prolactin and total beta-hCG only.",
+     "confirmed": true,
+     "url": "https://journals.sagepub.com/doi/full/10.1177/221106829900400204",
+     "source_title": "Abbott Architect i2000 Analyzer: An Evaluation of the Reproductive Peptide Hormone Assays",
+     "value": "Human assays only"
+    },
+    {
+     "topic": "1. ARCHITECT - species-specific assay on the c-module",
+     "claim": "A canine species-specific immunoturbidimetric CRP assay was validated on the Abbott ARCHITECT c4000 chemistry analyser (Hillstrom et al., 2014) against the Randox canine CRP assay. This shows the ARCHITECT chemistry module can run veterinary species-specific reagents.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5450169/",
+     "source_title": "Evaluation of a species-specific C-reactive protein assay for the dog on the ABX Pentra 400 clinical chemistry analyzer",
+     "note": "This applies to the ARCHITECT c-series, not the i-series immunoassay module."
+    },
+    {
+     "topic": "1. Human reagents on animal samples - general warning",
+     "claim": "Using human CRP reagents with heterologous (human) control and calibration material on dog samples can give unpredictable results, including falsely low values.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5319752/",
+     "source_title": "Use of heterologous immunoassays for quantification of serum proteins: The case of canine C-reactive protein",
+     "note": "The search summary quoted this sentence from one of two canine CRP papers (PMC5319752 or PMC5450169). Which of the two it came from is not certain."
+    },
+    {
+     "topic": "1. Chemiluminescent T4/cortisol in dogs, cats, horses",
+     "claim": "In a 1997 J Vet Diagn Invest validation of nonradioactive chemiluminescent immunoassays, basal total T4 in dog, cat and horse samples read about 30-40% lower than by RIA and a chemiluminescent-enzyme method. Results were linearly related across methods. Cortisol results were comparable across methods. The methods disagreed on T4 response to T3 suppression in dogs and cats.",
+     "confirmed": true,
+     "url": "https://doi.org/10.1177/104063879700900307",
+     "source_title": "Singh et al. 1997, JVDI: Validation of Nonradioactive Chemiluminescent Immunoassay Methods for T4 and Cortisol in Dogs, Cats, and Horses",
+     "value": "TT4 30-40% lower than RIA",
+     "note": "Not an ARCHITECT assay. It shows that human-calibrated T4 assays can carry a large species bias."
+    },
+    {
+     "topic": "1. Chemiluminescent cortisol (Immulite) in animals",
+     "claim": "The DPC-Cirrus Immulite automated chemiluminescent cortisol assay was validated for dogs, cats and horses. Dilution behaviour was parallel to the calibration curve, and responses to ACTH stimulation and dexamethasone suppression were as expected.",
+     "confirmed": true,
+     "url": "https://link.springer.com/article/10.1007/BF00368462",
+     "source_title": "Validation and application of solid-phase chemiluminescent immunoassays for diagnosis of endocrine diseases in animals",
+     "note": "This is the Immulite platform. Use it as a model for an ARCHITECT/MAGLUMI cortisol validation design (parallelism plus ACTH/dex challenge)."
+    },
+    {
+     "topic": "1. Canine cortisol by chemiluminescence - caution",
+     "claim": "Chemiluminescent canine cortisol results should be interpreted with caution unless the specific assay has been adequately validated in dogs.",
+     "confirmed": false,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1751-0813.2007.00232.x",
+     "source_title": "Russell et al. 2007, Aust Vet J: Comparison of radioimmunoassay and chemiluminescent assay methods to estimate canine blood cortisol concentrations",
+     "note": "The search summary called this 'a later review'. Attributing it to Russell 2007 is likely but not verified."
+    },
+    {
+     "topic": "1. Canine progesterone - chemiluminescence vs RIA",
+     "claim": "In canine reproduction, mean progesterone by a chemiluminescence assay was significantly higher than by RIA three days before ovulation. Assay choice therefore affects ovulation-timing decisions.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6852326/",
+     "source_title": "Comparison of progesterone assay by chemiluminescence or radioimmunoassay for clinical decision-making in canine reproduction",
+     "note": "The chemiluminescence platform was not named in the snippet. It is not confirmed to be ARCHITECT."
+    },
+    {
+     "topic": "1. Canine progesterone - validation design example",
+     "claim": "The IDEXX Catalyst Dx progesterone dry-slide immunoassay was validated in canine plasma in a clinical setting against a chemiluminescence assay and mass spectrometry.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10084308/",
+     "source_title": "Validation of a dry-slide immunoassay for progesterone analysis in canine plasma in a clinical setting",
+     "note": "The comparison chemiluminescence platform was not identified in the snippet."
+    },
+    {
+     "topic": "1. Total T4 assay comparison in dogs and cats",
+     "claim": "A 2020 JVIM comparison of two serum total T4 assays in dogs found strong correlation (r = 0.99) with proportional bias (slope 0.76) against the reference Microgenics method.",
+     "confirmed": false,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/jvim.15703",
+     "source_title": "Wolff et al. 2020, JVIM: Comparison of 2 assays for measuring serum total thyroxine concentration in dogs and cats",
+     "value": "r = 0.99; slope 0.76",
+     "note": "The snippet did not identify the test assay, so whether it is ARCHITECT is unconfirmed."
+    },
+    {
+     "topic": "1. Total T4 linearity is species-dependent",
+     "claim": "A human automated homogeneous T4 enzyme immunoassay was linear from 0-150 nmol/L for human serum, 0-94 nmol/L for feline serum and 10-60 nmol/L for canine serum. The analytical range narrows when a human assay is used on animal serum.",
+     "confirmed": false,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1939-165X.1999.tb01037.x",
+     "source_title": "Horney et al. 1999, Vet Clin Pathol: Evaluation of an Automated, Homogeneous Enzyme Immunoassay for Serum Thyroxine Measurement in Dog and Cat Serum",
+     "value": "Human 0-150; feline 0-94; canine 10-60 nmol/L",
+     "note": "The search summary did not say which of two T4 EIA papers reported these figures (this one or an EIA validation for cats on ResearchGate). Attribution to Horney 1999 is inferred. Not ARCHITECT."
+    },
+    {
+     "topic": "1. Total T4 - other platform example",
+     "claim": "An automated enzyme-linked fluorescent assay was evaluated for T4 measurement in cat and dog sera (Anderson et al., 2017, JVDI).",
+     "confirmed": true,
+     "url": "https://doi.org/10.1177/1040638717696442",
+     "source_title": "Evaluation of an automated enzyme-linked fluorescent assay for thyroxine measurement in cat and dog sera",
+     "note": "Quantitative findings were not retrieved."
+    },
+    {
+     "topic": "1. Feline T4 - method discordance",
+     "claim": "A 2025 study comparing a point-of-care analyser with the IMMULITE 2000 chemiluminescent assay for feline T4 found substantial overall agreement but discordant thyroid-status classification in 15% of samples.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12009790/",
+     "source_title": "Evaluation of the analytical performance of a point-of-care analyzer for feline serum thyroxine vs a chemiluminescence enzyme immunoassay",
+     "value": "15% discordant classification"
+    },
+    {
+     "topic": "1. T4/cortisol on two immunoassay analysers",
+     "claim": "Higgs, Costa, Freke and Papasouliotis (J Small Anim Pract 2014;55:153-159) compared T4 and cortisol measurement in canine and feline samples on two immunoassay analysers. A secondary source reports that mildly to moderately haemolysed or lipaemic samples caused no obvious differences between a fluorescence EIA and the IMMULITE 1000.",
+     "confirmed": false,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/jsap.12181",
+     "source_title": "Measurement of thyroxine and cortisol in canine and feline blood samples using two immunoassay analysers",
+     "note": "Which two analysers were used is unconfirmed. Nothing found ties this paper to ARCHITECT."
+    },
+    {
+     "topic": "1. Free T4 in dogs",
+     "claim": "Studies compare free T4 by analogue immunoassay against equilibrium dialysis in dogs with non-thyroidal illness, and chemiluminescent immunoassay against tandem mass spectrometry in suspected hypothyroid dogs. Analogue fT4 methods need species-specific checking.",
+     "confirmed": false,
+     "url": "https://www.sciencedirect.com/science/article/pii/S0034528822000972",
+     "source_title": "Free thyroxine measurement by analogue immunoassay and equilibrium dialysis in dogs with non-thyroidal illness",
+     "note": "Specific numerical findings were not retrieved. A related MS-vs-immunoassay study is at https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11899353/"
+    },
+    {
+     "topic": "1. Canine TSH needs a species-specific assay",
+     "claim": "A commercial canine species-specific TSH immunoassay (Diagnostic Products Corporation) became available in 1997. Several studies have since questioned its diagnostic sensitivity. The TSH stimulation test is accurate in dogs but limited by TSH availability.",
+     "confirmed": true,
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S019556160700068X",
+     "source_title": "Testing for Hypothyroidism in Dogs (Vet Clin North Am Small Anim Pract)",
+     "note": "No retrieved source stated directly that human TSH assays fail to detect canine TSH. That specific claim is unconfirmed here."
+    },
+    {
+     "topic": "1. Feline TSH",
+     "claim": "Canine TSH chemiluminescent immunoassays are commonly used to measure TSH in cats but cannot reliably measure very low concentrations (below 0.03 ng/mL). A newer, more sensitive TSH assay was evaluated for diagnosing feline thyroid disease.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38382201/",
+     "source_title": "Evaluation of a novel, sensitive thyroid-stimulating hormone assay as a diagnostic test for thyroid disease in cats",
+     "value": "<0.03 ng/mL not reliably measured"
+    },
+    {
+     "topic": "1. Canine TSH kits",
+     "claim": "Canine-specific TSH ELISA kits are sold commercially. Abnova KA2296 is labelled research use only (RUO), and ALPCO also lists a Canine TSH ELISA.",
+     "confirmed": true,
+     "url": "https://www.abnova.com/en-global/product/detail/KA2296",
+     "source_title": "TSH (Canine) ELISA Kit (KA2296) - Abnova",
+     "note": "ALPCO page: https://www.alpco.com/canine-tsh-elisa.html. These are manual ELISA kits, not ARCHITECT or MAGLUMI reagents. The ALPCO kit's regulatory status was not checked."
+    },
+    {
+     "topic": "1. Pancreatic lipase - species-specific vs DGGR",
+     "claim": "In a retrospective study of 301 dogs, DGGR-lipase activity correlated strongly with canine pancreas-specific lipase (Spec cPL). Optimal DGGR cut-offs for predicting cPL >200 and >400 ug/L gave kappa values of 0.87 and 0.92.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9032318/",
+     "source_title": "Accuracy of DGGR-Lipase to Predict Canine Pancreas-Specific Lipase (cPL) and Diagnostic Accuracy of Both Tests for Canine Acute Pancreatitis",
+     "value": "kappa 0.87 (cPL>200), 0.92 (cPL>400)",
+     "note": "Spec cPL is a species-specific immunoassay (a proprietary IDEXX test, per general knowledge rather than these results). DGGR lipase is a colorimetric substrate assay that can be run on a general chemistry analyser."
+    },
+    {
+     "topic": "1. Pancreatic lipase - DGGR agreement and cost",
+     "claim": "Another study reported substantial agreement between DGGR lipase and cPL (kappa 0.679), and noted that DGGR is cheaper and can often be run within an hour at commercial labs.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5976104",
+     "source_title": "PMC5976104 (title not shown in search results)",
+     "value": "kappa 0.679"
+    },
+    {
+     "topic": "1. Pancreatic lipase - DGGR specificity",
+     "claim": "In dogs recovering from acute pancreatitis, the Roche LIPC DGGR assay and Spec PL gave nearly identical results. Critics note that DGGR is also hydrolysed by hepatic lipase, though the measured effect was minimal.",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/jvim.16591",
+     "source_title": "Cueni et al. 2023, JVIM: Progression of lipase activity and pancreatic lipase immunoreactivity in dogs hospitalized for acute pancreatitis"
+    },
+    {
+     "topic": "1. Pancreatic lipase - caveats",
+     "claim": "Agreement of lipase tests with an ultrasound diagnosis of pancreatitis was weaker (kappa 0.29-0.35).",
+     "confirmed": true,
+     "url": "https://www.abvp.com/wp-content/uploads/2022/04/3-May-2022-C_F-JC-Advances-in-the-diagnosis-of-acute-pancreatitis-in-dogs.pdf",
+     "source_title": "Advances in the diagnosis of acute pancreatitis in dogs (review)",
+     "value": "kappa 0.29-0.35"
+    },
+    {
+     "topic": "1. Pancreatic lipase - non-pancreatic elevation",
+     "claim": "In a pilot study of 6 dogs with portal hypertension and normal pancreatic histology, Spec cPL exceeded its reference limit more often than DGGR lipase (4/6 vs 2/6).",
+     "confirmed": true,
+     "url": "https://journals.sagepub.com/doi/full/10.1177/10406387211003987",
+     "source_title": "Serrano et al. 2021, JVDI: Increased cPLI and DGGR lipase in dogs with portal hypertension and normal pancreatic histology",
+     "value": "4/6 vs 2/6"
+    },
+    {
+     "topic": "1. Pancreatic lipase - CKD",
+     "claim": "In dogs with chronic kidney disease, SNAP cPL was abnormal more often than DGGR lipase. The authors suggested SNAP cPL may overestimate pancreatic involvement.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13162598",
+     "source_title": "Assessment of Pancreatic Lipase Activity Using a Quantitative and a Qualitative Assay in Dogs with Chronic Kidney Disease"
+    },
+    {
+     "topic": "2. Snibe MAGLUMI - veterinary line",
+     "claim": "No official Snibe veterinary reagent line or veterinary MAGLUMI analyser was found. Snibe's own site lists MAGLUMI analysers (X3, X6, X8, X10, 800, 600, 2000, 2000 Plus) under clinical (human) CLIA diagnostics. The MAGLUMI X3 page cites a test menu of up to 278 parameters.",
+     "confirmed": true,
+     "url": "https://www.snibe.com/en/product/CLIA_analyzer/43.html",
+     "source_title": "MAGLUMI X3 - Snibe Diagnostic",
+     "value": "Up to 278 parameters (human menu)",
+     "note": "Absence of a vet line is a negative search finding. Confirm with Snibe India."
+    },
+    {
+     "topic": "2. Snibe MAGLUMI - marketplace vet claims",
+     "claim": "Some online marketplace sellers list a 'MAGLUMI 800 ... Veterinary Instrument' at USD 3,900-7,000, with no canine or feline assay menu.",
+     "confirmed": false,
+     "url": "https://www.alibaba.com/product-detail/Snibe-Immunoassay-Analyzer-Maglumi-800-M800_1600440136116.html",
+     "source_title": "Alibaba listing - Snibe Maglumi 800",
+     "value": "USD 3,900-7,000 (reseller)",
+     "note": "Unverified reseller marketing, not Snibe documentation. Do not rely on it."
+    },
+    {
+     "topic": "2. MAGLUMI - published animal validation",
+     "claim": "No peer-reviewed study validating any MAGLUMI assay (T4, cortisol, progesterone or other) in dogs, cats or cattle was found. The available chemiluminescence validation literature in animals concerns Immulite and other platforms.",
+     "confirmed": false,
+     "url": "https://link.springer.com/article/10.1007/BF00368462",
+     "source_title": "Validation and application of solid-phase chemiluminescent immunoassays for diagnosis of endocrine diseases in animals (Immulite)",
+     "note": "Negative search result. An in-house validation would be required."
+    },
+    {
+     "topic": "3. Hematology limits - nucleated RBC species",
+     "claim": "Samples from animals with nucleated erythrocytes and thrombocytes (birds, reptiles, amphibians) cannot be analysed by an automated haematology analyser at the Michigan State University VDL. Manual methods are needed.",
+     "confirmed": true,
+     "url": "https://cvm.msu.edu/vdl/laboratory-sections/clinical-pathology/hematology-hemostasis",
+     "source_title": "MSU VDL - Hematology & Hemostasis",
+     "note": "Directly relevant to poultry: avian CBC needs manual counts and smear review."
+    },
+    {
+     "topic": "3. Hematology limits - platelet clumping",
+     "claim": "Platelet clumping can falsely decrease the platelet count and increase MPV. A reported automated count in that situation should be treated as a minimum.",
+     "confirmed": true,
+     "url": "https://cvm.msu.edu/vdl/laboratory-sections/clinical-pathology/hematology-hemostasis",
+     "source_title": "MSU VDL - Hematology & Hemostasis"
+    },
+    {
+     "topic": "3. Hematology limits - feline platelets",
+     "claim": "Most automated haematology analysers cannot perform platelet counts in cats because feline platelet and erythrocyte sizes overlap. Feline platelet numbers generally must be estimated from a stained blood film or counted manually.",
+     "confirmed": true,
+     "url": "https://doi.org/10.1177/1098612X17706466",
+     "source_title": "Harvey 2017, J Feline Med Surg: The feline blood film: 1. Techniques and erythrocyte morphology"
+    },
+    {
+     "topic": "3. Hematology limits - reporting practice at a reference lab",
+     "claim": "Cornell AHDC flags platelet clumps and reports a platelet count only when its (veterinary-configured) Advia analyser gives a relatively accurate count. Its total leukocyte and absolute differential counts are not corrected for nucleated RBCs, which the analyser does not quantify individually, so smear review is required.",
+     "confirmed": true,
+     "url": "https://www.vet.cornell.edu/animal-health-diagnostic-center/testing/testing-protocols-interpretations/hematology",
+     "source_title": "Cornell AHDC - Hematology testing protocols"
+    },
+    {
+     "topic": "3. Hematology limits - small RBC species",
+     "claim": "A US patent states that conventional counting methods are not suitable for a CBC in birds, reptiles and fish (nucleated RBCs and thrombocytes) or in certain mammals whose RBCs are very small and may be confused with platelets.",
+     "confirmed": true,
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7903241",
+     "source_title": "US patent: Method and apparatus for determining red blood cell indices ... intrinsic pigmentation of hemoglobin",
+     "note": "Patent text, not peer-reviewed. Goat or sheep microcytic RBC data were not retrieved."
+    },
+    {
+     "topic": "3. Hematology QA guideline",
+     "claim": "ASVCP has published quality assurance guidelines for preanalytical and analytical factors in haematology for mammalian and non-mammalian species, hemostasis and crossmatching (Vap et al., 2012, Vet Clin Pathol).",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1939-165X.2012.00413.x",
+     "source_title": "ASVCP QA guidelines: hematology for mammalian and nonmammalian species, hemostasis, crossmatching (Vap 2012)"
+    },
+    {
+     "topic": "3. Mindray veterinary company",
+     "claim": "Mindray's veterinary products are sold by a separate entity, Shenzhen Mindray Animal Medical Technology Co., Ltd., which markets the BC-60R Vet as an automatic benchtop 6-part-differential veterinary haematology analyser.",
+     "confirmed": true,
+     "url": "https://www.medicalexpo.com/prod/shenzhen-mindray-animal-medical-technology-co-ltd/product-304944-1143407.html",
+     "source_title": "MedicalExpo - BC-60R Vet - Shenzhen Mindray Animal Medical Technology"
+    },
+    {
+     "topic": "3. Mindray BC-60R Vet - specs",
+     "claim": "BC-60R Vet: 6-part leukocyte differential, 33 haematology parameters, SF-Cube 3D (scatter plus fluorescence) technology that flags bands and nucleated RBCs, about 40 samples/hour, storage for up to 40,000 results.",
+     "confirmed": true,
+     "url": "https://medexpert.hr/medexpert-animal-care/in-vitro-diagnostics/hematology-vet/mindray-bc-60r-vet-2/",
+     "source_title": "Mindray BC-60R Vet - Medexpert (distributor)",
+     "value": "33 parameters; ~40 samples/h",
+     "note": "Distributor data. Sample volume is quoted as 31 or 34 uL by different sources (unconfirmed). Manufacturer brochure: https://equiposmedicosveterinariosmb.com/wp-content/uploads/2022/10/Mindray-BC-60R-Vet-brochure.pdf"
+    },
+    {
+     "topic": "3. Mindray BC-60R Vet - species",
+     "claim": "Mindray Animal's BC-60R Vet page describes a 'special friendly for feline' design and broad species coverage including rabbits, birds, fishes, reptiles, amphibians, alpacas and pigs. One distributor lists 16 species: cat, dog, horse, rat, mouse, rabbit, monkey, pig, cow, ferret, goat, sheep, camel, llama, panda, alpaca.",
+     "confirmed": true,
+     "url": "https://www.mindrayanimal.com/la-es/product/BC-60R_Vet",
+     "source_title": "BC-60R Vet - Mindray Animal",
+     "note": "Buffalo is not listed in any source, and whether avian CBC is fully automated is unclear. Verify the current species list with Mindray India."
+    },
+    {
+     "topic": "3. Mindray BC-60R Vet - phased species rollout",
+     "claim": "A Chinese supplier listing describes BC-60R Vet species software released in phases: Phase I cat, dog, horse; Phase II rodents, rabbit, monkey, pig, camel, llama; Phase III cow, ferret, goat, sheep, panda, alpaca.",
+     "confirmed": false,
+     "url": "https://longmed.en.made-in-china.com/product/KtXYQPDlOIVp/China-Mindray-Bc-60r-Vet-Five-Part-Diff-Automatic-Hematology-Analyzer.html",
+     "source_title": "Made-in-China listing - Mindray BC-60R Vet",
+     "note": "Reseller listing, about 2.5 years old. Phase status may be outdated."
+    },
+    {
+     "topic": "3. Mindray BC-5000 Vet - species",
+     "claim": "BC-5000 Vet (5-part differential veterinary analyser) is reported with 13 built-in species (dog, cat, horse, monkey, ferret, rat, mouse, rabbit, pig, cow, llama, goat, sheep) plus 20 user-programmable animal profiles.",
+     "confirmed": true,
+     "url": "https://elokarsa.com/product/bc-5000-vet/",
+     "source_title": "BC-5000 Vet - Elokarsa (distributor)",
+     "value": "13 built-in + 20 programmable species",
+     "note": "Distributor data. An older ~2014 datasheet (https://5.imimg.com/data5/SELLER/Doc/2022/6/PF/NI/MI/26356964/mindray-bc-5000vet-veterinary-hematology-analyzer.pdf) showed several species as 'coming' in Sept/Dec 2014."
+    },
+    {
+     "topic": "3. Mindray BC-6000 Vet",
+     "claim": "No Mindray or distributor page for a 'BC-6000 Vet' was found. Whether that model exists is unconfirmed. No source was found on adding a veterinary species mode to the lab's human BC-6800/BC-6000/BC-760 series.",
+     "confirmed": false,
+     "url": "https://www.mindrayanimal.com/la-es/product/BC-60R_Vet",
+     "source_title": "BC-60R Vet - Mindray Animal (search context)",
+     "note": "Negative finding. Ask Mindray whether the existing human 7-part analyser can be licensed with veterinary software. Otherwise a dedicated vet analyser would be needed."
+    },
+    {
+     "topic": "4. BioSystems BA200 - veterinary claim",
+     "claim": "BioSystems S.A. markets the BA200 for veterinary analysis. Its 2025 veterinary brochure says that, with original BA reagents validated for veterinary analysis (a veterinary panel including special biochemistry tests), the BA200 forms a complete system.",
+     "confirmed": true,
+     "url": "https://biosystems.global/assets/themes/biosystems.global/docs/cta/BioS_2025_VET_Brochure_BA200_EN_web.pdf",
+     "source_title": "BioSystems 2025 VET Brochure - BA200",
+     "note": "Manufacturer claim. No independent peer-reviewed validation of the BA200 on animal samples was found."
+    },
+    {
+     "topic": "4. BioSystems BA200 - hardware",
+     "claim": "The BA200 has 88 reagent/sample positions and an optional ISE module with sodium, potassium, chloride and reference electrodes.",
+     "confirmed": true,
+     "url": "https://biosystems.global/assets/themes/biosystems.global/docs/cta/BioS_2025_VET_Brochure_BA200_EN_web.pdf",
+     "source_title": "BioSystems 2025 VET Brochure - BA200",
+     "value": "88 positions; ISE Na/K/Cl optional"
+    },
+    {
+     "topic": "4. BioSystems veterinary reagent range",
+     "claim": "BioSystems' veterinary reagent pages offer biochemistry reagents for more than 120 parameters. The reagent selector filters by species category (Canine, Feline, Bovine, Camels, Equine, Poultry, Reptiles/Exotic) and by analyser (A15, A25, BA200, BA400).",
+     "confirmed": true,
+     "url": "https://biosystems.global/service/veterinary-analysis/vet-biochemistry-systems/reagents-2",
+     "source_title": "BioSystems - Veterinary reagents",
+     "value": ">120 parameters",
+     "note": "There is no buffalo or goat category in the snippet. Which assays are claimed for which species was not retrieved."
+    },
+    {
+     "topic": "4. BioSystems veterinary product codes",
+     "claim": "The BioSystems veterinary product list includes BA200/BA400 reagent codes, for example ALT/GPT (11568, 11562) and albumin (21547, 23547).",
+     "confirmed": false,
+     "url": "https://biosystems.global/assets/themes/biosystems.global/docs/cta/BioS_2022_VET_ProductList_EN_WEB_compressed.pdf",
+     "source_title": "BioSystems 2022 Veterinary Product List",
+     "note": "The codes come from a search snippet. Verify them against the current list before ordering."
+    },
+    {
+     "topic": "4. BioSystems veterinary reference materials",
+     "claim": "BioSystems has a dedicated 'VetBC reference materials' page under its veterinary biochemistry systems, indicating veterinary calibrator/control materials.",
+     "confirmed": false,
+     "url": "https://biosystems.global/service/veterinary-analysis/vet-biochemistry-systems/vetbc-reference-materials",
+     "source_title": "BioSystems - VetBC reference materials",
+     "note": "The page exists but its contents (matrix, analytes, species) were not retrieved."
+    },
+    {
+     "topic": "4. Albumin by BCG - heparin plasma in dogs",
+     "claim": "In clinically ill dogs, BCG albumin was higher in heparinised plasma than in serum or citrated plasma, mainly because of fibrinogen. The authors advised against heparin for BCG albumin unless the assay uses a sample blank and a reaction time under 1 minute.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12024297",
+     "source_title": "Stokol et al. 2001, Vet Clin Pathol: Overestimation of canine albumin with the BCG method in heparinized plasma"
+    },
+    {
+     "topic": "4. Albumin by BCG - species bias",
+     "claim": "Compared with electrophoresis, BCG albumin was on average higher in horse and dog samples, and in cat samples when BCG was 2.5 g/dL or less. The bias reversed (BCG lower) in chickens and ruminants.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12289121/",
+     "source_title": "Comparison of Electrophoretic and Bromocresol Green Albumin Methods in Chickens and Other Veterinary Species (2025)"
+    },
+    {
+     "topic": "4. Albumin - BCG vs BCP in animals",
+     "claim": "BCG is used in veterinary medicine because BCP has lower affinity for animal albumin, though BCG slightly overestimates. BCG-BCP agreement was good only for horse sera.",
+     "confirmed": true,
+     "url": "https://actavet.vfu.cz/media/pdf/actavet_2020089040301.pdf",
+     "source_title": "Acta Vet Brno 2020: Serum albumin assay (review)",
+     "note": "An older study also found BCP gave significantly lower values in dog and rat plasma: https://www.sciencedirect.com/science/article/abs/pii/002199758890093X . Human BCP albumin reagents should not be used for dogs or cats without validation."
+    },
+    {
+     "topic": "4. Albumin - acute-phase globulin interference",
+     "claim": "Acute-phase globulins contribute to BCG albumin overestimation. BCG and BCP results can differ enough to cause clinical confusion, especially at low albumin concentrations.",
+     "confirmed": true,
+     "url": "https://academic.oup.com/labmed/article/49/4/355/5001150",
+     "source_title": "Lab Medicine: Overestimation of Albumin Measured by BCG vs BCP: Influence of Acute-Phase Globulins",
+     "note": "Species studied not clear from the snippet. Possibly human."
+    },
+    {
+     "topic": "4. Chemistry - other analytes",
+     "claim": "No sources were retrieved on species-specific performance of enzymes (ALT, AST, ALP, GGT, CK), fructosamine, bile acids or electrolytes on the BA200 or other human chemistry analysers.",
+     "confirmed": false,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7756073/",
+     "source_title": "Analytical performance and method comparison of a POC immunoassay for bile acids in cats and dogs (only tangential result found)",
+     "note": "Gap. Needs further searching."
+    },
+    {
+     "topic": "5. ASVCP QA - method validation before use",
+     "claim": "ASVCP guidelines say method or instrument validation should be done before a new test or instrument is adopted, to confirm it meets the lab's standards and the manufacturer's claims. Validation may assess linearity, precision, accuracy, analytical range, detection limits and interfering substances. Reference intervals and QC procedures should be set before patient testing. Participation in a veterinary-specific external proficiency testing programme is recommended.",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1939-165X.2010.00251.x",
+     "source_title": "Flatland et al. 2010, Vet Clin Pathol 39:264-277: ASVCP QA guidelines - control of general analytical factors in veterinary laboratories"
+    },
+    {
+     "topic": "5. ASVCP QA - current consolidated guideline",
+     "claim": "ASVCP Guidelines: Principles of Quality Assurance and Standards for Veterinary Clinical Pathology, version 3.0 (Arnold et al., 2019, Vet Clin Pathol), is the current consolidated QALS guideline.",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/vcp.12810",
+     "source_title": "Arnold et al. 2019: ASVCP Guidelines v3.0",
+     "note": "Full text PDF (233 pages): https://repository.up.ac.za/bitstream/handle/2263/76138/Arnold_ASVCP_2019.pdf?sequence=1&isAllowed=y"
+    },
+    {
+     "topic": "5. ASVCP QA - chemistry guideline",
+     "claim": "ASVCP also published QA guidelines for preanalytical, analytical and postanalytical factors in urinalysis, cytology and clinical chemistry (Gunn-Christie et al., 2012, Vet Clin Pathol).",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1939-165X.2012.00412.x",
+     "source_title": "Gunn-Christie et al. 2012: ASVCP QA guidelines for urinalysis, cytology, clinical chemistry"
+    },
+    {
+     "topic": "5. ASVCP - external quality assessment",
+     "claim": "ASVCP has guidelines on external quality assessment and comparative testing for reference and in-clinic laboratories (Camus et al., 2015, Vet Clin Pathol).",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/vcp.12299",
+     "source_title": "Camus et al. 2015: ASVCP QA guidelines - external quality assessment and comparative testing"
+    },
+    {
+     "topic": "5. ASVCP TEa - biochemistry",
+     "claim": "The ASVCP allowable total error (TEa) guidelines for biochemistry (Harr, Flatland, Nabity, Freeman; Vet Clin Pathol 2013;42(4):424-436) recommend TEa values for common biochemical analytes in cats, dogs and horses. They apply to all veterinary settings, from in-clinic POC to reference labs. An erratum was published in Vet Clin Pathol 2018;47(1):170.",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/vcp.12101",
+     "source_title": "Harr et al. 2013: ASVCP guidelines - allowable total error guidelines for biochemistry",
+     "note": "The actual TEa table values were not retrieved. PubMed: https://pubmed.ncbi.nlm.nih.gov/24320779/"
+    },
+    {
+     "topic": "5. ASVCP TEa - hematology",
+     "claim": "ASVCP has also published allowable total error guidelines for haematology.",
+     "confirmed": true,
+     "url": "https://www.academia.edu/47106836/ASVCP_guidelines_Allowable_total_error_hematology",
+     "source_title": "ASVCP guidelines: Allowable total error hematology",
+     "note": "Year, authors and values were not retrieved."
+    },
+    {
+     "topic": "5. ASVCP POC QA",
+     "claim": "ASVCP published point-of-care testing QA guidelines (Flatland et al., 2013, Vet Clin Pathol 42:405-423).",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/page/journal/1939165x/homepage/Qals",
+     "source_title": "QALS Guidelines - Veterinary Clinical Pathology (Wiley)"
+    },
+    {
+     "topic": "5. ASVCP RI - de novo minimum",
+     "claim": "The ASVCP reference interval guidelines (Friedrichs et al., 2012, Vet Clin Pathol 41(4):441-453) recommend at least 120 reference individuals for nonparametric limits with 90% confidence intervals, plus extra animals to allow outlier removal. With fewer than 120, bootstrapping or similar methods are needed for the 90% CIs. 39 is the smallest number from which a nonparametric 95% interval can be obtained, with the extreme values serving as the limits.",
+     "confirmed": true,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/vcp.12006",
+     "source_title": "Friedrichs et al. 2012: ASVCP reference interval guidelines - de novo reference intervals in veterinary species",
+     "value": "120 (nonparametric, 90% CI); 39 minimum for nonparametric 95% RI",
+     "note": "Table 4 of the guideline gives method choice by sample size. It was not retrieved."
+    },
+    {
+     "topic": "5. ASVCP RI - small samples",
+     "claim": "ASVCP RI guidance states that reference intervals should not be determined when fewer than 20 reference samples are available.",
+     "confirmed": false,
+     "url": "https://cdn.ymaws.com/www.asvcp.org/resource/resmgr/QALS/Other_Publications/RI_Guidelines_For_ASVCP_webs.pdf",
+     "source_title": "ASVCP QALS - RI Guidelines (website version)",
+     "note": "Taken from a search summary. A secondary blog phrased it as 'between 10 and 20 samples the RI should not be determined' (https://medium.com/@tentotheminus9/veterinary-stats-reference-intervals-765ac7656d1). The exact thresholds (n<10 vs 10-19 vs 20-39) need checking in the primary text."
+    },
+    {
+     "topic": "5. ASVCP RI - partitioning",
+     "claim": "Per a citing paper, the ASVCP guidelines do not recommend partitioning reference intervals by age or sex when sample sizes are below 40.",
+     "confirmed": false,
+     "url": "https://www.researchgate.net/publication/233929337_ASVCP_reference_interval_guidelines_Determination_of_de_novo_reference_intervals_in_veterinary_species_and_other_related_topics",
+     "source_title": "ASVCP reference interval guidelines (ResearchGate)",
+     "value": "<40 per partition",
+     "note": "Secondary citation. Verify in the primary guideline."
+    },
+    {
+     "topic": "5. ASVCP RI - robust method",
+     "claim": "Secondary sources report that ASVCP guidance supports the robust method (with bootstrapped CIs) for intermediate sample sizes, e.g. one paper used it for 100-120 individuals.",
+     "confirmed": false,
+     "url": "https://medium.com/@tentotheminus9/veterinary-stats-reference-intervals-765ac7656d1",
+     "source_title": "Veterinary Stats - Reference Intervals (blog)",
+     "note": "Secondary sources only. Exact sample-size ranges are unconfirmed."
+    },
+    {
+     "topic": "5. ASVCP RI transference - 20 animals",
+     "claim": "The ASVCP Reference Interval Transference verification checklist calls for samples from 20 reference individuals from the laboratory's own healthy patient population. Verification confirms that using the candidate RI is acceptable and will not cause clinical error.",
+     "confirmed": true,
+     "url": "https://cdn.ymaws.com/www.asvcp.org/resource/resmgr/qals/ref_interval_transference/transferenceverification-upd.pdf",
+     "source_title": "ASVCP - Reference Interval Transference: Verification Checklist and Flow Chart v.1",
+     "value": "20 healthy animals per species/partition"
+    },
+    {
+     "topic": "5. CLSI EP28-A3c - verification sample size",
+     "claim": "CLSI EP28-A3c recommends analysing a minimum of 20 samples from healthy individuals to verify a reference interval.",
+     "confirmed": true,
+     "url": "https://www.academia.edu/60520659/Verification_of_reference_intervals_in_routine_clinical_laboratories_practical_challenges_and_recommendations",
+     "source_title": "Verification of reference intervals in routine clinical laboratories: practical challenges and recommendations",
+     "value": "20 samples"
+    },
+    {
+     "topic": "5. CLSI EP28-A3c - acceptance rule",
+     "claim": "Transferred limits are verified with a binomial test of the proportion of 20 observations inside the interval against an expected 0.95. A worked example with 18/20 inside (0.90) gave exact p = 0.2642, so the interval was not rejected. This is consistent with the commonly used 'no more than 2 of 20 outside' rule.",
+     "confirmed": false,
+     "url": "https://analyse-it.com/products/examples/EP28-A3C.pdf",
+     "source_title": "Analyse-it - EP28-A3C reference interval example",
+     "value": "18/20 inside, p = 0.2642",
+     "note": "No retrieved source states the '<=2 of 20 outside' rule verbatim. Check the CLSI document (preview: https://webstore.ansi.org/preview-pages/CLSI/preview_CLSI+C28-A3.pdf)."
+    },
+    {
+     "topic": "5. CLSI EP28-A3c - verification approaches",
+     "claim": "A summary of EP28-A3c lists three ways to verify transferred intervals: subjective assessment, a small sample of about 20, and larger samples of up to 60. It notes that 20 samples may lack statistical power.",
+     "confirmed": false,
+     "url": "https://www.scribd.com/document/936216177/CLSI-EP-28-A3c",
+     "source_title": "CLSI EP28-A3c: Verifying Reference Intervals (Scribd copy)",
+     "note": "Secondary summary, not the standard itself."
+    },
+    {
+     "topic": "5. CLSI EP15 / EP09",
+     "claim": "No sources on CLSI EP15 (precision and trueness verification) or EP09 (method comparison) in a veterinary context were retrieved.",
+     "confirmed": false,
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/vcp.12810",
+     "source_title": "ASVCP Guidelines v3.0 (likely to reference them)",
+     "note": "Gap. The search budget was exhausted."
+    }
+   ],
+   "gaps": "I used all 18 searches, so these points are still open:\n\n1. **ARCHITECT:** I found no published dog or cat validation of any ARCHITECT immunoassay (T4, free T4, cortisol, progesterone, insulin). I could not tell which platforms the Wolff 2020 and Higgs 2014 comparisons used. Nothing was found on insulin cross-reactivity between species.\n2. **Snibe MAGLUMI:** I found no official Snibe veterinary reagent line and no peer-reviewed MAGLUMI validation in any animal species. The only \"veterinary\" claims are on reseller listings.\n3. **Mindray:**\n   - I found no source on running animal blood on the lab's human 7-part analyser (BC-6800, BC-6000 or BC-760), or on licensing veterinary species software for it.\n   - I could not confirm that a \"BC-6000 Vet\" exists.\n   - Mindray's own current species list for the BC-60R Vet was not retrieved; distributor lists disagree.\n   - No source covered buffalo, and nothing gave goat or sheep microcytic red-cell data.\n4. **BioSystems BA200:**\n   - I found no independent validation in animals.\n   - I found no species-specific data for enzymes, lipase, fructosamine, bile acids or electrolytes.\n   - The VetBC reference materials page exists, but I could not read what it contains.\n   - I did not cover veterinary third-party control materials or the human-matrix calibrator problem in general.\n5. **ASVCP and CLSI:**\n   - I did not retrieve the actual TEa values (Harr 2013, and the haematology TEa guideline).\n   - I did not retrieve Friedrichs 2012 Table 4 (method choice by sample size); the thresholds for groups of 10\u201320 and 20\u201339 animals need checking against the primary text.\n   - No source stated the \"no more than 2 of 20 outside\" rule word for word.\n   - CLSI EP15 and EP09 were not searched.\n6. **India:** I found no Indian government, regulator or NABL source on accrediting veterinary labs or on rules for veterinary IVD reagents.\n7. **Pancreatic lipase:** I found nothing on feline pancreatic lipase (fPL) or on whether ARCHITECT or MAGLUMI can run species-specific pancreatic lipase immunoassays. The DGGR lipase studies are dog only."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "A canine species-specific immunoturbidimetric CRP assay was validated on the Abbott ARCHITECT c4000 (Hillstrom et al., 2014) against the Randox canine CRP assay (cited URL: PMC5450169).",
+     "verdict": "corrected",
+     "reason": "The validation on the ARCHITECT c4000 is confirmed. The assay was Gentian cCRP, calibrated with canine CRP from Life Diagnostics. Two details are wrong. First, the comparator was a Randox human CRP assay previously validated for dogs, not a Randox canine assay. Second, PMC5450169 is a different paper (canine CRP on the ABX Pentra 400). The correct citation is Hillstrom, Hagman, Tvedten and Kjelgaard-Hansen, Vet Clin Pathol 2014;43(2):235-243. Its limit of quantification was 6.8 mg/L, and healthy dogs fell below it. A follow-up study reported that quality criteria were met on the ARCHITECT c4000 and the Olympus AU600. This applies to the c-series chemistry module only, not to i-series immunoassays.",
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/vcp.12150",
+     "corrected_value": "Gentian cCRP on ARCHITECT c4000, compared with a Randox human CRP assay previously validated for dogs; source DOI 10.1111/vcp.12150"
+    },
+    {
+     "claim": "Wolff et al. 2020 JVIM: comparing two total T4 assays in dogs gave r = 0.99 with proportional bias (slope 0.76) against the Microgenics reference method; the test assay is unidentified.",
+     "verdict": "corrected",
+     "reason": "The two assays tested against Microgenics DRI TT4 (MTT4) were IDEXX Catalyst TT4 (CTT4) and Siemens Immulite 2000 TT4 (ITT4). The slope of 0.76 belongs to the Immulite 2000 in dogs; in cats it was 0.71, and the authors say ITT4 underestimates TT4. For Catalyst versus MTT4 in dogs, the slope was 0.86 (95% CI 0.83-0.89) with a constant bias of 0.10 ug/dL. In cats, Catalyst had slope 1.01 but failed the linearity test. The r = 0.99 figure was not found. Neither assay is ARCHITECT or MAGLUMI. The authors advise doing serial TT4 measurements on the same assay. A 2025 letter (PMC11984318) disputes the paper's conclusion for cats.",
+     "url": "https://academic.oup.com/jvim/article/34/2/607/8448380",
+     "corrected_value": "Immulite 2000 vs MTT4: slope 0.76 (dogs), 0.71 (cats); Catalyst vs MTT4 (dogs): slope 0.86, intercept 0.10 ug/dL; r = 0.99 unconfirmed"
+    },
+    {
+     "claim": "Singh et al. 1997 JVDI: basal total T4 in dog, cat and horse samples read about 30-40% lower by chemiluminescent immunoassay than by RIA; methods disagreed on T4 response to T3 suppression; cortisol comparable.",
+     "verdict": "confirmed",
+     "reason": "The abstract (ResearchGate copy) confirms that chemiluminescent TT4 read about 30-40% below RIA and the chemiluminescent-enzyme method in animal samples, and that this underestimation did not occur in human samples. It also confirms that responses to TSH stimulation were comparable across methods but responses to T3 suppression in dogs and cats were not. The claim that cortisol was comparable and the per-species (horse) figures were NOT retrieved and remain unverified. The underestimation in animals but not humans supports the warning about species bias when human-calibrated T4 assays are used on animal serum.",
+     "url": "https://www.researchgate.net/publication/13971282_Validation_of_Nonradioactive_Chemiluminescent_Immunoassay_Methods_for_the_Analysis_of_Thyroxine_and_Cortisol_in_Blood_Samples_Obtained_from_Dogs_Cats_and_Horses"
+    },
+    {
+     "claim": "The Snibe MAGLUMI X3 page cites a test menu of up to 278 parameters.",
+     "verdict": "unverifiable",
+     "reason": "The 278 figure was not found. Per the search summary, Snibe's X3 product page gives 200 tests/hour, under 0.68 m2 footprint, 72 sample and 20 reagent positions, but no menu count. Other sources disagree with each other: 166 parameters (tender document and Avantor India), 181 (LabMedica, EUROMEDLAB 2022), 211 and 256 (Snibe tender presentations). These are all human menus. Confirm the current figure with Snibe India before quoting a number.",
+     "url": "https://snibe.com/en/product/CLIA_analyzer/43.html",
+     "corrected_value": "Throughput 200 tests/h (manufacturer); menu count varies 166-256 across sources, 278 not confirmed"
+    },
+    {
+     "claim": "Mindray BC-60R Vet: 6-part leukocyte differential, 33 haematology parameters, SF-Cube 3D (scatter plus fluorescence), about 40 samples/hour, storage for up to 40,000 results; sample volume 31 or 34 uL.",
+     "verdict": "confirmed",
+     "reason": "Several sources, including the manufacturer brochure, agree on the 6-part differential, 33 parameters, SF-Cube (forward/side scatter plus nucleic-acid fluorescence), up to 40 samples/h for CBC+DIFF+RET, and 40,000-result storage. The brochure supports 34 uL whole blood (20 uL in predilute mode for rat/mouse), so 34 uL is better supported than 31 uL. One reseller gives 60/h and one gives 23 parameters; treat these as outliers. One older reseller listing calls it 'Five Part Diff', which conflicts with the 6-part figure.",
+     "url": "https://equiposmedicosveterinariosmb.com/wp-content/uploads/2022/10/Mindray-BC-60R-Vet-brochure.pdf",
+     "corrected_value": "Whole-blood sample volume 34 uL; predilute 20 uL"
+    },
+    {
+     "claim": "In a retrospective study of 301 dogs, DGGR-lipase correlated strongly with Spec cPL; optimal DGGR cut-offs for cPL >200 and >400 ug/L gave kappa values of 0.87 and 0.92.",
+     "verdict": "confirmed",
+     "reason": "This is Wolfer, Howard and Peters, Vet Sci 2022;9:177, with 301 dogs (87 with clinical acute pancreatitis). It reports rs = 0.91. A DGGR cut-off of 143 U/L predicted cPL >200 ug/L (Se 91.7%, Sp 95.3%, kappa 0.87). A cut-off of 205 U/L predicted cPL >=400 ug/L (Se 97.5%, Sp 96.4%, kappa 0.92). For clinical AP, the AUCs were 0.75 for DGGR and 0.76 for cPL. Note that the second threshold is >=400, not >400. Cut-offs depend on the method and population: Hope et al. 2021 JSAP reported >42.15 U/L on a different DGGR method. A lab adopting DGGR on the BA200 must therefore set its own cut-off.",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9032318/",
+     "corrected_value": "Cut-offs 143 U/L (kappa 0.87) and 205 U/L (kappa 0.92, cPL >=400 ug/L); rs = 0.91"
+    },
+    {
+     "claim": "Canine TSH chemiluminescent immunoassays used in cats cannot reliably measure concentrations below 0.03 ng/mL; a newer, more sensitive TSH assay was evaluated for feline thyroid disease.",
+     "verdict": "confirmed",
+     "reason": "Peterson, Dougherty and Rishniw, AJVR 2024 (PubMed 38382201), compared a bulk acoustic wave (BAW) TSH assay (functional sensitivity 0.008 ng/mL) with the canine chemiluminescent assay (limit about 0.03 ng/mL). Sensitivity, specificity and PPV for hyperthyroidism were about 90.5%, 98.9% and 86.9% for BAW, versus 79.9%, 76.7% and 21.7% for chemiluminescence. A 2026 JFMS follow-up found BAW more specific. The BAW assay runs on Zomedica's TRUFORMA point-of-care platform, not on ARCHITECT or MAGLUMI.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/38382201/"
+    },
+    {
+     "claim": "The BioSystems BA200 has 88 reagent/sample positions and an optional ISE module with sodium, potassium, chloride and reference electrodes.",
+     "verdict": "confirmed",
+     "reason": "Manufacturer and distributor sources confirm an 88-position barcode-read rotor. Each position can hold reagents, primary or pediatric tubes, standards or controls; one retailer splits it as 44 reagent and 44 bottle/tube positions. The optional ISE measures Na+, K+ and Cl-, and lithium is an optional fourth channel. Manufacturer throughput is 200 tests/h, or 300 tests/h with ISE; an Indian handout gives lower ISE figures. Reagent bottles are 20 or 60 mL.",
+     "url": "https://biosystems.global/assets/themes/biosystems.global/docs/cta/BioS_2025_VET_Brochure_BA200_EN_web.pdf",
+     "corrected_value": "88 positions; ISE Na/K/Cl with optional Li; 200 t/h (300 t/h with ISE)"
+    },
+    {
+     "claim": "ASVCP RI guidance states that reference intervals should not be determined when fewer than 20 reference samples are available.",
+     "verdict": "confirmed",
+     "reason": "The Table 4 row for 10 <= n < 20 says no distribution method applies and RIs should not be calculated. The ASVCP QALS website version states that RIs should not be determined with fewer than 20 reference samples. For 20 to under 40 samples, it recommends parametric methods (if Gaussian, with 90% CIs) or robust methods. It recommends at least 120 samples for nonparametric limits with 90% CIs. The claim that partitioning is not recommended below 40 per partition still rests only on a secondary citing paper and remains unverified.",
+     "url": "https://onlinelibrary.wiley.com/doi/10.1111/vcp.12006",
+     "corrected_value": "n<20: do not calculate RI; 20-39: parametric (Gaussian) or robust; >=120 preferred for nonparametric with 90% CI"
+    },
+    {
+     "claim": "Secondary sources report that ASVCP guidance supports the robust method (with bootstrapped CIs) for intermediate sample sizes.",
+     "verdict": "confirmed",
+     "reason": "The primary-source summary says the robust method is recommended for 20 to under 40 samples (or parametric if Gaussian), and that robust methods are recommended when 40-120 samples are available. The use of bootstrapped CIs for fewer than 120 samples matches the guideline text already cited. The exact Table 4 wording for 40-119 was not fully retrieved. A 2019 simulation study (Le Boedec, Vet Clin Pathol) suggests nonparametric methods may sometimes be preferable even for small samples.",
+     "url": "https://cdn.ymaws.com/www.asvcp.org/resource/resmgr/QALS/Other_Publications/RI_Guidelines_For_ASVCP_webs.pdf"
+    },
+    {
+     "claim": "CLSI EP28-A3c transference verification: a binomial test with 18/20 inside gave exact p = 0.2642, so the interval was not rejected; this is consistent with the 'no more than 2 of 20 outside' rule.",
+     "verdict": "corrected",
+     "reason": "The arithmetic is correct: under coverage 0.95, P(X <= 18 of 20) = 0.2642. But the binomial test is less strict than the '<=2 of 20 outside' rule, so the two are not equivalent. With 3 of 20 outside, P(X <= 17) = 0.0755, which is still above 0.05, so a one-sided binomial test at alpha 0.05 would not reject an interval that the 2-of-20 rule would reject. These probabilities are my own calculation, not from a search source. The verbatim '<=2 of 20' rule is still not confirmed from the CLSI text in any retrieved source. The ASVCP transference checklist (20 animals) is the veterinary-specific reference.",
+     "url": "https://analyse-it.com/products/examples/EP28-A3C.pdf",
+     "corrected_value": "p = 0.2642 for 18/20 is correct; 17/20 gives p = 0.0755 (not rejected at 0.05), so binomial testing and the 2-of-20 rule differ"
+    },
+    {
+     "claim": "No published study validating Abbott ARCHITECT hormone immunoassays (TT4, fT4, cortisol, progesterone, insulin) for dog or cat samples was found.",
+     "verdict": "unverifiable",
+     "reason": "This is a negative finding and still holds after re-checking. None of the T4/cortisol method-comparison papers that came up used an ARCHITECT i-series assay. Wolff 2020 used Catalyst and Immulite 2000 against Microgenics DRI. Singh 1997 used other chemiluminescent methods. Proverbio 2009 compared VIDAS with IMMULITE 2000 for canine cortisol. The only ARCHITECT veterinary validation found is the Gentian canine CRP on the c4000 chemistry module. Also relevant to the pitch: Siemens has an Immulite 2000 'veterinary cortisol' assay, compared against its standard cortisol assay in canine serum (PubMed 42247662), which suggests species-adapted reagents exist on competitor platforms. Absence of evidence is not proof; ask Abbott and plan in-house validation.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/42247662/"
+    }
+   ]
+  }
+ },
+ {
+  "topic": "regulation",
+  "research": {
+   "facts": [
+    {
+     "topic": "1. Accreditation",
+     "claim": "NABL accredits testing and calibration labs to ISO/IEC 17025, medical testing labs to ISO 15189, proficiency testing providers to ISO/IEC 17043 and reference material producers to ISO/IEC 17034.",
+     "confirmed": true,
+     "url": "https://nabl-india.org/faq/",
+     "source_title": "NABL FAQ"
+    },
+    {
+     "topic": "1. Accreditation",
+     "claim": "NABL 112A sets NABL's specific criteria for medical testing laboratories under ISO 15189:2022. The search results show it covers human medical labs only.",
+     "confirmed": true,
+     "url": "https://nabl-india.org/nabl/file_download1.php?filename=202412180304-NABL-112-A-doc.pdf",
+     "source_title": "NABL 112A",
+     "note": "No veterinary or animal-sample provision appeared in the excerpts."
+    },
+    {
+     "topic": "1. Accreditation",
+     "claim": "NABL's medical-lab disciplines are Clinical Biochemistry, Clinical Pathology, Haematology & Immunohaematology, Microbiology & Serology, Histopathology, Cytopathology, Genetics, and Nuclear Medicine (in-vitro tests only). Veterinary testing is not among them.",
+     "confirmed": true,
+     "url": "https://en.wikipedia.org/wiki/National_Accreditation_Board_for_Testing_and_Calibration_Laboratories",
+     "source_title": "Wikipedia - NABL",
+     "note": "Secondary source. Check against NABL's current discipline list."
+    },
+    {
+     "topic": "1. Accreditation",
+     "claim": "A WOAH paper says ISO/IEC 17025 is the most widely recognised standard in veterinary testing, and that ISO/IEC 17025 or an equivalent is acceptable for veterinary testing labs seeking accreditation.",
+     "confirmed": true,
+     "url": "https://www.woah.org/app/uploads/2021/05/401-15-newberry.pdf",
+     "source_title": "WOAH - Quality standards and guidelines for test validation (Newberry)"
+    },
+    {
+     "topic": "1. Accreditation",
+     "claim": "VETLAB calls itself India's first privately managed NABL-accredited veterinary laboratory, with an ISO/IEC 17025:2005 quality system in biological testing.",
+     "confirmed": false,
+     "url": "https://vetlab.in/about-us/quality-compliance/",
+     "source_title": "VETLAB - Quality & Compliance",
+     "note": "The lab's own claim, not checked against the NABL directory. Its 2005-edition reference may be out of date. It suggests Indian veterinary labs are accredited under ISO/IEC 17025 (biological testing), not ISO 15189."
+    },
+    {
+     "topic": "1. Accreditation",
+     "claim": "The searches did not find NABL's official name for a veterinary scope or discipline. They also did not show whether an ISO 15189 human medical lab can add veterinary tests to its existing 15189 scope, or would need a separate ISO/IEC 17025 (biological testing) accreditation.",
+     "confirmed": false,
+     "url": "https://nabl-india.org/faq/",
+     "source_title": "NABL FAQ",
+     "note": "Unconfirmed. This is an inference, not a source statement: ISO 15189 and NABL 112A cover human medical labs, so veterinary testing most likely falls under ISO/IEC 17025. Confirm directly with NABL."
+    },
+    {
+     "topic": "1. Accreditation",
+     "claim": "Abroad, veterinary diagnostic labs are accredited to ISO/IEC 17025:2017 for biological testing. For example, the Arkansas Veterinary Diagnostic Laboratory holds this accreditation through A2LA.",
+     "confirmed": true,
+     "url": "https://customer.a2la.org/index.cfm?accreditationPID=571CC896-7376-4EEB-819C-CFDE9F9BF519&documentPID=FE09E106-A7AF-4509-AA36-94C14A7EE264&event=directory.getDocument",
+     "source_title": "A2LA Cert. No. 4109.01 scope",
+     "note": "Shows how a veterinary scope is written. Not an Indian lab."
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "Section 30 of the Indian Veterinary Council Act 1984 bars anyone other than a registered veterinary practitioner from (a) holding office as a veterinary physician or surgeon in government or local-authority institutions and (b) practising veterinary medicine in any State.",
+     "confirmed": true,
+     "url": "https://indiankanoon.org/doc/137091/",
+     "source_title": "Section 30, Indian Veterinary Council Act 1984 (Indian Kanoon)"
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "Under the proviso to Section 30(b), a State Government may by order let holders of a veterinary supervisor, stockman or stock assistant diploma or certificate render 'minor veterinary services'. These are preliminary veterinary aid such as vaccination, castration and dressing of wounds.",
+     "confirmed": true,
+     "url": "https://indiankanoon.org/doc/137091/",
+     "source_title": "Section 30, Indian Veterinary Council Act 1984"
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "Section 30 also reserves to registered veterinary practitioners the signing or authenticating of veterinary health certificates (and other certificates the law requires a qualified veterinary practitioner to sign), and giving evidence in court or at inquests.",
+     "confirmed": true,
+     "url": "https://lawgist.in/indian-veterinary-council-act/30",
+     "source_title": "Section 30 - The Indian Veterinary Council Act, 1984 (Lawgist)"
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "Section 29 entitles anyone on the Indian veterinary practitioners register to practise as a veterinary practitioner according to their qualifications, subject to the Act.",
+     "confirmed": true,
+     "url": "https://www.indiacode.nic.in/bitstream/123456789/4220/1/THE_INDIAN_VETERINARY_COUNCIL_ACT_1984.pdf",
+     "source_title": "Indian Veterinary Council Act 1984 (India Code)"
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "Section 57 provides that, after the transition period, only a registered veterinary practitioner or a person permitted under the proviso to Section 30(b) may practise veterinary medicine or render minor veterinary services.",
+     "confirmed": true,
+     "url": "https://faolex.fao.org/docs/pdf/ind159346.pdf",
+     "source_title": "Indian Veterinary Council Act 1984 (FAOLEX)"
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "A 2016 VCI draft of the Minimum Standards of Veterinary Practice Regulations defines an 'Animal Disease Diagnostic Laboratory' as an institution that receives animal samples and performs diagnostic tests. It says such a lab must be under the charge of a Registered Veterinary Practitioner.",
+     "confirmed": false,
+     "url": "https://www.pashudhanpraharee.com/wp-content/uploads/2021/03/VCI-Draft-copy-of-MSVPR2016-Dt.08.07.16_1.pdf",
+     "source_title": "VCI Draft MSVPR 2016",
+     "note": "The draft text is confirmed. Whether it was ever notified and is in force is not. Check the final VCI notification."
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "The VCI Veterinary Practice Regulation (2008 notification) defines a diagnostic laboratory as an institution, society, organisation or body that receives samples and has facilities for diagnostic tests. The search excerpt showed no explicit supervision requirement.",
+     "confirmed": true,
+     "url": "https://gvc.org.in/upload_image/Veterinary%20Practice%20Regulation%20(2008).pdf",
+     "source_title": "VCI Veterinary Practice Regulation (2008)"
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "Under the VCI professional conduct regulations, a registered practitioner who signs or issues a false certificate, report or similar document in their name can be removed from the register. Practitioners must keep a Register of Veterinary Medical Certificates, and test-result certificates such as a tuberculin test are given as examples.",
+     "confirmed": true,
+     "url": "https://faolex.fao.org/docs/pdf/IND221771.pdf",
+     "source_title": "VCI Standard of Professional Conduct, Etiquette and Code of Ethics"
+    },
+    {
+     "topic": "2. Who may report/interpret",
+     "claim": "No source found states outright that a veterinary lab report must be signed by a registered veterinary practitioner, or specifically by an MVSc veterinary pathologist.",
+     "confirmed": false,
+     "url": "https://faolex.fao.org/docs/pdf/IND221771.pdf",
+     "source_title": "VCI professional conduct regulations",
+     "note": "Unconfirmed. Taken together, Section 30 (practice and certificates) and the VCI draft (lab under an RVP's charge) suggest a registered veterinarian should sign interpretive veterinary reports. No source confirms an MVSc requirement. Ask VCI or the Maharashtra State Veterinary Council."
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "Under Section 4 of the PCICDA 2009, any owner, person, NGO, public body or village panchayat in charge of an animal they believe has a scheduled disease must report it to the Village Officer or village panchayat. That officer passes it on to the nearest Veterinarian, who must report to the Veterinary Officer. The State Director must inform the Directors of neighbouring States.",
+     "confirmed": true,
+     "url": "https://www.advocatekhoj.com/library/bareacts/preventionandcontrol/4.php",
+     "source_title": "PCICDA 2009 s.4 - Reporting scheduled diseases obligatory"
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "The Act defines a 'scheduled disease' as any disease included in its Schedule. It does not use the word 'notifiable': reporting duties attach to scheduled diseases.",
+     "confirmed": true,
+     "url": "https://www.advocatekhoj.com/library/bareActs/preventionandcontrol/2.php",
+     "source_title": "PCICDA 2009 s.2 Definitions"
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "The Schedule is split by species into parts lettered A to L. Schedule A covers multiple-species and cattle diseases, C sheep and goats, D equines, and G lagomorphs.",
+     "confirmed": true,
+     "url": "https://www.indiacode.nic.in/bitstream/123456789/18662/1/the_prevention_and_control_of_infectious_and_contagious_diseases_in_animals_act,_2009_.pdf",
+     "source_title": "PCICDA 2009 (India Code)"
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "Glanders is a scheduled disease in Schedule D (equine diseases), listed with African horse sickness, equine influenza and surra (Trypanosoma evansi).",
+     "confirmed": true,
+     "url": "https://www.advocatekhoj.com/library/bareacts/preventionandcontrol/schd.php",
+     "source_title": "PCICDA 2009 - The Schedule D"
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "Lumpy skin disease is a scheduled disease in the cattle part of the Schedule (Schedule A(b), item 11), listed between infectious bovine rhinotracheitis and malignant catarrhal fever.",
+     "confirmed": true,
+     "url": "https://www.indiacode.nic.in/bitstream/123456789/18662/1/the_prevention_and_control_of_infectious_and_contagious_diseases_in_animals_act,_2009_.pdf",
+     "source_title": "PCICDA 2009 (India Code)",
+     "note": "Taken from the search summary of the schedule text. Check the item number in the gazette copy."
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "Schedule C (sheep and goats) includes peste des petits ruminants, sheep pox and goat pox, ovine epididymitis (Brucella ovis) and scrapie.",
+     "confirmed": true,
+     "url": "https://www.advocatekhoj.com/library/bareacts/preventionandcontrol/schc.php",
+     "source_title": "PCICDA 2009 - The Schedule C"
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "Schedule G (lagomorphs) includes myxomatosis and rabbit haemorrhagic disease.",
+     "confirmed": true,
+     "url": "https://www.advocatekhoj.com/library/bareacts/preventionandcontrol/schg.php",
+     "source_title": "PCICDA 2009 - The Schedule G"
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "Section 38 of the Act lets the government amend the Schedule, so the lists may have changed since 2009.",
+     "confirmed": true,
+     "url": "https://www.indiacode.nic.in/handle/123456789/2101?locale=en",
+     "source_title": "India Code: PCICDA 2009"
+    },
+    {
+     "topic": "3. Scheduled diseases (PCICDA 2009)",
+     "claim": "The searches did not show the multiple-species and poultry parts of the Schedule, so it is not confirmed whether avian influenza, African swine fever, foot-and-mouth disease, brucellosis, anthrax or rabies are listed.",
+     "confirmed": false,
+     "url": "https://www.indiacode.nic.in/bitstream/123456789/18662/1/the_prevention_and_control_of_infectious_and_contagious_diseases_in_animals_act,_2009_.pdf",
+     "source_title": "PCICDA 2009 (India Code)",
+     "note": "Unconfirmed. Read Schedule A and the poultry and pig schedules in the India Code PDF."
+    },
+    {
+     "topic": "3. Avian influenza testing",
+     "claim": "ICAR-NIHSAD Bhopal is India's WOAH reference laboratory for avian influenza, and DAHD has designated it to confirm any case of avian influenza in the country.",
+     "confirmed": true,
+     "url": "https://dahd.nic.in/about-us/divisions/livestock-health/bird-flu-archived/bird-flu",
+     "source_title": "DAHD - Bird Flu (archived)"
+    },
+    {
+     "topic": "3. Avian influenza testing",
+     "claim": "Other labs, such as the Central Disease Diagnostic Laboratory in Bareilly, screen samples. Any positive must go to ICAR-NIHSAD Bhopal for confirmation.",
+     "confirmed": true,
+     "url": "https://dahd.nic.in/about-us/divisions/livestock-health/bird-flu-archived/bird-flu",
+     "source_title": "DAHD - Bird Flu (archived)"
+    },
+    {
+     "topic": "3. Avian influenza testing",
+     "claim": "Under the revised 2021 avian influenza action plan, the State notifies the disease and starts control and containment once NIHSAD Bhopal reports positive samples.",
+     "confirmed": true,
+     "url": "https://megahvt.gov.in/notification/revised_AI_Action_Plan_2021.pdf",
+     "source_title": "Action Plan for Prevention, Control & Containment of Avian Influenza (Revised 2021)"
+    },
+    {
+     "topic": "3. Avian influenza testing",
+     "claim": "DAHD's crisis management plan notes that private animal disease diagnostic labs operate across India alongside government labs.",
+     "confirmed": true,
+     "url": "https://dahd.gov.in/sites/default/files/2024-10/CRISISMANAGEMENTPLAN.pdf",
+     "source_title": "DAHD Crisis Management Plan"
+    },
+    {
+     "topic": "3. Avian influenza testing",
+     "claim": "No source found explicitly bars private labs from testing for avian influenza or other scheduled diseases. What is confirmed is that official confirmation and State notification depend on NIHSAD Bhopal.",
+     "confirmed": false,
+     "url": "https://megahvt.gov.in/notification/revised_AI_Action_Plan_2021.pdf",
+     "source_title": "Revised AI Action Plan 2021",
+     "note": "Unconfirmed. In practice a private lab's AI-positive result has no official standing until NIHSAD confirms it. Check the full action plan and current DAHD orders before offering avian influenza PCR."
+    },
+    {
+     "topic": "3. Avian influenza testing",
+     "claim": "ICAR-NIHSAD has licensed an avian influenza diagnostic technology, an indirect ELISA kit for detecting avian influenza virus antibodies in chicken, to HiMedia Laboratories through Agrinnovate India.",
+     "confirmed": true,
+     "url": "https://icar.org.in/en/technology-licensing-agreement-signed-between-icar-nihsad-ms-himedia-laboratories-pvt-ltd-and-ms",
+     "source_title": "ICAR - Technology Licensing Agreement ICAR-NIHSAD / HiMedia / Agrinnovate",
+     "note": "Confirmed from the ICAR and HiMedia result titles only. Commercial availability and terms not checked."
+    },
+    {
+     "topic": "3. Reference labs",
+     "claim": "ICAR-NIVEDI (Bengaluru) is on WOAH's reference laboratory list for leptospirosis, and a KVAFSU rabies laboratory is also on WOAH's list.",
+     "confirmed": true,
+     "url": "https://www.woah.org/en/what-we-offer/expertise-network/reference-laboratories/",
+     "source_title": "WOAH Reference Laboratories"
+    },
+    {
+     "topic": "4. Biosafety",
+     "claim": "India's DBT 'Regulations and Guidelines on Biosafety of Recombinant DNA Research and Biocontainment, 2017' (by RCGM) contain a list of risk-group agents and the containment level for handling each in India.",
+     "confirmed": true,
+     "url": "https://ibkp.dbtindia.gov.in/DBT_Content_Test/CMS/Guidelines/20181115134719867_Regulations-Guidelines-for-Reocminant-DNA-Research-and-Biocontainment-2017.pdf",
+     "source_title": "DBT Regulations and Guidelines on Biosafety 2017",
+     "note": "The guidelines are framed around recombinant DNA research. How far they bind routine diagnostic labs is not confirmed."
+    },
+    {
+     "topic": "4. Biosafety",
+     "claim": "Under the DBT 2017 guidelines, Institutional Biosafety Committees handle risk group 1 and 2 work, and RCGM approval is required only for experiments with risk group 3 and 4 organisms. Existing BSL-3 and BSL-4 facilities working with these organisms must obtain accreditation.",
+     "confirmed": true,
+     "url": "https://ibkp.dbtindia.gov.in/DBT_Content_Test/CMS/Guidelines/20181115134719867_Regulations-Guidelines-for-Reocminant-DNA-Research-and-Biocontainment-2017.pdf",
+     "source_title": "DBT Regulations and Guidelines on Biosafety 2017"
+    },
+    {
+     "topic": "4. Biosafety",
+     "claim": "DBT has also issued 'Guidelines for the establishment of containment facilities: BSL-2 and BSL-3 and certification of BSL-3 facility' (2020).",
+     "confirmed": true,
+     "url": "https://www.gtu.ac.in/regulatory_guidelines/20201224170743368_GuidelinesForEstablishmentOfContainmentFacilitiesBSL2andBSL3andCertificationOfBSL3facility2020.pdf",
+     "source_title": "Guidelines for Establishment of Containment Facilities BSL-2/BSL-3 (2020)",
+     "note": "Confirmed from the document title only. Contents not reviewed."
+    },
+    {
+     "topic": "4. Biosafety",
+     "claim": "The searches did not confirm the Indian risk-group or BSL classification for Brucella, Leptospira or highly pathogenic avian influenza.",
+     "confirmed": false,
+     "url": "https://ibkp.dbtindia.gov.in/DBT_Content_Test/CMS/Guidelines/20181115134719867_Regulations-Guidelines-for-Reocminant-DNA-Research-and-Biocontainment-2017.pdf",
+     "source_title": "DBT Regulations and Guidelines on Biosafety 2017",
+     "note": "Unconfirmed. Look up each organism in Annexure 1 of the DBT 2017 guidelines and in the WOAH Terrestrial Manual. The search tool rejected one biosafety query, so the WOAH manual was not retrieved."
+    },
+    {
+     "topic": "4. Bio-Medical Waste Rules 2016",
+     "claim": "Under Rule 2(1), the Bio-Medical Waste Management Rules 2016 apply to everyone who generates, collects, stores, transports, treats or disposes of bio-medical waste, and veterinary institutions, animal houses and pathological laboratories are named explicitly.",
+     "confirmed": true,
+     "url": "https://nswai.org/docs/BMW Rules, 2016.pdf",
+     "source_title": "BMW Rules, 2016"
+    },
+    {
+     "topic": "4. Bio-Medical Waste Rules 2016",
+     "claim": "The Rules' definition of 'occupier' includes a veterinary institution, animal house and pathological laboratory, which makes these facilities responsible for the waste they produce.",
+     "confirmed": true,
+     "url": "https://www.casemine.com/act/in/5f5f12609fca195c05ccf1ac",
+     "source_title": "Bio-Medical Waste Management Rules, 2016 (Casemine)"
+    },
+    {
+     "topic": "4. Bio-Medical Waste Rules 2016",
+     "claim": "The 2016 Rules' animal anatomical waste category covers carcasses, body parts, organs and tissues, including waste from animals used in experiments or testing in veterinary hospitals, colleges or animal houses.",
+     "confirmed": true,
+     "url": "https://ebooks.inflibnet.ac.in/esp13/chapter/biomedical-waste-management-rules-2016/",
+     "source_title": "Biomedical Waste Management Rules, 2016 (INFLIBNET)",
+     "note": "Yellow-bag placement is from secondary sources. Check Schedule I in the current CPCB text."
+    },
+    {
+     "topic": "4. Bio-Medical Waste Rules 2016",
+     "claim": "The State Pollution Control Board or Pollution Control Committee is the prescribed authority enforcing the BMW Rules for health care facilities in each State or UT.",
+     "confirmed": true,
+     "url": "https://cpcb.nic.in/rules-3/",
+     "source_title": "CPCB - Bio-Medical Waste Management",
+     "note": "In Maharashtra this would be the Maharashtra Pollution Control Board. That is an inference, not checked by search."
+    },
+    {
+     "topic": "4. Bio-Medical Waste Rules 2016",
+     "claim": "BMW standards require an autoclave to completely and consistently kill an approved biological indicator at the maximum design capacity of each unit. On-site autoclaving or microwaving is listed as treatment for microbiology waste such as cultures and stocks.",
+     "confirmed": true,
+     "url": "https://npcb.nagaland.gov.in/wp-content/uploads/2016/03/standardsfor-BMW.pdf",
+     "source_title": "Standards for BMW - Schedule I (Nagaland PCB)",
+     "note": "This copy may follow the older 1998 Schedule I format. Check the current 2016 Rules (as amended in 2018) on the CPCB site."
+    },
+    {
+     "topic": "5. Schemes - LHDCP",
+     "claim": "The central Livestock Health & Disease Control Programme (LHDCP) has three sub-components: the Critical Animal Disease Control Programme (CADCP); Establishment and Strengthening of Veterinary Hospitals & Dispensaries, including Mobile Veterinary Units; and Assistance to States for Control of Animal Diseases (ASCAD).",
+     "confirmed": true,
+     "url": "https://dahd.gov.in/sites/default/files/2025-05/OperationalGuidelinesforLHDCP.pdf",
+     "source_title": "Operational Guidelines of LHDCP (DAHD, 2025)"
+    },
+    {
+     "topic": "5. Schemes - ASCAD",
+     "claim": "ASCAD gives States and UTs financial assistance to reduce animal-health risk through prophylactic vaccination against zoonotic, exotic, emergent and re-emergent diseases of livestock and poultry.",
+     "confirmed": true,
+     "url": "https://dahd.gov.in/sites/default/files/2025-05/OperationalGuidelinesforLHDCP.pdf",
+     "source_title": "Operational Guidelines of LHDCP (DAHD, 2025)"
+    },
+    {
+     "topic": "5. Schemes - ASCAD",
+     "claim": "Each State draws up its own ASCAD action plan to suit local conditions. ASCAD can also fund disease surveillance under its 'Control of Emergent and Exotic Diseases' activity.",
+     "confirmed": true,
+     "url": "https://dahd.gov.in/sites/default/files/2024-10/CRISISMANAGEMENTPLAN.pdf",
+     "source_title": "DAHD Crisis Management Plan"
+    },
+    {
+     "topic": "5. Schemes - MVU",
+     "claim": "Under LHDCP, Mobile Veterinary Units are custom-built vehicles with equipment that bring veterinary services to farmers' doorsteps. States must run a call centre that sends requests to the vet.",
+     "confirmed": true,
+     "url": "https://dahd.gov.in/sites/default/files/2025-05/OperationalGuidelinesforLHDCP.pdf",
+     "source_title": "Operational Guidelines of LHDCP (DAHD, 2025)"
+    },
+    {
+     "topic": "5. Schemes - MVU",
+     "claim": "The Centre pays 100% of non-recurring costs for buying MVUs, at about one unit per lakh livestock, and shares recurring costs with the States.",
+     "confirmed": true,
+     "url": "https://en.vikaspedia.in/agriculture/livestock/mobile-veterinary-units",
+     "source_title": "Vikaspedia - Mobile Veterinary Units"
+    },
+    {
+     "topic": "5. Schemes - Maharashtra",
+     "claim": "Maharashtra's Animal Husbandry Department signed an MoU with Bharat Financial Inclusion Ltd for doorstep livestock care ('Mahapashudhan Sanjeevani') in 31 districts under the Mukhyamantri Pashu Swasthya Yojana. The toll-free 1962 helpline was to start in January 2021.",
+     "confirmed": true,
+     "url": "https://www.bfil.co.in/document/press_release/main13bharatfinancialinclusionltdjoinshandswithmaharashtragovtforasocialimpactinitiativeinlivestockcaremahapashudhansanjeevani.pdf",
+     "source_title": "BFIL press release - Mahapashudhan Sanjeevani"
+    },
+    {
+     "topic": "5. Schemes - Maharashtra",
+     "claim": "A report says Maharashtra had 80 veterinary mobile units ready, funded through CSR, with a state-level 1962 toll-free number.",
+     "confirmed": false,
+     "url": "https://thecsrjournal.in/maharashtra-80-veterinary-mobile-units-ready-animals-treatment-csr-hindi/",
+     "source_title": "The CSR Journal (Hindi)",
+     "note": "The unit count comes only from a search snippet. The current statewide MVU count is not confirmed."
+    },
+    {
+     "topic": "5. Schemes - Maharashtra",
+     "claim": "The Maharashtra Department of Animal Husbandry has a scheme page for Livestock Health & Disease Control (LHDC).",
+     "confirmed": true,
+     "url": "https://dahd.maharashtra.gov.in/en/scheme/livestock-health-disease-control-lhdc/",
+     "source_title": "DAHD Maharashtra - Livestock Health & Disease Control (LHDC)",
+     "note": "Confirmed that the page exists. Its contents, including any private-lab partnership provisions, were not retrieved."
+    },
+    {
+     "topic": "5. State lab network - Maharashtra",
+     "claim": "The Government of India recognises the Disease Investigation Section at Aundh, Pune, as the Western Regional Disease Diagnostic Laboratory (WRDDL). Its area covers Maharashtra, Goa, Diu-Daman, Dadra-Nagar-Haveli, Madhya Pradesh, Gujarat and Chhattisgarh.",
+     "confirmed": true,
+     "url": "https://ahd.maharashtra.gov.in/about-dis",
+     "source_title": "Maharashtra AHD - About DIS"
+    },
+    {
+     "topic": "5. State lab network - Maharashtra",
+     "claim": "The Disease Investigation Section confirms livestock and poultry outbreaks, carries out toxicology investigations and advises field staff on treatment, and tests for national-priority diseases including tuberculosis, Johne's disease and brucellosis.",
+     "confirmed": true,
+     "url": "https://ahd.maharashtra.gov.in/about-dis",
+     "source_title": "Maharashtra AHD - About DIS"
+    },
+    {
+     "topic": "5. State lab network - Maharashtra",
+     "claim": "The official name is the 'Bharatratna Atal Bihari Vajpayee Western Region Disease Diagnosis Laboratory / Disease Investigation Section', phone 020-25692135, email jcdis-mh@gov.in.",
+     "confirmed": true,
+     "url": "https://dahd.maharashtra.gov.in/en/organization/bharatratna-atal-bihari-vajpayee-western-region-disease-diagnosis-laboratory-disease-investigation-section/",
+     "source_title": "DAHD Maharashtra - WRDDL / DIS"
+    },
+    {
+     "topic": "5. State lab network - Nagpur",
+     "claim": "Nagpur Veterinary College was founded in 1958 to produce graduates in veterinary science and animal husbandry. It could be a local source of veterinary pathologists or an academic partner.",
+     "confirmed": true,
+     "url": "https://en.wikipedia.org/wiki/Nagpur_Veterinary_College",
+     "source_title": "Wikipedia - Nagpur Veterinary College",
+     "note": "No search confirmed a government district disease diagnostic lab in Nagpur."
+    },
+    {
+     "topic": "5. Schemes - NADCP",
+     "claim": "Under NADCP, female bovine calves aged 4 to 8 months get a one-time lifetime brucellosis vaccination. The LHDCP guidelines specify live attenuated Brucella S-19 vaccine, 1 ml subcutaneously.",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/PressNoteDetails.aspx?id=159684&NoteId=159684&ModuleId=3&reg=48&lang=2",
+     "source_title": "PIB Press Note - NADCP"
+    },
+    {
+     "topic": "5. Schemes - NADCP",
+     "claim": "PIB reports post-vaccination brucellosis seroconversion in 2025 of about 75.63% in cattle calves and 67.17% in buffalo calves. Brucellosis outbreaks fell from 22 in 2019 to 15 in 2025.",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/PressNoteDetails.aspx?id=159684&NoteId=159684&ModuleId=3&reg=48&lang=2",
+     "source_title": "PIB Press Note - NADCP",
+     "note": "Government press figures, not independently evaluated."
+    },
+    {
+     "topic": "5. Schemes - NADCP",
+     "claim": "PIB reports FMD non-structural protein (NSP) antibody prevalence fell from 20.8% in 2019 to 8.1% in 2025, and FMD outbreaks fell from 132 to 40.",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/PressNoteDetails.aspx?id=159684&NoteId=159684&ModuleId=3&reg=48&lang=2",
+     "source_title": "PIB Press Note - NADCP"
+    },
+    {
+     "topic": "5. Schemes - NADCP",
+     "claim": "By March 2026, NADCP had vaccinated 3.17 crore calves against brucellosis and given 132.49 crore FMD vaccine doses since it began.",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/FactsheetDetails.aspx?id=150838&NoteId=150838&ModuleId=16&reg=3&lang=1",
+     "source_title": "PIB Factsheet - The New Era of Indian Agriculture and Allied Sectors"
+    },
+    {
+     "topic": "5. Schemes - NADCP",
+     "claim": "The LHDCP guidelines fund FMD sero-monitoring and sero-surveillance through ICAR-NIFMD and 32 State FMD Network Laboratories, and brucellosis sero-surveillance through ICAR-NIVEDI. All named labs are government or ICAR labs.",
+     "confirmed": true,
+     "url": "https://dahd.gov.in/sites/default/files/2025-05/OperationalGuidelinesforLHDCP.pdf",
+     "source_title": "Operational Guidelines of LHDCP (DAHD, 2025)",
+     "note": "No role for private labs in NADCP surveillance was found."
+    },
+    {
+     "topic": "5. Schemes - NADCP",
+     "claim": "India launched the NADCP vaccination programme against FMD and brucellosis in 2019, aiming to give a unique Pashu Aadhaar ID to 535 million animals.",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1598062",
+     "source_title": "PIB - India commences world's largest ever vaccination programme to control FMD & Brucellosis",
+     "note": "Confirmed from the press release title."
+    }
+   ],
+   "gaps": "I used all 18 searches. One of them, a biosafety query on the WOAH brucellosis and leptospirosis containment levels, was rejected by the search tool and returned nothing. Unresolved items:\n(1) NABL's official name for a veterinary scope or discipline was not found. It is also not confirmed whether an ISO 15189 human lab can add veterinary tests to its scope, or needs separate ISO/IEC 17025 (biological testing) accreditation. 17025 is likely but unconfirmed; ask NABL directly.\n(2) No rule was found that explicitly requires a lab report to be signed by a registered veterinarian or an MVSc pathologist. The VCI 2016 draft, which puts a diagnostic lab under an RVP's charge, may never have been notified. The Maharashtra State Veterinary Council was not searched.\n(3) The PCICDA multiple-species, poultry and pig schedules were not retrieved, so the listing of avian influenza, ASF, FMD, brucellosis, anthrax and rabies is unconfirmed. Lumpy skin disease and glanders are confirmed as scheduled.\n(4) No explicit rule was found barring or permitting private-lab testing for scheduled diseases. Only NIHSAD Bhopal's confirmation role is confirmed.\n(5) The Indian risk-group or BSL classification for Brucella, Leptospira and HPAI was not confirmed.\n(6) The current BMW Schedule I wording (as amended in 2018) for microbiology and animal waste was taken from secondary or older copies. MPCB was not searched.\n(7) No Maharashtra scheme for partnering with private diagnostic labs was found. No government district disease diagnostic lab in Nagpur was confirmed. The current Maharashtra MVU count is unconfirmed."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "PIB reports post-vaccination brucellosis seroconversion in 2025 of about 75.63% in cattle calves and 67.17% in buffalo calves; brucellosis outbreaks fell from 22 (2019) to 15 (2025); FMD NSP antibody prevalence fell from 20.8% (2019) to 8.1% (2025) and FMD outbreaks from 132 to 40.",
+     "verdict": "confirmed",
+     "reason": "A separate search returned the same PIB press note with all figures, and Organiser (Aug 2026) repeats them. Caveat: these are government figures with no independent evaluation found. A 2025 BMC Vet Res (Springer) study warns that NSP seropositivity in vaccinated herds can partly reflect residual NSP in the vaccine or false positives, so the 8.1% figure is not a pure measure of infection.",
+     "url": "https://www.pib.gov.in/PressNoteDetails.aspx?id=159684&NoteId=159684&ModuleId=3&reg=48&lang=2"
+    },
+    {
+     "claim": "The central Livestock Health & Disease Control Programme (LHDCP) has three sub-components: CADCP; Establishment and Strengthening of Veterinary Hospitals & Dispensaries incl. MVUs; and ASCAD.",
+     "verdict": "corrected",
+     "corrected_value": "Since the Cabinet revision of March 2025, LHDCP has three COMPONENTS: (1) National Animal Disease Control Programme (NADCP), (2) Livestock Health & Disease Control (LH&DC) and (3) Pashu Aushadhi, which is new. CADCP, ESVHD-MVU and ASCAD are the three SUB-components of LH&DC, not of LHDCP as a whole. Outlay: Rs 3,880 crore for 2024-25 and 2025-26, of which Rs 75 crore is for Pashu Aushadhi (generic veterinary medicines).",
+     "reason": "Cabinet approval coverage on pmindia.gov.in and narendramodi.in (also Vision IAS, 6 Mar 2025) puts CADCP, ESVHD-MVU and ASCAD one level below LHDCP. The original claim is stale or describes only the LH&DC component.",
+     "url": "https://pmindia.gov.in/?p=16570710"
+    },
+    {
+     "claim": "The Centre pays 100% of non-recurring costs for buying MVUs, at about one unit per lakh livestock, and shares recurring costs with the States.",
+     "verdict": "confirmed",
+     "reason": "The DAHD MVU procurement specification and Lok Sabha answers confirm: about one MVU per lakh livestock, 100% central funding for buying the fabricated MVU (van about Rs 16 lakh), and recurring costs of about Rs 18.72 lakh per MVU per year plus call-centre costs. Recurring costs are shared 60:40 (Centre:State) for most States, 90:10 for NE and Himalayan States, and 100% for UTs. Maharashtra falls under 60:40.",
+     "url": "https://dahd.gov.in:80/sites/default/files/2023-08/MVUsSpecificationForProcurement.pdf"
+    },
+    {
+     "claim": "BMW standards require an autoclave to kill an approved biological indicator at maximum design capacity; on-site autoclaving or microwaving is listed as treatment for microbiology waste such as cultures and stocks.",
+     "verdict": "corrected",
+     "corrected_value": "Under the BMW Management Rules 2016 (as amended 2018), microbiology, biotechnology and other clinical laboratory waste (cultures, stocks, specimens of micro-organisms, blood bags) is Yellow category. It must be pre-treated on site to sterilize, using non-chlorinated chemicals or as prescribed by NACO/WHO, and then incinerated by the common BMW treatment facility. Chlorinated plastic bags were to be phased out within two years. The 'autoclaving/microwaving' treatment wording comes from the 1998 Rules' Schedule I, which the 2016 Rules replaced on 28 March 2016. The biological-indicator autoclave standard was not re-verified in the 2016 Schedule II text.",
+     "reason": "Several secondary summaries of the 2016 Rules agree on the pre-treatment-then-incineration route: an AIIMS salient-features PDF, an NHL Medical College table and a Kerala government policy. The cited Nagaland PCB copy follows the older 1998 format. The official CPCB gazette text was not retrieved, so the exact wording should be checked there.",
+     "url": "https://aiims.edu/images/pdf/Departments_Centers/BiomedicalWaste/salient%20features.pdf"
+    },
+    {
+     "claim": "NABL's medical-lab disciplines are Clinical Biochemistry, Clinical Pathology, Haematology & Immunohaematology, Microbiology & Serology, Histopathology, Cytopathology, Genetics, and Nuclear Medicine (in-vitro only); veterinary testing is not among them.",
+     "verdict": "corrected",
+     "corrected_value": "That list comes from the older NABL 112 (2008-2019 era). One lab's ISO 15189:2022 NABL certificate (Tata Memorial) uses these disciplines instead: Clinical Biochemistry, Clinical Pathology, Cytogenetics, Cytopathology, Haematology, Histopathology, Microbiology & Infectious Disease Serology, and Molecular Testing. Veterinary testing does not appear in either list. NABL says medical labs must implement NABL 112A by 31 Dec 2025.",
+     "reason": "The old list matches only a pre-2022 gap-analysis slide. A current ISO 15189:2022 scope shows different discipline names. The authoritative current list in NABL 112A was not retrieved, so the new names rest on one lab's certificate.",
+     "url": "https://tmc.gov.in/Service_Directory/nabl-certificate"
+    },
+    {
+     "claim": "The searches did not show whether avian influenza, African swine fever, FMD, brucellosis, anthrax or rabies are scheduled under PCICDA 2009.",
+     "verdict": "corrected",
+     "corrected_value": "Avian influenza is scheduled: a secondary listing of the Schedule (Pashudhan Praharee) puts highly and low pathogenic avian influenza in poultry in the poultry-specific group. African swine fever was not found in any result and remains unconfirmed. FMD, brucellosis, anthrax and rabies were not seen in the search output and remain unconfirmed.",
+     "reason": "Based on a secondary source only. Check against the India Code gazette PDF.",
+     "url": "https://www.pashudhanpraharee.com/the-prevention-and-control-of-infectious-and-contagious-diseases-in-animals-act-2009/"
+    },
+    {
+     "claim": "Lumpy skin disease is a scheduled disease in the cattle part of the Schedule (Schedule A(b), item 11), between IBR and malignant catarrhal fever.",
+     "verdict": "unverifiable",
+     "reason": "LSD being a scheduled disease is supported. Its placement is not: a secondary listing (Pashudhan Praharee) as summarised by search puts LSD in a 'multiple-species' group alongside haemorrhagic septicaemia and MCF. This conflicts with 'cattle part, item 11', and the official gazette text was not retrieved. Cite LSD as scheduled without a part or item number until the India Code PDF is checked.",
+     "url": "https://www.indiacode.nic.in/bitstream/123456789/18662/1/the_prevention_and_control_of_infectious_and_contagious_diseases_in_animals_act,_2009_.pdf"
+    },
+    {
+     "claim": "India launched NADCP in 2019, aiming to give a unique Pashu Aadhaar ID to 535 million animals.",
+     "verdict": "unverifiable",
+     "reason": "Confirmed: NADCP was launched at Mathura in September 2019 for FMD and brucellosis, fully centrally funded (Rs 12,652 crore), with a target of 36 million female bovine calves a year for brucellosis vaccination, control by 2025 and eradication by 2030. The term 'Pashu Aadhaar' and the 535 million (53.5 crore) figure were not found, and one report gives a different FMD vaccination target. A current, citable alternative: the Bharat Pashudhan portal gives each registered animal a 12-digit tag ID, and more than 39 crore livestock were registered by July 2026 (PIB document, Aug 2026).",
+     "url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/national-animal-disease-control-programme-national-artificial-insemination-programme"
+    },
+    {
+     "claim": "ICAR-NIVEDI (Bengaluru) is on WOAH's reference laboratory list for leptospirosis, and a KVAFSU rabies laboratory is also on WOAH's list.",
+     "verdict": "confirmed",
+     "reason": "NIVEDI part confirmed by ICAR: its Leptospirosis Research Laboratory was designated a WOAH Reference Laboratory at the 91st General Session on 30 May 2024 and inaugurated on 2 Jan 2025. NIVEDI's PPR laboratory was designated at the same time. ICAR sources disagree on whether it is one of five or six such labs worldwide. The KVAFSU rabies listing rests on a single secondary source in this re-check, so check it against the live WOAH list. ICAR-NIHSAD Bhopal is again shown as a WOAH reference lab for avian influenza, and ICAR-NRC Equine for equine piroplasmosis.",
+     "url": "https://icar.org.in/en/icar-nivedis-laboratories-peste-des-petits-ruminants-and-leptospirosis-receive-woah-reference"
+    },
+    {
+     "claim": "ICAR-NIHSAD Bhopal is India's WOAH reference laboratory for avian influenza and DAHD has designated it to confirm any avian influenza case in India.",
+     "verdict": "confirmed",
+     "reason": "An independent search on WOAH reference labs in India again lists ICAR-NIHSAD Bhopal as a WOAH reference lab for avian influenza and a BSL-3 facility. The DAHD confirmatory role was not re-searched but matches the revised 2021 AI Action Plan.",
+     "url": "https://www.gktoday.in/india-achieves-woah-reference-laboratory-status/"
+    },
+    {
+     "claim": "VETLAB calls itself India's first privately managed NABL-accredited veterinary laboratory, with an ISO/IEC 17025:2005 quality system in biological testing.",
+     "verdict": "unverifiable",
+     "reason": "Only VETLAB's own pages (vetlab.in, vetlab.co.in) make the claim; no independent or NABL-directory confirmation was found. The 2005 edition of ISO/IEC 17025 has been withdrawn, which suggests the page is out of date. Supporting context: an older copy of NABL's ISO/IEC 17025:2017 directory (2019 entries, forum-hosted) lists an ICAR avian influenza testing lab and an aquatic animal health lab. This supports the inference that Indian animal-disease labs are accredited under 17025, not 15189.",
+     "url": "https://vetlab.in/about-us/quality-compliance/"
+    },
+    {
+     "claim": "Whether an ISO 15189 human lab can add veterinary tests to its scope or needs separate ISO/IEC 17025 (biological testing) accreditation is not shown.",
+     "verdict": "unverifiable",
+     "reason": "No NABL statement was found. Indirect evidence points to 17025: NABL-directory listings of animal-disease labs (ICAR avian influenza lab) under ISO/IEC 17025:2017, and none under 15189. Still an inference; confirm directly with NABL.",
+     "url": "https://nabl-india.org/nabl/file_download1.php?filename=202402091240-NABL-500-doc.pdf"
+    },
+    {
+     "claim": "A 2016 VCI draft of the Minimum Standards of Veterinary Practice Regulations defines an 'Animal Disease Diagnostic Laboratory' and requires it to be under the charge of a Registered Veterinary Practitioner.",
+     "verdict": "unverifiable",
+     "reason": "The draft exists and lists an animal disease diagnostic laboratory as a unit type, but no gazette-notified final version was found. A July 2025 DAHD/VCI draft notification refers to the Council's Minimum Standards of Veterinary Practice, which suggests the matter was still at draft stage in 2025. Note also that the GVC-hosted file labelled 'Veterinary Practice Regulation (2008)' appears to be styled the '(Veterinary Practice) Regulations, 2005', in force from publication in the Gazette. Its year label should be checked before citing it.",
+     "url": "https://www.dahd.gov.in/sites/default/files/2025-08/DRAFT-RULE-30-07-2025.pdf"
+    }
+   ]
+  }
+ },
+ {
+  "topic": "market",
+  "research": {
+   "facts": [
+    {
+     "topic": "1. Livestock - Maharashtra (20th census 2019)",
+     "claim": "Maharashtra's total livestock in the 20th Livestock Census (2019) was 330.80 lakh. That ranks 7th in India and is 1.82% higher than the 2012 census.",
+     "confirmed": true,
+     "url": "https://cdnbbsr.s3waas.gov.in/s369dafe8b58066478aea48f3d0f384820/uploads/2024/02/202402131605550676.pdf",
+     "source_title": "Livestock Census - 2019 Maharashtra State (Govt PDF)",
+     "value": "330.80 lakh; rank 7; +1.82%",
+     "note": "Official state report PDF hosted on a Govt S3WaaS site. A slideshow puts the total at 33.1 million, so secondary sources round differently."
+    },
+    {
+     "topic": "1. Livestock - Maharashtra (20th census 2019)",
+     "claim": "Maharashtra's cattle population fell 9.63% between the 2012 and 2019 censuses.",
+     "confirmed": true,
+     "url": "https://cdnbbsr.s3waas.gov.in/s369dafe8b58066478aea48f3d0f384820/uploads/2024/02/202402131605550676.pdf",
+     "source_title": "Livestock Census - 2019 Maharashtra State",
+     "value": "-9.63% cattle"
+    },
+    {
+     "topic": "1. Livestock - Maharashtra (20th census 2019)",
+     "claim": "Maharashtra had about 74.30 million poultry birds in 2019, which is 8.72% of India's poultry population.",
+     "confirmed": false,
+     "url": "https://actascientific.com/ASVS/pdf/ASVS-04-0269.pdf",
+     "source_title": "Status of Animal Husbandry in Maharashtra (Acta Scientific Veterinary Sciences)",
+     "value": "74.30 million poultry (~743 lakh); 8.72% of national",
+     "note": "The search summary gave this figure without naming which result it came from; the Acta Scientific paper is the most likely source. Check it against the official Maharashtra 2019 state report (https://cdnbbsr.s3waas.gov.in/s369dafe8b58066478aea48f3d0f384820/uploads/2024/02/202402131737819886.pdf)."
+    },
+    {
+     "topic": "1. Livestock - Maharashtra (20th census 2019)",
+     "claim": "Maharashtra cattle were about 13.90 million (7.22% of India, rank 5). Buffalo were about 5.60 million (5.10%, rank 7). Goats were about 10.60 million (+25.72% over 2012, rank 6). Sheep were about 2.7 million (+3.87%, rank 7).",
+     "confirmed": false,
+     "url": "https://actascientific.com/ASVS/pdf/ASVS-04-0269.pdf",
+     "source_title": "Status of Animal Husbandry in Maharashtra (likely source)",
+     "value": "Cattle ~139 lakh; buffalo ~56 lakh; goat ~106 lakh; sheep ~27 lakh",
+     "note": "The search summary did not say which of the listed pages these numbers came from. Check them against the official state report before using them in the deck."
+    },
+    {
+     "topic": "1. Livestock - Maharashtra (20th census 2019)",
+     "claim": "Maharashtra's poultry population grew 17.63% between the 2012 and 2019 censuses. India's poultry population was 851.81 million, up 16.8%.",
+     "confirmed": true,
+     "url": "https://link.springer.com/article/10.1007/s44279-025-00209-4",
+     "source_title": "Growth dynamics and sectoral instability in livestock and poultry: a policy-centric analysis with focus on Maharashtra (Springer, 2025)",
+     "value": "MH poultry +17.63%; India poultry 851.81 million (+16.8%)",
+     "note": "The same paper says Maharashtra has 14 million cattle and 5 million buffalo. Another search summary called the buffalo figure questionable."
+    },
+    {
+     "topic": "1. Livestock - India (20th census 2019)",
+     "claim": "India's 20th Livestock Census counted 535.78 million livestock, 4.6% more than in 2012.",
+     "confirmed": true,
+     "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1588304",
+     "source_title": "PIB: DAHD releases 20th Livestock Census",
+     "value": "535.78 million; +4.6%",
+     "note": "Another result gives 536.76 million (+4.8%). The PIB press release is the official figure."
+    },
+    {
+     "topic": "1. Livestock - India (20th census 2019)",
+     "claim": "National totals in the 20th census were 192.49 million cattle, 109.85 million buffalo and 148.88 million goats.",
+     "confirmed": true,
+     "url": "https://static.pib.gov.in/WriteReadData/userfiles/key%20results.pdf",
+     "source_title": "20th Livestock Census Key Results (PIB)",
+     "value": "Cattle 192.49 M; Buffalo 109.85 M; Goat 148.88 M"
+    },
+    {
+     "topic": "1. Livestock - India (20th census 2019)",
+     "claim": "Fieldwork for the 20th Livestock Census ran from 1 October 2018 to about September 2019, covering about 6.6 lakh villages and 89,062 urban wards.",
+     "confirmed": true,
+     "url": "https://ruralindiaonline.org/en/library/resource/20th-livestock-census-2019-all-india-report/",
+     "source_title": "20th Livestock Census-2019: All India Report - PARI",
+     "value": "6.6 lakh villages; 89,062 urban wards",
+     "note": "The end date appeared as 20 September 2019 in a search summary; check it against the report."
+    },
+    {
+     "topic": "1. Livestock - Nagpur district",
+     "claim": "No Nagpur district figures from the 2019 census turned up in search. DAHD publishes district-wise cattle, buffalo and goat files for 2019 on its statistics page. IndiaStat's Nagpur poultry page carries 2012 census data, and its numbers were not visible.",
+     "confirmed": false,
+     "url": "https://dahd.nic.in/about-us/divisions/statistics",
+     "source_title": "DAHD Animal Husbandry Statistics",
+     "note": "GAP: Nagpur district and Nagpur division 2019 numbers still need to be taken from the DAHD district files or the Maharashtra state report PDF. Related page: https://www.indiastatdistricts.com/MAHARASHTRA/nagpur/agriculture/poultrypopulation (2012 data)."
+    },
+    {
+     "topic": "1. Livestock - Vidarbha district comparator",
+     "claim": "Gadchiroli district (Nagpur division) had 459,471 cattle, 66,259 buffalo and 239,587 goats in the 20th Livestock Census.",
+     "confirmed": true,
+     "url": "https://en.vikaspedia.in/viewcontent/aspirational-districts/maharashtra/gadchiroli/connect-to-your-district/livestock-statistics-of-gadchiroli?lgn=en",
+     "source_title": "Vikaspedia - Livestock statistics of Gadchiroli",
+     "value": "Cattle 459,471; Buffalo 66,259; Goat 239,587",
+     "note": "Gadchiroli is a neighbouring district in Nagpur division, not Nagpur itself."
+    },
+    {
+     "topic": "1. Livestock - 21st census status",
+     "claim": "Fieldwork for the 21st Livestock Census ran from October 2024 to February 2025 across all States and UTs. Results were expected later in 2025, possibly by July 2025.",
+     "confirmed": false,
+     "url": "https://www.iasgyan.in/daily-current-affairs/21st-livestock-census-of-india",
+     "source_title": "21st Livestock Census of India - IASGyan",
+     "note": "Search found no published 21st census results, national or Maharashtra, as of these results. Before the deck uses 2019 numbers as the latest, check whether DAHD has released them (https://dahd.nic.in/about-us/divisions/statistics). Also see https://www.drishtiias.com/daily-updates/daily-news-analysis/21st-livestock-census-1."
+    },
+    {
+     "topic": "1. Pet market India",
+     "claim": "IMARC puts the India pet care products market at USD 8.6 billion in 2025 and projects USD 13.9 billion by 2034, a 5.24% CAGR over 2026-2034.",
+     "confirmed": true,
+     "url": "https://www.imarcgroup.com/india-pet-care-products-market",
+     "source_title": "IMARC - India Pet Care Products Market",
+     "value": "USD 8.6 bn (2025) to 13.9 bn (2034); CAGR 5.24%",
+     "note": "Other estimates of market size vary by more than 10 times."
+    },
+    {
+     "topic": "1. Pet market India",
+     "claim": "Expert Market Research puts the India pet care products market at USD 777.02 million in 2025, growing at a 23.70% CAGR to USD 6,518.22 million by 2035.",
+     "confirmed": true,
+     "url": "https://www.expertmarketresearch.com/reports/india-pet-care-products-market",
+     "source_title": "Expert Market Research - India Pet Care Products Market",
+     "value": "USD 777.02 M (2025); CAGR 23.70%"
+    },
+    {
+     "topic": "1. Pet market India",
+     "claim": "Nexdigm values the India pet care market at USD 720 million and estimates 31 million pet dogs as of end-2023.",
+     "confirmed": true,
+     "url": "https://www.nexdigm.com/market-research/report-store/india-pet-care-market-report/",
+     "source_title": "Nexdigm - India Pet Care Market Report",
+     "value": "USD 720 M; 31 million pet dogs (end-2023)"
+    },
+    {
+     "topic": "1. Pet market India",
+     "claim": "IMARC says the India pet food market grew from USD 1.80 billion (2020) to USD 2.52 billion (2025), estimates USD 2.69 billion in 2026 and projects USD 4.60 billion by 2034 (about 6.91% CAGR). IMARC uses a range of 31-37 million pet dogs.",
+     "confirmed": true,
+     "url": "https://www.imarcgroup.com/india-pet-food-market",
+     "source_title": "IMARC - India Pet Food Market",
+     "value": "USD 2.52 bn (2025); 6.91% CAGR"
+    },
+    {
+     "topic": "1. Pet market India",
+     "claim": "Euromonitor says India's pet population grew about 5% in 2024 and expects similar growth in 2025, reaching 39 million pets.",
+     "confirmed": true,
+     "url": "https://www.euromonitor.com/pet-care-in-india/report",
+     "source_title": "Euromonitor - Pet Care in India",
+     "value": "~5% growth; 39 million pets (2025)"
+    },
+    {
+     "topic": "1. Pet market India",
+     "claim": "An industry quote in Indian Retailer projects that India's pet population will grow at a 9% CAGR over the next five years, and the article headline says pet care retail will grow 113% by 2030.",
+     "confirmed": true,
+     "url": "https://www.indianretailer.com/article/retail-business/trends/how-indias-pet-care-market-poised-113-pc-retail-growth-2030",
+     "source_title": "Indian Retailer - India's pet care market poised for 113 pc retail growth by 2030",
+     "value": "Pet population CAGR 9%",
+     "note": "This is an industry executive's projection, not survey data."
+    },
+    {
+     "topic": "1. Pet market India",
+     "claim": "Dogster projects India's dog population at 43.9 million by 2026.",
+     "confirmed": false,
+     "url": "https://www.dogster.com/statistics/pet-ownership-statistics-india/",
+     "source_title": "Dogster - India Pet Ownership Statistics 2026",
+     "value": "43.9 million dogs (2026, projected)",
+     "note": "Secondary aggregator, and the figure is high compared with other sources. Low reliability."
+    },
+    {
+     "topic": "1. Veterinary diagnostics market India",
+     "claim": "IMARC values the India veterinary diagnostics market at USD 248.2 million in 2025 and projects USD 443.1 million by 2034, a 6.45% CAGR over 2026-2034.",
+     "confirmed": true,
+     "url": "https://www.imarcgroup.com/india-veterinary-diagnostics-market",
+     "source_title": "IMARC - India Veterinary Diagnostics Market",
+     "value": "USD 248.2 M (2025); CAGR 6.45%",
+     "note": "Another estimate in the same results gave about USD 111.5 million (2025) at a 10.2% CAGR, and openpr cites USD 430.0 million by 2033 at a 7% CAGR (https://www.openpr.com/news/4258712/india-veterinary-diagnostics-market-size-to-hit-usd-430-0). Estimates vary."
+    },
+    {
+     "topic": "1. Veterinary diagnostics market India",
+     "claim": "Market reports say growth comes from rising urban pet ownership, livestock-sector expansion, premium pet healthcare and insurance adoption, and growing private clinic networks and corporate pet-hospital chains.",
+     "confirmed": true,
+     "url": "https://www.marketsandmarkets.com/Market-Reports/geography/veterinary-diagnostics-market/india",
+     "source_title": "MarketsandMarkets - India Veterinary Diagnostics Market",
+     "note": "These drivers are given qualitatively. Some came from other market-report pages in the same result set, such as Mordor (https://www.mordorintelligence.com/industry-reports/india-veterinary-healthcare-market-industry)."
+    },
+    {
+     "topic": "2. Veterinary institutions - Nagpur",
+     "claim": "Nagpur Veterinary College was founded in 1958 and is affiliated with Maharashtra Animal and Fishery Sciences University (MAFSU).",
+     "confirmed": true,
+     "url": "https://en.wikipedia.org/wiki/Nagpur_Veterinary_College",
+     "source_title": "Wikipedia - Nagpur Veterinary College",
+     "value": "Est. 1958"
+    },
+    {
+     "topic": "2. Veterinary institutions - Nagpur",
+     "claim": "The Teaching Veterinary Clinical Complex (TVCC) at Nagpur Veterinary College was set up in 1986 with ICAR funding. It publishes fees for registration, indoor patients and anti-rabies vaccination for cattle, buffalo, sheep, goats, dogs, cats, horses and birds.",
+     "confirmed": true,
+     "url": "https://nvcmafsu.ac.in/Veterinary-clinical-complex-nvc.php",
+     "source_title": "NVC - Veterinary Clinical Complex",
+     "value": "TVCC est. 1986 (ICAR)",
+     "note": "The current list of TVCC lab tests and their fees did not turn up. College contact: dean.nvc.mafsu@gmail.com, +91-712-2510883."
+    },
+    {
+     "topic": "2. Veterinary institutions - Nagpur",
+     "claim": "The Department of Veterinary Biochemistry at NVC runs biochemical diagnostic services at the TVCC, mainly blood analysis for metabolic, nutritional and organ disorders.",
+     "confirmed": true,
+     "url": "https://nvcmafsu.ac.in/veterinary-biochemistry-nvc.php",
+     "source_title": "NVC - Veterinary Biochemistry"
+    },
+    {
+     "topic": "2. Veterinary institutions - Nagpur",
+     "claim": "The Department of Veterinary Microbiology at NVC offers diagnosis of bacterial, viral and fungal diseases of livestock and poultry. It has bacteriology/mycology, immunology, virology and molecular diagnosis labs.",
+     "confirmed": true,
+     "url": "https://nvcmafsu.ac.in/veterinary-microbiology-nvc.php",
+     "source_title": "NVC - Veterinary Microbiology",
+     "note": "This makes the college both a likely competitor and a possible partner for molecular and microbiology testing."
+    },
+    {
+     "topic": "2. Government veterinary facilities - Nagpur",
+     "claim": "A directory lists a 'District Veterinary Polyclinic' on Amravati Road, Sitabuldi, near Maharaj Bagh, Nagpur 440012. It is listed as open 9 am to 9 pm with X-ray, ECG and general check-up.",
+     "confirmed": false,
+     "url": "https://indiancattle.com/directory/district-veterinary-polyclinic/",
+     "source_title": "Indian Cattle directory - District Veterinary Polyclinic",
+     "note": "Directory listing only; not confirmed as a government (State or Zilla Parishad) facility. The number of government polyclinics and dispensaries in Nagpur district was not found (GAP)."
+    },
+    {
+     "topic": "2. Government veterinary facilities - Vidarbha comparator",
+     "claim": "Zilla Parishad Wardha's animal husbandry department runs 85 veterinary dispensaries.",
+     "confirmed": true,
+     "url": "https://zpwardha.maharashtra.gov.in/en/animal-husbandry-department/",
+     "source_title": "ZP Wardha - Animal Husbandry Department",
+     "value": "85 dispensaries (Wardha district)",
+     "note": "Wardha neighbours Nagpur and is not Nagpur's own figure. It only shows the likely scale of the dispensary network."
+    },
+    {
+     "topic": "2. Private pet clinics - Nagpur",
+     "claim": "Directories list many small pet clinics in Nagpur, including Royal Pet Clinic, Dr. Amol Salankar's Premier Pet Clinic, Rudra Pet Clinic (which also treats exotics) and the college's Veterinary Clinical Complex. Listed consultation fees run from free to Rs 300 at the clinic, with some online consults at Rs 100.",
+     "confirmed": true,
+     "url": "https://www.lybrate.com/nagpur/clinics/veterinary-clinics",
+     "source_title": "Lybrate - Veterinary Clinics in Nagpur",
+     "value": "Consult fee free to Rs 300",
+     "note": "No count of private pet clinics in Nagpur was found (GAP). The Justdial veterinary doctors listing (https://www.justdial.com/Nagpur/Veterinary-Doctors/nct-10519268) or a field survey could give an estimate."
+    },
+    {
+     "topic": "2. Private pet clinics - Nagpur",
+     "claim": "A veterinary company's blog says the veterinary industry in Nagpur is growing because demand keeps rising.",
+     "confirmed": false,
+     "url": "https://www.pecushealthcare.com/top-10-veterinary-companies-in-nagpur",
+     "source_title": "Pecus Healthcare - Top 10 Veterinary Companies in Nagpur",
+     "note": "Qualitative claim with no data. Weak evidence."
+    },
+    {
+     "topic": "3. Competitors - Nagpur",
+     "claim": "Justdial's 'Veterinary Pathology Labs' list for Nagpur includes RUDRA PET CLINIC (Jaitala Road), Royal Pet Clinic and Apex Pathology Lab (Dhantoli). These entries have few ratings.",
+     "confirmed": false,
+     "url": "https://www.justdial.com/Nagpur/Veterinary-Pathology-Labs/nct-10519307",
+     "source_title": "Justdial - Veterinary Pathology Labs in Nagpur",
+     "note": "Directory listing only. It is not confirmed that any of these is a dedicated veterinary reference lab, and the search found none in Nagpur."
+    },
+    {
+     "topic": "3. Competitors - India",
+     "claim": "Apex Pet Health Care (apexpathology.in) advertises veterinary haematology, liver and kidney function tests, electrolyte panels and lipid profiles.",
+     "confirmed": false,
+     "url": "https://www.apexpathology.in/",
+     "source_title": "APEX PET HEALTH CARE",
+     "note": "The city is not shown in the search snippet. It may be linked to Apex Pathology Lab, Dhantoli, Nagpur; check directly."
+    },
+    {
+     "topic": "3. Competitors - India",
+     "claim": "Vetic (pet clinic chain) and VetLab (vetlab.in / vetlab.co.in) offer large veterinary test menus, but their listed locations are Gurugram, Bengaluru and Delhi, not Nagpur. VetLab publishes a large-animal test rate list.",
+     "confirmed": true,
+     "url": "https://vetlab.in/services/large-animals/test-rate-list/",
+     "source_title": "VetLab - Test Rate List (large animals)",
+     "note": "VetLab's actual prices were not visible in the snippets. Vetic: https://vetic.in/pet-diagnostics-near-me."
+    },
+    {
+     "topic": "3. Competitors - India",
+     "claim": "IDEXX has an Indian subsidiary, IDEXX Laboratories Private Limited, at WTC Bangalore, Brigade Gateway, Malleswaram, Bengaluru 560055. Worldwide, IDEXX runs more than 80 reference labs serving more than 50,000 practices. The search found no IDEXX reference lab in India.",
+     "confirmed": true,
+     "url": "https://www.idexx.com/en/about-idexx/locations/locations-and-iso-certificates/",
+     "source_title": "IDEXX worldwide locations list",
+     "note": "No IDEXX reference lab in India was found; this is unconfirmed rather than proven absent. IDEXX's role in India appears to be point-of-care analysers and distribution. The 80+ labs figure is from https://careers.idexx.com/us/en/referencelaboratories."
+    },
+    {
+     "topic": "3. Competitors - India",
+     "claim": "Pranidhi Veterinary Diagnostics sells online veterinary tests, including a canine CBC.",
+     "confirmed": true,
+     "url": "https://pranidhi.in/shop/services/canine-testing/canine-cbc/",
+     "source_title": "Pranidhi Veterinary Diagnostics - Canine CBC",
+     "note": "Location and full test menu not confirmed."
+    },
+    {
+     "topic": "3. Competitors - India",
+     "claim": "Max Lab (a human diagnostics brand) lists an 'Immunohistochemistry Dog 1' test for online booking, so at least one human lab chain takes some veterinary histopathology work.",
+     "confirmed": false,
+     "url": "https://www.maxlab.co.in/lab-tests/immunohistochemistry-dog-1",
+     "source_title": "Max Lab - Immunohistochemistry Dog 1",
+     "note": "Only the listing title was seen; price and scope not confirmed."
+    },
+    {
+     "topic": "3. Competitors - India",
+     "claim": "TANUVAS (Tamil Nadu Veterinary and Animal Sciences University) offers rabies antibody estimation testing for vaccinated pets.",
+     "confirmed": true,
+     "url": "https://tanuvas.ac.in/pdf/abt/3.pdf",
+     "source_title": "TANUVAS - Testing Services for Rabies Antibody Estimation in Vaccinated Pets",
+     "note": "Shows that veterinary universities sell diagnostic services. A Nagpur lab could look at rabies titre testing as a niche, but that would need its own accreditation."
+    },
+    {
+     "topic": "3. Competitors - India",
+     "claim": "Human diagnostics chains are expanding: Thyrocare opened its 30th lab (Bhagalpur, Bihar) in May 2025, and Lupin Diagnostics says all 27 of its greenfield labs are NABL accredited. None of the results shows a human lab chain launching a full veterinary line.",
+     "confirmed": true,
+     "url": "https://www.techsciresearch.com/report/india-diagnostic-labs-market/7649.html",
+     "source_title": "TechSci - India Diagnostic Labs Market",
+     "note": "Attribution of these items among the market-report pages is approximate. A human NABL lab entering veterinary testing could be a differentiator, but the search could not confirm that none already exists."
+    },
+    {
+     "topic": "4. Prices - India",
+     "claim": "Pranidhi Veterinary Diagnostics lists a canine CBC at Rs 500, with results in 24-48 hours.",
+     "confirmed": true,
+     "url": "https://pranidhi.in/shop/services/canine-testing/canine-cbc/",
+     "source_title": "Pranidhi - Canine CBC",
+     "value": "Rs 500; 24-48 h TAT"
+    },
+    {
+     "topic": "4. Prices - India",
+     "claim": "Truemedix lists a dog CBC at Rs 360, discounted from Rs 482.",
+     "confirmed": true,
+     "url": "https://truemedix.in/product/complete-blood-count-cbc-dog-new",
+     "source_title": "Truemedix - Complete Blood Count (CBC) Dog",
+     "value": "Rs 360 (MRP Rs 482)"
+    },
+    {
+     "topic": "4. Prices - India",
+     "claim": "Easzopets sells an 'Essential Care' dog package (CBC + KFT + LFT) at Rs 2,600 for non-members and Rs 2,249 for members, with home blood collection. Its 'Complete Care' package adds glucose, peripheral smear, urine routine and a thyroid profile for Rs 5,550 (non-member) or Rs 4,750 (member).",
+     "confirmed": true,
+     "url": "https://easzopets.com/services/pet-lab-diagnostics/",
+     "source_title": "Easzopets - Pet Lab Diagnostics",
+     "value": "CBC+KFT+LFT Rs 2,600/2,249; Complete Rs 5,550/4,750"
+    },
+    {
+     "topic": "4. Prices - India",
+     "claim": "Vetic lists feline blood tests at Rs 799 for CBC, Rs 1,249 for LFT and Rs 1,249 for KFT.",
+     "confirmed": true,
+     "url": "https://vetic.in/blog/pet-health/feline-blood-test-cost-in-india-types-and-pricing-explained/",
+     "source_title": "Vetic - Feline Blood Test Cost in India",
+     "value": "CBC Rs 799; LFT Rs 1,249; KFT Rs 1,249"
+    },
+    {
+     "topic": "4. Prices - India",
+     "claim": "No Indian rupee prices were found for canine total T4, cortisol or ACTH stimulation, canine progesterone, tick-fever PCR panel, parvovirus or distemper PCR, leptospira PCR, urinalysis, or cytology and histopathology at Indian veterinary labs.",
+     "confirmed": false,
+     "url": "https://vetic.in/blog/dogs/what-is-tick-fever-in-dogs/",
+     "source_title": "Vetic - Tick Fever in Dogs (describes the panel; no price)",
+     "note": "GAP: get these by mystery-shopping or calling VetLab, Vetic, Pranidhi, Easzopets and Nagpur clinics. Indian clinic pages describe a 'Canine Tick-Borne Disease Advanced Panel' (PCR for Babesia, Ehrlichia, Hepatozoon, Anaplasma) but give no price."
+    },
+    {
+     "topic": "4. Prices - human-lab reference (India)",
+     "claim": "For reference, human-lab prices in India: serum progesterone is Rs 740 at Metropolis. Thyrocare's progesterone is about Rs 638-680, discounted from Rs 766.",
+     "confirmed": true,
+     "url": "https://www.metropolisindia.com/parameter/progesterone-test",
+     "source_title": "Metropolis - Progesterone Test",
+     "value": "Rs 740 (Metropolis); ~Rs 638-680 (Thyrocare)",
+     "note": "These are human test prices, a floor for veterinary pricing. Thyrocare source: https://www.healthcheckup.co.in/package/progesterone; the page title says Rs 680 and the snippet says Rs 638."
+    },
+    {
+     "topic": "4. Prices - human-lab reference (India)",
+     "claim": "For reference, a human T4 test in India costs about Rs 300-700, and a full thyroid profile about Rs 700-1,500.",
+     "confirmed": true,
+     "url": "https://doctar.in/blogs/nutrition/diet/t4-test-cost-in-india-your-guide-to-thyroid-check-ups",
+     "source_title": "Doctar - T4 Test Cost in India",
+     "value": "T4 Rs 300-700; profile Rs 700-1,500",
+     "note": "Human-lab benchmark only. Free T4 is Rs 125 at the CGHS rate, Rs 300 at Dr Lal, Rs 380 at Metropolis and Rs 749 at Apollo 24|7, per https://ayuapp.com/blog/thyroid-test-price-india."
+    },
+    {
+     "topic": "4. Prices - international benchmark",
+     "claim": "University of Tennessee veterinary diagnostic prices (updated 05/08/2026): T4 USD 22.00; baseline progesterone USD 32.00; canine parvovirus qPCR USD 73.75; canine distemper RT-qPCR USD 73.75.",
+     "confirmed": true,
+     "url": "https://vetmed.tennessee.edu/wp-content/uploads/sites/4/DLS_PriceSchedule.pdf",
+     "source_title": "UTK Diagnostic Laboratory Services Price Schedule",
+     "value": "T4 $22; P4 $32; Parvo/CDV PCR $73.75",
+     "note": "US prices, not comparable in rupees. Benchmark only."
+    },
+    {
+     "topic": "4. Prices - international benchmark",
+     "claim": "Cornell AHDC 2025 fees: baseline cortisol USD 20.00; canine progesterone RIA USD 18.00. Cornell's January 2023 list priced canine distemper PCR at USD 41.00.",
+     "confirmed": true,
+     "url": "https://www.vet.cornell.edu/animal-health-diagnostic-center/about/news/fees-2025",
+     "source_title": "Cornell AHDC - Fees for 2025",
+     "value": "Cortisol $20; Progesterone $18",
+     "note": "US benchmark. 2023 list: https://www.vet.cornell.edu/sites/default/files/AHDC%20Test%20and%20Price%20List%20January%202023_3.pdf"
+    },
+    {
+     "topic": "4. Prices - international benchmark",
+     "claim": "Iowa State clinical pathology fees (from July 2024): cortisol USD 26; progesterone USD 36; T4 USD 23.",
+     "confirmed": true,
+     "url": "https://vetmed.iastate.edu/vpath/services/diagnostic-services/clinical-pathology-diagnostic-and-research-services/testing-and-fees/fee-schedule/",
+     "source_title": "Iowa State Veterinary Pathology - Fee Schedule",
+     "value": "Cortisol $26; P4 $36; T4 $23"
+    },
+    {
+     "topic": "4. Prices - international benchmark",
+     "claim": "UC Davis Real-time PCR core lists a canine vector-borne panel at USD 133 and single-organism PCR tests at USD 54.",
+     "confirmed": true,
+     "url": "https://pcrlab.vetmed.ucdavis.edu/veterinary-diagnostics/veterinary-submission-formsdiagnostic-tests-and-panels",
+     "source_title": "UC Davis Real-time PCR Research and Diagnostics Core",
+     "value": "Vector-borne panel $133; single PCR $54"
+    },
+    {
+     "topic": "4. Clinical rationale - tick fever PCR",
+     "claim": "In an Indian survey of 525 dogs, Hepatozoon canis was the most common tick-borne pathogen (30%), followed by Ehrlichia canis (20.6%). 39% of infected dogs had more than one pathogen. PCR detected circulating pathogens more sensitively than peripheral blood smear.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3162925/",
+     "source_title": "A survey of canine tick-borne diseases in India (Parasites & Vectors 2011; PMC3162925)",
+     "value": "n=525; H. canis 30%; E. canis 20.6%; co-infection 39%",
+     "note": "Supports offering a multiplex tick-fever PCR panel on the existing molecular platform."
+    },
+    {
+     "topic": "5. Dairy - Vidarbha",
+     "claim": "NDDB and the Government of Maharashtra signed an MoU in 2013 to develop dairying in the drought-prone Vidarbha and Marathwada regions (the Vidarbha and Marathwada Dairy Development Project, VMDDP). Mother Dairy, a wholly owned NDDB subsidiary, provides the market access.",
+     "confirmed": true,
+     "url": "https://www.nddb.coop/node/2105",
+     "source_title": "NDDB - Vidarbha & Marathwada Dairy Development Project transforming lives",
+     "note": "Sources disagree on the number of districts: the 2017 release says 7, NDDB says 10, and a 2024 report says 11."
+    },
+    {
+     "topic": "5. Dairy - Vidarbha",
+     "claim": "VMDDP milk procurement began in 2016. By October 2017 more than 15,000 farmers in 970 villages were supplying over 1 lakh litres a day.",
+     "confirmed": true,
+     "url": "https://www.motherdairy.com/pdf/PR/2017/2017-10-16.pdf",
+     "source_title": "Mother Dairy press release, 16 Oct 2017",
+     "value": ">15,000 farmers; 970 villages; >1 lakh L/day"
+    },
+    {
+     "topic": "5. Dairy - Vidarbha",
+     "claim": "A later report put VMDDP procurement at an average of 1,85,000 litres a day from 1,454 milk pooling points.",
+     "confirmed": true,
+     "url": "https://www.dairyindustries.com/news/35782/dairy-development-by-nddb-in-india/",
+     "source_title": "Dairy Industries International - Dairy development by NDDB in India",
+     "value": "1.85 lakh L/day; 1,454 MPPs",
+     "note": "Which result carried this figure is approximate; it may be the NDDB page instead."
+    },
+    {
+     "topic": "5. Dairy - Vidarbha",
+     "claim": "Marathvarhad Milk Producer Organisation is a women-owned MPO incorporated on 9 January 2025, with its registered office in Nagpur. In 2025 it collected about 4 lakh litres a day from about 35,000 farmers. It aims to reach 6,000 villages, enrol 1.85 lakh women members and procure 11 lakh kg/day within 5 years.",
+     "confirmed": true,
+     "url": "https://nuffoodsspectrum.in/2025/03/18/women-led-marathvarhad-mpo-aims-to-increase-milk-procurement-to-11-lakh-kg-per-day.html/",
+     "source_title": "FFOODS Spectrum - Women-led Marathvarhad MPO (Mar 2025)",
+     "value": "~4 lakh L/day; ~35,000 farmers; target 11 lakh kg/day",
+     "note": "A dairy herd of this size will need animal-health tests such as mastitis, brucellosis, metabolic profiles and pregnancy diagnosis, which suits B2B contracts. This need is inferred; no source on the MPO's testing needs was found."
+    },
+    {
+     "topic": "5. Dairy - Vidarbha",
+     "claim": "VMDDP refurbished the Nagpur Dairy plant, which can process 200,000 litres a day.",
+     "confirmed": true,
+     "url": "https://www.nddb.coop/node/2105",
+     "source_title": "NDDB - VMDDP",
+     "value": "2 lakh L/day"
+    },
+    {
+     "topic": "5. Dairy - Vidarbha",
+     "claim": "In November 2023 Nitin Gadkari laid the foundation stone for Mother Dairy's greenfield milk plant on a 25-acre site in Butibori Industrial Estate, Nagpur. Planned capacity is 6 lakh litres a day, expandable to 10 lakh.",
+     "confirmed": true,
+     "url": "https://nuffoodsspectrum.in/2023/11/29/gadkari-lays-of-foundation-stone-of-mother-dairys-milk-processing-plant-at-nagpur.html",
+     "source_title": "FFOODS Spectrum - Gadkari lays foundation stone of Mother Dairy plant at Nagpur",
+     "value": "6 lakh L/day (expandable to 10 lakh)",
+     "note": "Whether the plant is operating as of October 2026 is not confirmed."
+    },
+    {
+     "topic": "5. Dairy - Vidarbha",
+     "claim": "In August 2024 the Maharashtra government approved more than Rs 149 crore for Phase 2 of the dairy development programme, covering all 19 districts of Vidarbha and Marathwada.",
+     "confirmed": true,
+     "url": "https://www.newsonair.gov.in/maharashtra-govt-approves-\u20b9149-crore-for-phase-two-of-dairy-development-program-in-vidarbha-marathwada",
+     "source_title": "News On AIR - Maharashtra approves Rs 149 crore for Phase 2",
+     "value": ">Rs 149 crore; 19 districts"
+    }
+   ],
+   "gaps": "Searches run: 18 of 18. Still missing:\n(a) Nagpur district and Nagpur division figures from the 2019 livestock census. These need the DAHD district-wise files or the official Maharashtra 2019 state report PDF; the Maharashtra species split of cattle, buffalo, goat and poultry should also be checked against that report.\n(b) Whether 21st Livestock Census results have been released. None were found.\n(c) Number of government veterinary dispensaries and polyclinics in Nagpur district, whether a Regional or District Disease Investigation Laboratory exists in Nagpur, and the number of private pet clinics in Nagpur.\n(d) Indian rupee prices for canine T4, cortisol, ACTH stimulation, canine progesterone, tick-fever PCR, parvovirus, distemper and leptospira PCR, feline panels beyond CBC/LFT/KFT, urinalysis, and cytology/histopathology. Only US benchmarks and Indian human-lab prices were found.\n(e) Any dedicated veterinary reference lab in Nagpur or Central India. None was confirmed, and IDEXX has no confirmed reference lab in India.\n(f) Testing needs of the Vidarbha dairy and poultry sectors, such as mastitis, brucellosis or avian influenza surveillance contracts, and Vidarbha poultry numbers. No sources were found.\n(g) Pet population for Nagpur city. Not found."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "21st Livestock Census: fieldwork ran October 2024 to February 2025, with results expected later in 2025, possibly by July 2025.",
+     "verdict": "corrected",
+     "corrected_value": "Fieldwork began in October 2024 and was scheduled to run to February 2025. As of 15 Oct 2026 no published 21st census results (national or Maharashtra) turned up in search; the most recent source found still calls them 'awaited'. The 'expected by July 2025' date has passed and is stale. Present the 2019 (20th) census as the latest figures found, and check dahd.nic.in or PIB before the deck is finalised.",
+     "reason": "Two searches (extended) returned only pre-release coverage. No source showed released 21st-census totals. The July 2025 expectation is unconfirmed and outdated.",
+     "url": "https://www.iasgyan.in/daily-current-affairs/21st-livestock-census-of-india"
+    },
+    {
+     "claim": "India 20th Livestock Census (2019) total livestock was 535.78 million, +4.6% over 2012.",
+     "verdict": "confirmed",
+     "reason": "Search summaries agree on 535.78 million as the 2019 total. One secondary source gives 536.76 million; the PIB/DAHD key-results document is the official figure.",
+     "url": "https://static.pib.gov.in/WriteReadData/userfiles/key%20results.pdf"
+    },
+    {
+     "claim": "Maharashtra total livestock in 2019 was 330.80 lakh, ranked 7th in India, +1.82% over 2012.",
+     "verdict": "unverifiable",
+     "reason": "The re-check could not see the official state PDF's contents. A secondary table in the same search results gives Maharashtra rising from 32.5 million (2012) to 33.0 million (2019), +1.61%, which disagrees with +1.82%. Quote the figure from the official Maharashtra report directly and do not mix sources.",
+     "url": "https://cdnbbsr.s3waas.gov.in/s369dafe8b58066478aea48f3d0f384820/uploads/2024/02/202402131737819886.pdf"
+    },
+    {
+     "claim": "Maharashtra cattle fell 9.63% between the 2012 and 2019 censuses.",
+     "verdict": "unverifiable",
+     "reason": "Search found no state-level species percentage changes for Maharashtra (the summary says only national changes were available). This needs the official state report.",
+     "url": "https://dahd.maharashtra.gov.in/en/publication/20-th-livestock-census/"
+    },
+    {
+     "claim": "Maharashtra poultry was about 74.30 million in 2019, 8.72% of India's poultry.",
+     "verdict": "confirmed",
+     "reason": "An independent search returned the same values (74.30 million; 8.72% of national). This is consistent with India's 851.81 million poultry (8.72% x 851.81 = about 74.3 million). It comes from a secondary paper, so cite the official state report where possible.",
+     "url": "https://actascientific.com/ASVS/pdf/ASVS-04-0269.pdf"
+    },
+    {
+     "claim": "Maharashtra cattle about 13.90 million (7.22% of India, rank 5); buffalo about 5.60 million (5.10%, rank 7); goats about 10.60 million (+25.72% over 2012, rank 6); sheep about 2.7 million (+3.87%, rank 7).",
+     "verdict": "corrected",
+     "corrected_value": "Confirmed: cattle 13.90 M (7.22%), buffalo 5.60 M (5.10%, ranked 7th), total bovines 19.50 M, goats 10.60 M, sheep 2.70 M. Additional shares found: goats 7.11% of the national goat population and sheep 3.64% of national sheep. NOT confirmed: goat growth of +25.72% and rank 6, sheep growth of +3.87% and rank 7, and cattle rank 5. No state species-level growth figures were found.",
+     "reason": "The counts and the cattle and buffalo shares match a re-search. The growth rates and most ranks did not appear in any result. The source is a secondary paper, not the official state report.",
+     "url": "https://actascientific.com/ASVS/pdf/ASVS-04-0269.pdf"
+    },
+    {
+     "claim": "IMARC: India veterinary diagnostics market USD 248.2 million in 2025, reaching USD 443.1 million by 2034 (6.45% CAGR, 2026-2034).",
+     "verdict": "confirmed",
+     "reason": "Re-search confirms the figures and shows the report was last updated 21 July 2026. Note that the 'USD 430.0 million by 2033 at 7% CAGR' figure the researcher attributed to openpr is IMARC's own earlier edition (USD 230.0 M in 2024), not an independent estimate. Other firms: MarketsandMarkets USD 111.5 M (2025) to USD 181.3 M (2030) at 10.2%; GII listing USD 224.61 M (FY2024) to USD 460.11 M (FY2032) at 9.38%. Present this as a range, not a single number.",
+     "url": "https://www.imarcgroup.com/india-veterinary-diagnostics-market"
+    },
+    {
+     "claim": "IMARC: India pet care products market USD 8.6 billion (2025) to USD 13.9 billion by 2034, 5.24% CAGR.",
+     "verdict": "confirmed",
+     "reason": "The IMARC page shows these figures. The same search shows that IMARC's figures are internally inconsistent (another IMARC page cites USD 23.84 bn for 2025). Other estimates for 2025 range from USD 628 M (Research and Markets) and USD 777 M (Expert Market Research) to USD 4.3 bn (Ken Research) and USD 14.8 bn (Fortune Business Insights). Redseer gives USD 3.6 bn total pet spend in 2024 and at least USD 7 bn by 2028. Scope varies, so do not present any one figure as the market size.",
+     "url": "https://www.imarcgroup.com/india-pet-care-products-market"
+    },
+    {
+     "claim": "Expert Market Research: India pet care products market USD 777.02 million in 2025, 23.70% CAGR to 2035.",
+     "verdict": "confirmed",
+     "reason": "The figure and CAGR appear in the re-search results. It is a narrow products-only scope, so it is not comparable with IMARC's USD 8.6 bn.",
+     "url": "https://www.expertmarketresearch.com/reports/india-pet-care-products-market"
+    },
+    {
+     "claim": "IMARC: India pet food market USD 2.52 billion in 2025.",
+     "verdict": "confirmed",
+     "reason": "Re-search returned the same 2025 figure. The 2026 estimate, 2034 projection and 6.91% CAGR were not separately re-checked.",
+     "url": "https://www.imarcgroup.com/india-pet-food-market"
+    },
+    {
+     "claim": "Euromonitor: India's pet population grew about 5% in 2024, with similar growth expected in 2025, reaching 39 million pets.",
+     "verdict": "confirmed",
+     "reason": "Confirmed from the Euromonitor report page. 39 million is the expected 2025 level, not a 2024 count. Conflicting secondary figures: one industry article citing Euromonitor says 42 million in 2024 (up from 26 million in 2019), and Ken Research says about 42.2 million companion pets in 2024. Label 39 million as a Euromonitor 2025 projection.",
+     "url": "https://www.euromonitor.com/pet-care-in-india/report"
+    },
+    {
+     "claim": "Indian survey of 525 dogs: Hepatozoon canis was the most common tick-borne pathogen (30%), followed by Ehrlichia canis (20.6%). 39% of infected dogs had more than one pathogen, and PCR was more sensitive than blood-smear examination.",
+     "verdict": "confirmed",
+     "reason": "Megat Abd Rani et al., Parasites & Vectors 4:141 (2011), four Indian cities. Further detail: PCR found at least one pathogen in 49.7% of dogs, while smears found Hepatozoon in only 2.3%. Other PCR prevalences were Mycoplasma haemocanis 12.2%, Anaplasma platys 6.5%, Babesia vogeli 5.5% and B. gibsoni 0.2%. Ticks were found on 53% of dogs. The data are from 2011, so describe them as such.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3162925/"
+    },
+    {
+     "claim": "NDDB and the Government of Maharashtra signed an MoU in 2013 for dairy development in Vidarbha and Marathwada (VMDDP), with Mother Dairy (an NDDB subsidiary) providing market access. Sources disagree on the number of districts (7, 10 or 11).",
+     "verdict": "confirmed",
+     "reason": "The 2013 MoU and Mother Dairy's role are confirmed. On districts: re-search found the project running in 10 districts since 2016: Akola, Amravati, Wardha, Nagpur, Chandrapur and Buldhana in Vidarbha, and Nanded, Osmanabad, Latur and Jalna in Marathwada. Nagpur district is included. A 2024 News On AIR report says the scheme had covered 11 districts before Phase 2. Procurement began in October 2016 with 175 kg of milk from 12 villages on day one. One source says the project later covered 3,411 villages and about 35,000 farmers.",
+     "url": "https://www.dairyindustries.com/news/35782/dairy-development-by-nddb-in-india/"
+    },
+    {
+     "claim": "VMDDP procurement later averaged 1,85,000 litres a day from 1,454 milk pooling points.",
+     "verdict": "unverifiable",
+     "reason": "No re-search result showed these figures. More recent figures found: about 4 lakh litres a day from about 35,000 farmers through 2,500 milk pooling points (early 2025, Marathvarhad MPO coverage). The 1.85 lakh L/day figure is probably outdated.",
+     "url": "https://nuffoodsspectrum.in/2025/03/18/women-led-marathvarhad-mpo-aims-to-increase-milk-procurement-to-11-lakh-kg-per-day.html/"
+    },
+    {
+     "claim": "Marathvarhad MPO: women-owned, incorporated 9 Jan 2025 with its registered office in Nagpur. Collected about 4 lakh L/day from about 35,000 farmers. Targets 6,000 villages, 1.85 lakh women members and 11 lakh kg/day within 5 years.",
+     "verdict": "confirmed",
+     "reason": "All figures are confirmed by FFOODS Spectrum and AgriMoon/Indian Cooperative (early 2025), plus 2,500 milk pooling points and direct bank payments to members. No 2026 update on membership or volumes was found. A Free Press Journal piece reports women from 6 districts trading nearly 3.75 lakh litres a day (date not confirmed). Describe these as early-2025 figures.",
+     "url": "https://agrimoon.com/new-women-run-milk-producer-organization-eyes-rs-1800cr-turnover/"
+    },
+    {
+     "claim": "In November 2023 Nitin Gadkari laid the foundation stone for Mother Dairy's greenfield plant on 25 acres at Butibori, Nagpur, with 6 lakh L/day capacity expandable to 10 lakh.",
+     "verdict": "confirmed",
+     "reason": "Confirmed by Mother Dairy's 24 Nov 2023 press release and trade coverage, including an investment of more than Rs 500 crore and a product mix of pouch milk, ice cream, chaach, lassi and paneer. No report of commissioning or inauguration was found. Operating status as of Oct 2026 is unconfirmed, so call it 'under development' unless verified.",
+     "url": "https://www.motherdairy.com/pdf/PR/24.11.2023.pdf"
+    },
+    {
+     "claim": "In August 2024 Maharashtra approved more than Rs 149 crore for Phase 2 of the dairy development programme covering all 19 districts of Vidarbha and Marathwada.",
+     "verdict": "confirmed",
+     "reason": "Cabinet decision reported 13 Aug 2024. Before Phase 2 the scheme covered 11 districts. One report gives a total project cost of Rs 328.42 crore, with Rs 179.16 crore from farmers and livestock owners; how this relates to the Rs 149 crore is unclear. No later rollout status was found.",
+     "url": "https://www.newsonair.gov.in/maharashtra-govt-approves-\u20b9149-crore-for-phase-two-of-dairy-development-program-in-vidarbha-marathwada"
+    },
+    {
+     "claim": "IDEXX has an Indian subsidiary (IDEXX Laboratories Private Limited, WTC Bangalore, Brigade Gateway, Malleswaram) and more than 80 reference labs worldwide serving more than 50,000 practices. No IDEXX reference lab in India was found.",
+     "verdict": "confirmed",
+     "reason": "The Bangalore entity is confirmed on IDEXX's locations page, and the figures of 80+ labs and 50,000+ practices on its careers page. A dedicated extended search found no news of an IDEXX reference lab in India. This shows only that none was found, not that none exists.",
+     "url": "https://www.idexx.com/en/about-idexx/locations/locations-and-iso-certificates/"
+    }
+   ]
+  }
+ },
+ {
+  "topic": "menu",
+  "research": {
+   "facts": [
+    {
+     "topic": "1. Companion animal demand - tick-borne diseases",
+     "claim": "In a PCR study of 130 dogs in Mizoram and Tripura (Northeast India), about half the dogs were infected with vector-borne parasites. Babesia gibsoni was the most common agent (43%), followed by Hepatozoon canis (38%).",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6434811/",
+     "source_title": "Molecular investigation of vector-borne parasitic infections in dogs in Northeast India (Parasites & Vectors 2019)",
+     "value": "B. gibsoni 43%; H. canis 38%; Mizoram 58% vs Tripura 44%"
+    },
+    {
+     "topic": "1. Companion animal demand - tick-borne diseases",
+     "claim": "Of 422 pet and community-owned dogs in South India (Kerala) tested by microscopy and PCR, 42.2-60.0% carried Babesia gibsoni and 0.7-28.0% carried Hepatozoon canis.",
+     "confirmed": true,
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S2405939024001709",
+     "source_title": "Haemoprotozoan and haemorickettsial carrier status in pet and community owned dogs of south India",
+     "value": "B. gibsoni 42.2-60.0%; H. canis 0.7-28.0%",
+     "note": "The search summary cut off before giving the E. canis figure."
+    },
+    {
+     "topic": "1. Companion animal demand - tick-borne diseases",
+     "claim": "In 719 dog samples from Punjab, multiplex PCR found more infections than microscopy. PCR prevalence was B. gibsoni 8.9%, B. vogeli 1.1%, E. canis 2.6% and H. canis 5.1%.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39150582/",
+     "source_title": "Molecular Survey of Tick-Borne Haemoparasites of Dogs by Multiplex PCR from Punjab, India",
+     "value": "B. gibsoni 8.9%, B. vogeli 1.1%, E. canis 2.6%, H. canis 5.1%"
+    },
+    {
+     "topic": "1. Companion animal demand - tick-borne diseases",
+     "claim": "In 320 dogs from Odisha, blood smear microscopy gave 12% overall tick-borne infection. A hexaplex PCR was developed there to detect E. canis, B. gibsoni, B. vogeli, H. canis and A. platys in one reaction.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13235372/",
+     "source_title": "Development of hexaplex PCR assay for the detection and characterization of common tick-borne pathogens in dogs",
+     "value": "Smear prevalence 12%",
+     "note": "PCR prevalence figures were not in the search results."
+    },
+    {
+     "topic": "1. Companion animal demand - tick-borne diseases",
+     "claim": "A survey of 525 dogs in four Indian cities found 261 dogs infected with at least one tick-borne pathogen by PCR. H. canis was most common (30%), followed by E. canis (20.6%) and A. platys (6.5%). B. gibsoni was 0.2% in this survey.",
+     "confirmed": true,
+     "url": "https://link.springer.com/article/10.1186/1756-3305-4-141",
+     "source_title": "A survey of canine tick-borne diseases in India (Parasites & Vectors 2011)",
+     "value": "261/525 PCR-positive; H. canis 30%, E. canis 20.6%, A. platys 6.5%, B. gibsoni 0.2%",
+     "note": "This is an older study (2011). Prevalence varies widely by region and sampling, which supports offering a multi-pathogen PCR panel rather than smear alone."
+    },
+    {
+     "topic": "1. Companion animal demand - canine parvovirus",
+     "claim": "In Bhubaneswar, Odisha, 29 of 71 faecal samples from diarrhoeic dogs (40.85%) were CPV-positive by PCR. Infection was highest in dogs aged 3-6 months (41.37%).",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4777807/",
+     "source_title": "Epidemiological study of canine parvovirus infection in and around Bhubaneswar, Odisha, India",
+     "value": "40.85% PCR positive"
+    },
+    {
+     "topic": "1. Companion animal demand - canine parvovirus",
+     "claim": "In Kolkata, 28 of 41 diarrhoeic dog faecal samples (68.29%) were CPV-positive by VP2 PCR, against 13 (31.71%) by haemagglutination (HA titre >=32). PCR was more sensitive than HA.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/37408551/",
+     "source_title": "Occurrence of canine parvovirus type 2c in diarrhoeic faeces of dogs in Kolkata, India",
+     "value": "PCR 68.29% vs HA 31.71%"
+    },
+    {
+     "topic": "1. Companion animal demand - canine parvovirus",
+     "claim": "A 2024-2025 Gujarat study of 100 dogs and 100 cats found 85% of dogs CPV-positive. Quantitative PCR detected 62% of infections against 19.5% for conventional PCR.",
+     "confirmed": true,
+     "url": "https://veterinaryworld.org/Vol.19/July-2026/26.php",
+     "source_title": "Molecular detection, characterization, and cross-species circulation of feline and canine parvoviruses in Gujarat, India (Veterinary World, July 2026)",
+     "value": "Dogs 85% CPV positive; qPCR 62% vs cPCR 19.5%"
+    },
+    {
+     "topic": "1. Companion animal demand - canine parvovirus",
+     "claim": "A review of Indian CPV data from 2010-2023 found CPV-2a was the most common variant (45%), followed by CPV-2c (36%), CPV-2b (12%) and CPV-2 (7%).",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11309098/",
+     "source_title": "Epidemiology, molecular prevalence and prevention on canine parvovirus in India: A review",
+     "value": "CPV-2a 45%, CPV-2c 36%, CPV-2b 12%, CPV-2 7%"
+    },
+    {
+     "topic": "1. Companion animal demand - canine parvovirus",
+     "claim": "A northern India study found CPV positivity of 28% by PCR and 70% by nested PCR, with CPV-2a dominant.",
+     "confirmed": false,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8076476/",
+     "source_title": "Prevalence and molecular characterization of canine parvovirus",
+     "value": "PCR 28%, nested PCR 70%",
+     "note": "The search summary did not clearly say which result URL this came from. PMC8076476 is the most likely source."
+    },
+    {
+     "topic": "1. Companion animal demand - leptospirosis",
+     "claim": "Of 210 suspected dogs in and around Chennai tested by MAT and PCR, 49 (23.33%) had acute leptospirosis by serology (titre >=1:800 in unvaccinated dogs, >=1:1600 in vaccinated dogs). Thirteen of the 49 were urine-PCR positive, one was positive in both urine and plasma, and Australis and Autumnalis were the dominant serogroups.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39549929/",
+     "source_title": "Molecular and serological detection of acute canine leptospirosis and associated predictive risk factors in and around Chennai, India",
+     "value": "23.33% acute (95% CI 17.9-29.8)"
+    },
+    {
+     "topic": "1. Companion animal demand - canine distemper",
+     "claim": "No Indian dog CDV prevalence or PCR study was found. A Bangladesh CDV study refers to a 2018 CDV epizootic in Asiatic lions and leopards in India, which points to a dog-to-wildlife spillover risk.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11035628/",
+     "source_title": "Snapshot study of canine distemper virus in Bangladesh with on-site PCR detection and nanopore sequencing",
+     "note": "This is a gap: there is no Indian distemper prevalence data in the results."
+    },
+    {
+     "topic": "1. Companion animal demand - feline viruses",
+     "claim": "In a 2026 Indian study of 22 cats clinically diagnosed with panleukopenia, VP2-targeted PCR found FPV DNA in 15 of 19 bone marrow samples (78.95%).",
+     "confirmed": true,
+     "url": "https://epubs.icar.org.in/index.php/IJVP/article/view/179519",
+     "source_title": "Hematopathological studies on Feline Panleukopenia with emphasis on bone marrow assessment (Indian J Vet Pathol)",
+     "value": "78.95%"
+    },
+    {
+     "topic": "1. Companion animal demand - feline viruses",
+     "claim": "A 2014 Tamil Nadu study confirmed FPV by PCR targeting the VP2 gene and deposited the first Indian FPV VP2 sequence in GenBank.",
+     "confirmed": false,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4262318",
+     "source_title": "(PMC4262318, title not shown in results)",
+     "note": "The URL is attributed by inference. The search result listed this PMC link without a title."
+    },
+    {
+     "topic": "1. Companion animal demand - feline viruses",
+     "claim": "Indian studies have reported PCR detection of FPV in 77.8% of feline samples in Kerala and 70% of household cats in Mumbai. A 2024 Tamil Nadu study found 62 of 90 faecal samples from sick cats positive.",
+     "confirmed": false,
+     "url": "https://epubs.icar.org.in/index.php/IJVASR/article/download/175110/64582/508086",
+     "source_title": "(ICAR epubs article; title not shown)",
+     "note": "The search summary did not clearly say which result URL carries these figures."
+    },
+    {
+     "topic": "1. Companion animal demand - feline viruses",
+     "claim": "No Indian PCR prevalence data for FeLV, FIV or FCoV was found. For context, a Turkish study of 200 cats in Ankara found FCoV 45.5%, FPV 39.0%, FeLV 20.5% and FIV 9.5% by PCR on whole blood. An Italian study of 328 dead cats found FPV 73.5%, FeLV 23.6% and FCoV 21.5% by real-time PCR.",
+     "confirmed": false,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9699332",
+     "source_title": "(PMC9699332, likely the Italian 2019-2021 study)",
+     "note": "These are non-Indian data. It was unclear which result URL is the Turkish study (possibly https://openaccess.mku.edu.tr/items/f56ade24-14fe-49fa-aa06-6fdade78a682/full). There is no Indian FeLV/FIV/FCoV data, which is a gap."
+    },
+    {
+     "topic": "1. Proprietary tests - SDMA",
+     "claim": "IDEXX Laboratories holds a patent on the ELISA methodology for measuring SDMA. The DLD SDMA ELISA, which was designed for human samples, is offered by some veterinary labs, but it showed much larger bias against LC-MS than the IDEXX SDMA Test.",
+     "confirmed": true,
+     "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0205030",
+     "source_title": "Comparative performance of IDEXX SDMA Test and the DLD SDMA ELISA for the measurement of SDMA in canine and feline serum (PLOS ONE 2018)",
+     "note": "This means a non-IDEXX lab cannot run the validated IDEXX SDMA immunoassay. Creatinine plus UPC (both measurable on BA200) are the open alternatives."
+    },
+    {
+     "topic": "1. Proprietary tests - SDMA",
+     "claim": "The gold standard for SDMA is LC-MS. The immunoassay in routine veterinary use is proprietary to IDEXX.",
+     "confirmed": true,
+     "url": "https://eclinpath.com/chemistry/kidney/sdma/",
+     "source_title": "eClinPath - SDMA (Cornell)"
+    },
+    {
+     "topic": "1. Proprietary tests - SDMA",
+     "claim": "The IDEXX in-house Catalyst SDMA test measures serum or lithium-heparin plasma from dogs and cats. It has the same reference interval and reportable range as the IDEXX reference-lab SDMA Test.",
+     "confirmed": true,
+     "url": "https://www.idexx.com/files/catalyst-sdma-whitepaper.pdf",
+     "source_title": "IDEXX Catalyst SDMA Test white paper",
+     "value": "RI 0-14 ug/dL; reportable range 0-100 ug/dL"
+    },
+    {
+     "topic": "1. Proprietary tests - SDMA",
+     "claim": "A 2025 study evaluated the IDEXX SDMA immunoassay on a Beckman Coulter analyser using IDEXX reagent kits and described it as the first fully automated SDMA immunoassay.",
+     "confirmed": false,
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S0009898125005170",
+     "source_title": "First automated immunoassay for symmetric dimethylarginine (SDMA) with reference interval establishment",
+     "note": "This comes from the search summary only. Verify whether these reagents are sold to non-IDEXX labs in India before relying on it."
+    },
+    {
+     "topic": "1. Proprietary tests - pancreatic lipase",
+     "claim": "In 301 dogs, DGGR-lipase correlated highly with Spec cPL (rs = 0.91). Kappa was 0.87 and 0.92 at cPL cutoffs of >200 and >=400 ug/L, using DGGR cutoffs of 143 and 205 U/L. For acute pancreatitis the AUCs were similar (DGGR 0.75, cPL 0.76), and DGGR-lipase was a highly accurate predictor of cPL.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9032318/",
+     "source_title": "Accuracy of DGGR-Lipase to Predict Canine Pancreas-Specific Lipase (cPL) and Diagnostic Accuracy of Both Tests for Canine Acute Pancreatitis (Vet Sci 2022)",
+     "value": "rs 0.91; kappa 0.87/0.92; AUC 0.75 vs 0.76",
+     "note": "A DGGR-lipase reagent on BA200 is an open alternative to Spec cPL. Whether BioSystems sells a DGGR lipase reagent is not confirmed."
+    },
+    {
+     "topic": "1. Proprietary tests - pancreatic lipase",
+     "claim": "In 142 dogs with suspected pancreatitis, kappa agreement between DGGR-lipase and Spec cPL was 0.70 at DGGR >216 U/L vs cPL >200 ug/L, and 0.80 at DGGR >108 U/L vs cPL >400 ug/L.",
+     "confirmed": false,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4895468",
+     "source_title": "(Kook et al. 2014, attributed by inference)",
+     "note": "The PMC URL is inferred from the result list."
+    },
+    {
+     "topic": "1. Proprietary tests - pancreatic lipase",
+     "claim": "In 18 histologically classified dogs, a commercial DGGR-lipase assay showed substantial agreement with Spec cPL (kappa = 0.679).",
+     "confirmed": true,
+     "url": "https://www.repository.cam.ac.uk/handle/1810/275031?show=full",
+     "source_title": "Cambridge repository - DGGR lipase validation",
+     "value": "kappa 0.679 (n=18)",
+     "note": "This is a small sample."
+    },
+    {
+     "topic": "1. Proprietary tests - pancreatic lipase",
+     "claim": "DGGR lipase is cheaper to perform than Spec cPL, and many commercial labs can report it within one hour.",
+     "confirmed": false,
+     "url": "https://www.vin.com/doc/?id=9731660",
+     "source_title": "(review; URL attribution uncertain)",
+     "note": "Search did not confirm Spec cPL is IDEXX-proprietary (widely known but not sourced here). Treat as a gap."
+    },
+    {
+     "topic": "1. Companion animal - breeding progesterone",
+     "claim": "A 2022 Vet Clin Pathol study validated a dry-slide immunoassay for canine progesterone against CLIA and mass spectrometry. Repeatability was 8.0-10.8% and within-lab imprecision 8.8-11.1%. The assay suits ovulation timing but not artificial insemination with frozen semen. Progesterone decreased in samples stored at room temperature and at -80 C.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10084308/",
+     "source_title": "Validation of a dry-slide immunoassay for progesterone analysis in canine plasma in a clinical setting (Vet Clin Pathol 2022)",
+     "value": "CV 8.0-11.1%"
+    },
+    {
+     "topic": "1. Companion animal - breeding progesterone",
+     "claim": "Progesterone concentrations around ovulation in bitches range from 8.8 to 20.0 nmol/L depending on the method used, so each assay needs its own validation before clinical use. With a 4-8 ng/mL threshold, fewer mature oocytes were obtained using ECLIA timing (39%) than RIA timing (67%).",
+     "confirmed": false,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6852326/",
+     "source_title": "Comparison of progesterone assay by chemiluminescence or radioimmunoassay for clinical decision-making in canine reproduction",
+     "note": "It is unclear which result URL carries each figure; the ECLIA oocyte data may come from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5348006/. Human progesterone CLIA (ARCHITECT/MAGLUMI) cutoffs need in-house validation."
+    },
+    {
+     "topic": "2. Livestock - bovine haemoparasites",
+     "claim": "In 578 apparently healthy cattle and buffaloes in India, about 30% carried at least one haemoparasite by PCR: A. marginale 23.70%, T. annulata 13.67%, Babesia spp. 1.90% and Trypanosoma spp. 1.56%. The PCR targets were msp1b, tams1 and ITS1. Cattle were infected more often than buffaloes.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11319688/",
+     "source_title": "Molecular detection of Anaplasma, Babesia, Theileria, and Trypanosoma infection in cattle and buffaloes in India",
+     "value": "A. marginale 23.70%, T. annulata 13.67%"
+    },
+    {
+     "topic": "2. Livestock - bovine haemoparasites",
+     "claim": "Duplex PCR in dairy animals from Punjab found T. evansi 36.49%, B. bigemina 2.43% and dual infection 3.41%.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3773408/",
+     "source_title": "Molecular Prevalence of Babesia bigemina and Trypanosoma evansi in Dairy Animals from Punjab, India, by Duplex PCR",
+     "value": "T. evansi 36.49%"
+    },
+    {
+     "topic": "2. Livestock - bovine haemoparasites",
+     "claim": "A Bhubaneswar (Eastern India) study of 106 bovine samples used Tams1 PCR for T. annulata and VSG RoTat 1.2 PCR for T. evansi.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/36169089/",
+     "source_title": "Molecular characterization and prevalence of bovine hemoprotozoan and rickettsial organism from Bhubaneswar, Eastern India"
+    },
+    {
+     "topic": "2. Livestock - bovine haemoparasites",
+     "claim": "Tams1 PCR for T. annulata in Haryana gave 37% (148/400) in cattle and 3.5% (14/400) in buffalo.",
+     "confirmed": false,
+     "url": "https://link.springer.com/article/10.1007/s11686-025-01014-1",
+     "source_title": "Molecular Epidemiology and Genotypic Diversity of Theileria annulata among Bovines Based Upon Tams1 Gene in India",
+     "note": "The URL is attributed by inference from the search summary."
+    },
+    {
+     "topic": "2. Livestock - bovine haemoparasites",
+     "claim": "A 2015-2025 Southeast Asia meta-analysis gave pooled PCR prevalence in cattle and buffaloes of 12% for Anaplasma spp., 11% for Theileria spp. and 11% for T. evansi, with high heterogeneity.",
+     "confirmed": true,
+     "url": "https://veterinaryworld.org/Vol.19/September-2026/13.php",
+     "source_title": "Molecular prevalence and diagnostic gene targets of Anaplasma, Babesia, Theileria, and Trypanosoma in cattle and buffaloes across Southeast Asia (2015-2025)",
+     "note": "No Vidarbha- or Maharashtra-specific study was found."
+    },
+    {
+     "topic": "2. Livestock - brucellosis",
+     "claim": "Of 4,325 bovine sera from Haryana, 6.86% were positive by RBPT and 6.05% by i-ELISA. The authors recommend using both tests: RBPT for early infections and i-ELISA for better specificity in chronic cases.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12030549/",
+     "source_title": "Seroprevalence of Brucellosis in Haryana, India: A Study Using Rose Bengal Plate Test and ELISA (Pathogens 2025)",
+     "value": "RBPT 6.86%; iELISA 6.05%"
+    },
+    {
+     "topic": "2. Livestock - brucellosis",
+     "claim": "A review reports brucellosis prevalence of 12% or less in India by meta-analysis. An older national survey averaged 5% in cattle, 3% in buffalo, 7.9% in sheep and 2.2% in goats. The typical Indian scheme is the milk ring test on bulk milk, RBPT on serum, and ELISA to confirm.",
+     "confirmed": false,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7833053/",
+     "source_title": "Bovine brucellosis (review)",
+     "note": "The search summary did not explicitly tie these figures to this URL. It is the most likely source."
+    },
+    {
+     "topic": "2. Livestock - brucellosis",
+     "claim": "Among dairy cattle in Goa, RBPT gave 30.40% positive and i-ELISA 41.55%.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/27477501",
+     "source_title": "Apparent seroprevalence, isolation and identification of risk factors for brucellosis among dairy cattle in Goa, India"
+    },
+    {
+     "topic": "2. Livestock - brucellosis",
+     "claim": "In Rajasthan livestock, brucellosis seroprevalence was 5.06% by RBPT and 6.88% by i-ELISA.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10389044/",
+     "source_title": "Serological and molecular prevalence of Brucella spp. among livestock species in Rajasthan, India"
+    },
+    {
+     "topic": "2. Livestock - brucellosis",
+     "claim": "A Bayesian evaluation in Ethiopian cattle found i-ELISA performed best (sensitivity 96.8%, specificity 96.3%), ahead of RBPT and CFT.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993953/",
+     "source_title": "Bayesian Estimation of Sensitivity and Specificity of Rose Bengal, CFT and Indirect ELISA for Bovine Brucellosis in Ethiopia",
+     "note": "These are non-Indian data. NADCP (the national brucellosis control programme) was not covered by the results."
+    },
+    {
+     "topic": "2. Livestock - Johne's disease",
+     "claim": "Of 531 cattle on farms in Central and Northern India, 8.09% were seropositive for paratuberculosis (13.5% organized farms, 4.83% unorganized). The in-house ELISA had 71.11% sensitivity and 98.76% specificity.",
+     "confirmed": true,
+     "url": "https://epubs.icar.org.in/index.php/IJAnS/article/view/66797",
+     "source_title": "Seroepidemiology of paratuberculosis in cattle population of organized and unorganized farms of India (Indian J Anim Sci)",
+     "value": "8.09% overall"
+    },
+    {
+     "topic": "2. Livestock - Johne's disease",
+     "claim": "Earlier national reports put paratuberculosis seroprevalence in cattle and buffaloes at 13.39-22.50%. Culture of MAP from faeces or milk is the gold standard but is slow. NDDB has evaluated the Bactec MGIT 960 ParaTB system.",
+     "confirmed": false,
+     "url": "https://www.nddb.org/sites/default/files/pdfs/research-publications/Use_of_Bactec_MGIT_960_ParaTB_system_for_the_diagnosis_of_bovine_paratuberculosis.pdf",
+     "source_title": "Use of Bactec MGIT 960 ParaTB system for the diagnosis of bovine paratuberculosis (NDDB)",
+     "note": "The figures were index-cited in the search summary to the first result, which appears to be this NDDB PDF."
+    },
+    {
+     "topic": "2. Livestock - Johne's disease (small ruminants)",
+     "claim": "In Mehsana goats in Gujarat, an indigenous ELISA showed 43.3% positivity in 219 goats, while IS900 PCR showed 12.5% in a smaller subset.",
+     "confirmed": false,
+     "url": "https://media.researcherslinks.com/nexus_uploads/files/20130403053353.docx",
+     "source_title": "Comparative potential of traditional versus modern diagnostic tests in estimating incidence of caprine Johne's disease",
+     "note": "The URL is attributed by index from the search summary."
+    },
+    {
+     "topic": "2. Livestock - Johne's disease",
+     "claim": "In 153 animals (cattle, buffalo, goat, sheep) in Punjab, Ziehl-Neelsen staining flagged 71% as acid-fast positive and IS900 PCR detected 55%.",
+     "confirmed": false,
+     "url": "https://krishi.icar.gov.in/jspui/handle/123456789/80377?mode=full",
+     "source_title": "(ICAR Krishi repository record)",
+     "note": "The URL is attributed by index from the search summary."
+    },
+    {
+     "topic": "2. Livestock - mastitis",
+     "claim": "In Bihar dairy animals, subclinical mastitis prevalence was 35.4% in cattle and 28.6% in buffaloes, and clinical mastitis 11.6% in cattle. Staphylococcus aureus was the predominant isolate (28.3% of 145 cattle quarter samples).",
+     "confirmed": true,
+     "url": "https://gender.cgiar.org/publications/clinical-and-subclinical-mastitis-dairy-cattle-and-buffaloes-bihar-india-prevalence",
+     "source_title": "Clinical and subclinical mastitis in dairy cattle and buffaloes in Bihar, India: prevalence ...",
+     "value": "SCM 35.4% cattle, 28.6% buffalo"
+    },
+    {
+     "topic": "2. Livestock - mastitis",
+     "claim": "Using an SCC cutoff of 200x10^3 cells/mL, subclinical mastitis prevalence was 38% in Deoni and 63% in HF-crossbred cows, and CMT had 52% sensitivity and 72% specificity. Other Indian studies report 12.19% by CMT (Karnataka smallholders), 37% (Hassan, Karnataka) and 55.83% (Mathura native breeds).",
+     "confirmed": false,
+     "url": "https://epubs.icar.org.in/index.php/IJDS/article/view/150175",
+     "source_title": "(ICAR epubs Indian J Dairy Sci / Indian J Anim Sci articles)",
+     "note": "Several epubs.icar.org.in results were returned and the exact URL for each figure is uncertain. Metabolic profile (Ca, BHB, ketosis) testing was not covered by the results."
+    },
+    {
+     "topic": "2. Livestock - poultry",
+     "claim": "The TANUVAS Poultry Disease Diagnosis and Surveillance Laboratory in Namakkal (Tamil Nadu) offers post-mortem exams, isolation and identification of organisms, serology (HA, HI, ELISA) and PCR. Its work covers Newcastle disease, IBD and infectious bronchitis.",
+     "confirmed": true,
+     "url": "https://tanuvas.ac.in/lab_pddl.php",
+     "source_title": "TANUVAS - PDDSL lab page"
+    },
+    {
+     "topic": "2. Livestock - poultry",
+     "claim": "TANUVAS Namakkal lists HI serology for Ranikhet (Newcastle) disease on serum at Rs 10 per sample.",
+     "confirmed": true,
+     "url": "https://tanuvas.ac.in/labPddl.php",
+     "source_title": "TANUVAS PDDSL fee schedule",
+     "value": "Rs 10/sample"
+    },
+    {
+     "topic": "2. Livestock - poultry",
+     "claim": "Veterinary College and Research Institute, Namakkal lists IBD virus detection by AGPT at Rs 10 per sample.",
+     "confirmed": true,
+     "url": "https://tanuvas.ac.in/nkl_micro.php",
+     "source_title": "Veterinary College and Research Institute, Namakkal",
+     "value": "Rs 10/sample"
+    },
+    {
+     "topic": "2. Livestock - poultry",
+     "claim": "A market report lists Mycoplasma ELISA and PCR panels among the types of poultry diagnostic tests in India.",
+     "confirmed": false,
+     "url": "https://www.marketsandmarkets.com/Market-Reports/geography/poultry-diagnostics-market/India",
+     "source_title": "India Poultry Diagnostics Market analysis (MarketsandMarkets)",
+     "note": "This is a market report, not a technical source. No Indian lab was confirmed to run M. gallisepticum testing."
+    },
+    {
+     "topic": "3. Veterinary PCR kits - research assays India",
+     "claim": "Researchers in Punjab developed and validated two multiplex SYBR Green real-time PCR assays for four canine haemoparasites: B. gibsoni, B. vogeli, E. canis and H. canis.",
+     "confirmed": true,
+     "url": "https://www.sciencedirect.com/science/article/abs/pii/S1877959X22000425",
+     "source_title": "Development and validation of multiplex SYBR Green real-time PCR assays for detection and molecular surveillance of four tick-borne canine haemoparasites (Ticks Tick Borne Dis)",
+     "note": "This is a published research protocol, not a commercial kit. SYBR chemistry can run on open instruments."
+    },
+    {
+     "topic": "3. Veterinary PCR kits - research assays",
+     "claim": "High-throughput multiplex qPCRs have been published for detecting canine vector-borne pathogens in the Asia-Pacific region.",
+     "confirmed": true,
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8161336/",
+     "source_title": "Novel High-Throughput Multiplex qPCRs for the Detection of Canine Vector-Borne Pathogens in the Asia-Pacific",
+     "note": "Target details were not shown in the search results."
+    },
+    {
+     "topic": "3. Veterinary PCR kits - Indian maker",
+     "claim": "Retro Biotech (Jaipur) sells a multiplex veterinary PCR kit that includes Brucella spp. It is described as compatible with major real-time PCR systems, with sensitivity of 10 copies/uL and a run time of about one hour.",
+     "confirmed": true,
+     "url": "https://retrobiotech.in/veterinary_pcr_diagnostic_kit",
+     "source_title": "Retro Biotech - Veterinary PCR Diagnostic Kit",
+     "value": "10 copies/uL; ~1 h",
+     "note": "The full target list and named instruments were not confirmed. Indian makers TRUPCR/3B BlackBio, Genes2Me, Huwel and Imgenex returned no veterinary qPCR results."
+    },
+    {
+     "topic": "3. Veterinary PCR kits - international",
+     "claim": "YouSeq sells a canine distemper and parvovirus multiplex qPCR kit and lists Babesia and Ehrlichia assays as separate products.",
+     "confirmed": true,
+     "url": "https://youseq.com/product/canine-distemper-and-parvovirus-multiplex/1021",
+     "source_title": "YouSeq - Canine distemper and parvovirus Multiplex qPCR Kit",
+     "note": "The instrument compatibility list and Indian distribution were not confirmed."
+    },
+    {
+     "topic": "3. Veterinary PCR kits - international",
+     "claim": "Ring Bio's Flexy Pet line includes a canine babesiosis real-time PCR test and a canine parvovirus qPCR kit. Ring Bio also sells a Brucella real-time PCR kit for serum/plasma/blood, tissue, feed and environmental samples.",
+     "confirmed": true,
+     "url": "https://www.ringbio.com/solutions/pet",
+     "source_title": "Ring Bio - Flexy Pet",
+     "note": "The Brucella kit is at https://www.ringbio.com/products/cattle/brucella-real-time-pcr-kit. Indian distribution and platform compatibility were not confirmed."
+    },
+    {
+     "topic": "3. Veterinary PCR kits - international",
+     "claim": "Gold Standard Diagnostics lists an INgene q Babesia spp. real-time PCR assay among its canine assays.",
+     "confirmed": true,
+     "url": "https://www.goldstandarddiagnostics.com/products/veterinary-diagnostics/canine.html",
+     "source_title": "Gold Standard Diagnostics - Canine assays"
+    },
+    {
+     "topic": "3. Veterinary PCR kits - platform compatibility",
+     "claim": "The Ingenetix ViroReal Lumpy Skin Disease Virus kit targets the GPCR gene and is validated on the ABI 7500 Fast Real-Time PCR System.",
+     "confirmed": true,
+     "url": "https://ingenetix.com/en/product/veterinary/Lumpy+Skin+Disease+Virus/",
+     "source_title": "ViroReal Lumpy Skin Disease Virus (Ingenetix)"
+    },
+    {
+     "topic": "3. Veterinary PCR kits - international",
+     "claim": "Biosellal's Bio-T Kit Lumpy Skin Disease is a ready-to-use real-time PCR kit for detecting LSDV in ruminants.",
+     "confirmed": true,
+     "url": "https://biosellal.com/en/ruminants/389-lumpy-skin-disease-pcr-kit.html",
+     "source_title": "Bio-T Kit Lumpy Skin Disease (Biosellal)"
+    },
+    {
+     "topic": "3. Veterinary PCR kits - platform compatibility",
+     "claim": "According to Thermo Fisher's FAQ, the VetMAX MastiType kits (bovine mastitis multiplex qPCR) run on the Applied Biosystems 7500/7500 Fast or the QuantStudio 5 Real-Time PCR System.",
+     "confirmed": true,
+     "url": "https://www.thermofisher.com/order/catalog/product/MPBO50",
+     "source_title": "VetMAX M. bovis Kit (Thermo Fisher product page with FAQ)"
+    },
+    {
+     "topic": "3. Veterinary PCR kits - platform compatibility",
+     "claim": "The VetMAX-Gold SIV Detection Kit is optimized for use with the MagMAX Pathogen RNA/DNA Kit and the Applied Biosystems 7500 Fast system.",
+     "confirmed": true,
+     "url": "https://cacheby.com/@cacheby/products/1adf5dcb-8daa-4d16-8d20-67c1151f6378",
+     "source_title": "Thermo Fisher VetMAX-Gold SIV Detection Kit listing"
+    },
+    {
+     "topic": "3. Veterinary PCR kits - platform compatibility",
+     "claim": "The Fisher listing for the VetMAX PEDV/TGEV/SDCoV kit says it can be used with different thermocyclers with the same results and reliability.",
+     "confirmed": true,
+     "url": "https://www.fishersci.ca/shop/products/vetmax-pedv-tgev-sdcov-kit/A33402",
+     "source_title": "VetMAX PEDV/TGEV/SDCoV kit (Fisher Scientific)",
+     "note": "Specific thermocyclers are not named. No result confirmed Bio-Rad CFX96 or Qiagen Rotor-Gene compatibility for any veterinary kit."
+    },
+    {
+     "topic": "3/4. Indian market reference - rates and turnaround",
+     "claim": "IVRI's diagnostics rate card lists PCR for canine parvovirus/CDV/ICH/corona at Rs 600 for ICAR institutions and Rs 900 for other organizations, and ELISA at Rs 300/400.",
+     "confirmed": true,
+     "url": "https://ivri.nic.in/Services/Diagnostics.aspx",
+     "source_title": "IVRI - Diagnostics services",
+     "value": "PCR Rs 600/900; ELISA Rs 300/400",
+     "note": "The page date was not confirmed, so the rates may be outdated."
+    },
+    {
+     "topic": "3/4. Indian market reference - competitor menu",
+     "claim": "Vetic (Delhi) advertises complete tick fever testing for dogs (blood smear and PCR), with most reports available the same day.",
+     "confirmed": true,
+     "url": "https://vetic.in/dog-diagnostics-delhi",
+     "source_title": "Vetic - dog diagnostics Delhi",
+     "note": "This is a private competitor benchmark for turnaround: same-day for most reports."
+    },
+    {
+     "topic": "3/4. Indian market reference - rapid tests",
+     "claim": "Indian distributors list rapid canine distemper antigen kits at about Rs 215 per test with a 10-minute result. These are point-of-care tests, not lab PCR.",
+     "confirmed": false,
+     "url": "https://m.indiamart.com/preshnaenterprises/rapid-test.html",
+     "source_title": "IndiaMART listing (Preshna Enterprises / Ank Cares)",
+     "note": "It is unclear which of the two IndiaMART listings carries the price."
+    },
+    {
+     "topic": "4. Sample stability - EDTA haematology",
+     "claim": "In 152 canine K3-EDTA samples kept at room temperature, RBC count and Hgb were stable for 48 h, while MCV rose steadily. Platelet and WBC changes varied by specimen. Samples up to 2 days old were judged suitable for cell counts and Hgb, but drift can cause misclassification near decision limits.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/16511786/",
+     "source_title": "Stability of selected hematology variables in canine blood kept at room temperature in EDTA for 24 and 48 hours (Vet Clin Pathol 2006)"
+    },
+    {
+     "topic": "4. Sample stability - EDTA haematology",
+     "claim": "On a Sysmex F-800, canine and feline RBC count and Hgb were stable for 72 h at both 4 C and 25 C. MCV rose by 12 h at 25 C and by 24 h refrigerated. Platelet counts fell significantly by 6 h at 4 C.",
+     "confirmed": true,
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12658593/",
+     "source_title": "Evaluation of a hematology analyzer with canine and feline blood (Vet Clin Pathol 1997)",
+     "note": "Refrigeration does not protect platelet counts. Ship EDTA chilled but run as soon as possible, with a smear made at collection."
+    },
+    {
+     "topic": "4. Sample stability - EDTA haematology",
+     "claim": "A cited Brazilian study found canine EDTA platelet counts began to fall at 12 h, dropping 34% after 24 h at room temperature and 57% at 4 C. Storage effects differ by parameter, temperature and analyser.",
+     "confirmed": true,
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13404974/",
+     "source_title": "Evaluation of Time and Temperature Storage Effects on Canine Blood Anticoagulated with CPDA Supplemented with EDTA (Animals)"
+    },
+    {
+     "topic": "4. Sample handling - serum and EDTA shipping",
+     "claim": "Purdue's guidelines say to let blood clot 15-30 min, centrifuge 10 min, transfer the serum to an additive-free tube, and ship overnight on an ice pack, avoiding heat and freezing. For haematology, send an EDTA tube at least half full plus two fresh, unstained, unfixed smears made right after mixing. Smears from samples older than about 8 h may be inadequate, and tube and slides should not touch the ice pack directly.",
+     "confirmed": true,
+     "url": "https://www.vet.purdue.edu/hospital/documents/cpl/Sample Submission Guidelines.pdf",
+     "source_title": "Purdue Clinical Pathology Lab - Sample Submission Guidelines"
+    },
+    {
+     "topic": "4. Sample handling - cold chain",
+     "claim": "Cornell AHDC advises refrigerating samples and shipping overnight in an insulated container with freezer packs. If delay will exceed 48 h, serum should be frozen and shipped on dry ice.",
+     "confirmed": true,
+     "url": "https://www.vet.cornell.edu/animal-health-diagnostic-center/laboratories/clinical-pathology/samples-submissions",
+     "source_title": "Cornell AHDC Clinical Pathology - Samples submissions"
+    },
+    {
+     "topic": "4. Sample handling - ACTH/endocrine",
+     "claim": "The Ontario Animal Health Laboratory (University of Guelph) companion submission form specifies frozen EDTA plasma and serum for its Cushing's panel, which includes ACTH.",
+     "confirmed": true,
+     "url": "https://www.uoguelph.ca/ahl/system/files/AHL_Companion_2025Aug1_FILLABLE_ACTH.pdf",
+     "source_title": "AHL Companion submission form 2025 (ACTH)",
+     "note": "Detailed ACTH collection and stability, and PCR swab transport, were not found. This is a gap."
+    }
+   ],
+   "gaps": "I used 17 of the 18 shared WebSearch calls. These items were not confirmed and need follow-up:\n(a) Indian prevalence or demand data for canine distemper, and Indian PCR prevalence for FeLV, FIV and FCoV. Only feline panleukopenia (FPV) has Indian data.\n(b) Whether Spec cPL is proprietary to IDEXX was not sourced. SDMA's IDEXX patent was confirmed.\n(c) No source was found for T4, cortisol/ACTH stimulation/LDDST, fructosamine, bile acids or UPC test-menu specifics, or for veterinary validation of human immunoassays for these analytes.\n(d) Nothing came back on the NADCP brucellosis programme, bovine metabolic profiles (Ca, BHB), Mycoplasma gallisepticum testing labs in India, Newcastle disease/IBD RT-PCR kits, or small-ruminant panels beyond brucellosis and Johne's disease.\n(e) No Indian-made commercial veterinary qPCR kit for canine tick-borne pathogens, CPV or CDV was found. Searches on TRUPCR/3B BlackBio, Genes2Me, Huwel and Imgenex returned nothing veterinary. Only Retro Biotech (Jaipur) appeared, with a Brucella-containing multiplex.\n(f) Bio-Rad CFX96 and Qiagen Rotor-Gene compatibility was not confirmed for any veterinary kit. Thermo VetMAX kits are confirmed only on ABI 7500/7500 Fast and QuantStudio 5.\n(g) No Vidarbha- or Nagpur-specific prevalence studies turned up.\n(h) No sources were found for PCR swab transport media and stability, ACTH pre-analytical stability details, or published turnaround-time standards. The only turnaround benchmarks are the Vetic same-day claim and DGGR lipase reported within about 1 h.\nSeveral entries are marked confirmed=false because the search summary did not make clear which URL carried the figure."
+  },
+  "verify": {
+   "checks": [
+    {
+     "claim": "A survey of 525 dogs in four Indian cities found 261 dogs infected with at least one tick-borne pathogen by PCR. H. canis 30%, E. canis 20.6%, A. platys 6.5%, B. gibsoni 0.2% (Abd Rani et al., Parasites & Vectors 2011).",
+     "verdict": "confirmed",
+     "reason": "Search results confirm 261/525 (49.7%) PCR-positive, H. canis 30%, E. canis 20.6%, A. platys 6.5% and B. gibsoni 0.2%. The researcher left out two figures: Mycoplasma haemocanis 12.2% and B. vogeli 5.5%. Co-infection was 39%. Smear microscopy found Hepatozoon in only 12/525 (2.3%), which supports PCR over smear. The data are about 15 years old.",
+     "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3162925/"
+    },
+    {
+     "claim": "PCR study of 130 dogs in Mizoram and Tripura: about half infected; B. gibsoni 43% (most common), H. canis 38%; Mizoram 58% vs Tripura 44% (Parasites & Vectors 2019).",
+     "verdict": "confirmed",
+     "reason": "Overall 68/130 (52%) positive. B. gibsoni 56/130 (43%), H. canis 50/130 (38%), Mizoram 58% vs Tripura 44%. Other findings: co-infection in 34%, A. platys 3%, B. vogeli 3%, A. reconditum 2%, D. immitis 2%.",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6434811/"
+    },
+    {
+     "claim": "Gujarat study (Veterinary World, July 2026) of 100 dogs and 100 cats: 85% of dogs CPV-positive; quantitative PCR detected 62% of infections vs 19.5% for conventional PCR.",
+     "verdict": "corrected",
+     "reason": "The 62.0% (qPCR) and 19.5% (conventional VP2 PCR) figures are positivity rates across all 200 faecal samples, dogs and cats together. They are not shares of infections, and they are not dog-only figures. Duplex probe qPCR found 85 CPV-positive dogs out of 100, so 85% is right for qPCR. Rapid antigen tests flagged 40.0% as CPV-positive and 5.0% as FPV-positive. CPV was found in 12% of cats and FPV in 1% of dogs. Samples were collected from September 2024 to September 2025. Also indexed as PMC13500128 / PMID 42634831.",
+     "corrected_value": "Across 200 samples (100 dogs + 100 cats): duplex qPCR 62.0% positive vs conventional PCR 19.5% vs rapid antigen test 40% (CPV) / 5% (FPV); 85/100 dogs CPV-positive by qPCR; CPV in 12% of cats",
+     "url": "https://veterinaryworld.org/Vol.19/July-2026/26.php"
+    },
+    {
+     "claim": "The DLD SDMA ELISA (designed for human samples) showed much larger bias against LC-MS than the IDEXX SDMA Test (PLOS ONE 2018).",
+     "verdict": "confirmed",
+     "reason": "Ernst et al. 2018 tested 30 pooled canine and 30 pooled feline sera. Over 10-45 ug/dL, estimated bias was about 1-2 ug/dL for IDEXX and 5-8 ug/dL for DLD. At low concentrations, CV was 7.7% for IDEXX and 31.1% for DLD. The paper's regression slopes are inconsistent between abstract and results, so do not quote slopes. A 2024 JVIM study in older dogs also found ELISA SDMA higher than LC-MS/MS (mean difference about 2.2 ug/dL) and recommended assay-specific reference intervals.",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6188631/"
+    },
+    {
+     "claim": "IDEXX Laboratories holds a patent on the ELISA methodology for measuring SDMA.",
+     "verdict": "unverifiable",
+     "reason": "The search on the PLOS ONE paper did not bring up the patent. A second search did list USPTO patents titled 'Antibodies to symmetrically dimethylated arginine analytes and use thereof' (US 11384158 and US 11136412), but the results did not show who holds them or what they claim. Do not state 'IDEXX patent' as fact in the deck. Say the validated SDMA immunoassay is an IDEXX product.",
+     "url": "https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11384158"
+    },
+    {
+     "claim": "A 2025 study evaluated the IDEXX SDMA immunoassay on a Beckman Coulter analyser using IDEXX reagent kits and described it as the first fully automated SDMA immunoassay.",
+     "verdict": "corrected",
+     "reason": "Kodger et al., Clin Chim Acta vol 579 (January 2026, online 30 Sep 2025), is a human clinical-chemistry study. Its reference intervals come from human samples in the ADLM (formerly AACC) sample bank, and it compares the assay with LC-MS/MS. A related 2025 Clinical Chemistry abstract names the analyser as the Beckman Coulter AU5800. The study says nothing about veterinary use or about IDEXX reagents being sold to third-party labs in India, so it cannot be used to argue that the BA200 or any Dhruv analyser could run veterinary SDMA. Sample counts differ between sources (over 500 vs 611).",
+     "corrected_value": "Human-sample study (ADLM sample bank) of the automated IDEXX SDMA immunoassay on a Beckman Coulter AU5800, Clin Chim Acta 2026;579 (DOI 10.1016/j.cca.2025.120638); no evidence of veterinary third-party reagent availability",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/41038365/"
+    },
+    {
+     "claim": "In 301 dogs, DGGR-lipase correlated with Spec cPL (rs 0.91); kappa 0.87 and 0.92 at cPL >200 and >=400 ug/L using DGGR cutoffs 143 and 205 U/L; AUC for acute pancreatitis DGGR 0.75 vs cPL 0.76 (Vet Sci 2022).",
+     "verdict": "confirmed",
+     "reason": "All figures confirmed (Wolfer, Howard and Peters, Vet Sci 2022). The AUCs for predicting cPL were 0.97 (>200) and 0.99 (>=400). Cutoff 143 U/L gave Se 91.7%, Sp 95.3%; 205 U/L gave Se 97.5%, Sp 96.4%. Both tests had only modest accuracy for a clinical diagnosis of pancreatitis (AUC 0.75 and 0.76). A small 2021 Veterinary Record comparison reported poor DGGR sensitivity, so results vary between studies.",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9032318/"
+    },
+    {
+     "claim": "A Bayesian evaluation in Ethiopian cattle found i-ELISA performed best (sensitivity 96.8%, specificity 96.3%), ahead of RBPT and CFT.",
+     "verdict": "confirmed",
+     "reason": "The study tested 278 sera from five dairy herds. i-ELISA: Se 96.8% (95% PI 92.3-99.1), Sp 96.3% (91.7-98.8). CFT: Se 94%, Sp 88.5%. RBT: Se 89.6%, Sp 84.5%. These are non-Indian data. A Cote d'Ivoire Bayesian study found a much lower RBT sensitivity (54.9%).",
+     "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4993953/"
+    },
+    {
+     "claim": "On a Sysmex F-800, canine and feline RBC count and Hgb were stable for 72 h at both 4 C and 25 C. MCV rose by 12 h at 25 C and by 24 h refrigerated. Platelet counts fell significantly by 6 h at 4 C (Vet Clin Pathol 1997).",
+     "verdict": "confirmed",
+     "reason": "Confirmed (Pastor et al., Vet Clin Pathol 1997;26(3):138-147), with one limit: the MCV and platelet findings are for dogs only. In cats, WBC counts trended down by 12 h at both temperatures. Feline platelets could not be counted accurately because RBC and platelet populations overlapped, which is worth noting for Mindray feline platelet validation. The analyser is about 30 years old.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/12658593/"
+    },
+    {
+     "claim": "IVRI's diagnostics rate card lists PCR for canine parvovirus/CDV/ICH/corona at Rs 600 (ICAR institutions) and Rs 900 (other organizations), and ELISA at Rs 300/400.",
+     "verdict": "confirmed",
+     "reason": "Confirmed. The rates are stated as effective from June 2024, and 18% GST is added on top. Feline panleukopenia PCR is also Rs 600/900. The results did not show whether the rates have changed since June 2024.",
+     "url": "https://ivri.nic.in/Services/Diagnostics.aspx"
+    },
+    {
+     "claim": "The VetMAX MastiType kits (bovine mastitis multiplex qPCR) run on the Applied Biosystems 7500/7500 Fast or the QuantStudio 5 Real-Time PCR System.",
+     "verdict": "confirmed",
+     "reason": "Thermo Fisher catalog pages for the MastiType Multi Kit (A39227) and Combo Kit (A40290) list exactly these two instruments. The kit covers 15 mastitis pathogens plus a penicillin-resistance gene in four reactions. Fix the citation: the URL the researcher gave (MPBO50) is the VetMAX M. bovis kit page, not the MastiType page. Software requirements are in a separate VeriVet guideline that the search did not return.",
+     "url": "https://www.thermofisher.com/order/catalog/product/A39227"
+    },
+    {
+     "claim": "In 719 dog samples from Punjab, multiplex PCR found more infections than microscopy: B. gibsoni 8.9%, B. vogeli 1.1%, E. canis 2.6%, H. canis 5.1%.",
+     "verdict": "confirmed",
+     "reason": "PCR figures confirmed. The microscopy figures were B. gibsoni 5.0%, B. vogeli 0.1%, E. canis 1.4% and H. canis 1.0%. Agreement between the methods ranged from fair to substantial. A separate Punjab duplex real-time PCR study of 338 dogs (PMC8886702) found 54.1% overall: H. canis 25.4%, B. gibsoni 16.3%, E. canis 10.7%, B. vogeli 1.8%. Prevalence clearly depends on the method and the study.",
+     "url": "https://pubmed.ncbi.nlm.nih.gov/39150582/"
+    }
+   ]
+  }
+ }
+]

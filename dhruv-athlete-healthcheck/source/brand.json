@@ -203,5 +203,80 @@
       "NABH accredited blood banks list: Jeevan Jyoti Blood Bank & Components, BB-2011-0033, valid 5 April 2024 to 4 April 2027.",
       "Package benchmarks: Wockhardt Hospitals Nagpur and KIMS-Kingsway Nagpur health check-up price lists; national lab package listings, October 2026."
     ]
+  },
+  "vet": {
+    "prices": [
+      [
+        "Haematology",
+        "CBC with blood-film review",
+        450
+      ],
+      [
+        "Biochemistry",
+        "Liver profile",
+        700
+      ],
+      [
+        "Biochemistry",
+        "Kidney profile with electrolytes",
+        700
+      ],
+      [
+        "Profiles",
+        "Pre-anaesthetic: CBC, liver, kidney, glucose",
+        1499
+      ],
+      [
+        "Profiles",
+        "Senior wellness: CBC, full chemistry, T4, urinalysis",
+        2499
+      ],
+      [
+        "Hormones",
+        "Total T4",
+        600
+      ],
+      [
+        "Hormones",
+        "Cortisol (single)",
+        700
+      ],
+      [
+        "Hormones",
+        "ACTH stimulation (two cortisols)",
+        1300
+      ],
+      [
+        "Hormones",
+        "Progesterone for breeding",
+        700
+      ],
+      [
+        "PCR",
+        "Tick-fever panel: Babesia, Ehrlichia, Anaplasma, Hepatozoon",
+        1800
+      ],
+      [
+        "PCR",
+        "Parvovirus and distemper",
+        1200
+      ],
+      [
+        "PCR",
+        "Leptospira",
+        1200
+      ],
+      [
+        "Livestock",
+        "Dairy metabolic profile",
+        900
+      ],
+      [
+        "Livestock",
+        "Bovine haemoparasite PCR panel",
+        1500
+      ]
+    ],
+    "benchmarks": "Indian veterinary price points seen: canine CBC Rs 360-500, feline CBC Rs 799, feline LFT or KFT Rs 1,249 (Vetic), dog CBC+LFT+KFT package Rs 2,249-2,600 (Easzopets), IVRI PCR Rs 600-900."
   }
 }
