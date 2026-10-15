@@ -34,9 +34,14 @@ async function renderFigure(fig, W) {
   const rimB = await blurRaw(rim, W, H, Math.max(0.6, W * 0.0012)), shadeB = await blurRaw(shade, W, H, W * 0.006);
   for (let i = 0; i < W * H; i++) { rimB[i] = Math.min(rimB[i], body[i]); shadeB[i] = Math.round(Math.min(shadeB[i], body[i]) * 0.32); }
   const union = Buffer.alloc(W * H); for (let i = 0; i < W * H; i++) union[i] = Math.max(body[i], far[i]);
+  // optional darker markings (ear, coat patches), clipped to the body outline
+  let detailLayer = null;
+  if (f.detail) { const dm = await mask(f.detail, f.vb, W, H, 0); for (let i = 0; i < W * H; i++) dm[i] = Math.round(Math.min(dm[i], body[i]) * (f.detailAlpha || 0.55));
+    detailLayer = await layer(solid(W, H, f.detailColor || "#5F86D8"), dm, W, H); }
   const layers = [
     await layer(grad(W, H, "#5C83D4", "#3A5FAE"), far, W, H),
     await layer(grad(W, H, "#FFFFFF", "#86AAF0"), body, W, H),
+    ...(detailLayer ? [detailLayer] : []),
     await layer(solid(W, H, "#1E3F8A"), shadeB, W, H),
     await layer(solid(W, H, "#FFFFFF"), rimB, W, H),
   ];

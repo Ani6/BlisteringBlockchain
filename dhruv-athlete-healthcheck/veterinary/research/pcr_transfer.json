@@ -1,0 +1,646 @@
+{
+ "research": [
+  {
+   "topic": "biofire",
+   "research": {
+    "facts": [
+     {
+      "topic": "BioFire closed system",
+      "claim": "Each BioFire pouch is a sealed, self-contained, closed disposable that holds all the chemistry needed to isolate, amplify and detect nucleic acid from a sample. bioM\u00e9rieux says the closed design keeps amplicon-contamination risk low as long as pouches stay intact.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/content/dam/biomerieux-com/service-support/support-documents/instructions-for-use-and-manuals/RFIT-PRT-0575-FilmArray-Pneumo-Instructions-for-Use-EN.pdf",
+      "note": "The same wording appears in the RP2.1 IFU: https://www.fda.gov/media/137583/download"
+     },
+     {
+      "topic": "BioFire closed system",
+      "claim": "The FilmArray 2.0 Operator's Manual says the instrument is meant to be used with FDA-cleared or approved IVD BioFire panels, together with assay-specific reagent pouches.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/content/dam/biomerieux-com/service-support/support-documents/instructions-for-use-and-manuals/FLM2-PRT-0002-FilmArray-2.0-Operators-Manual-IVD-EN.pdf"
+     },
+     {
+      "topic": "BioFire closed system",
+      "claim": "A pouch only runs if its specific Pouch Module has been installed in the system software, so the pouch content is gated by the software.",
+      "confirmed": true,
+      "url": "https://www.fda.gov/media/89614/download",
+      "note": "From the FilmArray BioThreat-E IFU (BioFire Defense)."
+     },
+     {
+      "topic": "BioFire closed system",
+      "claim": "No source was found that lets a user load their own primers or third-party assays (LDT or open mode) on FilmArray 2.0 or Torch. Every source describes it as a closed, panel-specific, pouch-only system. In practice a lab can only run bioM\u00e9rieux or BioFire Defense pouches.",
+      "confirmed": false,
+      "url": "https://aseq.substack.com/p/the-biofire-filmarray",
+      "note": "This is an inference from the closed pouch design and the software-gated Pouch Modules. I found no explicit statement from the manufacturer either way. Treat 'no user-defined assays' as very likely but not documented."
+     },
+     {
+      "topic": "BioFire closed system",
+      "claim": "Pouches are tied to particular instrument generations. For example, RP2.1 pouches can only be used on FilmArray 2.0 and FilmArray Torch systems.",
+      "confirmed": true,
+      "url": "https://www.fda.gov/media/137583/download"
+     },
+     {
+      "topic": "BioFire panels",
+      "claim": "Respiratory: RP2.1 has 22 targets (older BioFire page). RP2.1plus has 23 targets and runs in about 45 minutes.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/content/dam/biomerieux-com/03----our-offer/clinical/in-hospital--in-lab/products/biofire-range/documents/biofire-all-panels-information-sheet-plus-version.pdf",
+      "note": "The 22-target figure is from https://www.biofiredx.com/products/the-filmarray-panels/. Target counts vary by version and region."
+     },
+     {
+      "topic": "BioFire panels",
+      "claim": "The BCID2 (Blood Culture Identification 2) panel has 43 targets on positive blood cultures: gram-negative and gram-positive bacteria, yeasts and 10 antimicrobial resistance genes. Results take about 1 hour.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/content/dam/biomerieux-com/03----our-offer/clinical/in-hospital--in-lab/products/biofire-range/documents/biofire-all-panels-information-sheet-plus-version.pdf"
+     },
+     {
+      "topic": "BioFire panels",
+      "claim": "Meningitis/Encephalitis panel: 14 targets on CSF, about 1 hour. Joint Infection panel: 39 targets on synovial fluid. Pneumonia panel: 33 targets. Pneumonia Plus: 34 targets.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/content/dam/biomerieux-com/03----our-offer/clinical/in-hospital--in-lab/products/biofire-range/documents/biofire-all-panels-information-sheet-plus-version.pdf",
+      "note": "The Pneumonia 33-target figure is from https://biofiredefense.com/biofire-filmarray-2-0-system/"
+     },
+     {
+      "topic": "BioFire panels",
+      "claim": "The Gastrointestinal panel has 22 targets (13 bacteria, 5 viruses, 4 parasites). Bacteria: Campylobacter, C. difficile toxin A/B, Plesiomonas shigelloides, Salmonella, Vibrio/V. cholerae, Yersinia enterocolitica, plus the diarrheagenic E. coli/Shigella group (EAEC, EPEC, ETEC lt/st, STEC stx1/stx2, E. coli O157, Shigella/EIEC). Parasites: Cryptosporidium, Cyclospora cayetanensis, Entamoeba histolytica, Giardia lamblia. Viruses: Adenovirus F40/41, Astrovirus, Norovirus GI/GII, Rotavirus A, Sapovirus.",
+      "confirmed": true,
+      "url": "https://www.biofiredx.com/wp-content/uploads/2016/08/MRKT-PRT-0234-08_FilmArray_Info_Sheet_GI_Panel_STD.pdf",
+      "note": "Current bioM\u00e9rieux page: https://www.biomerieux.com/corp/en/our-offer/clinical-products/biofire-filmarray-gastrointestinal-panel.html. There is also a smaller 11-target GI Mid panel. The exact Vibrio listing differs between versions."
+     },
+     {
+      "topic": "BioFire panels",
+      "claim": "The BIOFIRE FILMARRAY Tropical Fever panel received FDA Special 510(k) clearance in December 2024. Its targets are Chikungunya, Dengue (serotypes 1-4), Leptospira, Plasmodium spp., P. falciparum and P. vivax/ovale.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/us/en/journalists/press-releases/biofire-filmarray-tropical-fever-panel-fda-clearance.html"
+     },
+     {
+      "topic": "BioFire panels",
+      "claim": "The BioFire Global Fever Special Pathogens panel (BioFire Defense) runs on whole blood. Its targets include chikungunya, CCHFV, dengue, Ebola, Lassa, Marburg, West Nile, yellow fever, Bacillus anthracis, Francisella tularensis, Leptospira, Yersinia pestis, Leishmania and Plasmodium.",
+      "confirmed": true,
+      "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf21/K213362.pdf",
+      "note": "Sources give different target counts (16 vs 22)."
+     },
+     {
+      "topic": "BioFire panels vs scrub typhus",
+      "claim": "None of the BioFire panel target lists I found include Orientia tsutsugamushi (scrub typhus), Rickettsia, Anaplasma, Ehrlichia or Babesia. As far as I found, no BioFire panel replaces the lab's scrub typhus or tick-borne PCRs.",
+      "confirmed": false,
+      "url": "https://www.biomerieux.com/us/en/journalists/press-releases/biofire-filmarray-tropical-fever-panel-fda-clearance.html",
+      "note": "Absence of evidence from the target lists I found. Not verified against every panel's IFU."
+     },
+     {
+      "topic": "BioFire panels (non-clinical)",
+      "claim": "BioFire Defense sells a FilmArray Food & Water Panel v1.0 that is labeled not for diagnostic use and runs on the FilmArray 2.0 system. A Global Fever Panel RUO pouch module also exists.",
+      "confirmed": true,
+      "url": "https://biofiredefense.com/content/BIOFIRE-FILMARRAY-Support-Labeling/Not-Diagnostic-Labeling/FilmArray_Food_and_Water_Panel_Instructions_for_Use_NGDS-PRT-0052-04.pdf",
+      "note": "Neither panel is labeled for animal clinical samples."
+     },
+     {
+      "topic": "bioM\u00e9rieux veterinary offer",
+      "claim": "bioM\u00e9rieux's veterinary range includes VITEK 2 AST VET cards, VIDAS VET compatible immunoassays and VETFIRE point-of-care multiplex PCR panels.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/corp/en/our-offer/hospital-laboratory/specialty/veterinary-diagnostics.html"
+     },
+     {
+      "topic": "bioM\u00e9rieux veterinary offer",
+      "claim": "The VETFIRE Equine Respiratory Panel launched on 3 June 2025. It is built on BIOFIRE FILMARRAY PCR technology but runs on the BIOFIRE SPOTFIRE system. It detects 7 targets in under 20 minutes: EHV-1, EHV-4, Influenza A, Equine Rhinitis A, Equine Rhinitis B, Equine Adenovirus 1 and Streptococcus equi subsp. equi. Sample is an equine nasopharyngeal swab in saline or transport medium. Part number 424715, 6 tests per kit. It is sold commercially in the UK, Ireland and France, with possible expansion later.",
+      "confirmed": true,
+      "url": "https://www.biomerieux.com/corp/en/our-offer/clinical-products/vetfire.html",
+      "note": "Launch press release: https://www.biomerieux.com/corp/en/journalists/press-releases/vetfire-launch-equine-veterinarian.html. The product is for horses only, so it does not fit dogs, cats, cattle or buffalo. It needs a SPOTFIRE instrument, not FilmArray 2.0 or Torch. No India availability was found."
+     },
+     {
+      "topic": "bioM\u00e9rieux veterinary offer",
+      "claim": "I found no bioM\u00e9rieux or BioFire panel (VETFIRE or other) labeled for canine, feline, bovine or buffalo samples. No human BioFire panel is labeled for animal specimens.",
+      "confirmed": false,
+      "url": "https://www.biomerieux.com/corp/en/our-offer/hospital-laboratory/specialty/veterinary-diagnostics.html",
+      "note": "Absence of evidence as of the October 2026 searches. Confirm with the bioM\u00e9rieux India representative."
+     },
+     {
+      "topic": "Published animal studies with BioFire GI panel",
+      "claim": "Dairy sheep and goats in Greece (94 farms, Microorganisms 2022;10(4):714): the most frequent detections were STEC stx1/stx2 (94.7% of farms), Giardia lamblia (59.6%) and Campylobacter spp. (50.0%). Cryptosporidium, Salmonella, other bacteria and Rotavirus A were also detected. The authors note the technology is designed for human samples, which limits its use in animals.",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9030461/"
+     },
+     {
+      "topic": "Published animal studies with BioFire GI panel",
+      "claim": "Horses in Greece (Animals 2024;14:2566): GI pathogens were found in faeces from 97 horses (43.3%). Zoonotic pathogens were more common in horses kept in courtyard housing (56.0%) than in other housing types (39.7%).",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11394066/"
+     },
+     {
+      "topic": "Published animal studies with BioFire GI panel",
+      "claim": "Wild hedgehogs (Atelerix algirus) in Tenerife: 42 samples (93.33%) had at least one panel pathogen. Detections included EPEC (71.11%), Salmonella (66.67%) and Campylobacter (22.22%), with Cryptosporidium less often. The authors note the test has rarely been used on veterinary samples.",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7578256/"
+     },
+     {
+      "topic": "Published animal studies with BioFire GI panel",
+      "claim": "A feline enteropathogen paper reportedly compared the BioFire FilmArray GI panel with the GI-MAP assay on spiked samples. FilmArray scored 100% sensitivity and specificity, versus 80% and 26% for GI-MAP.",
+      "confirmed": false,
+      "url": "https://www.researchgate.net/publication/394406230_Feline_enteropathogens_and_molecular_diagnostics_benefits_limitations_and_clinical_applications",
+      "note": "Only a search snippet was seen, not the full text. It is unclear whether the spiked matrix was cat faeces. Verify before citing."
+     },
+     {
+      "topic": "Published animal studies with BioFire",
+      "claim": "I found no published clinical study using any BioFire panel (GI, respiratory, ME, BCID) on dog, cat, cattle or buffalo field samples. The animal GI studies I found cover sheep, goats, horses and hedgehogs.",
+      "confirmed": false,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9030461/",
+      "note": "Absence of evidence within a 12-search limit. Such studies may still exist."
+     },
+     {
+      "topic": "Cost in India",
+      "claim": "Indian patient list prices for BioFire tests are: GI panel \u20b919,000 at Metropolis (\u20b917,000-20,000 across metros), \u20b920,000 at Max Lab and \u20b916,130-21,600 at Aster Labs. Upper respiratory \u20b915,000 and lower respiratory \u20b920,000 at Max Lab. Respiratory syndromic \u20b919,400-23,760 at Aster. Pneumonia \u20b926,570-26,970 at Aster, \u20b928,000 at Metropolis and \u20b935,200 at Lucid (Hyderabad).",
+      "confirmed": true,
+      "url": "https://www.metropolisindia.com/parameter/gastrointestinal-panel-by-filmarray",
+      "note": "Other sources: https://www.maxlab.co.in/lab-tests/gastrointestinal-panel-filmarray-pcr, https://www.asterlabs.in/tests/rapid-molecular-gi-panel-test-bio-fire-film-array, https://luciddiagnostics.com/products/pneumonia-panel-by-filmarray-biofire-test-in-hyderabad. These are retail patient prices, not what a lab pays per pouch."
+     },
+     {
+      "topic": "Cost in India",
+      "claim": "I found no public figure for the price a lab pays per pouch in India.",
+      "confirmed": false,
+      "url": "https://www.maxlab.co.in/lab-tests/gastrointestinal-panel-filmarray-pcr",
+      "note": "Ask the bioM\u00e9rieux India distributor for a quote."
+     }
+    ],
+    "gaps": "All 12 WebSearch calls were used. No WebFetch, so the claims rest on search-result summaries of the cited pages, not on full-text reads.\n(1) I found no explicit manufacturer statement on whether user-defined or LDT assays can run on FilmArray. 'Closed, pouch-only' is inferred from the IFUs and the software-gated Pouch Modules.\n(2) No BioFire or VETFIRE panel for dogs, cats, cattle or buffalo was found. The only veterinary panel is the equine respiratory one, which runs on SPOTFIRE and is sold only in the UK, Ireland and France. Its availability in India and CDSCO status were not checked.\n(3) No published dog, cat, cattle or buffalo field study with any BioFire panel was found. The feline GI-MAP comparison is only a snippet.\n(4) Orientia, Rickettsia, Anaplasma, Ehrlichia and Babesia are absent from the target lists found, but I did not check this against every panel IFU.\n(5) Lab per-pouch cost in India was not found; only patient retail prices.\n(6) Sources disagree on the Global Fever Special Pathogens target count (16 vs 22) and on RP2.1 counts (21/22/23 by version).\n(7) The lab's existing scrub typhus and tick-borne PCR kits were not researched; this subtask covered BioFire only.\n(8) Indian regulatory or ethical rules on using human-IVD-labeled kits for veterinary samples were not searched."
+   }
+  },
+  {
+   "topic": "scrub-typhus",
+   "research": {
+    "facts": [
+     {
+      "topic": "Scrub typhus in domestic animals: clinical disease vs reservoir",
+      "claim": "The Public Health Agency of Canada pathogen safety data sheet says antibodies to O. tsutsugamushi have been found in wild monkeys and dogs, but the disease is not known to occur naturally in animals.",
+      "confirmed": true,
+      "url": "https://www.canada.ca/en/public-health/services/laboratory-biosafety-biosecurity/pathogen-safety-data-sheets-risk-assessment/orientia-tsutsugamushi.html",
+      "note": "Wording comes from the search-result excerpt. This is the clearest statement that scrub typhus is not a recognised natural clinical disease of domestic animals."
+     },
+     {
+      "topic": "Scrub typhus in domestic animals: clinical disease vs reservoir",
+      "claim": "Trombiculid mite larvae (chiggers) are the natural reservoir and the vector of Orientia tsutsugamushi. They pass the infection to rodents and other small animals as well as to humans.",
+      "confirmed": true,
+      "url": "https://www.msdmanuals.com/professional/infectious-diseases/rickettsiae-and-related-organisms/scrub-typhus"
+     },
+     {
+      "topic": "Scrub typhus in dogs: single clinical case report (Japan)",
+      "claim": "A 2014 case report from Japan (Southeast Asian J Trop Med Public Health 2014;45(2):395-401, PMID 24968681) describes a lethargic household dog. O. tsutsugamushi was diagnosed by a PCR method developed for human infection, run on the dog's anticoagulated peripheral blood, and Karp, Kato and Kuroki-type genomes were detected. Ten asymptomatic dogs from the same area were also PCR-positive: Kuroki type in all 10, Gilliam in 6 and Kawasaki in 3. The authors concluded that dogs can be naturally infected and act as hosts.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24968681/",
+      "note": "Source is the abstract only. The dog's full clinical signs (fever, bloodwork) are not confirmed. This is one case series, so it does not establish canine scrub typhus as a recognised clinical entity. It does show that human-designed Orientia PCR targets can amplify from canine blood. The first author name (Namikawa) came from the search tool's synthesis and was not checked against the record."
+     },
+     {
+      "topic": "Dogs as sentinels",
+      "claim": "In a cross-sectional survey on Chilo\u00e9 Island, southern Chile, 21.3% of 202 household dogs had antibodies to Orientia. Seroprevalence was higher in rural than urban dogs and in older dogs. The authors concluded that dogs are useful sentinels for Orientia spp. where endemicity is uncertain.",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6034878/"
+     },
+     {
+      "topic": "Host range: systematic review",
+      "claim": "Elliott et al. 2019 (Parasites & Vectors) is a systematic review of Orientia in vectors and non-human hosts. It covers 276 articles, 793 sites in 30 countries, 234 vertebrate host species and about 83,000 vertebrates tested. Its host table reportedly gives about 17.8% positivity for dogs (Canidae, n\u22481,826) and about 3.4% for artiodactyls such as cattle, goats, sheep and pigs (n\u22481,568), with artiodactyls tested only in China, Taiwan and Russia. The review also notes that Haemaphysalis ticks removed from scrub typhus-infected dogs were PCR-positive.",
+      "confirmed": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6829833/",
+      "note": "The study counts are confirmed from the abstract excerpt. The per-host-group percentages came from the search tool's reading of Table 5 and should be checked in the full text. The figures show exposure or infection, not clinical disease."
+     },
+     {
+      "topic": "Livestock: buffalo serology (outside India)",
+      "claim": "An IFA study of 156 water buffaloes from 29 farms in Phatthalung, Southern Thailand (Veterinary World, August 2023) found 4.49% individual seroprevalence for O. tsutsugamushi (95% CI 2.19-8.97%). Nine of the 29 herds (31%) had seropositive animals. The authors call it the first such report in Southern Thai buffaloes.",
+      "confirmed": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10521187",
+      "note": "This is serology (exposure) only, with no clinical disease reported. The Veterinary World page with the same paper is https://www.veterinaryworld.org/Vol.16/August-2023/4.html"
+     },
+     {
+      "topic": "Livestock: serology (outside India)",
+      "claim": "An abattoir serosurvey in Lao PDR used immunofluorescence, including a scrub typhus group antigen, on cattle, pig and water buffalo samples from 18 provinces.",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12828799/",
+      "note": "The livestock-specific scrub typhus results were not retrieved."
+     },
+     {
+      "topic": "India, Central India / Nagpur: rodents and mites by PCR",
+      "claim": "Studies from Central India found O. tsutsugamushi in rodents and mites by PCR. One Nagpur Veterinary College-linked study tested 127 rodent samples, 7 mite pools and 4 flea pools by nested PCR (56-kDa and 47-kDa genes). Detection was 12% and 10% pre-monsoon and 13.33% and 26.66% post-monsoon. An earlier report found 10 of 59 rodent samples positive by 56-kDa PCR and 4 of 59 by 47-kDa nested PCR, with 1 of 5 pools of Ornithonyssus bacoti mites positive.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/30656500/",
+      "note": "The figures came from search excerpts. Which figures belong to which paper is not certain: the 127-sample data is probably the 2019 Environ Monit Assess paper (this URL, also https://link.springer.com/article/10.1007/s10661-019-7208-7) and the 59-sample data probably PMID 28934071 (https://pubmed.ncbi.nlm.nih.gov/28934071). The two datasets may overlap."
+     },
+     {
+      "topic": "India, Nagpur: human + rodent One Health-style study",
+      "claim": "A Nagpur-region study in J Vector Borne Diseases (PMID 37843234) tested 92 human pyrexia-of-unknown-origin samples (August 2019 to October 2020) by indirect IgM ELISA and IFA. It also trapped 50 rodents at four locations and screened their ectoparasites (mites, lice, fleas) for O. tsutsugamushi by PCR.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/37843234",
+      "note": "The full results (positivity rates) were not retrieved."
+     },
+     {
+      "topic": "India, Vidarbha: local veterinary reference capacity",
+      "claim": "A Government Medical College Nagpur study in Vidarbha found 158 of 490 samples (32.24%) positive by InBios Scrub Typhus Detect IgM ELISA. Ten ELISA-positive samples were sent for confirmation to the ICAR Centre for Zoonosis, Nagpur Veterinary College.",
+      "confirmed": true,
+      "url": "https://www.researchgate.net/publication/339482950_Scrub_typhus_in_rural_areas_suburbs_of_Vidarbha_region_of_Maharashtra",
+      "note": "This suggests Nagpur Veterinary College (MAFSU) already runs Orientia testing and could be a local partner or reference lab. That is an inference."
+     },
+     {
+      "topic": "India, Central India: human burden near Nagpur",
+      "claim": "A study in urban Wardha district found that up to 16% of acute febrile illness cases had IgM against O. tsutsugamushi by capture ELISA, confirmed by IgM IFA.",
+      "confirmed": true,
+      "url": "https://ijmr.org.in/scrub-typhus-in-urban-areas-of-wardha-district-in-central-india/"
+     },
+     {
+      "topic": "India, Madhya Pradesh: outbreak rodent work",
+      "claim": "An outbreak investigation in Madhya Pradesh used rodent trapping and nested PCR of the 56-kDa TSA gene. It reported Karp as the predominant circulating genotype, for the first time in the region, and identified Leptotrombidium deliense as the vector.",
+      "confirmed": true,
+      "url": "https://www.ovid.com/jnls/jvbd/fulltext/10.4103/0972-9062.345176~molecular-epidemiology-of-orientia-tsutsugamushi-from"
+     },
+     {
+      "topic": "India: One Health meta-analysis",
+      "claim": "'Mapping Scrub Typhus Across Multiple Hosts in India' (EcoHealth, published online July 2026, DOI 10.1007/s10393-026-01830-5) is a systematic review and meta-analysis of 83 Indian studies from 2003-2024. It reports pooled prevalence of 6% in 1,782 rodents and shrews and 5% (1-17%) in 1,037 ectoparasite pools, against 13-20% in human groups.",
+      "confirmed": true,
+      "url": "https://link.springer.com/article/10.1007/s10393-026-01830-5",
+      "note": "The figures come from the abstract via the search tool. The online date and first author ('Mote') came from the search synthesis and were not checked. PubMed record: https://pubmed.ncbi.nlm.nih.gov/42498835/. The animal hosts in the excerpt are rodents and shrews only; no dog or livestock pooled estimates were reported."
+     },
+     {
+      "topic": "India: One Health surveillance studies",
+      "claim": "Recent Indian One Health-framed work on Orientia names rodents and shrews as the reservoirs, not domestic animals. In Udaipur, Southern Rajasthan, a chigger and small-mammal study named Suncus murinus and Rattus rattus as the primary reservoir hosts. A 2023 Odisha scrub typhus cluster was also investigated with a One Health approach.",
+      "confirmed": true,
+      "url": "https://link.springer.com/article/10.1186/s12982-026-03088-2",
+      "note": "Odisha cluster paper: https://link.springer.com/article/10.1186/s42522-026-00200-z (its findings were not retrieved)."
+     },
+     {
+      "topic": "India: other rodent/vector PCR surveillance",
+      "claim": "Other Indian molecular surveillance of Orientia in reservoir animals and vectors includes a longitudinal study in Puducherry (humans, rodents and shrews, mites), small mammals and their ectoparasites in Madurai, and rodent hosts in the Western Himalayas (56-kDa TSA PCR plus indirect ELISA).",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12425938/",
+      "note": "Madurai: https://pmc.ncbi.nlm.nih.gov/articles/PMC11050748/ ; Western Himalayas: https://pubmed.ncbi.nlm.nih.gov/41921463/"
+     },
+     {
+      "topic": "India: dogs, cattle, buffalo",
+      "claim": "None of the searches found an Indian study testing dogs, cats, cattle or buffalo for O. tsutsugamushi by PCR or serology. Indian animal work found is on rodents, shrews and their ectoparasites.",
+      "confirmed": false,
+      "url": "https://link.springer.com/article/10.1007/s10393-026-01830-5",
+      "note": "This is an absence in search results, not proof that no such study exists. The 2026 Indian meta-analysis abstract reports animal data only for rodents and shrews, which is consistent with the gap."
+     },
+     {
+      "topic": "Commercial scrub typhus PCR kits in India: labelling",
+      "claim": "The DCGI approved Molbio's Truenat Scrub T chip-based real-time PCR. Its reported intended use is quantitative detection of scrub typhus bacteria in blood, serum and plasma specimens.",
+      "confirmed": true,
+      "url": "https://medicaldialogues.in/news/industry/pharma/dcgi-approves-molbio-diagnostics-truenat-scrub-t-test-for-scrub-typhus-83122",
+      "note": "The excerpt does not explicitly say 'human only'. The approval is a human IVD (DCGI/CDSCO medical device) route. Current status was not rechecked."
+     },
+     {
+      "topic": "Commercial scrub typhus PCR kits in India: human internal control",
+      "claim": "HiMedia's Hi-PCR Scrub typhus Detection Probe PCR Kit is a multiplex real-time PCR. It targets the O. tsutsugamushi 56-kDa gene (CY5 channel) and includes a human internal control (ROX channel).",
+      "confirmed": true,
+      "url": "https://www.himedialabs.com/us/hi-pcrr-scrub-typhus-detection-probe-pcr-kit.html",
+      "note": "Its regulatory label (IVD vs RUO) was not found. Inference, not confirmed: an endogenous human internal-control target would not amplify from dog, cattle or buffalo DNA, so animal samples would give invalid or uninterpretable runs unless an exogenous or species-appropriate control is added."
+     },
+     {
+      "topic": "Scrub typhus PCR kits: IVD labelling example",
+      "claim": "Wells Bio's careGENE Scrub Typhus real-time PCR is labelled an in vitro diagnostic device for qualitative detection of the O. tsutsugamushi 16S rRNA gene in K3-EDTA whole blood from suspected scrub typhus patients.",
+      "confirmed": true,
+      "url": "https://www.medicalexpo.com/prod/wells-bio/product-4580349-1193919.html",
+      "note": "This is a Korean kit; its CDSCO status was not found. The intended use refers to patients (human)."
+     },
+     {
+      "topic": "Indian-made scrub typhus qPCR kits",
+      "claim": "Indian-made real-time PCR kits such as Geno-Sen's Scrub Typhus kit have been validated against serological ELISA in human samples. No search result showed any validation on animal samples.",
+      "confirmed": true,
+      "url": "https://ncbi.nlm.nih.gov/pubmed/28878522",
+      "note": "The CDSCO registration status and labelled specimen type of the Geno-Sen and HELINI kits were not confirmed."
+     },
+     {
+      "topic": "Regulatory: human IVD kits used on animal samples",
+      "claim": "No source was found that states explicitly whether CDSCO-registered scrub typhus PCR kits are restricted to human specimens, or how Indian regulation treats off-label veterinary use of human IVD kits.",
+      "confirmed": false,
+      "url": "https://medicaldialogues.in/news/industry/pharma/dcgi-approves-molbio-diagnostics-truenat-scrub-t-test-for-scrub-typhus-83122",
+      "note": "Inference, not confirmed: human IVD kits are validated on human specimens, so using them on animal samples would be off-label and would need in-house validation (extraction, internal control, matrix, LoD) and labelling of results as non-IVD or research. The Japanese canine report (PMID 24968681) shows the human PCR target itself can work on dog blood."
+     }
+    ],
+    "gaps": "The searches did not find: (1) any Indian study of O. tsutsugamushi in dogs, cats, cattle or buffalo; (2) the full texts of the Elliott 2019 host table, the Nagpur studies (PMIDs 30656500, 28934071, 37843234) or the 2026 EcoHealth meta-analysis, so some figures and their attribution rest on abstracts or search excerpts; (3) the exact intended-use or IVD vs RUO labels and CDSCO registration for the HiMedia, Geno-Sen, HELINI and 3B BlackBio scrub typhus PCR kits, or any CDSCO or Indian veterinary-regulatory guidance on using human IVD kits for animal samples; (4) the clinical details of the 2014 Japanese canine case. The user's parallel questions on the 'tick-borne' PCR panel and BioFire FilmArray panels for veterinary samples were outside this subtask and were not searched. All 12 WebSearch calls were used."
+   }
+  },
+  {
+   "topic": "tick-pcr",
+   "research": {
+    "facts": [
+     {
+      "topic": "1. Human kits sold in India: scrub typhus",
+      "claim": "HiMedia (Thane, Maharashtra) sells the Hi-PCR Scrub typhus Detection Probe PCR Kit. It is a probe-based real-time PCR that targets the 56 kDa gene of Orientia tsutsugamushi. The listing names no Anaplasma or Ehrlichia targets.",
+      "confirmed": true,
+      "url": "https://www.himedialabs.com/us/hi-pcrr-scrub-typhus-detection-probe-pcr-kit.html"
+     },
+     {
+      "topic": "1. Human kits sold in India: scrub typhus",
+      "claim": "The 3B BlackBio 2022 product catalogue lists the TRUPCR Scrub Typhus Detection Kit (real-time PCR for O. tsutsugamushi) as RUO (research use only). The gene target was not found in the catalogue excerpt.",
+      "confirmed": true,
+      "url": "https://3bblackbio.com/cimages/3B%20BlackBio%20Biotech%20Brochure.pdf",
+      "note": "Target gene not confirmed. Check the package insert. A Jaipur clinical study also used this kit (reported in the search summary)."
+     },
+     {
+      "topic": "1. Human kits sold in India: multiplex fever panels",
+      "claim": "The 3B BlackBio TRUPCR Tropical Fever Panel is a 3-tube multiplex real-time PCR. It covers dengue, chikungunya, Zika, West Nile, Salmonella, Plasmodium, Rickettsia, Orientia and Leptospira from whole blood or urine. The search result did not give the target genes for Rickettsia or Orientia.",
+      "confirmed": true,
+      "url": "https://3bblackbio.com/trupcr-vector-borne-diseases-tropical-fever-panel-kit.html",
+      "note": "One vendor listing gives catalogue number 3B250 (48 reactions): https://www.indiamart.com/proddetail/trupcr-tropical-fever-panel-kit-26271632430.html. A Central India study using this kit reported Rickettsia positive in 14.10% and scrub typhus in 11.54% of patients: https://esmed.org/malaria-co-infections-insights-from-central-india-study/"
+     },
+     {
+      "topic": "1. Human kits sold in India: multiplex fever panels",
+      "claim": "The HiMedia Hi-PCR Acute Fever Panel targets dengue, chikungunya, Zika, Salmonella, Leptospira, Plasmodium and Orientia. Rickettsia is not listed.",
+      "confirmed": true,
+      "url": "https://www.himedialabs.com/hi-pcrr-acute-fever-panel-kit.html"
+     },
+     {
+      "topic": "1. Human kits sold in India: multiplex fever panels",
+      "claim": "The NeoDx Tropical Fever Panel (8 pathogens) is a TaqMan-probe, 3-tube multiplex assay with a beta-actin internal control, sold in 100-, 50- and 20-reaction packs.",
+      "confirmed": true,
+      "url": "https://www.neodx.in/tropical-fever-panel-real-time-pcr-8-pathogen-detection",
+      "note": "Inference, not confirmed: if the beta-actin internal control is human-specific, it may fail on dog or cattle DNA, which would make animal samples read as invalid. This applies to any human kit with a human-gene internal control. Check with the manufacturer."
+     },
+     {
+      "topic": "1. Human tick-borne PCR: no Indian kit found",
+      "claim": "No Indian-made commercial human tick-borne PCR kit or panel for Anaplasma phagocytophilum, Ehrlichia chaffeensis or Babesia microti was found. Certest Biotec (Spain) lists a tick-borne diseases qPCR line that covers Rickettsia spp., Babesia microti, Ehrlichia chaffeensis and Anaplasma phagocytophilum, among others.",
+      "confirmed": true,
+      "url": "https://www.certest.es/products/tick-borne-diseases-qpcr/",
+      "note": "Indian distribution and regulatory status of the Certest products not confirmed. The lab's own 'tick-borne PCR' kit name and targets are unknown and need to be checked against its insert."
+     },
+     {
+      "topic": "1. Human rickettsial PCR targets used in India",
+      "claim": "Orientia targets used in Indian human PCR work include the 56 kDa gene (commercial kits and nested PCR), the 47 kDa gene (in-house TaqMan, Ct \u226440 positive) and groEL (SYBR). In one study the 47 kDa target was less sensitive than the other two.",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12804427/"
+     },
+     {
+      "topic": "1. Human rickettsial PCR targets used in India",
+      "claim": "A Chennai multiplex real-time PCR for Orientia (47 kDa) plus Rickettsia detected only 14 of 35 scrub typhus cases that a 56 kDa nested PCR had confirmed.",
+      "confirmed": true,
+      "url": "https://microbiologyjournal.org/diagnosis-of-rickettsial-infection-by-multiplex-real-time-pcr-in-febrile-pediatric-patients-admitted-in-a-tertiary-care-hospital-at-chennai-south-india/"
+     },
+     {
+      "topic": "1. Human rickettsial PCR targets used in India",
+      "claim": "DRDE Gwalior developed a SYBR Green real-time PCR on the O. tsutsugamushi 56 kDa gene for scrub typhus diagnosis in India.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/17870041/"
+     },
+     {
+      "topic": "1. Human rickettsial PCR targets used in India",
+      "claim": "Spotted fever group Rickettsia in India ('Candidatus Rickettsia kellyi', from a human skin biopsy) was identified by ompA and gltA PCR. A review of Asian SFG diagnostics says ompA and ompB are the more specific and discriminating SFG targets in both patient and animal samples.",
+      "confirmed": true,
+      "url": "https://wwwnc.cdc.gov/eid/article/12/3/05-0853_article",
+      "note": "Review: https://pmc.ncbi.nlm.nih.gov/articles/PMC6805790/"
+     },
+     {
+      "topic": "1. KFD and CCHF PCR",
+      "claim": "No information was retrieved on KFD or CCHF PCR kits in India, or on their use with livestock samples. Two searches on this topic were blocked by the search tool.",
+      "confirmed": false,
+      "url": "n/a - no source retrieved",
+      "note": "Unresolved gap. In India these are typically handled by referral and government labs (e.g. ICMR-NIV), but that is not confirmed here."
+     },
+     {
+      "topic": "2. Cross-detection: human Ehrlichia/Anaplasma PCR vs E. canis",
+      "claim": "Mayo Clinic Laboratories' human Ehrlichia/Anaplasma real-time PCR (EPCRB/EHRL, EDTA whole blood) reports A. phagocytophilum, E. chaffeensis, 'E. ewingii/canis' and E. muris eauclairensis. Its melting curves cannot tell E. ewingii from E. canis, so a human assay of this design does pick up E. canis.",
+      "confirmed": true,
+      "url": "https://www.mayocliniclabs.com/test-catalog/Overview/618301",
+      "note": "Also stated in the Essentia (https://essentiahealth.testcatalog.org/show/LAB5950) and Cayuga (https://cayugamedlab.testcatalog.org/show/LAB3429) catalogue entries for the same Mayo test. Detection of A. platys, A. marginale or other canine/bovine targets is not claimed. Whether Indian human kits behave the same way is not confirmed."
+     },
+     {
+      "topic": "2. Cross-detection: genus-level 16S primers",
+      "claim": "The family-level primers EHR16SD/EHR16SR amplify a 345 bp 16S rRNA fragment from Anaplasma, Ehrlichia, Neorickettsia and Wolbachia. They are used to screen dog blood for E. canis and A. platys, but species then have to be called with species-specific primers or sequencing.",
+      "confirmed": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5234063/",
+      "note": "Inference, not confirmed: a human assay built on genus- or family-level 16S primers would likely also amplify E. canis, A. platys and A. marginale, but without species identification. No source tested this directly for A. marginale. The search on A. phagocytophilum-specific (msp2) assay cross-reactivity with A. marginale/A. platys was blocked."
+     },
+     {
+      "topic": "2. Cross-detection: E. canis vs A. platys resolution",
+      "claim": "In a published multiplex PCR, the E. canis and A. platys amplicons differ by only 5 nucleotides and cannot be separated on agarose gel.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/24107211/"
+     },
+     {
+      "topic": "2. Cross-detection: serology caveat",
+      "claim": "CDC notes that most commercial labs cannot tell Ehrlichia species apart, and that antibodies to Ehrlichia and Anaplasma antigens can cross-react.",
+      "confirmed": true,
+      "url": "https://www.cdc.gov/ehrlichiosis/hcp/diagnosis-testing/index.html"
+     },
+     {
+      "topic": "2. Cross-detection: Rickettsia in dogs",
+      "claim": "Conventional and real-time PCR on the rickettsial ompA gene has been used to detect spotted fever group Rickettsia in dog blood, sometimes before seroconversion. So the targets used by human SFG Rickettsia assays can work on canine blood. SFG Rickettsia is not one of the main canine tick-borne pathogens in India.",
+      "confirmed": true,
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0378113507006098",
+      "note": "No Indian study of Rickettsia or Orientia PCR in dog blood was found."
+     },
+     {
+      "topic": "2. Cross-detection: piroplasms (Babesia/Theileria/Hepatozoon)",
+      "claim": "A universal 18S rRNA piroplasmid PCR (Kumar et al., Acta Parasitologica) was validated in cattle, buffalo, sheep, goats, dogs, horses and leopards. It gives Babesia amplicons of about 393-408 bp and Theileria amplicons of 418-424 bp, and does not react with Hepatozoon.",
+      "confirmed": true,
+      "url": "https://link.springer.com/article/10.1007/s11686-022-00625-2",
+      "note": "Inference, not confirmed: a human Babesia microti-specific PCR is not expected to detect B. gibsoni, B. vogeli, B. bigemina or T. annulata. No source tested this directly. Only broad 18S piroplasm primers detect these."
+     },
+     {
+      "topic": "2. Cross-detection: piroplasms (Babesia/Theileria/Hepatozoon)",
+      "claim": "The 18S primers Bab7/Bab9 used for Babesia vogeli in dogs also amplified Hepatozoon canis, at a distinct 503 bp product.",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12535460/"
+     },
+     {
+      "topic": "2. Cross-detection: piroplasms (Babesia/Theileria/Hepatozoon)",
+      "claim": "The BTH 18S primers amplify Babesia, Theileria and Hepatozoon. In Myanmar dogs they detected B. vogeli, B. gibsoni and several Theileria species, confirmed by sequencing.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/33984595/"
+     },
+     {
+      "topic": "3. Canine tick-borne pathogens in India",
+      "claim": "A pan-India PCR survey of 525 dogs found H. canis 30%, E. canis 20.6%, Mycoplasma haemocanis 12.2%, A. platys 6.5%, B. vogeli 5.5% and B. gibsoni 0.2%.",
+      "confirmed": true,
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162925/",
+      "note": "Parasites & Vectors vol. 4:141, an older study. Also at https://link.springer.com/article/10.1186/1756-3305-4-141"
+     },
+     {
+      "topic": "3. Canine tick-borne pathogens in India",
+      "claim": "In Northeast India, 52% (68/130) of dogs were PCR-positive for vector-borne pathogens: B. gibsoni 43%, H. canis 38%, A. platys 3%.",
+      "confirmed": true,
+      "url": "https://link.springer.com/article/10.1186/s13071-019-3389-8"
+     },
+     {
+      "topic": "3. Canine tick-borne pathogens in India",
+      "claim": "In Punjab (719 dogs), multiplex PCR found B. gibsoni 8.9%, B. vogeli 1.1%, E. canis 2.6% and H. canis 5.1%. Microscopy found 5.0%, 0.1%, 1.4% and 1.0%.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/39150582/"
+     },
+     {
+      "topic": "3. Canine tick-borne pathogens in India",
+      "claim": "In South India (Kerala), 88% of community-owned dogs and 49.2% of pet dogs carried at least one haemoprotozoan or haemorickettsial pathogen.",
+      "confirmed": true,
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S2405939024001709"
+     },
+     {
+      "topic": "3. Veterinary assays: canine (published)",
+      "claim": "Punjab researchers developed and validated multiplex SYBR Green real-time PCR assays for B. gibsoni, B. vogeli, E. canis and H. canis. Field prevalence was 8.0%, 1.5%, 3.5% and 23.5% respectively.",
+      "confirmed": true,
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1877959X22000425",
+      "note": "A related Punjab paper describes duplex real-time PCRs for canine tick-borne haemoparasites: https://link.springer.com/article/10.1007/s11033-022-07286-4"
+     },
+     {
+      "topic": "3. Veterinary assays: canine (published)",
+      "claim": "A multiplex PCR has been evaluated for Babesia spp., E. canis and Trypanosoma evansi in dogs.",
+      "confirmed": true,
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0001706X18307137"
+     },
+     {
+      "topic": "3. Veterinary assays: canine (published)",
+      "claim": "A hexaplex PCR covering E. canis, B. gibsoni, B. vogeli, H. canis and A. platys was validated in 8 districts of Odisha. Reported analytical sensitivity was 0.1 pg for A. platys, H. canis and B. vogeli, and 10 pg for E. canis and B. gibsoni.",
+      "confirmed": false,
+      "url": "unverified - appeared in a search summary without a clearly attributable source link",
+      "note": "Source paper not pinned down. Verify before relying on it."
+     },
+     {
+      "topic": "3. Veterinary assays: bovine (published)",
+      "claim": "An Indian multiplex PCR (Acta Parasitologica 2018) detects T. annulata (Tams1), B. bigemina (18S rRNA) and A. marginale (16S rRNA) in bovines. In 461 field samples it found 26.03%, 3.25% and 5.20%. Detection limits were about 10 pg for B. bigemina and 0.1 pg for the other two.",
+      "confirmed": true,
+      "url": "https://doi.org/10.1515/ap-2018-0090"
+     },
+     {
+      "topic": "3. Veterinary assays: bovine (published)",
+      "claim": "An internally controlled pentaplex PCR (Biologicals) detects B. bigemina (AMA-1), T. annulata (Tams1), A. marginale (MSP5) and T. evansi (VSG) in cattle.",
+      "confirmed": true,
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31708375",
+      "note": "These bovine multiplexes are conventional end-point PCRs. No bovine qPCR multiplex was found."
+     },
+     {
+      "topic": "3. Veterinary assays: bovine (published)",
+      "claim": "A molecular study of cattle and buffaloes in India found a mutation in Indian T. annulata strains in the primer region of a standard Tams1 primer pair, which affects primer choice.",
+      "confirmed": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11319688/"
+     },
+     {
+      "topic": "3. Veterinary assays: bovine (published)",
+      "claim": "A separate multiplex PCR detects T. annulata, B. bovis and A. marginale in cattle.",
+      "confirmed": true,
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3650576/",
+      "note": "Country of origin not confirmed from the snippet."
+     },
+     {
+      "topic": "3. Veterinary kits: commercial (India)",
+      "claim": "Aura Biotechnologies (Chennai) lists single canine real-time PCR kits on IndiaMART for Babesia gibsoni, Ehrlichia canis and Hepatozoon canis (\u20b925,000 per kit; 5/10/25 reactions). It also lists a multiplex 'Canine Tick Panel' (E. ewingii, Babesia rossi, E. canis) and calls the kits 'ICMR Approved'.",
+      "confirmed": false,
+      "url": "https://www.indiamart.com/aurabiotechnologies/aquaculture-diagnostic-kits.html",
+      "note": "Marketplace listing only. Price, performance and the 'ICMR Approved' claim are unverified, and ICMR approval of a veterinary kit is unusual. The panel's B. rossi target is not relevant to India."
+     },
+     {
+      "topic": "3. Veterinary kits: commercial (India)",
+      "claim": "Retro Biotech (India) lists an Ehrlichia canis Real-Time PCR Detection Kit for canine whole blood. Its veterinary PCR page lists a multiplex panel that includes B. gibsoni, H. canis and E. canis.",
+      "confirmed": false,
+      "url": "https://retrobiotech.in/productDetail/29",
+      "note": "Veterinary PCR page: https://retrobiotech.in/veterinary_pcr_diagnostic_kit. Kit composition and validation not verified."
+     },
+     {
+      "topic": "3. Veterinary kits: commercial (international)",
+      "claim": "Ringbio (China) sells a Babesia gibsoni real-time PCR test kit for canine and feline blood. Gangzhu lists a 'Canine Anemia Panel (6 items)' real-time PCR kit. Genetic PCR Solutions has a veterinary real-time PCR kit catalogue.",
+      "confirmed": false,
+      "url": "https://www.ringbio.com/products/pet/babesia-gibsoni-real-time-pcr-test-kit",
+      "note": "Gangzhu: https://gangzhumed.com/canine-anemia-panel-6-items-real-time-pcr-detection-kit/. GPS: https://geneticpcr.com/rt-pcr-kits-veterinary/. Indian distributors, exact targets and performance not confirmed."
+     }
+    ],
+    "gaps": "1) BioFire FilmArray: this step did not search BioFire panels or whether they apply to animal samples (out of scope here). The user's BioFire question needs separate coverage. 2) KFD and CCHF: two searches (KFD/CCHF kits in India and livestock testing; A. phagocytophilum msp2 assay cross-reactivity with A. marginale/A. platys) were blocked by the search tool. Nothing was retrieved on KFD or CCHF kits, their targets, or their animal relevance. 3) The lab's own human 'tick-borne PCR' kit is unidentified. Its brand, targets, primer level (genus or species) and internal control must be checked against its package insert. No Indian commercial human Anaplasma/Ehrlichia/Babesia PCR kit was found. 4) Target genes for the 3B BlackBio TRUPCR Rickettsia and Orientia assays were not found. 5) There is direct evidence of human-assay cross-detection only for E. canis (Mayo's melting-curve assay reports 'E. ewingii/canis'). Detection of A. platys, A. marginale, canine Babesia, Theileria or Hepatozoon by human assays was not tested in any source found. Those statements are inference, flagged as unconfirmed. 6) No data were found on whether human kits' internal controls (e.g. beta-actin) amplify dog or cattle DNA. 7) No Indian dog study of Rickettsia or Orientia PCR was found. 8) Commercial Indian veterinary kit claims (Aura's 'ICMR Approved', Retro Biotech panels) come from vendor and marketplace pages only and are unverified. No bovine qPCR kit was found. 9) The Odisha hexaplex canine PCR could not be tied to a source URL."
+   }
+  }
+ ],
+ "verify": {
+  "checks": [
+   {
+    "claim": "BioFire FilmArray is a closed, pouch-only system, and there is no route for user-defined or LDT assays on FilmArray 2.0 or Torch.",
+    "verdict": "unverifiable",
+    "reason": "The 'closed system' part is supported. A published comparison calls FilmArray RP 'the only closed system' in its study, and BioFire Defense describes all steps as happening inside a single disposable pouch. A targeted search for open-mode, user-defined, custom-pouch or LDT options found nothing either way. Research-version (RUO) panels exist, but nothing shows a user can design their own pouch. 'No user-defined assays' is very likely true but is still not documented by the manufacturer. Ask bioM\u00e9rieux India.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3647947/"
+   },
+   {
+    "claim": "No bioM\u00e9rieux/BioFire/VETFIRE panel is labelled for canine, feline, bovine or buffalo samples. VETFIRE is horse-only.",
+    "verdict": "confirmed",
+    "reason": "Every VETFIRE result found is the Equine Respiratory Panel. bioM\u00e9rieux's January 2026 JPM investor presentation and its ESCMID 2026 materials still name only the Equine Respiratory Panel under VETFIRE. Its 2026 regulatory releases cover only human BIOFIRE/SPOTFIRE panels. This rests on absence of evidence as of October 2026; confirm with bioM\u00e9rieux India.",
+    "url": "https://www.biomerieux.com/content/dam/biomerieux-com/investor/02---news---reports/2026/en/20260113---JPM-presentation.pdf"
+   },
+   {
+    "claim": "The VETFIRE Equine Respiratory Panel launched on 3 June 2025. It has 7 equine respiratory targets and is sold in the UK, Ireland and France, with possible expansion later.",
+    "verdict": "confirmed",
+    "reason": "The press release dated 20250603 confirms the June 2025 launch, the 7 targets (equine herpesviruses, influenza A, equine rhinitis viruses, equine adenovirus 1, S. equi subsp. equi) and availability in the UK, Ireland and France. This pass did not re-check that it runs on SPOTFIRE, the under-20-minute run time or part number 424715.",
+    "url": "https://www.biomerieux.com/content/dam/biomerieux-com/investor/regulated-informations/2025/press-releases/20250603_PR_VETFIRE_launch_bioMerieux.pdf.coredownload.pdf"
+   },
+   {
+    "claim": "The BIOFIRE FILMARRAY Tropical Fever Panel received FDA Special 510(k) clearance in December 2024. Its targets are Chikungunya, Dengue 1-4, Leptospira, Plasmodium spp., P. falciparum and P. vivax/ovale.",
+    "verdict": "confirmed",
+    "reason": "bioM\u00e9rieux's press release is dated 9 December 2024 and says 'Special 510(k)'. It lists exactly those targets, counted as 6, with a run time of about 50 minutes on FilmArray 2.0 and Torch. Orientia, Rickettsia, Anaplasma, Ehrlichia and Babesia are not among its targets.",
+    "url": "https://www.biomerieux.com/corp/en/journalists/press-releases/biofire-filmarray-tropical-fever-panel-fda-clearance.html"
+   },
+   {
+    "claim": "No BioFire panel targets Orientia tsutsugamushi, Rickettsia, Anaplasma, Ehrlichia or Babesia, so no BioFire panel can stand in for the lab's scrub typhus or tick PCRs.",
+    "verdict": "unverifiable",
+    "reason": "This holds for the Tropical Fever panel, whose target list was confirmed. The Global Fever Special Pathogens panel and other panel IFUs were not re-checked in this pass. Treat it as very likely true but not exhaustively verified.",
+    "url": "https://www.biomerieux.com/corp/en/journalists/press-releases/biofire-filmarray-tropical-fever-panel-fda-clearance.html"
+   },
+   {
+    "claim": "The PHAC pathogen safety data sheet says antibodies to O. tsutsugamushi have been found in wild monkeys and dogs, but the disease is not known to occur naturally in animals.",
+    "verdict": "unverifiable",
+    "reason": "Two searches, one restricted to canada.ca, returned the PSDS page but not its host-range text. Neither the quoted wording nor the monkeys/dogs statement could be confirmed. Do not quote it until someone reads the page directly.",
+    "url": "https://www.canada.ca/en/public-health/services/laboratory-biosafety-biosecurity/pathogen-safety-data-sheets-risk-assessment/orientia-tsutsugamushi.html"
+   },
+   {
+    "claim": "Scrub typhus is (or is not) a disease of domestic animals.",
+    "verdict": "corrected",
+    "reason": "It is not a recognised clinical veterinary disease. The reservoirs are chiggers plus rodents and shrews, and Indian work found only rodent, shrew and mite data. It is also not purely a human disease. Dogs can be naturally infected: a 2014 Japanese case report describes a PCR-positive lethargic dog and 10 PCR-positive asymptomatic dogs, and dogs show seroprevalence in Chile. Correct framing: dogs (and, by serology, buffalo) can be infected or exposed, which makes them possible sentinels, but there is no established clinical demand for veterinary scrub typhus testing.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24968681/"
+   },
+   {
+    "claim": "Namikawa et al. 2014 (SE Asian J Trop Med Public Health 45(2):395-401, PMID 24968681) reports a lethargic household dog in Japan diagnosed by a PCR method developed for human infection, run on anticoagulated blood. Ten asymptomatic dogs nearby were PCR-positive: Kuroki in all 10, Gilliam in 6, Kawasaki in 3. The authors conclude dogs can be naturally infected and act as hosts.",
+    "verdict": "confirmed",
+    "reason": "The PubMed record confirms the authors (Namikawa K, Tanabe A, Satake S et al.), the citation, the human-designed PCR on anticoagulated blood, the 10 asymptomatic dogs with Kuroki 10/10, Gilliam 6 and Kawasaki 3, and the conclusion. The Karp/Kato/Kuroki genotypes for the index dog were not re-confirmed. This is a single case series and is not proof of a recognised canine disease.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24968681/"
+   },
+   {
+    "claim": "Mayo Clinic Laboratories' human Ehrlichia/Anaplasma PCR (EPCRB/EHRL) reports 'E. ewingii/canis' because it cannot tell E. ewingii from E. canis, so a human assay of this design picks up E. canis.",
+    "verdict": "confirmed",
+    "reason": "Mayo states that E. ewingii DNA is indistinguishable from E. canis by this rapid PCR, and reports A. phagocytophilum, E. chaffeensis, E. ewingii/canis and E. muris eauclairensis separately on EDTA whole blood. Mayo's wording is 'by this rapid PCR assay'; the specific 'melting curve' mechanism was not re-confirmed. This is a US reference-lab test, not the Nagpur lab's kit.",
+    "url": "https://www.mayocliniclabs.com/test-catalog/Overview/618301"
+   },
+   {
+    "claim": "Human tick-borne PCR assays detect the important canine and bovine tick-borne pathogens, so the lab's human tick PCR could be used for dogs and cattle.",
+    "verdict": "corrected",
+    "reason": "Overstated. The only direct evidence is that one human assay design (Mayo) co-detects E. canis without separating it from E. ewingii. Nothing found shows human assays detecting A. platys, H. canis, B. gibsoni, B. vogeli, M. haemocanis, A. marginale, T. annulata or B. bigemina. Most of the leading Indian canine pathogens in a pan-India PCR survey (H. canis 30%, M. haemocanis 12.2%, A. platys 6.5%, B. vogeli 5.5%) are not usual human-panel targets. Human panels typically target A. phagocytophilum, E. chaffeensis and B. microti. Cattle pathogens (Theileria, B. bigemina, A. marginale) are even less likely to be covered. The lab's own kit insert must be checked.",
+    "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162925/"
+   },
+   {
+    "claim": "A pan-India PCR survey of 525 dogs (Parasites & Vectors 2011;4:141) found H. canis 30%, E. canis 20.6%, M. haemocanis 12.2%, A. platys 6.5%, B. vogeli 5.5% and B. gibsoni 0.2%.",
+    "verdict": "confirmed",
+    "reason": "All figures match Abd Rani et al. 2011. Also confirmed: 49.7% of dogs were PCR-positive for at least one pathogen versus 2.3% by microscopy, which shows the case for veterinary PCR.",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3162925/"
+   },
+   {
+    "claim": "The HiMedia Hi-PCR Scrub typhus Detection Probe PCR Kit targets the O. tsutsugamushi 56 kDa gene (CY5) and has a human internal control (ROX), so animal samples may give invalid runs.",
+    "verdict": "confirmed",
+    "reason": "The product page states a human endogenous internal control gene in ROX and the 56 kDa target in CY5. The specific human gene is not named. That a human endogenous control will fail on dog, cattle or buffalo DNA is still an inference, though a strong one now that the control is confirmed as human endogenous. An exogenous or species-appropriate control would be needed.",
+    "url": "https://www.himedialabs.com/us/hi-pcrr-scrub-typhus-detection-probe-pcr-kit.html"
+   },
+   {
+    "claim": "Elliott et al. 2019 host table: about 17.8% Orientia positivity in dogs (n\u22481,826) and about 3.4% in artiodactyls (n\u22481,568). Haemaphysalis ticks from infected dogs were PCR-positive.",
+    "verdict": "unverifiable",
+    "reason": "The review exists and covers 234 vertebrate host species. The per-host percentages and the tick statement were not reachable through search excerpts. Check Table 5 in the full text before citing.",
+    "url": "https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-019-3751-x"
+   },
+   {
+    "claim": "Chilo\u00e9 Island, Chile: 21.3% of 202 household dogs were seropositive for Orientia.",
+    "verdict": "unverifiable",
+    "reason": "The PLOS One paper was found (Canine seroprevalence to Orientia species in southern Chile, Chilo\u00e9 Island), but the 21.3% and n=202 figures did not appear in the excerpt this pass.",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0200362"
+   },
+   {
+    "claim": "bioM\u00e9rieux's veterinary range includes VITEK 2 AST VET cards, 'VIDAS VET compatible immunoassays' and VETFIRE.",
+    "verdict": "unverifiable",
+    "reason": "Not re-checked within the search budget. VETFIRE is confirmed. The 'VIDAS VET' wording looks unusual, so do not quote it without reading the bioM\u00e9rieux veterinary page.",
+    "url": "https://www.biomerieux.com/corp/en/our-offer/hospital-laboratory/specialty/veterinary-diagnostics.html"
+   },
+   {
+    "claim": "Feline enteropathogen review: the BioFire GI panel had 100% sensitivity and specificity versus 80%/26% for GI-MAP on spiked samples. Separately, an Odisha hexaplex canine PCR is reported, and Aura Biotechnologies' canine kits are 'ICMR Approved'.",
+    "verdict": "unverifiable",
+    "reason": "Not re-checked. All three rest on a search snippet, an unattributed summary or a marketplace listing. ICMR approval of a veterinary kit is unusual. Exclude them or flag them as unverified.",
+    "url": "https://www.researchgate.net/publication/394406230_Feline_enteropathogens_and_molecular_diagnostics_benefits_limitations_and_clinical_applications"
+   },
+   {
+    "claim": "EcoHealth 2026 Indian meta-analysis ('Mapping Scrub Typhus Across Multiple Hosts in India', DOI 10.1007/s10393-026-01830-5): 83 studies, pooled 6% in rodents and shrews and 5% in ectoparasite pools.",
+    "verdict": "unverifiable",
+    "reason": "Not re-checked this pass. It was published after my knowledge cutoff, so the authors, figures and date rest only on the first-pass search synthesis.",
+    "url": "https://link.springer.com/article/10.1007/s10393-026-01830-5"
+   }
+  ]
+ }
+}

@@ -67,7 +67,7 @@ const wordmark = (s, x, y, big = 20) => { const mh = big * 0.037; s.addImage({ p
       showValue: true, dataLabelPosition: "outEnd", dataLabelFormatCode: "0.0", dataLabelColor: H.navyText, dataLabelFontSize: 11, dataLabelFontFace: "+mn-lt", catAxisLabelColor: H.slate, catAxisLabelFontSize: 11, catAxisLabelFontFace: "+mn-lt",
       valAxisHidden: true, valGridLine: { style: "none" }, catGridLine: { style: "none" }, valAxisMinVal: 0, valAxisMaxVal: 40, showLegend: false });
   T(s, "What the studies show", { x: 5.5, y: 1.15, w: 4, h: 0.35, fontSize: 16, bold: true, color: H.navyText });
-  bullets(s, ["Half the dogs in the four-city survey carried at least one tick-borne pathogen, and 39% of those carried more than one", "In 719 Punjab dogs, PCR found more infections than blood-smear microscopy", "In Gujarat, quantitative PCR found parvovirus in 85 of 100 dogs tested", "About 30% of 578 healthy Indian cattle and buffalo carried a blood parasite on PCR"], { x: 5.5, y: 1.6, w: 4, h: 3.0, fontSize: 12.5 });
+  bullets(s, ["In the four-city survey PCR found infection in 49.7% of dogs; blood smears found 2.3%", "In 719 Punjab dogs, PCR found more infections than blood-smear microscopy", "In Gujarat, quantitative PCR found parvovirus in 85 of 100 dogs tested", "About 30% of 578 healthy Indian cattle and buffalo carried a blood parasite on PCR"], { x: 5.5, y: 1.6, w: 4, h: 3.0, fontSize: 12.5 });
   src(s, "Sources: Indian multi-city survey of 525 dogs; Punjab multiplex PCR study (n=719); Veterinary World 2026 (Gujarat); Indian bovine haemoparasite PCR survey (n=578).");
 
   // 4. Companion animal menu

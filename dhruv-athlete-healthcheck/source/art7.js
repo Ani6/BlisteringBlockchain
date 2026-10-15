@@ -1,6 +1,6 @@
 // Veterinary hero and portrait artwork.
 const sharp = require("sharp");
-const { dog, cat, cow } = require("./figures_vet.js");
+const { dog, cat, cow } = require("./figures_vet2.js");
 const { renderFigure, ecg } = require("./art3.js");
 function rng(seed) { let s = seed; return () => { s = (s * 9301 + 49297) % 233280; return s / 233280; }; }
 function paw(x, y, s, rot, op) {
@@ -38,10 +38,10 @@ async function compose(fn, W, H, o, items) {
 }
 (async () => {
   await compose("vet_hero.png", 1920, 1080, { seed: 4, gx: 0.74, gy: 0.5, ground: 900, ecgY: 960, paws: 9, px: 700, py: 1000, pdx: 500, pdy: 90, shade: true },
-    [{ fig: dog, w: 560, x: 1000 }, { fig: cat, w: 300, x: 1540 }]);
+    [{ fig: dog, w: 520, x: 1010 }, { fig: cat, w: 360, x: 1480 }]);
   await compose("vet_portrait.png", 900, 1080, { seed: 8, gx: 0.5, gy: 0.5, ground: 880, ecgY: 960, paws: 6, px: 60, py: 1020, pdx: 300, pdy: 60, shade: false },
-    [{ fig: dog, w: 540, x: 20 }, { fig: cat, w: 300, x: 570 }]);
+    [{ fig: dog, w: 500, x: 10 }, { fig: cat, w: 340, x: 520 }]);
   await compose("vet_portrait2.png", 900, 1080, { seed: 12, gx: 0.5, gy: 0.5, ground: 860, ecgY: 950, paws: 0, px: 0, py: 0, pdx: 0, pdy: 0, shade: false },
-    [{ fig: cow, w: 820, x: 40 }]);
+    [{ fig: cow, w: 840, x: 30 }]);
   console.log("ok");
 })();
