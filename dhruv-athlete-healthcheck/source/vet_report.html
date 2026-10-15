@@ -34,7 +34,7 @@ tr{break-inside:avoid}
 <div class="cover">
  <div class="k">DHRUV DIAGNOSTICS, NAGPUR  ·  VETERINARY VERTICAL</div>
  <h1>Veterinary testing on our existing analysers</h1>
- <p>Calibration, verification and validation plan for the ARCHITECT, MAGLUMI, Mindray 7-part CBC, BioSystems BA200 and the real-time PCR laboratory.</p>
+ <p>Calibration, verification and validation plan for the ARCHITECT, MAGLUMI, Mindray BC-700 series CBC, BioSystems BA200 and the real-time PCR laboratory.</p>
  <p class="small" style="color:#C9D8F5">Prepared 15 October 2026 for the laboratory director and quality manager. Technical planning document; not legal advice.</p>
 </div>
 
@@ -43,12 +43,12 @@ tr{break-inside:avoid}
 <table>
  <tr><th style="width:22%">System</th><th style="width:14%">Readiness</th><th>What to do</th></tr>
  <tr><td><b>BioSystems BA200</b> (chemistry)</td><td><span class="tag g">Ready with work</span></td><td>BioSystems markets the BA200 for veterinary use, with 120+ species-filtered reagents and veterinary reference materials. Load the veterinary applications, verify in canine and feline pools, set species reference intervals. Add DGGR lipase, fructosamine and bile acids.</td></tr>
- <tr><td><b>Mindray 7-part CBC</b> (human model)</td><td><span class="tag a">Limited</span></td><td>Usable for canine totals (RBC, HGB, HCT, WBC) after method comparison, with a blood-film differential on every animal CBC. Not reliable for feline platelets or nucleated-RBC species. Strongly consider a veterinary analyser (Mindray BC-60R Vet or BC-5000 Vet).</td></tr>
+ <tr><td><b>Mindray BC-700 series</b> (human CBC + ESR)</td><td><span class="tag a">Limited</span></td><td>Usable for canine totals (RBC, HGB, HCT, WBC) after method comparison, with a blood-film differential on every animal CBC. Not reliable for feline platelets or nucleated-RBC species. Strongly consider a veterinary analyser (Mindray BC-60R Vet or BC-5000 Vet).</td></tr>
  <tr><td><b>Abbott ARCHITECT</b> (hormones)</td><td><span class="tag a">Validate first</span></td><td>No published dog or cat validation of ARCHITECT hormone assays was found. Validate total T4, cortisol and progesterone in-house before launch. Canine TSH and free T4 by equilibrium dialysis cannot be done here.</td></tr>
  <tr><td><b>Snibe MAGLUMI</b> (hormones)</td><td><span class="tag a">Validate first</span></td><td>No Snibe veterinary reagents and no published animal validation found. Run the same validation; keep whichever platform performs better per analyte, the other as backup.</td></tr>
  <tr><td><b>Real-time PCR lab</b></td><td><span class="tag g">Ready with work</span></td><td>Run commercial veterinary qPCR kits (tick fever, parvovirus, distemper, leptospira, bovine haemoparasites, mastitis) after kit verification. <b>Do not</b> offer avian influenza testing; human H1N1/H3N2 assays are not for animals.</td></tr>
 </table>
-<div class="warn"><b>Before any validation work:</b> engage a registered veterinary pathologist (MVSc) to sign and interpret veterinary reports, confirm with NABL whether veterinary tests need a separate ISO/IEC 17025 accreditation, and set up a species field and separate reference intervals in the LIS.</div>
+<div class="warn"><b>Before any validation work:</b> engage a registered veterinary pathologist (MVSc) to sign and interpret veterinary reports, and set up a species field and separate reference intervals in the LIS. Veterinary tests will run <b>outside the NABL scope</b> at launch: keep the NABL symbol off veterinary reports and say so on each report.</div>
 
 <h2>2. Calibration, verification and validation</h2>
 <ul>
@@ -73,7 +73,7 @@ tr{break-inside:avoid}
 <h2 class="pb">3. Instrument plans</h2>
 
 <h3>3.1 BioSystems BA200: veterinary chemistry</h3>
-<p>The BA200 is made by BioSystems S.A. (Spain), not Applied Biosystems; please confirm the label on our unit. BioSystems markets the BA200 for veterinary analysis. Its veterinary reagent range covers more than 120 parameters, filterable by species (canine, feline, bovine, camel, equine, poultry, reptiles and exotics), and it lists veterinary reference materials (VetBC). The BA200 has 88 reagent and sample positions and an optional ISE for sodium, potassium and chloride.</p>
+<p>Our BA200 is made by BioSystems S.A. (Spain). BioSystems markets the BA200 for veterinary analysis. Its veterinary reagent range covers more than 120 parameters, filterable by species (canine, feline, bovine, camel, equine, poultry, reptiles and exotics), and it lists veterinary reference materials (VetBC). The BA200 has 88 reagent and sample positions and an optional ISE for sodium, potassium and chloride.</p>
 <ul>
  <li><b>Calibration:</b> use the calibrator named in each veterinary reagent's instructions; same schedule as human tests.</li>
  <li><b>Verification:</b> precision and method comparison in canine and feline pools for each analyte; bovine pools for the dairy profile.</li>
@@ -84,12 +84,13 @@ tr{break-inside:avoid}
  <li><b>Not possible:</b> SDMA (the validated immunoassay is an IDEXX product). Offer creatinine and UPC, and send SDMA to a partner if needed.</li>
 </ul>
 
-<h3>3.2 Mindray 7-part differential analyser: haematology</h3>
-<p>Our analyser is a human model. No Mindray veterinary species mode for the human BC-6800, BC-6000 or BC-760 series was found.</p>
+<h3>3.2 Mindray BC-700 series: haematology</h3>
+<p>Our analyser is a BC-700 series human model (BC-720, BC-760 or BC-780). Mindray describes the series as a combined CBC and ESR analyser on its SF Cube fluorescence platform, with a 5-part differential plus immature granulocytes and nucleated red cells (hence "7-part"), reticulocytes on the BC-780, and a platelet count that combines impedance and optical channels (PLT-H). No veterinary or species mode was found for this series.</p>
 <div class="warn"><b>Known limits of human analysers with animal blood:</b> feline platelets overlap red cells in size, so most analysers cannot count them; platelet clumps (common in cats) give falsely low counts, which should be reported as minimums; birds, reptiles and fish have nucleated red cells and cannot be analysed automatically; some mammals have red cells small enough to be confused with platelets; the white-cell differential is gated for human cells.</div>
 <ul>
  <li><b>If we use the human analyser:</b> validate RBC, HGB, HCT, MCV and WBC for dogs by comparison with a veterinary analyser on at least 40 samples; perform a 100-cell blood-film differential on every animal CBC; estimate feline platelets from the film; review the film for parasites (Babesia, Ehrlichia morulae, Hepatozoon).</li>
  <li><b>Recommended:</b> add a veterinary analyser. Mindray's animal-health company sells the BC-60R Vet (6-part differential, 33 parameters, scatter-plus-fluorescence, about 40 samples an hour, feline-friendly, many species) and the BC-5000 Vet (5-part, 13 built-in species including dog, cat, horse, cow, goat and sheep). A veterinary analyser needs only verification, not full validation.</li>
+ <li><b>BC-700 specifics:</b> do not report the ESR for animals; the module is set up for human blood. If our unit is a BC-780, validate the canine reticulocyte count, which separates regenerative from non-regenerative anaemia (common in tick fever). PLT-H may cope better with large platelets, but feline platelets still need a smear estimate unless our own comparison shows otherwise.</li>
  <li><b>Sample timing:</b> canine EDTA platelet counts begin to fall by 12 h and MCV rises within 12-24 h; ask clinics for a fresh smear with every EDTA tube.</li>
 </ul>
 
@@ -120,7 +121,7 @@ tr{break-inside:avoid}
  <li><b>Biosafety:</b> Brucella is internationally classed as risk group 3; do not culture it. Extract all animal samples in a Class II biosafety cabinet.</li>
 </ul>
 
-<h2 class="pb">4. Reference intervals</h2>
+<h2>4. Reference intervals</h2>
 <table>
  <tr><th style="width:30%">Healthy animals available</th><th>Approach (ASVCP guidelines, Friedrichs 2012; CLSI EP28-A3c)</th></tr>
  <tr><td>120 or more</td><td>Establish de novo, nonparametric, with 90% confidence intervals</td></tr>
@@ -135,7 +136,7 @@ tr{break-inside:avoid}
 <table>
  <tr><th style="width:20%">Area</th><th>Requirement</th></tr>
  <tr><td>Signatory</td><td>The Indian Veterinary Council Act, 1984 (section 30) reserves veterinary practice and veterinary certificates to registered veterinary practitioners. Appoint a registered veterinary pathologist (MVSc) to sign and interpret reports.</td></tr>
- <tr><td>Accreditation</td><td>NABL accredits medical laboratories to ISO 15189 and testing laboratories to ISO/IEC 17025; veterinary laboratories in India and abroad are accredited to ISO/IEC 17025. Ask NABL whether veterinary tests need a separate 17025 application.</td></tr>
+ <tr><td>Accreditation</td><td>Decision: no NABL accreditation for veterinary tests at launch. Run them under the existing quality management system but outside the ISO 15189 scope. Follow NABL's rules on use of its symbol (NABL 133): no NABL symbol on veterinary reports, and a line stating the tests are not covered by accreditation. Veterinary laboratories are accredited to ISO/IEC 17025; revisit this once volumes justify it.</td></tr>
  <tr><td>LIS and reports</td><td>Species, breed, sex and age fields; species reference intervals; a distinct veterinary report template stating the method; no mixing of human and animal identifiers.</td></tr>
  <tr><td>Waste</td><td>The Bio-Medical Waste Management Rules, 2016 apply to pathological laboratories, including animal anatomical waste.</td></tr>
  <tr><td>Quality</td><td>ASVCP quality assurance guidelines (version 3.0, 2019), Westgard rules with veterinary controls, and enrolment in a veterinary external quality assessment scheme.</td></tr>
@@ -145,7 +146,7 @@ tr{break-inside:avoid}
 <h2>6. Timeline and checklist</h2>
 <table>
  <tr><th style="width:16%">Weeks</th><th>Work</th></tr>
- <tr><td>0-2</td><td>Appoint veterinary pathologist; NABL enquiry; order BA200 veterinary reagents and controls, veterinary PCR kits and extraction kits; decide on a veterinary haematology analyser; LIS changes</td></tr>
+ <tr><td>0-2</td><td>Appoint veterinary pathologist; order BA200 veterinary reagents and controls, veterinary PCR kits and extraction kits; decide on a veterinary haematology analyser; LIS changes</td></tr>
  <tr><td>2-6</td><td>BA200 verification (dog, cat); haematology comparison and smear-review protocol; reference-interval transfer for chemistry and CBC</td></tr>
  <tr><td>4-10</td><td>Hormone validation on ARCHITECT and MAGLUMI (T4, cortisol with dynamic tests, progesterone); choose platform per analyte</td></tr>
  <tr><td>6-12</td><td>PCR kit verification: tick-fever panel, parvovirus and distemper, leptospira, bovine haemoparasites, mastitis</td></tr>
@@ -165,10 +166,10 @@ tr{break-inside:avoid}
  <li>Hillstrom A et al. Validation of a canine-specific CRP assay on the Abbott ARCHITECT c4000. Vet Clin Pathol 2014 (doi:10.1111/vcp.12150).</li>
  <li>Wolfer LA, Howard J, Peters LM. DGGR lipase and Spec cPL in 301 dogs. Vet Sci 2022;9:177.</li>
  <li>Vap LM et al. ASVCP quality assurance guidelines: haematology, hemostasis and crossmatching. Vet Clin Pathol 2012.</li>
- <li>Mindray Animal Medical Technology: BC-60R Vet and BC-5000 Vet product information; BioSystems S.A.: BA200 veterinary brochure and veterinary reagent selector.</li>
+ <li>Mindray Animal Medical Technology: BC-60R Vet and BC-5000 Vet product information; Mindray BC-760 and BC-780 product brochure; BioSystems S.A.: BA200 veterinary brochure and veterinary reagent selector.</li>
  <li>Prevention and Control of Infectious and Contagious Diseases in Animals Act, 2009; Department of Animal Husbandry and Dairying, avian influenza action plan (revised 2021).</li>
  <li>Indian Veterinary Council Act, 1984, sections 29, 30 and 57; Bio-Medical Waste Management Rules, 2016.</li>
  <li>Thermo Fisher VetMAX MastiType FAQ; Retro Biotech, YouSeq, Ring Bio and Gold Standard Diagnostics veterinary PCR product pages (October 2026).</li>
 </ol>
-<p class="small">Search-based research, October 2026. Manufacturer capabilities and regulations change; confirm with Abbott, Snibe, Mindray, BioSystems, NABL and the State Animal Husbandry Department before acting.</p>
+<p class="small">Search-based research, October 2026. Manufacturer capabilities and regulations change; confirm with Abbott, Snibe, Mindray, BioSystems and the State Animal Husbandry Department before acting.</p>
 </body></html>

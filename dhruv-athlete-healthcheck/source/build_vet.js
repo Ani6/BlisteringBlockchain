@@ -40,7 +40,7 @@ const wordmark = (s, x, y, big = 20) => { const mh = big * 0.037; s.addImage({ p
   wordmark(s, 0.6, 0.5);
   T(s, "A reference lab for vets in Vidarbha", { x: 0.6, y: 1.5, w: 4.5, h: 1.6, fontSize: 34, bold: true, color: H.white });
   T(s, "CBC, biochemistry, hormones and PCR for pets and livestock, from Dhruv Diagnostics, Nagpur", { x: 0.6, y: 3.15, w: 4.2, h: 0.9, fontSize: 15, color: H.soft });
-  T(s, [{ text: "30+ years in Nagpur", options: { bold: true, color: H.green } }, { text: "   |   NABL-accredited human lab since 2011", options: { color: H.soft } }], { x: 0.6, y: 4.75, w: 6, h: 0.3, fontSize: 11.5 });
+  T(s, [{ text: "30+ years in Nagpur", options: { bold: true, color: H.green } }, { text: "   |   Same analysers and quality system as our human lab", options: { color: H.soft } }], { x: 0.6, y: 4.75, w: 6, h: 0.3, fontSize: 11.5 });
   s.addNotes("Audience: small-animal clinics, veterinary hospitals, government polyclinics, dairy cooperatives and poultry farms in Nagpur and Vidarbha. Dhruv is launching a veterinary vertical on its existing analysers after species validation.");
 
   // 2. The gap
@@ -107,12 +107,12 @@ const wordmark = (s, x, y, big = 20) => { const mh = big * 0.037; s.addImage({ p
   const q = [["Validated per species", "Every test is checked in dog and cat blood before launch: precision, accuracy against a reference lab, linearity and interference, following ASVCP guidelines."],
     ["Species reference ranges", "Results come with reference ranges for the species, set on our own analysers, not borrowed from human medicine."],
     ["Veterinary pathologist", "A registered veterinary pathologist reviews blood films and signs every report, and takes calls from vets."],
-    ["Proven systems", "The same analysers, controls and NABL-accredited quality system Dhruv has run for human patients since 2011."]];
+    ["Proven systems", "The same analysers, controls and quality system Dhruv has run for human patients for more than 30 years."]];
   q.forEach(([h, t], i) => { const x = 0.5 + (i % 2) * 4.6, y = 1.15 + Math.floor(i / 2) * 1.85;
     panel(s, x, y, 4.4, 1.7, i === 3 ? H.navy : H.tint);
     T(s, h, { x: x + 0.22, y: y + 0.18, w: 4, h: 0.35, fontSize: 15, bold: true, color: i === 3 ? H.white : H.navyText });
     T(s, t, { x: x + 0.22, y: y + 0.6, w: 4, h: 1.0, fontSize: 12, color: i === 3 ? H.soft : H.slate }); });
-  s.addNotes("NABL accreditation covers Dhruv's human testing. Veterinary accreditation (ISO/IEC 17025) is being applied for; do not describe veterinary tests as NABL-accredited until that scope is granted.");
+  s.addNotes("Veterinary tests are outside Dhruv's NABL scope. Do not describe them as NABL-accredited and do not show the NABL symbol on veterinary material or reports.");
 
   // 7. How it works
   s = pres.addSlide({ masterName: "CONTENT", sectionTitle: "Trust" });
